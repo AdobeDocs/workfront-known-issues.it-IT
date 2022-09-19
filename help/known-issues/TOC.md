@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 13d173f82a6ac6894363dda746be98a22636a74d
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '1177'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi correnti in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: Le ore non vengono salvate quando si immettono ore nell&#39;attività [!UICONTROL Pannello di riepilogo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
+      + [Prove: L&#39;utente non ritorna alla pagina precedente quando chiude la bozza](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifiche: Errori durante l&#39;accesso alle impostazioni di notifica e-mail](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
       + [Prove: [!UICONTROL Stadi di prova attivi] campo vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Fogli orari: Le ore non vengono salvate quando si utilizza [!UICONTROL Scheda] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md)

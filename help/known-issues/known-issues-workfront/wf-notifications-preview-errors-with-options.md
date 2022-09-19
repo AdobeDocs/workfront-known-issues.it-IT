@@ -2,10 +2,10 @@
 title: "Notifiche: Errori durante l'accesso alle impostazioni di notifica e-mail"
 description: "Quando un utente tenta di modificare le impostazioni di notifica via e-mail, potrebbe visualizzare un errore."
 hidefromtoc: true
-source-git-commit: 7b08d32dbdc06d224a30cde787a05276efc782dd
+source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 8%
+source-wordcount: '101'
+ht-degree: 7%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Questo problema esiste solo nell&#39;ambiente Preview.
+>Questo problema esiste sia negli ambienti di produzione che in quelli di anteprima.
 
 Quando un utente tenta di modificare le impostazioni di notifica e-mail, potrebbe visualizzare uno dei seguenti errori:
 
