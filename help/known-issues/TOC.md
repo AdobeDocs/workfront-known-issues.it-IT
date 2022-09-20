@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
+source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
 workflow-type: tm+mt
-source-wordcount: '1201'
+source-wordcount: '1206'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi correnti in [!DNL Adobe Workfront] {#wf-current}
+      + [Prove: Impossibile aprire la bozza in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Attività: Le ore non vengono salvate quando si immettono ore nell&#39;attività [!UICONTROL Pannello di riepilogo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Prove: L&#39;utente non ritorna alla pagina precedente quando chiude la bozza](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifiche: Errori durante l&#39;accesso alle impostazioni di notifica e-mail](known-issues-workfront/wf-notifications-preview-errors-with-options.md)

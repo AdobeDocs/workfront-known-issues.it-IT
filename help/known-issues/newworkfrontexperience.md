@@ -3,9 +3,9 @@ title: Problemi noti nei nuovi [!DNL Adobe Workfront] Esperienza
 description: Problemi noti segnalati per nuovi [!DNL Adobe Workfront] Esperienza
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,8 @@ Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfr
 
 | **Problema** | **Ultima Modifica** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [aggiornamenti: Impossibile chiudere la scheda utente nel flusso di aggiornamento](known-issues-workfront/wf-updates-cant-close-user-card.md) | 20 settembre 2022 |
+| [Prove: Impossibile aprire la bozza in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 settembre 2022 |
+| [Aggiornamenti: Impossibile chiudere la scheda utente nel flusso di aggiornamento](known-issues-workfront/wf-updates-cant-close-user-card.md) | 20 settembre 2022 |
 | [Moduli personalizzati: Elementi che si sovrappongono nel pannello a sinistra](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 settembre 2022 |
 | [Fogli orari: Le ore non vengono salvate quando si utilizza [!UICONTROL Scheda] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 settembre 2022 |
 | [Prove: [!UICONTROL Stadi di prova attivi] campo vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
