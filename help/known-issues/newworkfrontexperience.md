@@ -3,9 +3,9 @@ title: Problemi noti nei nuovi [!DNL Adobe Workfront] Esperienza
 description: Problemi noti segnalati per nuovi [!DNL Adobe Workfront] Esperienza
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '482'
 ht-degree: 1%
 
 ---
@@ -42,7 +42,6 @@ Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfr
 | [Moduli personalizzati: Elementi che si sovrappongono nel pannello a sinistra](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 settembre 2022 |
 | [Fogli orari: Le ore non vengono salvate quando si utilizza [!UICONTROL Scheda] key](known-issues-workfront/wf-timesheets-hours-do-not-save-when-using-tab.md) | 16 settembre 2022 |
 | [Prove: [!UICONTROL Stadi di prova attivi] campo vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
-| [Elenchi: Nuovo stato non visualizzato quando lo stato di modifica in linea](known-issues-workfront/wf-lists-inline-edit-does-not-show-new-status.md) | 9 settembre 2022 |
 | [Integrazioni: Errore durante l’invio della richiesta da [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 agosto 2022 |
 | [[!DNL Workfront Proof]: Le e-mail di riepilogo giornaliero non includono un &quot;[!UICONTROL Visualizza dettagli]&quot; pulsante](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 agosto 2022 |
 | [Dashboard: I grafici dei rapporti visualizzati in una dashboard hanno colori diversi rispetto a quelli visualizzati nel rapporto](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 agosto 2022 |
