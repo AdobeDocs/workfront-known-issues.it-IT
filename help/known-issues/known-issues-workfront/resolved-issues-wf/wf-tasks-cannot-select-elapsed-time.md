@@ -3,14 +3,14 @@ title: "Attività: Non è possibile selezionare il tempo trascorso durante la mo
 description: Quando un utente visualizza un elenco di attività e tenta di modificare la Durata attività, le unità di durata trascorse non sono disponibili.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
-source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Attività: Impossibile selezionare Tempo trascorso durante la modifica in linea dell&#39;attività
+# Attività: Impossibile selezionare [!UICONTROL Tempo trascorso] durante la modifica in linea dell&#39;attività
 
 >[!NOTE]
 >

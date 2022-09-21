@@ -3,14 +3,18 @@ title: Gli utenti non ricevono notifiche quando vengono inseriti i tag in una bo
 description: Quando un utente visualizza il [!DNL Workfront] Dashboard di prova, il [!UICONTROL Prove da gestire] e [!UICONTROL Prove in attesa di relazioni decisionali] mostra 0 rapporti nelle varie categorie (totale, nel tempo, ecc.).
 exl-id: 0f378fef-4d0d-414d-a51f-a5c3beda2f46
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # [!DNL Workfront Proof]: Gli utenti non ricevono notifiche quando vengono inseriti i tag in una bozza
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 16 agosto 2022.
 
 Quando un utente viene taggato in un commento di bozza, non riceve una notifica e-mail sul commento.
 

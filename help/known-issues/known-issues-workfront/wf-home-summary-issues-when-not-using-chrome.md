@@ -3,14 +3,14 @@ title: '''Home: Problemi di riepilogo relativi alla pagina principale quando si 
 description: Quando un utente visualizza la propria home page e utilizza un browser diverso da Chrome, potrebbe vedere i vari problemi.
 exl-id: 7e1935e4-2814-4527-a65a-301f4b9a9669
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
+source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Pagina principale]: Problemi di riepilogo relativi alla pagina principale quando si utilizzano browser diversi da [!DNL Chrome]
+# [!UICONTROL Pagina principale]: [!UICONTROL Pagina principale] problemi di riepilogo quando si utilizzano browser diversi da [!DNL Chrome]
 
 >[!NOTE]
 >
