@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Segnalati problemi noti per [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,7 @@ Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfr
 
 | **Problema** | **Ultima Modifica** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [[!DNL Workfront Proof]: Pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md) | 22 settembre 2022 |
 | [Prove: Impossibile aprire la bozza in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md) | 20 settembre 2022 |
 | [Prove: L&#39;utente non ritorna alla pagina precedente quando chiude la bozza](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md) | 15 settembre 2022 |
 | [[!DNL Workfront Proof]: Le notifiche e-mail sono ritardate](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15 settembre 2022 |

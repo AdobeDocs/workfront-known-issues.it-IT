@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 797eab330860d68262fda07b8f3dca4183b10272
+source-git-commit: d3fb396603c5f2283c74ff6a9dbd6cb5466d7334
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi correnti in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Prove: Errore durante l&#39;aggiunta della bozza a [!DNL Workfront] da [!DNL Workfront] Prova](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Errore durante il caricamento di un file su un commento](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)
       + [[!DNL Workfront Proof]: Le visualizzazioni cartelle non visualizzano le bozze](known-issues-workfront-proof/proof-folder-views-not-displaying-proofs.md)
@@ -130,7 +131,6 @@ ht-degree: 0%
       + [Nuova fase creata perché la scadenza non può corrispondere alla scadenza della fase esistente](known-issues-workfront-proof/new-stage-created.md)
       + [Scadenza dell&#39;approvazione della prova imprecisa visualizzata nell&#39;elenco Home Work](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md)
       + [Impossibile aggiungere l&#39;utente alla bozza aggiungendo tag all&#39;utente in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + [Impossibile creare una nuova versione di una bozza](known-issues-workfront-proof/cannot-create-a-new-version-of-a-proof.md)
       + [[!UICONTROL Risposta in prova] comportamento del pulsante incoerente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [L&#39;accesso automatico alle bozze è ritardato](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [[!UICONTROL Approvazione della bozza] report non può determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -152,7 +152,6 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion] i collegamenti di aiuto in-app non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Problemi risolti in [!DNL Workfront Fusion] {#fusion-resolved}
       + [Errore 401 su [!DNL Workfront] moduli](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
-      + [Impossibile scorrere per visualizzare tutte le esecuzioni dello scenario](known-issues-workfront-fusion/resolved-issues-fusion/cannot-scroll-to-view-all-scenario-executions.md)
       + [Dati da moduli personalizzati non disponibili in [!DNL Workfront Fusion] [!DNL Workfront] moduli](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Obiettivi di Adobe Workfront] {#goals}
