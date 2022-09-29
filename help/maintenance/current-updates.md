@@ -2,9 +2,9 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 658f0ace9e6f00c5d621eec62159865983c815a9
+source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
 workflow-type: tm+mt
-source-wordcount: '13341'
+source-wordcount: '13519'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,36 @@ Nel 2022 sono stati effettuati i seguenti aggiornamenti di manutenzione.
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti precedenti alla manutenzione](#previous-maintenance-updates)
 
 ## Aggiornamenti a settembre 2022
+
++++**Aggiornamento della manutenzione il 29 settembre 2022**
+
+**L&#39;utente non ritorna alla pagina precedente quando chiude la bozza**
+
+*Bozze*
+
+Quando un utente visualizza una bozza in [!DNL Workfront] chiude la bozza, non restituisce la pagina in cui si trovava prima dell’apertura della bozza. Vengono invece reindirizzati a un’altra pagina in [!DNL Workfront].
+
+**Impossibile aprire la bozza in[!DNL Workfront]**
+
+*Bozze*
+
+Quando un utente visualizza un documento in [!DNL Workfront] e tenta di aprire la bozza, la bozza non si apre e l’utente viene restituito al [!UICONTROL Dettagli documento] pagina.
+
+**Le ore non vengono salvate quando si utilizza [!UICONTROL Scheda] key**
+
+*Schede orario*
+
+Quando un utente compila un foglio temporale e naviga tra le celle con [!UICONTROL Scheda] le ore non vengono salvate. La [!UICONTROL Salvataggio automatico] la notifica non viene visualizzata nella parte inferiore della schermata e, se l’utente aggiorna la pagina, può vedere che le ore non sono state salvate.
+
+**Pagine vuote quando si visualizza una bozza con più pagine**
+
+*[!DNL Workfront Proof]*
+
+Quando un utente visualizza una bozza con più pagine, può vedere le miniature delle pagine, ma le pagine non si aprono nel visualizzatore principale.
+
+
+
++++
 
 +++**Aggiornamento della manutenzione il 22 settembre 2022**
 
@@ -72,6 +102,8 @@ Per riflettere la nuova funzionalità di assegnazione di attività e problemi in
 *[!DNL Workfront Scenario Planner]*
 
 Ora, quando condividi un filtro di progetto con un gruppo con sottogruppi aggiuntivi, il filtro è visibile a tutti i membri del gruppo e dei sottogruppi che visualizzano i progetti nel [!UICONTROL Importa progetti] di un piano [!DNL Scenario Planner].
+
++++
 
 +++**Aggiornamento della manutenzione l’8 settembre 2022**
 
