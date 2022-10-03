@@ -2,9 +2,9 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4db776a758d437a6f08bb088a5ad8fa11f4d8211
+source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
 workflow-type: tm+mt
-source-wordcount: '13519'
+source-wordcount: '13581'
 ht-degree: 3%
 
 ---
@@ -28,6 +28,18 @@ Nel 2022 sono stati effettuati i seguenti aggiornamenti di manutenzione.
 -->
 
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti precedenti alla manutenzione](#previous-maintenance-updates)
+
+## Aggiornamenti a ottobre 2022
+
++++**Aggiornamento della manutenzione il 3 ottobre 2022**
+
+**Salvataggio manuale della scheda attività quando i ruoli di lavoro precedenti sono cambiati**
+
+*Schede orario*
+
+Se un ruolo di lavoro per il quale hai effettuato l&#39;accesso è cambiato e [!UICONTROL Assegnare manualmente i ruoli del processo alle voci dell&#39;ora] è stata disabilitata, è necessario salvare manualmente le voci di tempo fino a quando non vengono più registrate ore per il ruolo di processo modificato.
+
++++
 
 ## Aggiornamenti a settembre 2022
 
