@@ -3,9 +3,9 @@ title: Problemi noti in [!DNL Adobe Workfront Fusion]
 description: Segnalati problemi noti per [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 9a63be9f1083046f615e620740e2f2e3fc93c1f1
+source-git-commit: 75defe0270b4c2d0dab3e18886b7f8276030ca71
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '96'
 ht-degree: 6%
 
 ---
@@ -28,6 +28,7 @@ Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfr
 
 | **Problema** | **Ultima Modifica** |
 |-----------------------------------------------------------------------------------|-------------------|
+| [[!DNL Workfront Fusion]: &quot;[!UICONTROL Impossibile caricare i dati]&quot; Errore](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md) | 3 ottobre 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Adobe PDF Services] > [!UICONTROL Extract Text] modulo che non produce testo](known-issues-workfront-fusion/fusion-pdf-extract-text.md) | 30 settembre 2022 |
 | [[!DNL Workfront Fusion]: Errore &quot;Impossibile verificare la connessione&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 settembre 2022 |
 | [[!DNL Workfront Fusion]: [!DNL Fusion] modulo restituisce l&#39;errore 404 senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 settembre 2022 |
