@@ -2,9 +2,9 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a767d13343d0554325ba05c4b817b72c7e2b5727
+source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
 workflow-type: tm+mt
-source-wordcount: '13581'
+source-wordcount: '13746'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,41 @@ Nel 2022 sono stati effettuati i seguenti aggiornamenti di manutenzione.
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti precedenti alla manutenzione](#previous-maintenance-updates)
 
 ## Aggiornamenti a ottobre 2022
+
++++**Aggiornamento della manutenzione (pianificato) il 6 ottobre 2022**
+
+**Elementi che si sovrappongono nel pannello a sinistra**
+
+*Moduli personalizzati nel mio gruppo*
+
+Quando un utente lavora nel generatore di moduli e il modulo contiene più di 100 campi, il messaggio di notifica all’utente del limite di campi causa la sovrapposizione degli elementi nel pannello di sinistra.
+
+**Il selettore data si apre automaticamente allo stato attivo**
+
+*Navigazione*
+
+Ora, quando si naviga tramite tastiera, i selettori di date non vengono più aperti e attivati automaticamente al momento della ricezione dello stato attivo della tastiera.
+
+&quot;[!UICONTROL Le modifiche recenti non sono state salvate]&quot; errore durante il salvataggio automatico delle modifiche su una scheda attività
+
+*Schede orario*
+
+Quando un utente tenta di modificare una scheda attività in modo da attivare un salvataggio automatico, le modifiche non vengono salvate e l&#39;utente visualizza il seguente messaggio:
+
+&quot;[!UICONTROL Le modifiche recenti non sono state salvate. Aggiorna la pagina da visualizzare.]&quot;
+
+Questo è stato riportato durante la modifica dei seguenti elementi:
+
+* Ore
+* Attività
+
+Le notifiche e-mail sono ritardate
+
+*Bozza Workfront*
+
+Quando si verifica un evento in [!DNL Workfront Proof] che attiva una notifica e-mail, l’utente non riceve la notifica immediatamente. La notifica può essere ritardata di diverse ore.
+
++++
 
 +++**Aggiornamento della manutenzione il 3 ottobre 2022**
 
