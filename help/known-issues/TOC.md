@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '1284'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi correnti in [!DNL Adobe Workfront] {#wf-current}
+      + [Modelli di layout: Errore durante la personalizzazione degli elenchi in un modello di layout](known-issues-workfront/wf-layout-templates-error-lists-users.md)
+      + [Prove: La casella di testo &quot;Nuovi destinatari bozza&quot; è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [Prove: Impossibile confrontare automaticamente le bozze](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
       + [Documenti: &quot;[!UICONTROL Impossibile caricare il file]&quot; Errore](known-issues-workfront/wf-documents-failed-to-upload-file.md)
       + [Team: L’assegnazione di più team comporta l’assegnazione di un solo team](known-issues-workfront/wf-teams-multiple-team-assignments.md)
