@@ -2,9 +2,9 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
+source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
 workflow-type: tm+mt
-source-wordcount: '13805'
+source-wordcount: '13831'
 ht-degree: 3%
 
 ---
@@ -32,6 +32,12 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti pr
 ## Aggiornamenti a ottobre 2022
 
 +++**Aggiornamento della manutenzione il 6 ottobre 2022**
+
+**Nuovo tipo di blueprint**
+
+*Blueprint*
+
+Il tipo di blueprint &quot;Dashboard&quot; è stato aggiunto al catalogo di blueprint. In precedenza erano disponibili solo i modelli Modello di progetto e Struttura organizzativa .
 
 **Elementi che si sovrappongono nel pannello a sinistra**
 
