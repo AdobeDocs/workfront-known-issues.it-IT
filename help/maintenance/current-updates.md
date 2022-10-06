@@ -2,9 +2,9 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee588d19aa1f14e4db2dd4248de151193227d599
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '13746'
+source-wordcount: '13805'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti pr
 
 ## Aggiornamenti a ottobre 2022
 
-+++**Aggiornamento della manutenzione (pianificato) il 6 ottobre 2022**
++++**Aggiornamento della manutenzione il 6 ottobre 2022**
 
 **Elementi che si sovrappongono nel pannello a sinistra**
 
@@ -45,7 +45,17 @@ Quando un utente lavora nel generatore di moduli e il modulo contiene più di 10
 
 Ora, quando si naviga tramite tastiera, i selettori di date non vengono più aperti e attivati automaticamente al momento della ricezione dello stato attivo della tastiera.
 
-&quot;[!UICONTROL Le modifiche recenti non sono state salvate]&quot; errore durante il salvataggio automatico delle modifiche su una scheda attività
+**L’assegnazione di più team comporta l’assegnazione di un solo team**
+
+*Team*
+
+>[!NOTE]
+>
+>Questo problema esiste solo nell&#39;ambiente Preview.
+
+Quando un utente assegna più team a un&#39;attività o a un problema, nell&#39;elenco delle assegnazioni viene visualizzato un solo team. Questo problema influisce anche sul reporting. I rapporti che mostrano le assegnazioni del team non sono accurati perché viene visualizzato un solo team assegnato all&#39;attività o al problema.
+
+**&quot;[!UICONTROL Le modifiche recenti non sono state salvate]&quot; errore durante il salvataggio automatico delle modifiche su una scheda attività**
 
 *Schede orario*
 
@@ -58,7 +68,7 @@ Questo è stato riportato durante la modifica dei seguenti elementi:
 * Ore
 * Attività
 
-Le notifiche e-mail sono ritardate
+**Le notifiche e-mail sono ritardate**
 
 *Bozza Workfront*
 

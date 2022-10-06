@@ -3,9 +3,9 @@ title: Problemi noti nei nuovi [!DNL Adobe Workfront] Esperienza
 description: Problemi noti segnalati per nuovi [!DNL Adobe Workfront] Esperienza
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---
@@ -37,14 +37,12 @@ Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfr
 
 | **Problema** | **Ultima Modifica** |
 | -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Team: L’assegnazione di più team comporta l’assegnazione di un solo team](known-issues-workfront/wf-teams-multiple-team-assignments.md) | 4 ottobre 2022 |
+| [Prove: Impossibile confrontare automaticamente le bozze](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 ottobre 2022 |
 | [Attività: Le ore non vengono salvate quando si immettono ore nell&#39;attività [!UICONTROL Pannello di riepilogo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) | 30 settembre 2022 |
-| [Moduli personalizzati: Elementi che si sovrappongono nel pannello a sinistra](known-issues-workfront/wf-custom-forms-message-causes-element-overlap.md) | 16 settembre 2022 |
 | [Prove: [!UICONTROL Stadi di prova attivi] campo vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
 | [Integrazioni: Errore durante l’invio della richiesta da [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 agosto 2022 |
 | [[!DNL Workfront Proof]: Le e-mail di riepilogo giornaliero non includono un &quot;[!UICONTROL Visualizza dettagli]&quot; pulsante](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md) | 5 agosto 2022 |
 | [Dashboard: I grafici dei rapporti visualizzati in una dashboard hanno colori diversi rispetto a quelli visualizzati nel rapporto](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 agosto 2022 |
-| [Fogli orari: &quot;[!UICONTROL Le modifiche recenti non sono state salvate]&quot; errore durante il salvataggio automatico delle modifiche su una scheda attività](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md) | 28 luglio 2022 |
 | [[!UICONTROL Pagina principale]: La terminologia personalizzata non è applicata all&#39;area Home](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 giugno 2022 |
 | [Agile: Impossibile modificare i campi dai moduli personalizzati sulle schede](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11 maggio 2022 |
 | [Modelli di layout: Impossibile selezionare un gruppo durante la creazione di un modello di layout](known-issues-workfront/wf-layout-templ-cannot-select-group.md) | 4 maggio 2022 |

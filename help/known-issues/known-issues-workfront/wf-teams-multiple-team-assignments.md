@@ -2,15 +2,19 @@
 title: "Team: L'assegnazione di più team comporta l'assegnazione di un solo team"
 description: "Quando un utente assegna più team a un'attività o a un problema, nell'elenco delle assegnazioni viene visualizzato un solo team. Questo problema influisce anche sul reporting. I rapporti che mostrano le assegnazioni del team non sono accurati perché viene visualizzato un solo team assegnato all'attività o al problema."
 hidefromtoc: true
-source-git-commit: ed675a0d4f5dfd0f66b6756df3cae0935f33a286
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 
 # Team: L’assegnazione di più team comporta l’assegnazione di un solo team
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 6 ottobre 2022.
 
 >[!NOTE]
 >

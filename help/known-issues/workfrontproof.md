@@ -3,7 +3,7 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Segnalati problemi noti per [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 2c801b5adb0b1e2455cf741eb40596550fd33172
+source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%
@@ -30,7 +30,7 @@ Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfr
 
 | **Problema** | **Ultima Modifica** |
 |-----------------------------------------------------------------------------------|-------------------|
-| [[!DNL Workfront Proof]: Le notifiche e-mail sono ritardate](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md) | 15 settembre 2022 |
+| [Prove: Impossibile confrontare automaticamente le bozze](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 ottobre 2022 |
 | [Prove: [!UICONTROL Stadi di prova attivi] campo vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
 | [[!DNL Workfront Proof]: I richiedenti e i revisori contano per il numero di licenze di un&#39;organizzazione](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 agosto 2022 |
 | [Prove: Termine di approvazione della prova non accurato visualizzato [!UICONTROL Elenco dei lavori domestici]](known-issues-workfront-proof/inaccurate-proof-approval-deadline-displayed.md) | 25 aprile 2022 |
