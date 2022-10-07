@@ -2,9 +2,9 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 38e86575a1c495bc2340899562d68e59cbce7b06
+source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
 workflow-type: tm+mt
-source-wordcount: '13831'
+source-wordcount: '13915'
 ht-degree: 3%
 
 ---
@@ -45,11 +45,13 @@ Il tipo di blueprint &quot;Dashboard&quot; è stato aggiunto al catalogo di blue
 
 Quando un utente lavora nel generatore di moduli e il modulo contiene più di 100 campi, il messaggio di notifica all’utente del limite di campi causa la sovrapposizione degli elementi nel pannello di sinistra.
 
-**Il selettore data si apre automaticamente allo stato attivo**
+**Il selettore data non si apre più automaticamente quando si attiva l&#39;input o si fa clic su**
 
 *Navigazione*
 
-Ora, quando si naviga tramite tastiera, i selettori di date non vengono più aperti e attivati automaticamente al momento della ricezione dello stato attivo della tastiera.
+Quando un utente naviga tramite tastiera, i selettori di date non vengono più aperti automaticamente alla data in cui l’input della tastiera riceve lo stato attivo. Al contrario, gli utenti di tastiera devono passare all’icona del selettore data e premere Invio per aprire il selettore data. Quando un utente naviga con il mouse, i selettori di date non vengono più aperti automaticamente quando si fa clic sull’input della data. Al contrario, gli utenti di tastiera devono fare clic sull’icona del selettore data per aprire il selettore data.
+
+Questa modifica è stata apportata per essere più conforme ai pattern UX del selettore data standard e per creare un’esperienza più accessibile per gli utenti di tastiera e assistenti vocali.
 
 **L’assegnazione di più team comporta l’assegnazione di un solo team**
 
