@@ -2,7 +2,7 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fae6d2991f44c333f9db1bd4c437ae3567387a86
+source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
 workflow-type: tm+mt
 source-wordcount: '13915'
 ht-degree: 3%
@@ -49,7 +49,7 @@ Quando un utente lavora nel generatore di moduli e il modulo contiene più di 10
 
 *Navigazione*
 
-Quando un utente naviga tramite tastiera, i selettori di date non vengono più aperti automaticamente alla data in cui l’input della tastiera riceve lo stato attivo. Al contrario, gli utenti di tastiera devono passare all’icona del selettore data e premere Invio per aprire il selettore data. Quando un utente naviga con il mouse, i selettori di date non vengono più aperti automaticamente quando si fa clic sull’input della data. Al contrario, gli utenti di tastiera devono fare clic sull’icona del selettore data per aprire il selettore data.
+Quando un utente naviga tramite tastiera, i selettori di date non vengono più aperti automaticamente alla data in cui l’input della tastiera riceve lo stato attivo. Al contrario, gli utenti di tastiera devono passare all’icona del selettore data e premere Invio per aprire il selettore data. Quando un utente naviga con il mouse, i selettori di date non vengono più aperti automaticamente quando si fa clic sull’input della data. Al contrario, gli utenti del mouse devono fare clic sull’icona del selettore data per aprire il selettore data.
 
 Questa modifica è stata apportata per essere più conforme ai pattern UX del selettore data standard e per creare un’esperienza più accessibile per gli utenti di tastiera e assistenti vocali.
 
