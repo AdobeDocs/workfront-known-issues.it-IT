@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 69ecc78407585dff0f7d786265fd7177963edc42
+source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
 workflow-type: tm+mt
-source-wordcount: '1284'
+source-wordcount: '1320'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi correnti in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: [!UICONTROL Predecessore] icona mancante nell&#39;intestazione dell&#39;attività](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md)
+      + [Prove: L&#39;aggiunta di un gruppo a una bozza non aggiunge tutti i membri del gruppo](known-issues-workfront/wf-proofs-group-members-not-added.md)
+      + [Attività e problemi: Impossibile modificare il nome o la percentuale di completamento di un&#39;attività o di un problema](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md)
       + [Modelli di layout: Errore durante la personalizzazione degli elenchi in un modello di layout](known-issues-workfront/wf-layout-templates-error-lists-users.md)
       + [Prove: La casella di testo &quot;Nuovi destinatari bozza&quot; è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md)
       + [Prove: Impossibile confrontare automaticamente le bozze](known-issues-workfront/wf-proofs-cannot-auto-compare.md)
