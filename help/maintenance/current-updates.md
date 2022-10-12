@@ -2,9 +2,9 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6ce6194f9f911b02457240645ce6407ec3eb7e26
+source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
 workflow-type: tm+mt
-source-wordcount: '13915'
+source-wordcount: '14291'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,56 @@ Nel 2022 sono stati effettuati i seguenti aggiornamenti di manutenzione.
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti precedenti alla manutenzione](#previous-maintenance-updates)
 
 ## Aggiornamenti a ottobre 2022
+
++++**Aggiornamento della manutenzione (pianificato) il 13 ottobre 2022**
+
+**Impossibile ripetere il pin di una pagina dopo la rimozione del pin**
+
+*Navigazione*
+
+>[!NOTE]
+>
+>Questo problema verrà risolto in Anteprima il 13 ottobre 2022. Sarà fissato in Produzione il 27 ottobre 2022.
+
+Quando un utente seleziona il &quot;[!UICONTROL Rimuovi perno]&quot; opzione su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su &quot;[!UICONTROL Annulla]&quot; nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all&#39;elenco dei pin sotto il [!UICONTROL Altri pin] (il menu a tre punti nel [!UICONTROL Pins] area).
+
+Se un utente tenta di fissare nuovamente la pagina passando alla pagina e fissandola, il pin non viene creato e l’utente non può fissare la pagina.
+
+**Impossibile assegnare un nome o salvare i filtri appena creati**
+
+*[!UICONTROL Pianificazione risorse]*
+
+Quando un utente tenta di denominare un nuovo filtro nel [!UICONTROL Planner risorse], la casella del nome rimane vuota. Inoltre, se l&#39;utente ha premuto la barra spaziatrice, la [!UICONTROL Salva] pulsante disattiva.
+
+**Impossibile modificare il nome o la percentuale di completamento di un&#39;attività o di un problema**
+
+*Attività e problemi*
+
+Utenti con [!UICONTROL Collaborare] l&#39;accesso a un&#39;attività o a un problema non può modificare il nome dell&#39;attività o del problema nell&#39;intestazione. Inoltre, gli utenti con [!UICONTROL Collaborare] impossibile modificare la percentuale di completamento di un&#39;attività o di un problema.
+
+**I richiedenti e i revisori contano per il numero di licenze di un&#39;organizzazione**
+
+*[!DNL Workfront Proof]*
+
+Quando un utente viene aggiunto a una bozza come revisore o richiedente, ottiene un &quot;[!UICONTROL Visitatore]&quot; profilo di autorizzazioni, che non deve utilizzare un [!DNL Workfront Proof] licenza. Tuttavia, quando l’utente viene aggiunto, il numero di [!DNL Workfront Proof] le licenze aumentano.
+
++++
+
++++**Aggiornamento di manutenzione l’11 ottobre 2022
+
+**Impossibile ripetere il pin di una pagina dopo la rimozione del pin**
+
+*Navigazione*
+
+>[!NOTE]
+>
+>Questo problema è stato risolto in Anteprima il 13 ottobre 2022. Sarà fissato in Produzione il 27 ottobre 2022.
+
+Quando un utente seleziona il &quot;[!UICONTROL Rimuovi perno]&quot; opzione su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su &quot;[!UICONTROL Annulla]&quot; nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all&#39;elenco dei pin sotto il [!UICONTROL Altri pin] (il menu a tre punti nel [!UICONTROL Pins] area).
+
+Se un utente tenta di fissare nuovamente la pagina passando alla pagina e fissandola, il pin non viene creato e l’utente non può fissare la pagina.
+
++++
 
 +++**Aggiornamento della manutenzione il 6 ottobre 2022**
 
