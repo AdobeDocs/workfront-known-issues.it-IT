@@ -3,10 +3,10 @@ title: Problemi noti nei nuovi [!DNL Adobe Workfront] Esperienza
 description: Problemi noti segnalati per nuovi [!DNL Adobe Workfront] Esperienza
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: 6a7bd8e83e01199d8b5523caaaa6db76bd9675e1
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente all&#39;esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Assegnazioni: Errore durante l&#39;assegnazione in massa di un team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 ottobre 2022 |
 | [Prove: L&#39;aggiunta di un gruppo a una bozza non aggiunge tutti i membri del gruppo](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 ottobre 2022 |
 | [Modelli di layout: Errore durante la personalizzazione degli elenchi in un modello di layout](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 ottobre 2022 |
 | [Prove: La casella di testo &quot;Nuovi destinatari bozza&quot; è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 ottobre 2022 |
@@ -40,6 +41,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Navigazione: Impossibile ripetere il pin di una pagina dopo la rimozione del pin](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md) | 11 ottobre 2022 |
 | [Attività: [!UICONTROL Predecessore] icona mancante nell&#39;intestazione dell&#39;attività](known-issues-workfront/wf-tasks-predecessor-icon-missing-from-header.md) | 10 ottobre 2022 |
 | [Attività e problemi: Impossibile modificare il nome o la percentuale di completamento di un&#39;attività o di un problema](known-issues-workfront/wf-tasks-issues-cannot-edit-name-percent.md) | 10 ottobre 2022 |
 | [Prove: Impossibile confrontare automaticamente le bozze](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 ottobre 2022 |
