@@ -3,9 +3,9 @@ title: Problemi noti nei nuovi [!DNL Adobe Workfront] Esperienza
 description: Problemi noti segnalati per nuovi [!DNL Adobe Workfront] Esperienza
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6937b5ece29ecc41c62e3e3116961c12e7ad49b7
+source-git-commit: 2ae28fe20f42dc04f717c543505486404794fb4e
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '531'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente all&#39;esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Fogli orari: Impossibile immettere le ore in [!UICONTROL Ora generale]](known-issues-workfront/wf-timesheets-general-time-disabled.md) | 12 ottobre 2022 |
 | [Assegnazioni: Errore durante l&#39;assegnazione in massa di un team](known-issues-workfront/wf-assignments-error-when-bulk-assigning-team.md) | 11 ottobre 2022 |
 | [Prove: L&#39;aggiunta di un gruppo a una bozza non aggiunge tutti i membri del gruppo](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 ottobre 2022 |
 | [Modelli di layout: Errore durante la personalizzazione degli elenchi in un modello di layout](known-issues-workfront/wf-layout-templates-error-lists-users.md) | 6 ottobre 2022 |
