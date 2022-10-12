@@ -4,7 +4,7 @@ description: "Quando un utente modifica in serie attività o problemi e assegna 
 hidefromtoc: true
 source-git-commit: f16da861a5138c57722eea15a130e0b50cc167d0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
