@@ -2,9 +2,9 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 166754914f4d532ffdb63555270548a676cf63d0
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '14291'
+source-wordcount: '14290'
 ht-degree: 3%
 
 ---
@@ -31,7 +31,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti pr
 
 ## Aggiornamenti a ottobre 2022
 
-+++**Aggiornamento della manutenzione (pianificato) il 13 ottobre 2022**
++++**Aggiornamento della manutenzione il 13 ottobre 2022**
 
 **Impossibile ripetere il pin di una pagina dopo la rimozione del pin**
 

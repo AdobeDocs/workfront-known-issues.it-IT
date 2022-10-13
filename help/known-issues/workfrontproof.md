@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Segnalati problemi noti per [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: edbc35c24a135af7f3d32042ccbf2d25ae56033a
+source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 5%
+source-wordcount: '191'
+ht-degree: 6%
 
 ---
 
@@ -24,7 +24,6 @@ Questi problemi segnalati di recente sono attualmente all&#39;esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Prove: L&#39;aggiunta di un gruppo a una bozza non aggiunge tutti i membri del gruppo](known-issues-workfront/wf-proofs-group-members-not-added.md) | 10 ottobre 2022 |
 | [Prove: La casella di testo &quot;Nuovi destinatari bozza&quot; è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 ottobre 2022 |
 | [Documenti: &quot;[!UICONTROL Impossibile caricare il file]&quot; Errore](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 ottobre 2022 |
 
@@ -36,8 +35,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Prove: Impossibile confrontare automaticamente le bozze](known-issues-workfront/wf-proofs-cannot-auto-compare.md) | 6 ottobre 2022 |
-| [[!DNL Workfront Proof]: I richiedenti e i revisori contano per il numero di licenze di un&#39;organizzazione](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md) | 12 agosto 2022 |
+| Nessuno |  |
 
 {style=&quot;table-layout:auto&quot;}
 
