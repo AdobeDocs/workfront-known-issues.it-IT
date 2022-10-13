@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 83c933bad05a9d68ffd33f758ec10486044fdd5c
+source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
 workflow-type: tm+mt
-source-wordcount: '1354'
+source-wordcount: '1372'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi correnti in [!DNL Adobe Workfront] {#wf-current}
+      + [Agile: Problemi relativi alle attività aggiunte a un&#39;iterazione](known-issues-workfront/wf-agile-issues-with-tasks-on-iteration.md)
+      + [Moduli personalizzati: Errore &quot;Whoops&quot; durante la configurazione di un campo calcolato](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Fogli orari: Impossibile immettere le ore in [!UICONTROL Ora generale]](known-issues-workfront/wf-timesheets-general-time-disabled.md)
       + [Elenchi: [!UICONTROL Filtro rapido] restituisce nessun risultato durante la ricerca di team](known-issues-workfront/wf-lists-no-results-for-teams-in-quick-filter.md)
       + [Navigazione: Impossibile ripetere il pin di una pagina dopo la rimozione del pin](known-issues-workfront/wf-navigation-undo-pin-does-not-replace-pin.md)
