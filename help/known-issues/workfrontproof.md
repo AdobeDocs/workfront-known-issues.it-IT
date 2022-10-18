@@ -3,9 +3,9 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Segnalati problemi noti per [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '213'
 ht-degree: 6%
 
 ---
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente all&#39;esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: Il collegamento di richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 ottobre 2022 |
 | [Prove: La casella di testo &quot;Nuovi destinatari bozza&quot; è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 ottobre 2022 |
 | [Documenti: &quot;[!UICONTROL Impossibile caricare il file]&quot; Errore](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 ottobre 2022 |
 
@@ -45,6 +46,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Prove: La bozza non è condivisa con gli utenti nel flusso di lavoro di prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 settembre 2022 |
 | [Prove: [!UICONTROL Stadi di prova attivi] campo vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
 | [[!DNL Workfront Proof]: Impossibile aggiungere l&#39;utente alla bozza aggiungendo tag all&#39;utente in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 marzo 2022 |
 | [[!UICONTROL Pagina principale]: [!UICONTROL Risposta in prova] comportamento del pulsante incoerente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 giugno 2021 |

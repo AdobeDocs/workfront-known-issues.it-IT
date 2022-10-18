@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '1398'
+source-wordcount: '1424'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi correnti in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Schede]: [!UICONTROL Schede] la pagina non viene caricata](known-issues-workfront/wf-boards-boards-do-not-load.md)
+      + [Documenti: Il collegamento di richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
       + [Programmi: Problemi durante l’assegnazione di un [!UICONTROL Proprietario programma]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md)
       + [Rapporti: Opzione &quot;Sposta a&quot; non disponibile nei report dei problemi](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
       + [Problemi: Il conteggio dei problemi nella navigazione a sinistra dell&#39;attività non è corretto](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md)
@@ -131,6 +133,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi correnti in [!DNL Workfront Proof] {#proof-current}
+      + [Prove: La bozza non è condivisa con gli utenti nel flusso di lavoro di prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Prove: Errore durante l&#39;aggiunta della bozza a [!DNL Workfront] da [!DNL Workfront] Prova](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: Errore durante il caricamento di un file su un commento](known-issues-workfront-proof/proof-error-when-uploading-file-to-comment.md)

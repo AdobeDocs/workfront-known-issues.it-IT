@@ -3,9 +3,9 @@ title: Problemi noti nei nuovi [!DNL Adobe Workfront] Esperienza
 description: Problemi noti segnalati per nuovi [!DNL Adobe Workfront] Esperienza
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7685aec7811e8741440479d083ef13922b73327
+source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '554'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ Questi problemi segnalati di recente sono attualmente all&#39;esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Schede]: [!UICONTROL Schede] la pagina non viene caricata](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 ottobre 2022 |
+| [Documenti: Il collegamento di richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 ottobre 2022 |
 | [Problemi: Il conteggio dei problemi nella navigazione a sinistra dell&#39;attività non è corretto](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 ottobre 2022 |
 | [Prove: La casella di testo &quot;Nuovi destinatari bozza&quot; è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 6 ottobre 2022 |
 | [Documenti: &quot;[!UICONTROL Impossibile caricare il file]&quot; Errore](known-issues-workfront/wf-documents-failed-to-upload-file.md) | 4 ottobre 2022 |
@@ -59,6 +61,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Prove: La bozza non è condivisa con gli utenti nel flusso di lavoro di prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 settembre 2022 |
 | [Prove: [!UICONTROL Stadi di prova attivi] campo vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
 | [Dashboard: I grafici dei rapporti visualizzati in una dashboard hanno colori diversi rispetto a quelli visualizzati nel rapporto](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 agosto 2022 |
 | [[!UICONTROL Pagina principale]: La terminologia personalizzata non è applicata all&#39;area Home](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 giugno 2022 |
