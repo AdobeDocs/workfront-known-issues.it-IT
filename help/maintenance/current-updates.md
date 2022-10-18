@@ -2,9 +2,9 @@
 title: Aggiornamenti alla manutenzione di Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b5cb8f1b158fcdacf158a7bee854c82f143ce96f
+source-git-commit: efb3af8506cf73ac7a5fe7e9f756356fdb298158
 workflow-type: tm+mt
-source-wordcount: '14290'
+source-wordcount: '14458'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,39 @@ Nel 2022 sono stati effettuati i seguenti aggiornamenti di manutenzione.
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti precedenti alla manutenzione](#previous-maintenance-updates)
 
 ## Aggiornamenti a ottobre 2022
+
++++**Aggiornamento della manutenzione il 20 ottobre 2022**
+
+**Errore durante l&#39;assegnazione in massa di un team**
+
+*Assegnazioni*
+
+Quando un utente modifica in serie attività o problemi e assegna un team dopo l&#39;assegnazione di un singolo utente, le assegnazioni non vengono salvate e l&#39;utente visualizza il seguente errore:
+
+&quot;[!UICONTROL Proviamo di nuovo - Si è verificato il seguente errore: teamAssignments deve essere un elenco di oggetti o un elenco di ID]&quot;
+
+**[!UICONTROL Impossibile caricare il file]&quot; Errore**
+
+*Documenti*
+
+Quando un utente tenta di caricare un file nel [!UICONTROL Documenti] area, il file non viene caricato e l&#39;utente visualizza l&#39;errore &quot;[!UICONTROL Impossibile caricare il file].&quot;
+
+Questo è stato riportato durante il tentativo di caricare file MP4.
+
+**Il conteggio dei problemi nella navigazione a sinistra dell&#39;attività non è corretto**
+
+*problemi*
+
+Quando un utente visualizza un&#39;attività, il numero visualizzato nella [!UICONTROL Problemi] la sezione della navigazione a sinistra non rappresenta con precisione il numero effettivo di problemi associati all&#39;attività.
+
+
+**[!UICONTROL Predecessore] icona mancante nell&#39;intestazione dell&#39;attività**
+
+*Attività*
+
+Quando un utente visualizza un&#39;attività, l&#39;icona del predecessore attività risulta mancante nell&#39;intestazione.
+
++++
 
 +++**Aggiornamento della manutenzione il 13 ottobre 2022**
 
