@@ -1,21 +1,21 @@
 ---
-title: "Prova Workfront: Le visualizzazioni delle cartelle non visualizzano le bozze"
-description: "Quando un utente sposta una bozza in una cartella, si verifica un ritardo indeterminato in cui la bozza non verrà visualizzata nella struttura delle cartelle."
+title: '“Workfront Proof: le bozze non vengono visualizzate nelle visualizzazioni cartelle”'
+description: “Quando un utente sposta una bozza in una cartella, si verifica un ritardo indeterminato durante il quale la bozza non viene visualizzata nella struttura della cartella”.
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: Le visualizzazioni cartelle non visualizzano le bozze
+# [!DNL Workfront Proof]: le bozze non vengono visualizzate nelle visualizzazioni cartelle
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 28 luglio 2022.
+>Questo problema è stato risolto il giovedì 28 luglio 2022.
 
-Quando un utente sposta una bozza in una cartella, si verifica un ritardo indeterminato in cui la bozza non viene visualizzata nella struttura delle cartelle.
+Quando un utente sposta una bozza in una cartella, si verifica un ritardo indeterminato durante il quale la bozza non viene visualizzata nella struttura della cartella.
 
-_Primo comunicato il 7 giugno 2022._
+_Segnalato per la prima volta il martedì 7 giugno 2022._
