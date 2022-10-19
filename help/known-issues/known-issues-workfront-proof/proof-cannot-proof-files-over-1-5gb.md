@@ -1,21 +1,21 @@
 ---
-title: "Prova Workfront: Impossibile creare una bozza per file superiori a 1,5 GB"
-description: "Quando crei una nuova bozza, se un utente carica un file di dimensioni superiori a 1,5 GB, il nome del file diventa rosso e la bozza non viene creata."
+title: '“Workfront Proof: impossibile creare una bozza con file di dimensioni superiori a 1,5 GB”'
+description: “Durante la creazione di una nuova bozza, se un utente carica un file di dimensioni superiori a 1,5 GB, il nome del file diventa di colore rosso e la bozza non viene creata”.
 hidefromtoc: true
 source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Proof]: Impossibile creare una bozza per file superiori a 1,5 GB
+# [!DNL Workfront Proof]: impossibile creare una bozza con file di dimensioni superiori a 1,5 GB
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 1° settembre 2022.
+>Questo problema è stato risolto il giovedì 1 settembre 2022.
 
-Quando crei una nuova bozza, se un utente carica un file di dimensioni superiori a 1,5 GB, il nome del file diventa rosso e la bozza non viene creata.
+Durante la creazione di una nuova bozza, se un utente carica un file di dimensioni superiori a 1,5 GB, il nome del file diventa di colore rosso e la bozza non viene creata.
 
-_Prima segnalazione il 15 agosto 2022._
+_Segnalato per la prima volta il lunedì 15 agosto 2022._
