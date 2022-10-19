@@ -1,21 +1,21 @@
 ---
-title: "Notifiche e-mail: L'utente non è diretto al thread di commento"
-description: Quando un utente fa clic sul collegamento Commento in una notifica e-mail, viene indirizzato nella parte superiore della [!UICONTROL Aggiornamenti] area invece del thread di commento a cui stanno cercando di rispondere.
+title: '“Notifiche e-mail: l’utente non indirizzato al thread di commenti”'
+description: Quando un utente fa clic sul collegamento Commento in una notifica via e-mail, viene indirizzato alla parte superiore dell’area [!UICONTROL Aggiornamenti] invece che al thread di commenti a cui sta cercando di rispondere.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Notifiche e-mail: L&#39;utente non è diretto al thread di commento
+# Notifiche e-mail: l’utente non è diretto al thread di commenti
 
 >[!NOTE]
 >
->Il team prodotto sta valutando questa risoluzione del problema, che potrebbe richiedere miglioramenti al prodotto. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
-Quando un utente fa clic sul pulsante [!UICONTROL Commento] in una notifica e-mail, vengono indirizzati nella parte superiore della [!UICONTROL Aggiornamenti] area invece del thread di commento a cui stanno cercando di rispondere.
+Quando un utente fa clic sul collegamento [!UICONTROL Comment] (Commento) in una notifica e-mail, viene indirizzato alla parte superiore dell’area [!UICONTROL Aggiornamenti] invece che al thread di commenti a cui sta cercando di rispondere.
 
-_Primo comunicato il 24 marzo 2021._
+_Segnalato per la prima volta il mercoledì 24 marzo 2021._
