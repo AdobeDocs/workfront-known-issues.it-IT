@@ -1,23 +1,23 @@
 ---
-title: Errore della modalità di pianificazione della timeline durante la modifica di una data in un progetto
-description: Quando un utente tenta di modificare una data di un progetto per il quale la Modalità piano è impostata su Salvataggio manuale &gt; Pianificazione timeline, la data non cambia e l’utente visualizza un errore.
+title: Errore “Modalità Pianificazione sequenza temporale” durante la modifica della data in un progetto
+description: Quando un utente cerca di modificare una data in un progetto la cui Modalità di pianificazione è impostata su Salvataggio manuale > Pianificazione temporale, la data non viene modificata e l’utente visualizza un errore.
 hidefromtoc: true
 exl-id: 26042d27-6ce6-4693-ad34-b42f25cdfbe3
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Progetti: &quot;[!UICONTROL Modalità di pianificazione della timeline]&quot; errore durante la modifica di una data in un progetto
+# Progetti: errore “[!UICONTROL Timeline Planning mode]” durante la modifica della data in un progetto
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 25 agosto 2022.
+>Questo problema è stato risolto il giovedì 25 agosto 2022.
 
-Quando un utente tenta di modificare una data di un progetto con la [!UICONTROL Modalità piano] impostato su [!UICONTROL Salvataggio manuale] > [!UICONTROL Pianificazione temporale], la data non cambia e l’utente visualizza un errore.
+Quando un utente cerca di modificare una data in un progetto la cui [!UICONTROL Plan Mode] (Modalità di pianificazione) è impostata 	su [!UICONTROL Manual save] (Salvataggio manuale) > [!UICONTROL Timeline Planning] (Pianificazione temporale), la data non viene modificata e l’utente visualizza un errore.
 
-&quot;[!UICONTROL La modalità di pianificazione della timeline è disponibile solo quando viene caricato timelineDate. Contattare [!DNL Workfront] quindi possiamo capire cosa è andato storto e ripararlo.]&quot;
+“[!UICONTROL La modalità di pianificazione della sequenza temporale è disponibile solo quando timelineDate è caricata. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
-_Primo comunicato il 3 agosto 2022._
+_Segnalato per la prima volta il mercoledì 3 agosto 2022._
