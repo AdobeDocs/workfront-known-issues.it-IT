@@ -1,26 +1,26 @@
 ---
-title: "Calendari: Problemi relativi al calendario Time Off"
-description: Sono stati segnalati problemi relativi al calendario Time Off.
+title: '“Calendari: problemi relativi al calendario Time Off (Ferie)”'
+description: Sono stati segnalati problemi relativi al calendario Time Off (Ferie).
 exl-id: 242b3f9a-2ee2-4e76-bbfa-46576ebaa5d9
 hidefromtoc: true
 source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Calendari: Problemi relativi al calendario Time Off
+# Calendari: problemi relativi al calendario Time Off (Ferie)
 
 >[!NOTE]
 >
->Il team prodotto sta valutando questa risoluzione del problema, che potrebbe richiedere miglioramenti al prodotto. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
-Vengono segnalati i seguenti problemi relativi al [!UICONTROL Time Off] calendario:
+Sono stati segnalati i seguenti problemi relativi al calendario [!UICONTROL Time Off] (Ferie):
 
-* Il calendario mostra date imprecise per il tempo libero dell&#39;utente. Il calendario può mostrare troppi o troppi giorni liberi.
-* Il calendario mostra i giorni liberi come &quot;[!UICONTROL Parziale]&quot; anche se l&#39;utente ha richiesto l&#39;intero giorno libero.
+* Il calendario mostra date imprecise per quanto riguarda le ferie dell’utente. Il calendario può mostrare un numero eccessivo o insufficiente di giorni liberi.
+* Il calendario mostra i giorni liberi come “[!UICONTROL Parziale]” anche se l’utente ha richiesto l’intero giorno libero.
 
-L&#39;utente stesso [!UICONTROL Time Off] la pagina è accurata. La modifica del tempo di inattività non corregge il calendario.
+La pagina [!UICONTROL Time Off] (Ferie) dell’utente è accurata. La modifica del tempo di inattività non corregge il calendario.
 
-_Prima segnalazione l&#39;11 giugno 2021._
+_Segnalato per la prima volta il venerdì 11 giugno 2021._
