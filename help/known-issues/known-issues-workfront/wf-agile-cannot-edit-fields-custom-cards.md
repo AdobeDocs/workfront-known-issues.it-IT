@@ -1,25 +1,25 @@
 ---
-title: 'Agile: Impossibile modificare i campi dai moduli personalizzati sulle schede'
-description: Quando un campo su una scheda della bacheca kanban estrae da un modulo personalizzato, gli utenti non possono modificare tale campo direttamente dalla scheda.
+title: '“Agile: impossibile modificare i campi dai moduli personalizzati sulle schede”'
+description: Quando un campo presente su una scheda della bacheca Kanban effettua l’estrazione da un modulo personalizzato, gli utenti non possono modificare tale campo direttamente dalla scheda.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 hidefromtoc: true
 source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Agile: Impossibile modificare i campi dai moduli personalizzati sulle schede
+# Agile: impossibile modificare i campi dai moduli personalizzati sulle schede
 
 >[!NOTE]
 >
->Il team prodotto sta valutando questa risoluzione del problema, che potrebbe richiedere miglioramenti al prodotto. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
-Quando un campo su una scheda della bacheca kanban estrae da un modulo personalizzato, gli utenti non possono modificare tale campo direttamente dalla scheda.
+Quando un campo presente su una scheda della bacheca Kanban effettua l’estrazione da un modulo personalizzato, gli utenti non possono modificare tale campo direttamente dalla scheda.
 
 **Soluzione alternativa**
 
-Apri l’attività e modifica il campo dal [!UICONTROL Modifica attività] finestra.
+Apri l’attività e modifica il campo dalla finestra [!UICONTROL Modifica attività].
 
-_Primo comunicato il 12 aprile 2022._
+_Segnalato per la prima volta il martedì 12 aprile 2022._
