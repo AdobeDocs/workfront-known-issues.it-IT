@@ -1,22 +1,22 @@
 ---
-title: "Workfront Fusion: Il modulo Fusion restituisce l'errore 404 senza ulteriori informazioni"
-description: "Quando un modulo Workfront Fusion restituisce un errore 404, l'errore non fornisce ulteriori dettagli sulle cause dell'errore. Questo perché l'errore 404 viene inviato a Workfront Fusion dall'applicazione a cui il modulo si sta connettendo e l'applicazione non ha fornito ulteriori dettagli a Workfront Fusion."
+title: '“Workfront Fusion: il modulo di Fusion restituisce soltanto un errore 404, senza ulteriori informazioni”'
+description: “Quando un modulo di Workfront Fusion restituisce un errore 404, il messaggio non contiene informazioni sulla causa del problema. Ciò si verifica perché l’errore 404 viene inviato a Workfront Fusion dall’applicazione a cui si connette il modulo e tale applicazione non ha fornito ulteriori dettagli”.
 hidefromtoc: true
 source-git-commit: efc307c5ee6f48286f29e642d03aa8735332d45a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: [!DNL Fusion] modulo restituisce l&#39;errore 404 senza ulteriori informazioni
+# [!DNL Workfront Fusion]: il modulo di [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni
 
 >[!NOTE]
 >
->Questo problema è stato chiuso perché non è un [!DNL Workfront Fusion] problema.
+>Questa segnalazione è stata chiusa perché il problema di [!DNL Workfront Fusion] non sussiste.
 
-Quando un [!DNL Workfront Fusion] modulo restituisce un errore 404. L&#39;errore non fornisce ulteriori dettagli sulla causa dell&#39;errore. Questo perché l’errore 404 viene inviato a [!DNL Workfront Fusion] dall&#39;applicazione a cui il modulo si sta connettendo e tale applicazione non ha fornito ulteriori dettagli a [!DNL Workfront Fusion].
+Quando un modulo di [!DNL Workfront Fusion] restituisce un errore 404, il messaggio non contiene informazioni sulla causa del problema. Ciò si verifica perché l’errore 404 viene inviato a [!DNL Workfront Fusion] dall’applicazione a cui si connette il modulo e tale applicazione non ha fornito ulteriori dettagli a [!DNL Workfront Fusion].
 
-_Prima segnalazione il 9 agosto 2022._
+_Segnalato per la prima volta il martedì 9 agosto 2022._
 
