@@ -1,21 +1,21 @@
 ---
-title: "Moduli personalizzati: Impossibile modificare i moduli personalizzati a causa del campo Testo descrittivo"
-description: Quando un utente tenta di modificare un modulo personalizzato che include un campo Testo descrittivo, il campo [!UICONTROL etichetta] non viene compilato. L'utente visualizza l'errore Questo campo è obbligatorio nel campo etichetta e l'utente non può modificare il modulo personalizzato a causa di questo errore.
+title: '“Moduli personalizzati: impossibile modificare i moduli personalizzati a causa del campo Testo descrittivo”'
+description: Quando un utente tenta di modificare un modulo personalizzato che include un campo Testo descrittivo, l’[!UICONTROL etichetta] del campo non si popola. L’utente visualizza l’errore “Questo campo è obbligatorio” nel campo etichetta e a causa di questo errore non può modificare il modulo personalizzato.
 exl-id: 68362e38-26a4-456f-92bd-8602c15a4558
 hidefromtoc: true
 source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Moduli personalizzati: Impossibile modificare i moduli personalizzati a causa del campo Testo descrittivo
+# Moduli personalizzati: impossibile modificare i moduli personalizzati a causa del campo Testo descrittivo
 
 >[!NOTE]
 >
-> Questo problema è stato risolto l’11 agosto 2022.
+> Questo problema è stato risolto il giovedì 11 agosto 2022.
 
-Quando un utente tenta di modificare un modulo personalizzato che include un [!UICONTROL Testo descrittivo] campo , l&#39;etichetta del campo non viene compilata. L&#39;utente visualizza l&#39;errore &quot;[!UICONTROL Questo campo è obbligatorio]&quot; nel campo etichetta e l’utente non può modificare il modulo personalizzato a causa di questo errore.
+Quando un utente tenta di modificare un modulo personalizzato che include un campo [!UICONTROL Testo descrittivo], l’etichetta del campo non si popola. L’utente visualizza l’errore “[!UICONTROL Questo campo è obbligatorio]” nel campo etichetta e a causa di questo errore non può modificare il modulo personalizzato.
 
-_Prima segnalazione il 14 luglio 2022._
+_Segnalato per la prima volta il giovedì 14 luglio 2022._
