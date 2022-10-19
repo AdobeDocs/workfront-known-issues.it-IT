@@ -1,26 +1,26 @@
 ---
-title: Errore 401 su [!DNL Workfront] moduli
-description: Varie [!DNL Workfront]  I moduli restituiscono un errore 401 InvalidAccessTokenError negli scenari. Questo errore è intermittente e può verificarsi dopo operazioni riuscite nello stesso modulo.
+title: Errore 401 nei moduli [!DNL Workfront]
+description: Diversi moduli [!DNL Workfront]  restituiscono un errore 401 InvalidAccessTokenError negli scenari. Si tratta di un errore saltuario che può verificarsi dopo operazioni riuscite nello stesso modulo.
 exl-id: 0b72c6a8-bc3d-49d8-8e1b-009f5f18d82c
 hidefromtoc: true
 source-git-commit: efc307c5ee6f48286f29e642d03aa8735332d45a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Fusion]: Errore 401 su [!DNL Workfront] moduli
+# [!DNL Workfront Fusion]: errore 401 nei moduli [!DNL Workfront]
 
 
 >[!NOTE]
 >
 >Questo problema è stato risolto il 30 giugno 2022.
 
-Varie [!DNL Workfront] moduli che restituiscono un [!UICONTROL 401 InvalidAccessTokenError] in scenari. Questo errore è intermittente e può verificarsi dopo operazioni riuscite nello stesso modulo.
+Diversi moduli [!DNL Workfront] restituiscono un errore [!UICONTROL 401 InvalidAccessTokenError] negli scenari. Si tratta di un errore saltuario che può verificarsi dopo operazioni riuscite nello stesso modulo.
 
-**Soluzione:**
+**Soluzione alternativa:**
 
-+ La riautorizzazione della connessione utilizzata nel modulo ripristina temporaneamente la funzione.
++ Autorizzare nuovamente la connessione utilizzata nel modulo consente di ripristinare temporaneamente la funzione.
 
-**Primo comunicato il 22 aprile 2022.**
+**Segnalato per la prima volta il 22 aprile 2022.**
