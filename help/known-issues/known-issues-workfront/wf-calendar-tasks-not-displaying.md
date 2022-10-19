@@ -1,21 +1,21 @@
 ---
-title: '''Calendario: Attività non visualizzate'
-description: Quando un utente dispone di un rapporto elenco e di un rapporto calendario con gli stessi filtri, vede che alcune attività vengono visualizzate nel rapporto elenco ma non nel rapporto calendario.
+title: '“Calendario: attività non visualizzate”'
+description: Quando un utente dispone di un rapporto elenco e di un report calendario contenenti gli stessi filtri, nota che alcune attività vengono visualizzate solo nel rapporto elenco.
 exl-id: 1c606629-0db5-4096-af13-5e637a16ea7c
 hidefromtoc: true
 source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Calendario: Attività non visualizzate
+# Calendario: attività non visualizzate
 
 >[!NOTE]
 >
->Il team di prodotto sta valutando la risoluzione del problema. Una volta risolto il problema, questo verrà comunicato negli annunci dei prodotti e non con gli aggiornamenti di manutenzione.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema. Una volta avvenuta, la risoluzione del problema verrà comunicata negli annunci dei prodotti e non con gli aggiornamenti di manutenzione.
 
-Quando un utente dispone di un rapporto elenco e di un rapporto calendario con gli stessi filtri, vede che alcune attività vengono visualizzate nel rapporto elenco ma non nel rapporto calendario.
+Quando un utente dispone di un rapporto elenco e di un report calendario contenenti gli stessi filtri, nota che alcune attività vengono visualizzate solo nel rapporto elenco.
 
-_Prima segnalazione il 31 ottobre 2019._
+_Segnalato per la prima volta il giovedì 31 ottobre 2019._
