@@ -1,27 +1,27 @@
 ---
-title: '"Progetti: Errore durante la rimozione del proprietario del progetto dall''intestazione'
-description: Quando un utente tenta di rimuovere un proprietario di progetto dall'intestazione di un progetto, il proprietario del progetto non viene rimosso e l'utente visualizza un messaggio di errore.
+title: “Errore durante la rimozione del proprietario del progetto dall’intestazione”
+description: Quando un utente cerca di rimuovere un Proprietario del progetto dall’intestazione di un progetto, il Proprietario del progetto non viene rimosso e l’utente visualizza il seguente messaggio di errore.
 hidefromtoc: true
 exl-id: 3a995df4-5d6a-44e4-a644-997931c044bf
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Progetti: Errore durante la rimozione di [!UICONTROL Proprietario progetto] dall’intestazione
+# Progetti: errore durante la rimozione di [!UICONTROL Proprietario progetto] dall’intestazione
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 9 settembre 2022.
+>Questo problema è stato risolto il venerdì 9 settembre 2022.
 
-Quando un utente tenta di rimuovere un [!UICONTROL Proprietario progetto] dall’intestazione di un progetto, il [!UICONTROL Proprietario progetto] non viene rimosso e l&#39;utente visualizza il seguente messaggio di errore:
+Quando un utente cerca di rimuovere un [!UICONTROL Project Owner] (Proprietario del progetto) dall’intestazione di un progetto, il [!UICONTROL Proprietario del progetto] non viene rimosso e l’utente visualizza il seguente messaggio di errore:
 
 `422: Invalid Parameter: ownerID value "null" /attask/api-internal/PROJ/<project ID>`
 
 **Soluzione alternativa**
 
-Rimuovi[!UICONTROL  Proprietario progetto] del progetto [!UICONTROL Dettagli] area.
+Rimuovi il [!UICONTROL Project Owner] (Proprietario del progetto) dall’area dei [!UICONTROL Dettagli] del progetto.
 
-_Prima segnalazione il 9 agosto 2022._
+_Segnalato per la prima volta il martedì 9 agosto 2022._
