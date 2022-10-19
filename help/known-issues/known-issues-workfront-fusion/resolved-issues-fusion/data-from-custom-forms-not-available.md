@@ -1,21 +1,21 @@
 ---
-title: "Workfront Fusion: Dati da moduli personalizzati non disponibili in [!UICONTROL Workfront Fusion Workfront] moduli"
-description: Quando un utente configura un [!DNL Workfront] modulo in [!DNL Workfront Fusion]e tenta di selezionare gli output per il modulo, i campi dei moduli personalizzati non sono visibili.
+title: '“Workfront Fusion: i dati dei moduli personalizzati non sono disponibili nei moduli [!UICONTROL Workfront di Workfront Fusion]”'
+description: Quando un utente configura un modulo [!DNL Workfront]  in [!DNL Workfront Fusion] e tenta di selezionare i relativi output, i campi dei moduli personalizzati non sono visibili.
 exl-id: f77bf9ef-e842-42b2-95b0-08664d23ac70
 hidefromtoc: true
 source-git-commit: efc307c5ee6f48286f29e642d03aa8735332d45a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Fusion]: Dati da moduli personalizzati non disponibili in [!DNL Workfront Fusion] [!DNL Workfront] moduli
+# [!DNL Workfront Fusion]: i dati dei moduli personalizzati non sono disponibili nei moduli [!DNL Workfront] di [!DNL Workfront Fusion]
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 9 giugno 2022.
+>Questo problema è stato risolto il giovedì 9 giugno 2022.
 
-Quando un utente configura un [!DNL Workfront] modulo in [!DNL Workfront Fusion]e tenta di selezionare gli output per il modulo, i campi dei moduli personalizzati non sono visibili. Ciò si verifica quando il modulo personalizzato è stato creato per un tipo di [!DNL Workfront] e un altro tipo è stato aggiunto ad esso. [!DNL Workfront Fusion] visualizza solo i campi dei moduli personalizzati originariamente creati per il tipo di oggetto selezionato.
+Quando un utente configura un modulo [!DNL Workfront] in [!DNL Workfront Fusion]e tenta di selezionare i relativi output, i campi dei moduli personalizzati non sono visibili. Ciò si verifica quando il modulo personalizzato è stato creato per un tipo di oggetto [!DNL Workfront] e successivamente ne è stato aggiunto un altro tipo. [!DNL Workfront Fusion] visualizza solo i campi dei moduli personalizzati originariamente creati per il tipo di oggetto selezionato.
 
-Primo comunicato il 24 aprile 2022.
+Segnalato per la prima volta il domenica 24 aprile 2022.
