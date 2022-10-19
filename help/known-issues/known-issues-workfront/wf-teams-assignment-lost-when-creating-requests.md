@@ -1,26 +1,26 @@
 ---
-title: "Richieste: L'assegnazione del team durante la creazione della richiesta non viene visualizzata su una nuova richiesta"
-description: "Quando un utente crea una richiesta e assegna un team alla richiesta, quindi invia la richiesta, il team non viene assegnato alla richiesta creata. Ciò influisce solo sull'assegnazione del team. Le assegnazioni utente funzionano come previsto."
+title: '“Richieste: l’assegnazione del team durante la creazione della richiesta non viene visualizzata nella nuova richiesta”'
+description: “Quando un utente crea una richiesta, vi assegna un team e poi la invia, il team non viene assegnato alla richiesta creata. Ciò influisce solo sull’assegnazione del team. Le assegnazioni degli utenti funzionano come previsto.”
 hidefromtoc: true
 source-git-commit: 354016dba85b7cf8dfb908f87bb4fabedee3e4c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Richieste: L&#39;assegnazione del team durante la creazione della richiesta non viene visualizzata su una nuova richiesta
+# Richieste: l’assegnazione del team durante la creazione della richiesta non viene visualizzata nella nuova richiesta
 
 >[!NOTE]
 >
-> Questo problema è stato risolto l’11 agosto 2022.
+> Questo problema è stato risolto il giovedì 11 agosto 2022.
 
-Quando un utente crea una richiesta e assegna un team alla richiesta, quindi invia la richiesta, il team non viene assegnato alla richiesta creata. Ciò influisce solo sull&#39;assegnazione del team. Le assegnazioni utente funzionano come previsto.
+Quando un utente crea una richiesta, vi assegna un team e poi la invia, il team non viene assegnato alla richiesta creata. Ciò influisce solo sull’assegnazione del team. Le assegnazioni degli utenti funzionano come previsto.
 
 **Soluzione alternativa**
 
-Crea la richiesta, vai alla richiesta e assegna il team.
+Crea la richiesta, accedi alla richiesta e assegna il team.
 
-_Prima segnalazione il 29 luglio 2022._
+_Segnalato per la prima volta il venerdì 29 luglio 2022._
 
