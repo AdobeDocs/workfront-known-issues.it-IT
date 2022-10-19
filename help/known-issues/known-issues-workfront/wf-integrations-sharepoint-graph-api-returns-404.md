@@ -1,24 +1,24 @@
 ---
-title: "Integrazioni: Errore 404 durante l’aggiunta di un documento dall’API grafico di SharePoint"
-description: "Quando un utente tenta di aggiungere un documento a [!DNL Workfront] da [!DNL SharePoint] (API grafico), il documento non viene aggiunto e l’utente visualizza il seguente messaggio di errore:"
+title: '“Integrazioni: errore 404 durante l’aggiunta di un documento da SharePoint Graph API”'
+description: “Quando un utente cerca di aggiungere un documento a  [!DNL Workfront]  da  [!DNL SharePoint]  (Graph API), il documento non viene aggiunto e l’utente visualizza il seguente messaggio di errore:”
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Integrazioni: Errore 404 durante l&#39;aggiunta di un documento da [!DNL SharePoint] [!UICONTROL (API grafico)]
+# Integrazioni: errore 404 durante l’aggiunta di un documento da [!DNL SharePoint] [!UICONTROL  (Graph API)]
 
 >[!NOTE]
 >
->Questo problema è stato chiuso perché non è un [!DNL Workfront] errore.
+>Questo problema è stato chiuso perché non si tratta di un errore [!DNL Workfront].
 
-Quando un utente tenta di aggiungere un documento a [!DNL Workfront] da [!DNL SharePoint] [!UICONTROL (API grafico)], il documento non viene aggiunto e l’utente visualizza il seguente messaggio di errore:
+Quando un utente cerca di aggiungere un documento a [!DNL Workfront] da [!DNL SharePoint] [!UICONTROL (Graph API)], il documento non viene aggiunto e l’utente visualizza il seguente messaggio di errore:
 
-&quot;[!UICONTROL 404 Non trovato: [nessuno]]&quot;
+“[!UICONTROL 404 Non trovato: [nessuno]]”
 
-_Primo comunicato il 29 agosto 2022._
+_Segnalato per la prima volta il lunedì 29 agosto 2022._
 
