@@ -1,24 +1,24 @@
 ---
-title: '''Home: La terminologia personalizzata non viene applicata all''area Home"'
-description: Nell’area Home vengono visualizzati i nomi predefiniti per gli oggetti, anziché la terminologia impostata dall’organizzazione. Questo è stato riportato in varie aree.
+title: '“Home: la terminologia personalizzata non viene applicata all’area Home”'
+description: Nell’area Home vengono visualizzati i nomi predefiniti per gli oggetti anziché la terminologia impostata dall’organizzazione. Ciò è stato segnalato in diverse aree.
 exl-id: d15afc61-25f7-4fd8-9f9a-db94ed392082
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Pagina principale]: La terminologia personalizzata non è applicata all&#39;area Home
+# [!UICONTROL Home]: la terminologia personalizzata non viene applicata all’area Home
 
 >[!NOTE]
 >
->Il team prodotto sta valutando questa risoluzione del problema, che potrebbe richiedere miglioramenti al prodotto. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
-La [!UICONTROL Pagina principale] area visualizza i nomi predefiniti per gli oggetti, anziché la terminologia impostata dall&#39;organizzazione. Ciò è stato riferito nelle seguenti aree:
+Nell’area [!UICONTROL Home] vengono visualizzati i nomi predefiniti per gli oggetti anziché la terminologia impostata dall’organizzazione. Ciò è stato segnalato nelle seguenti aree:
 
-* La [!UICONTROL Elenco lavori] filter
-* &quot;[!UICONTROL Inizio] (oggetto)&quot; nel [!UICONTROL Elenco lavori]
+* Il filtro [!UICONTROL Work List] (Elenco di lavoro)
+* Il pulsante “[!UICONTROL Start] (object)” (Avvia oggetto) nel [!UICONTROL Work List] (Elenco lavori)
 
-_Primo comunicato l’8 aprile 2022._
+_Segnalato per la prima volta il venerdì 8 aprile 2022._
