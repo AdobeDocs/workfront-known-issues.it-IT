@@ -1,22 +1,22 @@
 ---
-title: '''Home: Le date della delega di approvazione cambiano dopo l’aggiornamento e l’invio di 2 e-mail"'
-description: Quando un utente delega le approvazioni a un utente in un fuso orario diverso, la delega viene visualizzata per essere salvata correttamente e l’utente delegato riceve una notifica e-mail con le date corrette. Tuttavia, se aggiornano la pagina, noteranno che la data di inizio è stata spostata di nuovo 1 giorno e che la data di fine è stata spostata di nuovo 1 giorno, e l’utente riceve anche un’altra notifica e-mail con le date spostate.
+title: '“Home: le date della delega di approvazione cambiano dopo l’aggiornamento e invio di 2 e-maille date relative alla delega di approvazione cambiano dopo l’aggiornamento e vengono inviate 2 e-mail”'
+description: Quando un utente delega le approvazioni a un utente che si trova in un fuso orario diverso, la delega sembra essere salvata con successo e l’utente delegato riceve una notifica e-mail con le date corrette. Tuttavia, se aggiorna la pagina, vede che la Data di inizio è stata spostata indietro di 1 giorno e la Data di fine è stata spostata in avanti di 1 giorno e l’utente riceve anche un’altra notifica e-mail con le date spostate.
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
 source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Pagina principale]: Le date della delega di approvazione cambiano dopo l’aggiornamento e inviano 2 e-mail
+# [!UICONTROL Home]: le date relative alla delega di approvazione cambiano dopo l’aggiornamento e vengono inviate 2 e-mail
 
 >[!NOTE]
 >
->Il team di prodotto sta valutando la risoluzione del problema. Una volta risolto il problema, questo verrà comunicato negli annunci dei prodotti e non con gli aggiornamenti di manutenzione.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema. Una volta avvenuta, la risoluzione del problema verrà comunicata negli annunci dei prodotti e non con gli aggiornamenti di manutenzione.
 
-Quando un utente delega le approvazioni a un utente in un fuso orario diverso, la delega viene visualizzata per essere salvata correttamente e l’utente delegato riceve una notifica e-mail con le date corrette. Tuttavia, se aggiornano la pagina, visualizzano che [!UICONTROL Data di inizio] ha spostato indietro di 1 giorno e [!UICONTROL Data di fine] è stato anticipato di un giorno e l’utente riceve anche un’altra notifica e-mail con le date modificate.
+Quando un utente delega le approvazioni a un utente che si trova in un fuso orario diverso, la delega sembra essere salvata con successo e l’utente delegato riceve una notifica e-mail con le date corrette. Tuttavia, se aggiorna la pagina, vede che la [!UICONTROL Data di inizio] è stata spostata indietro di 1 giorno e la [!UICONTROL Data di fine] è stata spostata in avanti di 1 giorno e l’utente riceve anche un’altra notifica e-mail con le date spostate.
 
 
-_Prima segnalazione l’8 maggio 2020._
+_Segnalato per la prima volta il venerdì 8 maggio 2020._
