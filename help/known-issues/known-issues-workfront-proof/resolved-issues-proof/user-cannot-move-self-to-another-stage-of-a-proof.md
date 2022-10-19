@@ -1,21 +1,21 @@
 ---
-title: '"Prove: L''utente non può spostarsi da solo in un''altra fase di una bozza'''
-description: Quando un utente visualizza il flusso di lavoro di prova di una bozza e tenta di trascinarsi in un’altra fase della bozza, il nome dell’utente torna all’area di visualizzazione originale e non viene aggiunto all’area di visualizzazione desiderata.
+title: '“Bozze: l’utente non può passare autonomamente a un’altra fase della bozza”'
+description: Quando un utente visualizza il Proof Workflow (Flusso di lavoro) di una bozza e tenta di spostarsi in un’altra fase della bozza, il nome dell’utente torna alla fase originale e non viene aggiunto alla fase desiderata.
 exl-id: abd39d14-21dc-4637-993f-0ebee55300ed
 hidefromtoc: true
 source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Prove: L&#39;utente non può spostarsi da solo in un&#39;altra fase di una bozza
+# Bozze: l’utente non può passare autonomamente a un’altra fase della bozza
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 24 giugno 2022.
+>Questo problema è stato risolto il venerdì 24 giugno 2022.
 
-Quando un utente visualizza il flusso di lavoro di prova di una bozza e tenta di trascinarsi in un’altra fase della bozza, il nome dell’utente torna all’area di visualizzazione originale e non viene aggiunto all’area di visualizzazione desiderata.
+Quando un utente visualizza il Proof Workflow (Flusso di lavoro) di una bozza e tenta di spostarsi in un’altra fase della bozza, il nome dell’utente torna alla fase originale e non viene aggiunto alla fase desiderata.
 
-Prima segnalazione il 2 giugno 2022.
+Segnalato per la prima volta il giovedì 2 giugno 2022.
