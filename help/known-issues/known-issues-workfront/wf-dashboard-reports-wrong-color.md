@@ -1,21 +1,21 @@
 ---
-title: 'Dashboard: I grafici dei rapporti visualizzati in una dashboard hanno colori diversi rispetto a quelli visualizzati nel rapporto.'
-description: Quando un utente visualizza un grafico a rapporti in una dashboard, i colori utilizzati sono diversi da quando l'utente visualizza il rapporto stesso. Questo può causare confusione se l’utente si aspetta che un determinato colore abbia un significato specifico.
+title: '“Dashboard: i colori dei grafici del rapporto mostrati in un dashboard sono diversi rispetto a quelli presenti nel rapporto”'
+description: Quando un utente osserva un grafico del rapporto in un dashboard, nota che i colori utilizzati sono diversi rispetto a quelli visualizzati nel rapporto. Tale differenza può causare confusione se l’utente si aspetta che un determinato colore abbia un determinato significato.
 exl-id: cfd8b018-c0d9-447a-b318-42938bd82edd
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Dashboard: I grafici dei rapporti visualizzati in una dashboard hanno colori diversi rispetto a quelli visualizzati nel rapporto
+# Dashboard: i colori dei grafici del rapporto mostrati in un dashboard sono diversi rispetto a quelli presenti nel rapporto
 
 >[!NOTE]
 >
->Il team prodotto sta valutando questa risoluzione del problema, che potrebbe richiedere miglioramenti al prodotto. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
-Quando un utente visualizza un grafico a rapporti in una dashboard, i colori utilizzati sono diversi da quando l&#39;utente visualizza il rapporto stesso. Questo può causare confusione se l’utente si aspetta che un determinato colore abbia un significato specifico.
+Quando un utente osserva un grafico del rapporto in un dashboard, nota che i colori utilizzati sono diversi rispetto a quelli visualizzati nel rapporto. Tale differenza può causare confusione se l’utente si aspetta che un determinato colore abbia un determinato significato.
 
-_Prima segnalazione il 19 luglio 2022._
+_Segnalato per la prima volta il martedì 19 luglio 2022._
