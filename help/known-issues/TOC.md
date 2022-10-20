@@ -3,8 +3,8 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
 source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
 workflow-type: tm+mt
-source-wordcount: '1438'
-ht-degree: 80%
+source-wordcount: '1455'
+ht-degree: 79%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporti: Le informazioni sull&#39;utilizzo del rapporto non vengono aggiornate](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navigazione: Impossibile fissare gli oggetti](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [[!UICONTROL Schede]: [!UICONTROL Schede] la pagina non viene caricata](known-issues-workfront/wf-boards-boards-do-not-load.md)
       + [Documenti: Il collegamento di richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
@@ -134,6 +135,7 @@ ht-degree: 80%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [Prove: Il riepilogo della stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Prove: La bozza non è condivisa con gli utenti nel flusso di lavoro di prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: Pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
       + [Bozze: errore durante l’aggiunta della bozza a  [!DNL Workfront]  da  [!DNL Workfront]  Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
