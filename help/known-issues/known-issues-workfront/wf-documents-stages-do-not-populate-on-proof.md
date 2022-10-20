@@ -1,31 +1,31 @@
 ---
-title: "Prove: [!UICONTROL Stadi di prova attivi] campo vuoto"
-description: '"Quando un utente crea una bozza e la visualizza in un rapporto come [!UICONTROL Versione documento] o [!UICONTROL Approvazione della bozza] vedono che [!UICONTROL Stadi di prova attivi] campo vuoto. Ciò si verifica quando la bozza viene creata dopo il caricamento del documento, come [!UICONTROL Prova semplice] o [!UICONTROL Prove avanzate] con [!UICONTROL Flusso di lavoro di base].'
+title: '“Bozze: il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto”'
+description: “Quando un utente crea una bozza e la visualizza in un rapporto come [!UICONTROL Versione del documento] o [!UICONTROL Proof Approval] (Approvazione della bozza), può notare che il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto”. Ciò si verifica quando la bozza viene creata dopo il caricamento del documento, come [!UICONTROL Simple Proof] (Bozza semplice) o [!UICONTROL Advanced Proof] (Bozza avanzata) con un [!UICONTROL Basic Workflow] (Flusso di lavoro di base).
 hidefromtoc: true
 source-git-commit: 40763737feab664840a600224cff2f2889cbef72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Prove: [!UICONTROL Stadi di prova attivi] campo vuoto
+# Bozze: il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto
 
 <!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
 
 >[!NOTE]
 >
->Il team prodotto sta valutando questa risoluzione del problema, che potrebbe richiedere miglioramenti al prodotto. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
-Quando un utente crea una bozza e la visualizza in un rapporto, ad esempio [!UICONTROL Versione documento] o [!UICONTROL Approvazione della bozza] vedono che [!UICONTROL Stadi di prova attivi] campo vuoto. Ciò si verifica quando la bozza viene creata dopo il caricamento del documento, come [!UICONTROL Prova semplice] o [!UICONTROL Prove avanzate] con [!UICONTROL Flusso di lavoro di base].
+Quando un utente crea una bozza e la visualizza in un rapporto come [!UICONTROL Versione del documento] o [!UICONTROL Proof Approval] (Approvazione della bozza), può notare che il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto. Ciò si verifica quando la bozza viene creata dopo il caricamento del documento, come [!UICONTROL Simple Proof] (Bozza semplice) o [!UICONTROL Advanced Proof] (Bozza avanzata) con un [!UICONTROL Basic Workflow] (Flusso di lavoro di base).
 
 **Soluzione alternativa**
 
-Effettua una delle seguenti operazioni:
+Esegui una delle operazioni seguenti:
 
-* Quando aggiungi un nuovo documento, aggiungilo come bozza selezionando [!UICONTROL Aggiungi nuovo] > [!UICONTROL Prova].
-* Quando crei una bozza da un documento esistente, creala come [!UICONTROL Prove avanzate] con [!UICONTROL Flusso di lavoro automatizzato].
+* Aggiungi un nuovo documento come bozza selezionando [!UICONTROL Aggiungi nuovo] > [!UICONTROL Proof] (Bozza).
+* Crea una bozza da un documento esistente come [!UICONTROL Advanced Proof] (Bozza avanzata) con un [!UICONTROL Automated Workflow] (Flusso di lavoro automatico).
 
-_Primo comunicato il 31 agosto 2022._
+_Segnalato per la prima volta il mercoledì 31 agosto 2022._
 
