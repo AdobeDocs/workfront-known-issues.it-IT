@@ -1,31 +1,31 @@
 ---
-title: "Rapporti: Problemi durante la creazione e la modifica di report in Report Builder"
-description: "Sono stati segnalati più problemi durante la creazione e la modifica dei rapporti nel Report Builder."
+title: '“Rapporti: problemi durante la creazione e la modifica dei rapporti in Report Builder”'
+description: “Sono stati segnalati diversi problemi durante la creazione e la modifica dei rapporti in Report Builder.”
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 94%
 
 ---
 
 
-# Rapporti: Problemi durante la creazione e la modifica di report in Report Builder
+# Rapporti: problemi durante la creazione e la modifica di rapporti in Report builder
 
 >[!NOTE]
 >
 >Questo problema è stato risolto.
 
 
-Durante la creazione e la modifica dei rapporti nel Report Builder sono stati segnalati i seguenti problemi:
+Sono stati segnalati i seguenti problemi durante la creazione e la modifica dei rapporti in Report Builder:
 
-* Il generatore di report non viene caricato.
+* Il generatore di rapporti non si carica.
 * I raggruppamenti di grafici (assi) scompaiono.
-* La [!UICONTROL Salva e chiudi] il pulsante non risponde.
+* Il pulsante [!UICONTROL Save + Close] (Salva e chiudi) non risponde.
 
 **Soluzione alternativa**
 
-Il ricaricamento della pagina può consentire di creare o modificare il rapporto.
+Ricaricare la pagina può consentire di creare o modificare il rapporto.
 
-_Primo comunicato il 2 settembre 2022._
+_Segnalato per la prima volta il venerdì 2 settembre 2022._
 

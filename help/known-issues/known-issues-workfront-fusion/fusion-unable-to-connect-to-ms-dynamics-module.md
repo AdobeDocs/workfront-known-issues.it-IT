@@ -1,21 +1,21 @@
 ---
-title: '"Workfront Fusion: Impossibile connettersi al modulo MS Dynamics in Fusion'''
-description: Il modulo MS Dynamics in [!DNL Fusion] impossibile connettersi. Impossibile verificare l'errore di connessione sia per le connessioni nuove che per quelle esistenti.
+title: '“Workfront Fusion: impossibile connettersi al modulo MS Dynamics in Fusion”'
+description: Non è possibile connettersi al modulo MS Dynamics all’interno di [!DNL Fusion] , con conseguente errore “failed to verify connection” (Impossibile verificare la connessione) sia per le connessioni nuove sia per quelle esistenti.
 hidefromtoc: true
 exl-id: 8fb72e2b-5be5-42eb-a098-98a3e74efa65
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 100%
 
 ---
 
-# Workfront Fusion: Impossibile connettersi a [!DNL MS Dynamics] modulo in Fusion
+# Workfront Fusion: impossibile connettersi al modulo [!DNL MS Dynamics] in Fusion
 
 >[!NOTE]
 >
-> Questo problema è stato risolto il 12 agosto 2022.
+> Questo problema è stato risolto il lunedì 12 agosto 2022.
 
-La [!DNL MS Dynamics] modulo all&#39;interno [!DNL Fusion] impossibile connettersi. Errore &quot;Impossibile verificare la connessione&quot; per connessioni nuove ed esistenti.
+Non è possibile connettersi al modulo [!DNL MS Dynamics] all’interno di [!DNL Fusion], con conseguente errore “failed to verify connection” (Impossibile verificare la connessione) sia per le connessioni nuove sia per quelle esistenti.
 
-_Prima segnalazione il 10 agosto 2022._
+_Segnalato per la prima volta il mercoledì 10 agosto 2022._

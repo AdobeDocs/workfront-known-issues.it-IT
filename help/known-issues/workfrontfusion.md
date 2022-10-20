@@ -1,12 +1,12 @@
 ---
-title: Problemi noti in [!DNL Adobe Workfront Fusion]
-description: Segnalati problemi noti per [!DNL Adobe Workfront Fusion]
+title: Problemi noti in  [!DNL Adobe Workfront Fusion]
+description: Problemi noti segnalati per [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
+source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 9%
+source-wordcount: '151'
+ht-degree: 56%
 
 ---
 
@@ -16,7 +16,7 @@ Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfr
 
 >[!IMPORTANT]
 >
->Per informazioni sui tempi di attività o le interruzioni del server, vedi [status.adobe.com](https://status.adobe.com). Per informazioni sui problemi risolti di recente, vedi [[!DNL Workfront] Aggiornamenti di manutenzione](../maintenance/current-updates.md).
+>Per informazioni relative sui tempi di attività o sulle interruzioni del server, vedi [https://status.adobe.com/it](https://status.adobe.com/it). Per informazioni sui problemi risolti di recente, vedi Aggiornamenti di manutenzione di [[!DNL Workfront] ](../maintenance/current-updates.md).
 
 ## Nuovo
 
@@ -35,7 +35,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: [!DNL Fusion] i collegamenti di aiuto in-app non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 agosto 2022 |
+| [[!DNL Workfront Fusion]: Errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | 19 ottobre 2022 |
+| I collegamenti di aiuto in-app [[!DNL Workfront Fusion]: [!DNL Fusion]  non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | martedì 2 agosto 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -45,7 +46,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Errore &quot;Impossibile verificare la connessione&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 settembre 2022 |
-| [[!DNL Workfront Fusion]: [!DNL Fusion] modulo restituisce l&#39;errore 404 senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 settembre 2022 |
+| [[!DNL Workfront Fusion]: Errore &quot;Impossibile verificare la connessione&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | mercoledì 29 settembre 2022 |
+| Il modulo [[!DNL Workfront Fusion]: [!DNL Fusion]  restituisce l’errore 404 senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md) | venerdì 9 settembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}

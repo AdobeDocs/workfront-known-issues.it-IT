@@ -1,22 +1,22 @@
 ---
-title: "Prova Workfront: Le notifiche e-mail sono ritardate"
-description: "Quando si verifica un evento in [!DNL Workfront] Prova che attiva una notifica e-mail, l’utente non riceve la notifica immediatamente. La notifica può essere ritardata di diverse ore."
+title: '“Workfront Proof: le notifiche e-mail subiscono ritardi”'
+description: “In  [!DNL Workfront]  Proof, quando si verifica un evento che attiva una notifica e-mail, l’utente non riceve immediatamente l’avviso. La notifica può subire un ritardo di diverse ore”.
 hidefromtoc: true
 source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 91%
 
 ---
 
 
-# [!DNL Workfront Proof]: Le notifiche e-mail sono ritardate
+# [!DNL Workfront Proof]: le notifiche e-mail subiscono ritardi
 
 >[!NOTE]
 >
 >Questo problema è stato risolto il 6 ottobre 2022.
 
-Quando si verifica un evento in [!DNL Workfront Proof] che attiva una notifica e-mail, l’utente non riceve la notifica immediatamente. La notifica può essere ritardata di diverse ore.
+In [!DNL Workfront Proof], quando si verifica un evento che attiva una notifica e-mail, l’utente non riceve immediatamente l’avviso. La notifica può subire un ritardo di diverse ore.
 
-_Primo comunicato il 23 agosto 2022._
+_Segnalato per la prima volta il martedì 23 agosto 2022._
 
