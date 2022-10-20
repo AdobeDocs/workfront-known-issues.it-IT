@@ -1,24 +1,24 @@
 ---
-title: '"Fogli orari: Problemi durante la creazione dei fogli presenze'
-description: Sono stati segnalati vari problemi relativi alla creazione di fogli presenze.
+title: '“Scheda orario: problemi durante la creazione delle schede orario”'
+description: Sono stati segnalati diversi problemi relativi alla creazione delle schede orario.
 exl-id: 0f395b5f-689e-4ffa-bb80-c8213cac5798
 hidefromtoc: true
 source-git-commit: 453eef770b0f31990946c746e677fb453d0be94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Fogli orari: Problemi durante la creazione dei fogli presenze
+# Schede orario: problemi durante la creazione delle schede orario
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 28 luglio 2022.
+>Questo problema è stato risolto il giovedì 28 luglio 2022.
 
-Sono stati segnalati i seguenti problemi relativi alla creazione di fogli presenze:
+Sono stati segnalati i seguenti problemi relativi alla creazione delle schede orario:
 
-* Quando un utente tenta di creare una scheda attività per un ruolo, la scheda attività non viene creata e l&#39;utente visualizza l&#39;errore &quot;[!UICONTROL Utente con valori di chiave primaria &#39;XXXXXXXXXXX&#39; non trovato].&quot;
-* Quando un utente tenta di creare una scheda attività per un team, il [!UICONTROL timone] il campo non viene compilato con i team e il [!UICONTROL Crea foglio presenze] pulsante disabilitato.
+* Quando un utente tenta di creare una scheda orario per una mansione, questa non viene creata e l’utente visualizza l’errore “[!UICONTROL Utente con valori della chiave primaria ‘XXXXXXXXXXX’ non trovato].”
+* Quando un utente cerca di creare una scheda orario per un team, nel campo [!UICONTROL typeahead] non vengono inseriti i team e il pulsante [!UICONTROL Create timesheet] (Crea schede orario) è disabilitato.
 
-_Primo comunicato il 22 giugno 2022._
+_Segnalato per la prima volta il mercoledì 22 giugno 2022._
