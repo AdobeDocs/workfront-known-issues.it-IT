@@ -5,8 +5,8 @@ keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 51b03717b9db0e9247954ce72a58c25764766a18
 workflow-type: tm+mt
-source-wordcount: '578'
-ht-degree: 60%
+source-wordcount: '559'
+ht-degree: 62%
 
 ---
 
@@ -24,7 +24,6 @@ Questi problemi segnalati di recente sono attualmente all&#39;esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Prove: Il riepilogo della stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 ottobre 2022 |
 | [[!UICONTROL Schede]: [!UICONTROL Schede] la pagina non viene caricata](known-issues-workfront/wf-boards-boards-do-not-load.md) | 18 ottobre 2022 |
 | [Documenti: Il collegamento di richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 18 ottobre 2022 |
 | [Problemi: Il conteggio dei problemi nella navigazione a sinistra dell&#39;attività non è corretto](known-issues-workfront/wf-issues-incorrect-issue-count-on-left.md) | 12 ottobre 2022 |
@@ -41,7 +40,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapporti: Le informazioni sull&#39;utilizzo del rapporto non vengono aggiornate](known-issues-workfront/wf-reports-usage-not-updating.md) | 19 ottobre 2022 |
 | [Navigazione: Impossibile fissare gli oggetti](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 ottobre 2022 |
 | [Prove: La casella di testo &quot;Nuovi destinatari bozza&quot; è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 ottobre 2022 |
 | [Programmi: Problemi durante l’assegnazione di un [!UICONTROL Proprietario programma]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 ottobre 2022 |
