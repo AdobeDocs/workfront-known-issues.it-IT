@@ -1,167 +1,167 @@
 ---
-title: Aggiornamenti alla manutenzione di Workfront per il 2021
+title: Aggiornamenti di manutenzione di Workfront per il 2021
 description: Cronologia degli aggiornamenti di manutenzione del 2021 per [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 source-git-commit: 7fa90198186a7b0f392683d432a7da0424943da2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10019'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# 2021 [!DNL Workfront] Aggiornamenti di manutenzione
+# Aggiornamenti di manutenzione di [!DNL Workfront] per il 2021
 
-Nel 2021 sono stati effettuati i seguenti aggiornamenti di manutenzione:
+Nel 2021 sono stati effettuati gli aggiornamenti di manutenzione seguenti:
 
-## Aggiornamenti a dicembre 2021
+## Aggiornamenti di dicembre 2021
 
-+++**Aggiornamento della manutenzione il 23 dicembre 2021**
++++**Aggiornamento di manutenzione del 23 dicembre 2021**
 
-**Nuove attività predefinite per un vincolo di attività non corretto**
+**Le nuove attività sono impostate su un vincolo attività predefinito non corretto**
 
 _Attività_
 
-Quando un utente crea una nuova attività utilizzando il pulsante &quot;[!UICONTROL Nuova attività]&quot; e [!UICONTROL Inizio predefinito nuova attività] L&#39;opzione Data è impostata su &quot;[!UICONTROL Oggi],&quot; il vincolo dell&#39;attività creata è impostato su &quot;[!UICONTROL Non appena possibile]&quot; anziché &quot;[!UICONTROL Inizia non prima di].&quot; Ciò può verificarsi anche quando si utilizzano modelli di progetto.
+Quando un utente crea una nuova attività tramite il pulsante “[!UICONTROL Nuova attività]” e l’opzione [!UICONTROL New Task Default Start Date] (Data di inizio predefinita per la nuova attività) è impostata su “[!UICONTROL Oggi]”, il parametro relativo al vincolo attività è configurato su “[!UICONTROL As soon as possible]” (Appena possibile) e non su “[!UICONTROL Start no earlier than]” (Inizia non prima del). Ciò può verificarsi anche quando si utilizzano i modelli di progetto.
 
-**Orario di apertura in [!UICONTROL Gruppi] Area porta a pagina vuota**
+**L’apertura di un programma nella sezione [!UICONTROL Gruppi] comporta la visualizzazione di una pagina vuota**
 
 _Configura_
 
-Quando un utente visualizza i gruppi nel [!UICONTROL Configurazione] e tenta di aprire, modificare o copiare una pianificazione, la pianificazione non si apre e l’utente visualizza una pagina vuota.
+Quando un utente visualizza i gruppi nella sezione [!UICONTROL Configurazione] e tenta di aprire, modificare o copiare un programma, l’operazione ha esito negativo e viene visualizzata una pagina vuota.
 
-**Le modifiche non vengono visualizzate quando si riordina la navigazione a sinistra**
+**Le modifiche non vengono visualizzate quando si riordina il pannello di navigazione a sinistra**
 
 _Navigazione_
 
-Quando un utente tenta di riordinare il pannello di navigazione a sinistra trascinando un elemento, questo viene visualizzato nella posizione precedente quando l’utente lo rilascia. Se l’utente aggiorna la pagina, nel pannello a sinistra viene visualizzato il nuovo ordine.
+Quando un utente trascina un elemento nel tentativo di riordinare il pannello di navigazione a sinistra, al momento del rilascio l’elemento torna nella posizione precedente. Quando l’utente aggiorna la pagina, il pannello a sinistra mostra il nuovo ordine.
 
-**Il collegamento per inviare un documento richiesto porta a una pagina vuota.**
+**Il collegamento per inviare un documento richiesto conduce a una pagina vuota.**
 
 _Documenti_
 
-Quando un utente riceve una richiesta di invio di un documento e fa clic sul collegamento all&#39;oggetto in cui è stato richiesto il documento, il collegamento porta a una pagina vuota. Questo può verificarsi quando si fa clic su un collegamento in un’e-mail o in una notifica in-app.
+Quando un utente riceve una richiesta di invio di un documento e fa clic sul collegamento all’oggetto in cui è stato richiesto il documento, il collegamento conduce a una pagina vuota. Ciò può verificarsi quando si fa clic su un collegamento all’interno di un’e-mail o una notifica in-app.
 
-**[!UICONTROL Bilanciamento del carico di lavoro] mostra 0 ore assegnate**
+**[!UICONTROL Il Bilanciatore dei carichi di lavoro] mostra 0 ore assegnate**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente visualizza la variabile [!UICONTROL Bilanciamento del carico di lavoro] e ha &quot;[!UICONTROL Mostra date previste]&quot; impostazione abilitata, tutte le date future vengono visualizzate 0 ore allocate.
+Quando un utente visualizza il [!UICONTROL Bilanciatore dei carichi di lavoro] e l’impostazione “[!UICONTROL Show projected dates]” (Mostra date previste) è abilitata, tutte le date future visualizzano 0 ore assegnate.
 
 **Le bozze scompaiono a intermittenza dalle cartelle**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente ha effettuato l&#39;accesso a [!DNL Workfront Proof] visualizza una cartella, la cartella appare vuota. Se l’utente esegue il check-indietro in un secondo momento, le bozze sono visibili.
+Quando un utente effettua l’accesso a [!DNL Workfront Proof] e visualizza una cartella, questa appare vuota. Se l’utente ricontrolla in un secondo momento, le bozze sono visibili.
 
 +++
 
-+++**Aggiornamento della manutenzione il 16 dicembre 2021**
++++**Aggiornamento di manutenzione del giovedì 16 dicembre 2021**
 
-**Facendo clic sull&#39;annuncio nell&#39;elenco delle notifiche si arriva alla pagina vuota**
+**Facendo clic su un annuncio nell’elenco delle notifiche viene visualizzata una pagina vuota**
 
 _Notifiche_
 
-Quando un utente apre il proprio elenco di notifiche da [!UICONTROL Notifiche] quindi fa clic su un annuncio, viene visualizzata una pagina vuota e l’annuncio non viene visualizzato.
+Quando un utente apre l’elenco delle notifiche tramite l’icona [!UICONTROL Notifiche] e fa clic su un annuncio, viene visualizzata una pagina vuota.
 
-**Il pannello di riepilogo mostra &quot;[!UICONTROL Nessuna selezione]&quot; quando l&#39;attività è selezionata**
+**Il pannello di riepilogo mostra il messaggio “[!UICONTROL Nessuna selezione]” quando l’attività è selezionata**
 
 _Attività_
 
-Quando un utente apre un riepilogo del documento nel [!UICONTROL Documenti] area di un progetto, quindi passa all&#39;elenco attività, seleziona un&#39;attività e tenta di aprire il riepilogo attività, il riepilogo attività non viene visualizzato e l&#39;utente visualizza il seguente messaggio:
+Quando un utente apre il riepilogo di un documento nella sezione [!UICONTROL Documenti] di un progetto, seleziona un’attività dal relativo elenco e tenta di visualizzarne il riepilogo, l’operazione ha esito negativo e viene visualizzato il messaggio seguente:
 
 [!UICONTROL Nessuna selezione. Selezionare un documento nell&#39;elenco per visualizzare i dettagli.]
 
 Il messaggio fa riferimento ai documenti anche se l’utente si trova nell’elenco delle attività.
 
-**[!UICONTROL Lavoro non assegnato] non viene caricato**
+**[!UICONTROL Unassigned Work] (Lavoro non assegnato) non si carica**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente nella [!UICONTROL Bilanciamento del carico di lavoro] crea un filtro utilizzando [!UICONTROL Assegnazione:ID ruolo] campo [!UICONTROL Lavoro non assegnato] l&#39;area non viene caricata.
+Quando un utente crea un filtro all’interno del [!UICONTROL Bilanciatore dei carichi di lavoro] utilizzando il campo [!UICONTROL Assignment:Role ID] (Assegnazione:ID ruolo), la sezione [!UICONTROL Lavoro non assegnato] non si carica.
 
-**Collegamento di un modello utilizzando &quot;[!UICONTROL Personalizza e allega]&quot; cancella i valori dei campi personalizzati**
-
-_Progetti_
-
-Se un utente allega un modello a un progetto utilizzando &quot;[!UICONTROL Personalizza e allega]&quot; e al progetto è già associato un modulo personalizzato, i valori dei campi personalizzati non vengono riportati e devono essere immessi manualmente. Ciò si verifica anche quando il modello include lo stesso modulo personalizzato.
-
-+++
-
-+++**Aggiornamento della manutenzione (Hotfix) il 10 dicembre 2021**
-
-**[!UICONTROL Whops] errore durante l&#39;associazione del modello al progetto esistente**
+**Quando si allega un modello tramite l’opzione “[!UICONTROL Customize and attach]” (Personalizza e allega) i valori dei campi personalizzati si cancellano**
 
 _Progetti_
 
-Quando un utente tenta di allegare un modello a un progetto esistente, il modello non viene allegato e l&#39;utente visualizza il seguente errore:
-
-&quot;[!UICONTROL Wow! Si è verificato un errore. Contattare [!DNL Workfront] quindi possiamo capire cosa è andato storto e ripararlo.]&quot;
+Se un utente allega un modello a un progetto utilizzando l’opzione “[!UICONTROL Customize and attach]” (Personalizza e allega) e al progetto è già associato un modulo personalizzato, i valori dei campi personalizzati non vengono riportati e devono essere immessi manualmente. Ciò si verifica anche quando il modello include lo stesso modulo personalizzato.
 
 +++
 
-+++**Aggiornamento della manutenzione il 9 dicembre 2021**
++++**Aggiornamento di manutenzione (aggiornamento rapido) del venerdì 10 dicembre 2021**
+
+**[!UICONTROL Errore] durante l’associazione di un modello a un progetto esistente**
+
+_Progetti_
+
+Quando un utente tenta di allegare un modello a un progetto esistente, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
+
+“[!UICONTROL Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
+
++++
+
++++**Aggiornamento di manutenzione del giovedì 9 dicembre 2021**
 
 
 **Il pannello di navigazione a sinistra compresso si espande al caricamento della pagina**
 
 _Navigazione_
 
-Quando un utente imposta la propria navigazione a sinistra per comprimere e quindi aggiorna una pagina, la navigazione a sinistra viene espansa sulla pagina ricaricata. La navigazione a sinistra viene espansa anche se l’utente apre una pagina in una nuova scheda.
+Quando un utente imposta la visualizzazione compressa del pannello di navigazione a sinistra e successivamente aggiorna la pagina, il pannello di navigazione si espande nella pagina ricaricata. Il pannello di navigazione sinistro si espande anche quando l’utente apre una pagina in una nuova scheda.
 
-**[!UICONTROL Bilanciamento del carico di lavoro] mostra 0 ore assegnate**
+**[!UICONTROL Il Bilanciatore dei carichi di lavoro] mostra 0 ore assegnate**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente visualizza la variabile [!UICONTROL Bilanciamento del carico di lavoro] e ha &quot;[!UICONTROL Mostra date previste]&quot; impostazione abilitata, tutte le date future vengono visualizzate 0 ore allocate.
+Quando un utente visualizza il [!UICONTROL Bilanciatore dei carichi di lavoro] e l’impostazione “[!UICONTROL Show projected dates]” (Mostra date previste) è abilitata, tutte le date future visualizzano 0 ore assegnate.
 
 +++
 
-+++**Aggiornamento della manutenzione l’8 dicembre 2021**
++++**Aggiornamento di manutenzione dell’mercoledì 8 dicembre 2021**
 
-**L&#39;approvazione viene ripristinata quando viene effettuato un aggiornamento**
+**L’approvazione si ripristina dopo aver effettuato un aggiornamento**
 
 _Approvazioni_
 
-Se un utente prende una decisione su un&#39;approvazione utilizzando l&#39;intestazione dell&#39;oggetto, quindi esegue immediatamente un aggiornamento sull&#39;oggetto, le icone di approvazione vengono nuovamente visualizzate nell&#39;intestazione e la decisione di approvazione non viene salvata.
+Se un utente prende una decisione su un’approvazione utilizzando l’intestazione dell’oggetto e immediatamente dopo aggiorna l’oggetto, le icone di approvazione vengono nuovamente visualizzate nell’intestazione e la decisione di approvazione non viene salvata.
 
-**[!UICONTROL Impossibile modificare in linea un&#39;assegnazione in un report]**
+**[!UICONTROL Impossibile eseguire la modifica in linea di un’assegnazione in un rapporto]**
 
 _Rapporti_
 
-Quando un utente tenta di modificare in linea un&#39;assegnazione in un rapporto, il valore del campo non cambia e la modifica non viene salvata.
+Quando un utente tenta di eseguire una modifica in linea di un’assegnazione in un rapporto, il valore del campo non cambia e la modifica non viene salvata.
 
 
 +++
 
-+++**Aggiornamento della manutenzione il 2 dicembre 2021**
++++**Aggiornamento di manutenzione del giovedì 2 dicembre 2021**
 
-**Aggiunta di una barra aggiuntiva durante la digitazione manuale dell’URL**
+**Aggiunta di una barra durante la digitazione manuale dell’URL**
 
 _Richieste_
 
-Quando un utente compila una richiesta e inizia a digitare manualmente un URL, ad un certo punto viene aggiunta una barra in più vicino all’inizio dell’URL. L&#39;utente non può eliminare la barra.
+Quando un utente compila una richiesta e inizia a digitare manualmente un URL, viene aggiunta una barra vicino alla parte iniziale dell’URL. L’utente non può eliminare la barra.
 
-**Impossibile rimuovere le sezioni personalizzate dal pannello di navigazione a sinistra**
+**Non è possibile rimuovere le sezioni personalizzate dal pannello di navigazione a sinistra**
 
 _Navigazione_
 
-Quando un utente tenta di rimuovere una sezione personalizzata dal pannello di navigazione a sinistra facendo clic sulla X accanto alla sezione, la sezione non viene rimossa.
+Quando un utente tenta di rimuovere una sezione personalizzata dal pannello di navigazione a sinistra facendo clic sulla X accanto alla sezione, l’operazione ha esito negativo.
 
-**Il lavoro non assegnato non viene caricato**
+**Unassigned Work (Lavoro non assegnato) non si carica**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente nella [!UICONTROL Bilanciamento del carico di lavoro] crea un filtro utilizzando [!UICONTROL Assegnazione:ID ruolo] campo [!UICONTROL Lavoro non assegnato] l&#39;area non viene caricata.
+Quando un utente crea un filtro all’interno del [!UICONTROL Bilanciatore dei carichi di lavoro] utilizzando il campo [!UICONTROL Assignment:Role ID] (Assegnazione:ID ruolo), la sezione [!UICONTROL Lavoro non assegnato] non si carica.
 
-**Pagine che non vengono caricate in alcuni browser**
+**Impossibile caricare le pagine in determinati browser**
 
 _[!DNL Workfront]_
 
-Quando un utente lavora in [!DNL Workfront], le pagine non vengono caricate e l’utente visualizza il seguente messaggio di errore:
+Quando un utente lavora in [!DNL Workfront], le pagine non si caricano e l’utente visualizza il messaggio di errore seguente:
 
 &quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]&quot;
 
-Questo è stato segnalato in
+Questo problema è stato segnalato in
 
 * [!DNL Firefox]
 * [!DNL Microsoft Edge]
@@ -171,51 +171,51 @@ Questo errore si verifica in modo casuale e può influenzare qualsiasi area di [
 +++
 
 
-## Aggiornamenti a novembre 2021
+## Aggiornamenti di novembre 2021
 
-+++**Aggiornamento della manutenzione il 18 novembre 2021**
++++**Aggiornamento di manutenzione del giovedì 18 novembre 2021**
 
-**[!DNL Workfront]per [!DNL Jira] &quot;[!UICONTROL ClientID o clientSecret non valido]&quot; errore all&#39;accesso**
+**[!DNL Workfront]per [!DNL Jira]: errore “[!UICONTROL clientID o clientSecret non valido]” al momento dell’accesso**
 
-_Integrazioni Workfront_
+_Integrazioni di Workfront_
 
-Gli utenti sono stati disconnessi da [!DNL Jira] per l’integrazione con Workfront. Quando un utente tenta di accedere al [!DNL Workfront for Jira] integrazione, non possono effettuare l&#39;accesso e viene visualizzato il seguente errore:
+Gli utenti sono stati disconnessi dall’integrazione [!DNL Jira] per Workfront. Quando un utente tenta di accedere all’integrazione [!DNL Workfront for Jira], l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
-&quot;[!UICONTROL ClientID o clientSecret non valido]&quot;
+“[!UICONTROL clientID o clientSecret non valido]”
 
-**Il modulo personalizzato allegato alla richiesta non viene aggiornato quando viene selezionato un nuovo argomento della coda**
+**Il modulo personalizzato allegato alla richiesta non si aggiorna durante la selezione di un nuovo Argomento coda**
 
 _Richieste_
 
-Quando un utente crea una richiesta e seleziona un argomento della coda che allega automaticamente un modulo personalizzato alla richiesta e quindi seleziona un argomento della coda diverso, il modulo personalizzato del primo argomento della coda rimane allegato alla richiesta.
+Quando un utente crea una richiesta, seleziona un Argomento coda che allega automaticamente un modulo personalizzato alla richiesta e successivamente seleziona un Argomento coda diverso, il modulo personalizzato del primo Argomento coda rimane allegato alla richiesta.
 
 **Le icone non vengono visualizzate correttamente**
 
 _[!DNL Workfront]_
 
-Le immagini a icona non vengono visualizzate correttamente. Questo è stato riportato in molte aree in [!UICONTROL Workfront].
+Le immagini delle icone non vengono visualizzate correttamente. Questo problema è stato segnalato in molte sezioni di [!UICONTROL Workfront].
 
-**Le attività non vengono esportate in PDF quando è selezionata l’opzione &quot;Altre dimensioni&quot;.**
+**Le attività non vengono esportate in formato PDF quando si seleziona l’opzione “Other Sizes” (Altre dimensioni).**
 
 _Attività_
 
-Se un utente tenta di esportare un elenco di attività in PDF e seleziona il[!UICONTROL Altre dimensioni]&quot;, possono selezionare una dimensione e fare clic su [!UICONTROL Esporta], ma l’elenco non viene esportato. Nessun messaggio di errore e nessun&#39;altra indicazione che l&#39;esportazione sia stata eseguita correttamente.
+Quando un utente tenta di esportare un elenco di attività in formato PDF utilizzando l’opzione “[!UICONTROL Other Sizes]” (Altre dimensioni), può selezionare una dimensione e fare clic su [!UICONTROL Esporta], ma l’elenco non viene esportato. Non viene visualizzato alcun messaggio di errore o indicazione che comunichi la mancata esportazione.
 
-**L’indicatore immagine non viene visualizzato nelle notifiche e-mail**
+**L’indicatore dell’immagine non viene visualizzato nelle notifiche e-mail**
 
 _Notifiche_
 
-Quando un utente aggiunge un&#39;immagine a un aggiornamento e viene inviata una notifica e-mail al destinatario dell&#39;aggiornamento, l&#39;e-mail non include un indicatore dell&#39;esistenza di un&#39;immagine nell&#39;aggiornamento.
+Quando un utente aggiunge un’immagine a un aggiornamento, il destinatario dell’aggiornamento riceve una notifica e-mail. Tale notifica non include un indicatore della presenza di un’immagine nell’aggiornamento.
 
-**Pagine che non vengono caricate in alcuni browser**
+**Impossibile caricare le pagine in determinati browser**
 
 _[!DNL Workfront]_
 
-Quando un utente lavora in [!DNL Workfront], le pagine non vengono caricate e l’utente visualizza il seguente messaggio di errore:
+Quando un utente lavora in [!DNL Workfront], le pagine non si caricano e l’utente visualizza il messaggio di errore seguente:
 
 &quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]&quot;
 
-Questo è stato segnalato in
+Questo problema è stato segnalato in
 
 * [!DNL Firefox]
 * [!DNL Microsoft Edge]
@@ -224,62 +224,62 @@ Questo errore si verifica in modo casuale e può influenzare qualsiasi area di W
 
 +++
 
-+++**Aggiornamento della manutenzione l’11 novembre 2021**
++++**Aggiornamento di manutenzione dell’giovedì 11 novembre 2021**
 
-**Problema con le integrazioni dei documenti, pagina vuota nella finestra a comparsa di caricamento dei documenti da[!DNL Google Drive*]*
+**Problema con le integrazioni dei documenti: visualizzazione di una pagina vuota nel popup di caricamento del documento da[!DNL Google Drive*]*
 
 _Documenti_
 
-Quando un utente tenta di aggiungere un nuovo documento a [!DNL Workfront] da [!DNL Google Drive] utilizzando [!UICONTROL Aggiungi nuovo] >[!UICONTROL Da [!DNL Google Drive]], la schermata a comparsa per il caricamento rimane vuota.
+Quando un utente tenta di aggiungere un nuovo documento a [!DNL Workfront] da [!DNL Google Drive] tramite [!UICONTROL Aggiungi nuovo] > [!UICONTROL Da [!DNL Google Drive]], la schermata popup di caricamento rimane vuota.
 
-**Impossibile utilizzare più di un filtro nel load balancer di carico di lavoro**
+**Impossibile utilizzare più di un filtro nel Bilanciatore dei carichi di lavoro**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente sta tentando di utilizzare più di un filtro nel [!UICONTROL Bilanciamento del carico di lavoro], i seguenti problemi:
+Quando un utente tenta di utilizzare più di un filtro nel [!UICONTROL Bilanciatore dei carichi di lavoro], riscontra i problemi seguenti:
 
-* Se l’utente seleziona due filtri, viene applicato solo il filtro inferiore.
-* Se l’utente seleziona più di due filtri, non viene visualizzato alcun risultato.
+* Se seleziona due filtri, viene applicato solo il filtro inferiore.
+* Se seleziona più di due filtri, non viene visualizzato alcun risultato.
 
-**&quot;[!UICONTROL Cartelle di progetto]&quot; intestazione documento mancante nell&#39;area documenti del progetto**
+**Non è presente alcuna intestazione del documento “[!UICONTROL Cartelle di progetto]” nell’area relativa ai documenti del progetto**
 
 _Progetti_
 
-Quando un utente si trova in un progetto e visualizza i documenti del progetto, l’intestazione &quot;[!UICONTROL Cartelle di progetto]&quot; manca nel menu di navigazione a sinistra. La freccia a discesa è ancora presente e l&#39;utente può selezionare una cartella.
+Quando un utente si trova all’interno di un progetto e visualizza i relativi documenti, l’intestazione “[!UICONTROL Cartelle di progetto]” non è visibile nel menu di navigazione a sinistra. La freccia a discesa è ancora presente e l’utente può selezionare una cartella.
 
-**Le colonne sulla scheda Kanban sono troppo grandi e non possono essere regolate**
+**Le colonne sulla bacheca Kanban sono troppo grandi e non è possibile regolarle**
 
 _Agile_
 
-Quando un utente visualizza una bacheca Kanban con più colonne, le colonne sono troppo grandi e l&#39;utente deve scorrere per visualizzare o spostare le schede nelle colonne più a destra. Le larghezze delle colonne non sono regolabili, pertanto l’utente non può ridurre le colonne in modo che siano tutte visibili sullo schermo contemporaneamente.
+Quando un utente visualizza una bacheca Kanban contenente più colonne e queste colonne sono troppo larghe, l’utente deve scorrere per visualizzarle oppure deve spostare le schede nelle colonne più a destra. La larghezza delle colonne non è regolabile, pertanto l’utente non può rimpicciolirle in modo da visualizzarle contemporaneamente sullo schermo.
 
-**Interfaccia migliorata per la creazione di un nuovo team**
+**È stata migliorata l’interfaccia per la creazione di un nuovo team**
 
 _Team_
 
-La creazione di team è ora più intuitiva grazie ai nuovi suggerimenti visivi. Quando selezioni la [!UICONTROL Cambia team] su qualsiasi pagina del team, la [!UICONTROL Crea nuovo team] il link ha un&#39;icona per indicare &quot;[!UICONTROL nuovo],&quot; e il collegamento è separato dal resto dell’elenco in modo che non sembri un nome di team. Questa interfaccia è la stessa per i team agili e non-agili.
+La creazione di team è ora più intuitiva grazie ai nuovi suggerimenti visivi. Quando selezioni l’icona [!UICONTROL Switch Teams] (Cambia team) su una pagina del team, il collegamento [!UICONTROL Create New Team] (Crea nuovo team) presenta un’icona per indicare “[!UICONTROL nuovo]” e appare separato dal resto dell’elenco, in modo da distinguerlo rispetto a un nome del team. Questa interfaccia è la stessa per i team Agile e non Agile.
 
 +++
 
-+++**Aggiornamento della manutenzione il 4 novembre 2021**
++++**Aggiornamento di manutenzione del giovedì 4 novembre 2021**
 
-**Nuove attività predefinite per un vincolo di attività non corretto**
+**Le nuove attività sono impostate su un vincolo attività predefinito non corretto**
 
 _Attività_
 
-Quando un utente crea una nuova attività utilizzando il pulsante &quot;[!UICONTROL Nuova attività]&quot; e l&#39;opzione Nuova data di inizio predefinita attività è impostata su &quot;[!UICONTROL Oggi],&quot; il vincolo dell&#39;attività creata è impostato su &quot;[!UICONTROL Non appena possibile]&quot; anziché &quot;[!UICONTROL Inizia non prima di].&quot;
+Quando un utente crea una nuova attività tramite il pulsante “[!UICONTROL Nuova attività]” e l’opzione New Task Default Start Date (Data di inizio predefinita per la nuova attività) è impostata su “[!UICONTROL Oggi]”, il parametro relativo al vincolo attività è configurato su “[!UICONTROL As soon as possible]” (Appena possibile) e non su “[!UICONTROL Start no earlier than]” (Inizia non prima del).
 
-**I campi non vengono visualizzati sulle schede dei racconti Agile**
-
-_Agile_
-
-Quando un utente visualizza uno storyboard di Agile, le schede visualizzano solo il [!UICONTROL Descrizione] e [!UICONTROL Stato] campi. Eventuali altri campi, compresi quelli personalizzati, non vengono visualizzati.
-
-**Le schede ritornano alla colonna originale prima di passare alla nuova colonna**
+**I campi non vengono visualizzati nelle schede delle bacheche delle storie di Agile**
 
 _Agile_
 
-Quando un utente trascina una scheda in una nuova colonna dello storyboard, l&#39;utente può vedere la scheda che sta trascinando. Tuttavia, quando l&#39;utente rilascia la scheda nella nuova colonna, questa viene visualizzata brevemente nella colonna originale prima che venga visualizzata nella nuova colonna.
+Quando un utente visualizza una bacheca delle storie di Agile, le relative schede mostrano solo i campi [!UICONTROL Descrizione] e [!UICONTROL Stato]. Tutti gli altri campi, compresi quelli personalizzati, non vengono visualizzati.
+
+**Le schede tornano alla colonna originale prima di passare alla nuova colonna**
+
+_Agile_
+
+L’utente può visualizzare una scheda durante il suo trascinamento in una nuova colonna della bacheca delle storie. Quando rilascia la scheda nella nuova colonna, tuttavia, questa appare brevemente nella colonna originale prima di essere visualizzata nella nuova colonna.
 
 **Valori non disponibili per il campo personalizzato nel filtro**
 
@@ -287,1478 +287,1478 @@ _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
 Quando un utente tenta di creare un filtro utilizzando un campo personalizzato, il valore del campo personalizzato non viene visualizzato e non può essere inserito nel filtro.
 
-**Pagine non caricate [!DNL Firefox] browser**
+**Impossibile caricare le pagine nel [!DNL Firefox] browser**
 
 _[!DNL Workfront]_
 
-Quando un utente lavora in [!DNL Workfront] utilizzando [!DNL Firefox] browser, le pagine non vengono caricate e l&#39;utente visualizza il seguente messaggio di errore:
+Quando un utente lavora in [!DNL Workfront] utilizzando un browser [!DNL Firefox], le pagine non si caricano e si visualizza il messaggio di errore seguente:
 
 &quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]&quot;
 
 Questo errore si verifica in modo casuale e può influenzare qualsiasi area di [!DNL Workfront].
 
-**Errore relativo alla data durante la creazione di un progetto dal modello.**
+**Errore relativo alla data durante la creazione di un progetto a partire da un modello.**
 
 _Modelli_
 
-Se un utente crea un progetto da un modello e imposta la modalità di pianificazione su [!UICONTROL Data di inizio], quindi seleziona un vincolo di attività quando l’utente tenta di creare il progetto, il progetto non viene creato e l’utente visualizza un messaggio di errore basato sul vincolo di attività.
+Quando un utente crea un progetto a partire da un modello, imposta la modalità di pianificazione su [!UICONTROL Data di inizio] e seleziona un vincolo attività, l’operazione ha esito negativo e viene visualizzato un messaggio di errore in base al vincolo attività.
 
-**[!UICONTROL Esporta diagramma di Gantt] la finestra di dialogo non risponde**
+**[!UICONTROL La finestra di dialogo Export Gantt Chart] (Esporta grafico di Gantt) non risponde**
 
 _Diagramma di Gantt_
 
-Se un utente nel nuovo [!DNL Workfront] tenta di esportare il [!UICONTROL Diagramma di Gantt] e seleziona il[!UICONTROL Cosa vedo]&quot;, l&#39;opzione [!UICONTROL Diagramma di Gantt] non esporta e la finestra di dialogo non risponde. L&#39;utente non è in grado di chiudere o fare clic fuori dalla finestra di dialogo.
+Quando un utente nella nuova esperienza [!DNL Workfront] tenta di esportare il [!UICONTROL Grafico di Gantt] selezionando l’opzione “[!UICONTROL What I See]” (Elementi visualizzati), l’esportazione del [!UICONTROL Grafico di Gantt] ha esito negativo e la finestra di dialogo non risponde. L’utente non è in grado di chiudere o uscire dalla finestra di dialogo.
 
 **Le icone non vengono visualizzate correttamente**
 
 _[!DNL Workfront]_
 
-Le immagini a icona non vengono visualizzate correttamente. Sono state segnalate situazioni che includono, tra l’altro:
+Le immagini delle icone non vengono visualizzate correttamente. Questo problema è stato segnalato in alcune situazioni, tra cui:
 
-* Immagini per ruoli o gruppi di lavoro durante la condivisione di un oggetto
-* Icone a sinistra e a destra nei rapporti sul calendario
-* Ordinare le icone nelle colonne dei rapporti
+* Immagini per mansioni o gruppi di lavoro durante la condivisione di un oggetto
+* Icone a sinistra e a destra nei report calendario
+* Icone di ordinamento nelle colonne dei rapporti
 
-**Aggiungi le caselle di controllo alle richieste nel [!UICONTROL Inviato] della sezione [!UICONTROL Richieste] area**
+**Sono state aggiunte delle caselle di controllo alle richieste nella sezione [!UICONTROL Inviato] dell’area [!UICONTROL Richieste]**
 
 _Richieste_
 
-Sono state aggiunte delle caselle di controllo a sinistra dei nomi delle richieste nel [!UICONTROL Elenco inviato] del [!UICONTROL Richieste] area. Questo semplifica la selezione di una richiesta e la visualizzazione di informazioni aggiuntive.
+Sono state aggiunte delle caselle di controllo a sinistra dei nomi delle richieste nell’elenco [!UICONTROL Inviato] dell’area [!UICONTROL Richieste]. In questo modo è più facile selezionare una richiesta e visualizzare le informazioni aggiuntive.
 
-**I trimestri personalizzati sono ora supportati nei filtri di bilanciamento del carico di lavoro**
-
-_[!UICONTROL Bilanciatore dei carichi di lavoro]_
-
-I filtri nel [!UICONTROL Bilanciamento del carico di lavoro] ora supporta i trimestri personalizzati.
-
-**Operatore filtro aggiornato per il campo Durata nei filtri di bilanciamento del carico di lavoro**
+**I filtri del Bilanciatore dei carichi di lavoro supportano ora i trimestri personalizzati**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Gli operatori di filtro sono stati aggiornati quando si filtra il[!UICONTROL  Bilanciamento del carico di lavoro] zone [!UICONTROL Durata].
+I filtri del [!UICONTROL Bilanciatore dei carichi di lavoro] ora supportano i trimestri personalizzati.
+
+**È stato aggiornato l’operatore di filtro per il campo Durata nei filtri del Bilanciatore dei carichi di lavoro**
+
+_[!UICONTROL Bilanciatore dei carichi di lavoro]_
+
+Sono stati aggiornati gli operatori di filtro quando si filtrano le aree del[!UICONTROL  Bilanciatore dei carichi di lavoro] in base alla [!UICONTROL Durata].
 
 +++
 
 
-## Aggiornamenti a ottobre 2021
+## Aggiornamenti di ottobre 2021
 
-+++**Aggiornamento della manutenzione il 28 ottobre 2021**
++++**Aggiornamento di manutenzione del giovedì 28 ottobre 2021**
 
-**[!UICONTROL Pagina principale] e [!UICONTROL Il mio lavoro] visualizzazione di una pagina vuota**
+**[!UICONTROL Home] e [!UICONTROL My Work] (Lavoro personale) restituiscono una pagina vuota**
 
-_[!UICONTROL Pagina principale] / [!UICONTROL Il mio lavoro]_
+_[!UICONTROL Home] / [!UICONTROL My Work]_ (Lavoro personale)
 
-Quando un utente accede a [!UICONTROL Pagina principale] Per Lavoro personale, la pagina viene visualizzata come vuota.
+L’utente visualizza una pagina vuota quando passa a [!UICONTROL Home] o My Work (Lavoro personale).
 
-**Impossibile visualizzare o modificare [!UICONTROL Gruppo argomenti] dettagli**
-
-_Richieste_
-
-Quando un utente tenta di visualizzare o modificare i dettagli di un gruppo di argomenti, la pagina visualizzata mostra &quot;[!UICONTROL Dettagli gruppo argomenti]&quot; nell&#39;intestazione ma altrimenti è vuoto
-
-**I pulsanti di scelta vuoti richiesti vengono compilati automaticamente**
+**Impossibile visualizzare o modificare i dettagli del [!UICONTROL Topic Group] (Gruppo di argomenti)**
 
 _Richieste_
 
-Quando un utente invia una richiesta con un campo pulsante di scelta obbligatorio e l’utente non ha selezionato un valore per quel campo prima di inviare la richiesta, il primo valore viene selezionato automaticamente all’invio della richiesta.
+Quando un utente tenta di visualizzare o modificare i dettagli di un Topic Group (Gruppo di argomenti), la pagina visualizzata appare vuota ad eccezione di “[!UICONTROL Topic Group Detail]” (Dettagli gruppo di argomenti) presente nell’intestazione
+
+**I pulsanti di scelta vuoti obbligatori vengono compilati automaticamente**
+
+_Richieste_
+
+Quando un utente invia una richiesta con un campo pulsante di scelta obbligatorio senza tuttavia scegliere un valore per tale campo, all’invio della richiesta viene selezionato automaticamente il primo valore.
 
 +++
 
-+++**Aggiornamento della manutenzione il 21 ottobre 2021**
++++**Aggiornamento di manutenzione del giovedì 21 ottobre 2021**
 
-**Impossibile aggiungere un filtro in [!UICONTROL Bilanciamento del carico di lavoro]**
+**Impossibile aggiungere un filtro nel [!UICONTROL Bilanciatore dei carichi di lavoro]**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente nella [!UICONTROL Bilanciamento del carico di lavoro] tenta di aggiungere un filtro, il [!UICONTROL Aggiungi filtro] Il pannello si apre, ma il contenuto del pannello non viene caricato e l’utente non può aggiungere il filtro.
+Quando un utente tenta di aggiungere un filtro nel [!UICONTROL Bilanciatore dei carichi di lavoro], si apre il pannello [!UICONTROL Aggiungi filtro] ma non viene visualizzato alcun contenuto al suo interno, rendendo impossibile l’aggiunta di un filtro.
 
-**La scheda Agile Scrum non visualizza storie**
-
-_Agile_
-
-Quando un utente tenta di visualizzare la bacheca di Scrum nell&#39;iterazione di un team, la bacheca di script viene visualizzata come vuota.
-
-**Scrum story board vuoto quando si utilizzano i filtri**
+**La bacheca Scrum di Agile non visualizza le storie**
 
 _Agile_
 
-Quando un utente tenta di visualizzare una bacheca della storia di Scrum utilizzando un filtro qualsiasi ma il &quot;[!UICONTROL Tutto il team]&quot;, viene visualizzata una schermata vuota. L&#39;utente non è in grado di tornare al &quot;[!UICONTROL Tutto il team]&quot; filtro.
+Quando un utente tenta di visualizzare la bacheca Scrum nell’iterazione di un team, visualizza una pagina vuota.
 
-**Gli elenchi sono visibili solo in una piccola area dello schermo**
+**La bacheca delle storie Scrum è vuota quando si utilizzano i filtri**
+
+_Agile_
+
+Quando un utente tenta di visualizzare una bacheca delle storie Scrum con qualsiasi filtro diverso da “[!UICONTROL All Team]” (Tutti i team) viene mostrata una schermata vuota. L’utente non è in grado di tornare al filtro “[!UICONTROL All Team]” (Tutti i team).
+
+**Gli elenchi sono visibili solo su una piccola area dello schermo**
 
 _Elenchi_
 
-Quando un utente tenta di visualizzare un elenco mentre utilizza un [!DNL Safari] browser su [!DNL Mac] utilizzando [!DNL Big Sur OS], l’elenco viene visualizzato solo in una piccola area dello schermo. L’utente può scorrere l’elenco, ma l’area potrebbe essere così piccola da rendere difficile o impossibile la lettura dell’elenco.
+Quando un utente tenta di visualizzare un elenco tramite un browser [!DNL Safari] su un [!DNL Mac] con [!DNL Big Sur OS], l’elenco appare solo su una piccola area dello schermo. L’utente può scorrere l’elenco, ma l’area potrebbe essere così piccola da renderne la lettura difficile o impossibile.
 
-**I pulsanti di scelta vuoti richiesti vengono compilati automaticamente**
+**I pulsanti di scelta vuoti obbligatori vengono compilati automaticamente**
 
 _Richieste_
 
-Quando un utente invia una richiesta con un campo pulsante di scelta obbligatorio e l’utente non ha selezionato un valore per quel campo prima di inviare la richiesta, il primo valore viene selezionato automaticamente all’invio della richiesta.
+Quando un utente invia una richiesta con un campo pulsante di scelta obbligatorio senza tuttavia scegliere un valore per tale campo, all’invio della richiesta viene selezionato automaticamente il primo valore.
 
 +++
 
-+++**Aggiornamento della manutenzione (Hotfix) il 21 ottobre 2021**
++++**Aggiornamento di manutenzione (aggiornamento rapido) del giovedì 21 ottobre 2021**
 
-**[!UICONTROL Pagina principale] e [!UICONTROL Il mio lavoro] visualizzazione di una pagina vuota**
+**[!UICONTROL Home] e [!UICONTROL My Work] (Lavoro personale) restituiscono una pagina vuota**
 
-_[!UICONTROL Pagina principale] / [!UICONTROL Il mio lavoro]_
+_[!UICONTROL Home] / [!UICONTROL My Work]_ (Lavoro personale)
 
-Quando un utente accede a [!UICONTROL Pagina principale] o [!UICONTROL Il mio lavoro], la pagina viene visualizzata come vuota.
+L’utente visualizza una pagina vuota quando passa a [!UICONTROL Home] o [!UICONTROL My Work] (Lavoro personale).
 
 +++
 
-+++**Aggiornamento della manutenzione il 20 ottobre 2021**
++++**Aggiornamento di manutenzione del mercoledì 20 ottobre 2021**
 
-**[!UICONTROL Bilanciamento del carico di lavoro] impostato come opzione di programmazione predefinita**
+**[!UICONTROL Il Bilanciatore dei carichi di lavoro] è impostato come opzione di pianificazione predefinita**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Se un utente ha [!UICONTROL Scheduler] impostato come predefinito andrà ad usarlo, vedono che il [!UICONTROL Bilanciamento del carico di lavoro] è stato impostato come predefinito.
+Quando un utente utilizza il [!UICONTROL Modulo di pianificazione] impostato come opzione predefinita, nota che il [!UICONTROL Bilanciatore dei carichi di lavoro] è stato impostato come predefinito.
 
 +++
 
-+++**Aggiornamento della manutenzione (Hotfix) il 19 ottobre 2021**
++++**Aggiornamento di manutenzione (aggiornamento rapido) del martedì 19 ottobre 2021**
 
-**Impossibile assegnare una richiesta durante la creazione**
+**Impossibile assegnare una richiesta durante la sua creazione**
 
 _Richieste_
 
-Quando un utente entra nel nuovo [!DNL Workfront] l&#39;esperienza sta creando una richiesta e tenta di assegnare un utente digitandone il nome nel [!UICONTROL Assegnazioni] il campo non visualizza l&#39;elenco a discesa e l&#39;utente non può selezionare il nome dell&#39;assegnatario.
+Quando un utente crea una richiesta all’interno della nuova esperienza [!DNL Workfront] e tenta di assegnare un utente digitandone il nome nel campo [!UICONTROL Assegnazioni], il campo non visualizza l’elenco a discesa e l’utente non può selezionare il nome dell’assegnatario.
 
-**Scrum story board vuoto quando si utilizzano i filtri**
+**La bacheca delle storie Scrum è vuota quando si utilizzano i filtri**
 
 _Agile_
 
-Quando un utente tenta di visualizzare una bacheca della storia di Scrum utilizzando un filtro qualsiasi ma il &quot;[!UICONTROL Tutto il team]&quot;, viene visualizzata una schermata vuota. L&#39;utente non è in grado di tornare al &quot;[!UICONTROL Tutto il team]&quot; filtro.
+Quando un utente tenta di visualizzare una bacheca delle storie Scrum con qualsiasi filtro diverso da “[!UICONTROL All Team]” (Tutti i team) viene mostrata una schermata vuota. L’utente non è in grado di tornare al filtro “[!UICONTROL All Team]” (Tutti i team).
 
 +++
 
-+++**Aggiornamento della manutenzione il 14 ottobre 2021**
++++**Aggiornamento di manutenzione del giovedì 14 ottobre 2021**
 
 **I modelli condivisi a livello di sistema non sono visibili**
 
 _Modelli_
 
-Quando un utente crea un progetto e tenta di utilizzare un modello condiviso a livello di sistema, non può visualizzare il modello nell’elenco dei modelli disponibili e non può utilizzarlo.
+Quando un utente crea un progetto e tenta di utilizzare un modello condiviso a livello di sistema, non riesce a visualizzarlo nell’elenco dei modelli disponibili e quindi non può utilizzarlo.
 
-**Errore durante la creazione di progetti da modelli**
+**Errore durante la creazione di progetti a partire da modelli**
 
 _Modelli_
 
-Quando un utente tenta di creare un progetto da un modello che include un modulo personalizzato con una sezione visibile solo agli amministratori, non può creare il progetto e viene visualizzato il seguente messaggio:
+Quando un utente tenta di creare un progetto a partire da un modello che include un modulo personalizzato con una sezione visibile solo agli amministratori, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
-&quot;[!UICONTROL Categoria con valore/i chiave primaria &quot;xxxxxxxxxxxxxxxxxx&quot; non trovata]&quot;
+“[!UICONTROL Categoria con valore/i di chiave primaria “xxxxxxxxxxxxxxxx” non trovata]”
 
-**Collegamenti aggiornati per copiare e spostare attività**
+**Sono stati aggiornati i collegamenti per copiare e spostare le attività**
 
 _Attività_
 
-I collegamenti per copiare e spostare le attività sono stati aggiornati a &quot;[!UICONTROL Copia in]&quot; e &quot;[!UICONTROL Sposta a]&quot; sia nella pagina attività che in un elenco di attività.
+I collegamenti per copiare e spostare le attività sono stati aggiornati con “[!UICONTROL Copia in]” e “[!UICONTROL Sposta in]” nella pagina e nell’elenco delle attività.
 
-**Rimuovi il limite alla ricerca di ruoli di lavoro durante l&#39;override delle tariffe di fatturazione per un progetto**
+**Rimuovere il limite alla ricerca di mansioni quando si esegue l’override delle tariffe di fatturazione per un progetto**
 
 Ruoli
 
-NOTA: Questo aggiornamento si trova attualmente nell’ambiente di anteprima e sarà in produzione con la versione 22.1 Production . Per ulteriori informazioni, consulta &quot;Panoramica sulla versione 22.1&quot;.
+NOTA: questo aggiornamento è attualmente disponibile nell’ambiente di anteprima e sarà pronto per la produzione con la versione 22.1. Per ulteriori informazioni, vedi “Panoramica della versione 22.1”.
 
-L&#39;override dei tassi di fatturazione per i ruoli di lavoro in un progetto ora cerca tutti i ruoli di lavoro nel sistema.
+L’override delle tariffe di fatturazione per le mansioni all’interno di un progetto effettua ora la ricerca tra tutti i ruoli nel sistema.
 
-Precedentemente, [!DNL Workfront] ricerca di ruoli di lavoro nei primi ruoli 2000 in ordine alfabetico.
+In precedenza, [!DNL Workfront] effettuava la ricerca di ruoli in ordine alfabetico tra i primi 2.000.
 
 +++
 
-+++**Aggiornamento della manutenzione il 7 ottobre 2021**
++++**Aggiornamento di manutenzione del giovedì 7 ottobre 2021**
 
-**[!UICONTROL Le notifiche in-app scompaiono] centro notifiche**
-
-_Notifiche_
-
-Quando un utente visualizza il Centro notifiche, alcune notifiche precedentemente visibili non sono più visibili. In alcuni casi, la notifica potrebbe scomparire prima che l’utente la veda.
-
-**Gli annunci non sono visibili nella sezione [!UICONTROL Tutti gli annunci] page**
+**[!UICONTROL Le notifiche in-app non sono più visibili nel] centro notifiche**
 
 _Notifiche_
 
-Quando un utente apre la [!UICONTROL Tutti gli annunci] dalla pagina [!UICONTROL Notifiche] non sono visibili annunci nelle seguenti aree:
+Alcune notifiche non sono più disponibili quando l’utente accede al centro notifiche. In alcuni casi, la notifica potrebbe scomparire prima che l’utente possa visualizzarla.
+
+**Gli annunci non sono visibili nella pagina [!UICONTROL All Announcements] (Tutti gli annunci)**
+
+_Notifiche_
+
+Quando un utente apre la pagina [!UICONTROL All Announcements] (Tutti gli annunci) dalla sezione [!UICONTROL Notifiche] non sono visibili annunci nelle seguenti aree:
 
 * [!UICONTROL Posta in arrivo]
 * [!UICONTROL Preferiti]
 * [!UICONTROL Bozze]
 * [!UICONTROL Eliminato]
 
-**Errore durante l&#39;assegnazione in [!UICONTROL Bilanciamento del carico di lavoro]**
+**Errore durante l’assegnazione di un lavoro nel [!UICONTROL Bilanciatore dei carichi di lavoro]**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente tenta di effettuare un&#39;assegnazione dal [!UICONTROL Bilanciamento del carico di lavoro], il lavoro non viene assegnato e l&#39;utente visualizza il seguente errore:
+Quando un utente tenta di effettuare un’assegnazione dal [!UICONTROL Bilanciatore dei carichi di lavoro], l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
 &quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]&quot;
 
 +++
 
 
-## Aggiornamenti a settembre 2021
+## Aggiornamenti di settembre 2021
 
-+++**Aggiornamento della manutenzione il 30 settembre 2021**
++++**Aggiornamento di manutenzione del giovedì 30 settembre 2021**
 
-**Errore durante la navigazione rapida da o verso l&#39;esterno [!UICONTROL Pagina principale]**
+**Errore durante l’accesso o l’uscita rapida dalla pagina [!UICONTROL Home]**
 
 _Home_
 
-Quando un utente si sposta rapidamente verso o da [!UICONTROL Pagina principale], la pagina non viene caricata e l’utente visualizza il seguente errore:
+Quando un utente accede o esce rapidamente dalla [!UICONTROL Home], la pagina non si carica e l’utente visualizza il messaggio di errore seguente:
 
 &quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]&quot;
 
-Questo può verificarsi anche quando si passa a [!UICONTROL Pagina principale] tramite un pin.
+Questo problema può verificarsi anche quando si accede alla [!UICONTROL Home] tramite un pin.
 
 +++
 
-+++**Aggiornamento della manutenzione il 23 settembre 2021**
++++**Aggiornamento di manutenzione del giovedì 23 settembre 2021**
 
-**[!UICONTROL Accesso negato] errore durante la visualizzazione dei ticket inviati a[!DNL Workfront]**
+**[!UICONTROL Accesso negato] durante la visualizzazione dei ticket inviati a[!DNL Workfront]**
 
 _problemi_
 
-Quando un utente ha inviato un ticket a [!DNL Workfront] e tenta di visualizzare il ticket, visualizzano il seguente errore:
+Quando un utente tenta di visualizzare un ticket dopo averlo inviato a [!DNL Workfront] riceve il messaggio di errore seguente:
 
-&quot;[!UICONTROL Accesso negato: Wow! Si è verificato un errore. Contattare [!DNL Workfront] quindi possiamo capire cosa è andato storto e ripararlo.]&quot;
+“[!UICONTROL Accesso negato: ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
-**Riepilogo del caso aziendale mostra valori errati**
+**Il pannello di riepilogo Caso di business mostra valori errati**
 
 _Progetti_
 
-Quando un utente visualizza il [!UICONTROL Business case] pannello di riepilogo, i valori visualizzati non riflettono i valori nel singolo [!UICONTROL Business case] sezioni.
+I valori visualizzati durante l’accesso di un utente al pannello di riepilogo [!UICONTROL Caso di business] non corrispondono a quelli presenti nelle singole sezioni di [!UICONTROL Caso di business].
 
-**Le intestazioni di colonna non sono allineate alle colonne negli elenchi**
+**Le intestazioni di colonna non sono allineate con le colonne negli elenchi**
 
 _Configura_
 
-Quando un utente si trova nella [!UICONTROL Configurazione] visualizza un&#39;area e un elenco, ad esempio [!UICONTROL Forms personalizzato] o [!UICONTROL Livelli di accesso], le intestazioni di colonna per tale elenco non sono allineate alle colonne dell’elenco.
+Quando un utente si trova nella sezione [!UICONTROL Configurazione] e visualizza un elenco, ad esempio [!UICONTROL Moduli personalizzati] o [!UICONTROL Livelli di accesso], le intestazioni di colonna per tale elenco non sono allineate con le colonne dell’elenco.
 
-**Gli utenti che non dispongono delle autorizzazioni di condivisione appropriate possono allegare moduli personalizzati agli oggetti**
+**Gli utenti che non dispongono delle autorizzazioni di condivisione appropriate possono allegare i moduli personalizzati agli oggetti**
 
 _Moduli personalizzati_
 
-Quando un modulo personalizzato è incluso nel nuovo [!DNL Adobe Workfront] l’esperienza è impostata per essere visibile a livello di sistema, tutti gli utenti possono allegare il modulo personalizzato a un oggetto. Tuttavia, gli utenti dovrebbero essere in grado di visualizzare il modulo personalizzato e non di allegarlo a un oggetto, a meno che non sia stato condiviso specificatamente con loro.
+Tutti gli utenti possono allegare un modulo personalizzato a un oggetto se tale modulo è impostato per essere visibile a livello di sistema all’interno della nuova esperienza [!DNL Adobe Workfront]. Gli utenti, tuttavia, dovrebbero solo essere in grado di visualizzare il modulo personalizzato e non di allegarlo a un oggetto, a meno che non sia stato condiviso specificatamente con loro.
 
 +++
 
-+++**Aggiornamento della manutenzione il 16 settembre 2021**
++++**Aggiornamento di manutenzione del giovedì 16 settembre 2021**
 
 **Impossibile modificare i gruppi**
 
 _Gruppi_
 
-Quando un utente tenta di modificare o eliminare un gruppo, questo non viene modificato o eliminato e l&#39;utente visualizza il seguente messaggio:
+Quando un utente tenta di modificare o eliminare un gruppo, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
-&quot;[!UICONTROL Riproviamo. Gruppo con valori di chiave primaria &quot;(ID del gruppo)&quot; non trovato]&quot;
+&quot;[!UICONTROL Riproviamo. Gruppo con valore/i di chiave primaria “ID gruppo” non trovato]”.
 
-**[!UICONTROL Ottimizzatore Portfolio] non visualizzare i progetti**
+**[!UICONTROL Ottimizzatore portfolio] non visualizza i progetti**
 
 _Portfolio_
 
-Quando un utente tenta di visualizzare i progetti nel [!UICONTROL Ottimizzatore Portfolio], l’elenco dei progetti non viene visualizzato e l’utente non è quindi in grado di interagire con i progetti.
+Quando un utente tenta di visualizzare i progetti in [!UICONTROL Ottimizzatore portfolio] non viene visualizzato alcun elenco, rendendo impossibile l’interazione con i progetti.
 
 +++
 
-+++**Aggiornamento della manutenzione (Hotfix) il 10 settembre 2021**
++++**Aggiornamento di manutenzione (aggiornamento rapido) del venerdì 10 settembre 2021**
 
-**Data e ora contrassegnate come UTC durante la modifica in linea**
+**Data e ora sono contrassegnate in formato UTC durante la modifica in linea**
 
 _Elenchi_
 
-Quando un utente modifica una data o un’ora in linea (in un elenco di oggetti), la data e l’ora sono contrassegnate come UTC. La data e l’ora non sono impostate in UTC in [!DNL Workfront]. Questo problema interessa solo la visualizzazione, non i dati effettivi.
+Quando un utente esegue la modifica in linea di una data o di un orario (in un elenco di oggetti), la data e l’ora sono contrassegnate in formato UTC. La data e l’ora non sono impostate in formato UTC in [!DNL Workfront]. Il problema riguarda solo la visualizzazione di questi parametri, non i dati effettivi.
 
-**Il colore del testo non viene visualizzato correttamente quando viene applicata la formattazione condizionale**
+**Il colore del testo non viene visualizzato correttamente durante l’applicazione della formattazione condizionale**
 
 _Rapporti_
 
-Quando un utente visualizza un rapporto con una formattazione condizionale che modifica il colore del testo, il colore del testo viene visualizzato come non modificato.
+Quando un utente visualizza un rapporto con una formattazione condizionale che modifica il colore del testo, quest’ultimo rimane inalterato.
 
 +++
 
-+++**Aggiornamento della manutenzione il 9 settembre 2021**
++++**Aggiornamento di manutenzione del giovedì 9 settembre 2021**
 
-**Problemi relativi alla mancata visualizzazione dei dettagli dei problemi**
+**I dettagli dei problemi non vengono visualizzati nella sezione Problemi**
 
-_Pagina principale_
+_Home_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] seleziona un problema dal [!UICONTROL Elenco lavori], l’anteprima nel pannello di destra mostra alcuni campi privi di valori immessi. Tuttavia, se accedi al problema e visualizzi il [!UICONTROL Dettagli del problema], in questi campi sono stati inseriti dei valori.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente seleziona un problema da [!UICONTROL Work List] (Elenco di lavoro), l’anteprima nel pannello a destra mostra alcuni campi senza valori immessi. Tuttavia, se l’utente passa al problema e visualizza la scheda [!UICONTROL Issue Details] (Dettagli del problema), in questi campi sono presenti i valori immessi.
 
-**Per visualizzare gli utenti è necessario disporre delle autorizzazioni di Contribute [!UICONTROL Approvazioni] nella nuova esperienza Workfront**
+**Gli utenti devono disporre delle autorizzazioni Contribute per visualizzare la sezione [!UICONTROL Approvazioni] nella nuova esperienza Workfront**
 
 _Approvazioni_
 
-Utenti [!UICONTROL Collaborare] autorizzazioni per un oggetto per visualizzare [!UICONTROL Approvazioni] nella nuova sezione [!DNL Workfront] Esperienza. Dovrebbero avere solo bisogno di [!UICONTROL Visualizza] autorizzazioni per visualizzare [!UICONTROL Approvazioni] quando è presente un processo di approvazione sull&#39;oggetto.
+Gli utenti devono disporre delle autorizzazioni [!UICONTROL Contribute] relative a un determinato oggetto per visualizzare la sezione [!UICONTROL Approvazioni] nella nuova esperienza [!DNL Workfront]. Dovrebbero essere necessarie soltanto le autorizzazioni [!UICONTROL View] (Visualizzazione) per visualizzare la scheda [!UICONTROL Approvazioni] quando è in corso un processo di approvazione sull’oggetto.
 
-**[!UICONTROL Whops] errore durante l’utilizzo dei filtri**
+**[!UICONTROL Errore] durante l’utilizzo dei filtri**
 
 _Elenchi_
 
-Quando un utente tenta di utilizzare uno dei seguenti filtri:
+Quando un utente tenta di utilizzare uno dei filtri seguenti:
 
 * [!UICONTROL Tutti i progetti]
 * [!UICONTROL Progetti ai quali collaboro]
 * [!UICONTROL Le Mie Attività Correnti]
 
-l’elenco diventa vuoto e l’utente visualizza il seguente errore:
+l’elenco diventa vuoto e viene visualizzato il messaggio di errore seguente:
 
 &quot;[!UICONTROL Riproviamo.]&quot;
 
-**[!UICONTROL Attività] la sezione diventa vuota durante la modifica in linea**
+**[!UICONTROL La sezione Attività] rimane vuota durante la modifica in linea**
 
 _Modelli_
 
-Quando un utente tenta di inline modificare le attività in un modello utilizzando una visualizzazione che include il[!UICONTROL Assegna a: Nome]&quot; e l&#39;assegnazione contiene un utente, il [!UICONTROL Attività] la sezione diventa vuota e l&#39;utente non è in grado di modificare le attività del modello.
+Quando un utente tenta effettuare la modifica in linea delle attività all’interno di un modello utilizzando una visualizzazione che include il campo “[!UICONTROL Assign To: Name]” (Assegna a: Nome) e l’assegnazione contiene un utente, la sezione [!UICONTROL Attività] è vuota e l’utente non è in grado di modificare le attività del modello.
 
-**Impossibile esportare [!UICONTROL Ottimizzatore Portfolio]**
+**Impossibile esportare [!UICONTROL Ottimizzatore portfolio]**
 
 _Portfolio_
 
-Quando un utente tenta di esportare il [!UICONTROL Ottimizzatore Portfolio] e fai clic su una delle opzioni di esportazione, [!UICONTROL Ottimizzatore Portfolio] non esporta.
+Quando un utente tenta di esportare [!UICONTROL Ottimizzatore portfolio] facendo clic su una delle opzioni di esportazione, l’operazione in [!UICONTROL Ottimizzatore portfolio] ha esito negativo.
 
-**Le notifiche non vengono inviate per le risposte**
+**Non vengono inviate notifiche relative alle risposte**
 
 _Notifiche_
 
-Quando un utente risponde a un aggiornamento in [!DNL Workfront], altri utenti nel thread di commento non ricevono notifiche.
+Quando un utente risponde a un aggiornamento in [!DNL Workfront], gli altri utenti del thread di commenti non ricevono le relative notifiche.
 
-**Le modifiche ai dati personalizzati causano un ritardo**
+**Le modifiche ai dati personalizzati causano ritardi**
 
 _Campi personalizzati_
 
-Quando un utente modifica dati personalizzati che attivano le modifiche ad altri dati visualizzati, le modifiche vengono caricate lentamente.
+Quando un utente modifica i dati personalizzati, influenzando così gli altri dati visualizzati, le modifiche si caricano lentamente.
 
-**Raggruppamento &quot;[!UICONTROL Comprimi o espandi tutto]&quot; l&#39;icona non viene visualizzata**
+**L’icona “[!UICONTROL Collapse or Expand All]” (Comprimi o espandi tutto) non viene visualizzata in caso di raggruppamento**
 
 _Reporting_
 
-&quot;[!UICONTROL Comprimi o espandi tutto]&quot; non viene visualizzata nell’intestazione di un elenco o di un rapporto quando i raggruppamenti vengono applicati all’elenco o al rapporto.
+L’icona “[!UICONTROL Collapse or Expand All]” (Comprimi o espandi tutto) non viene visualizzata nell’intestazione di un elenco o di un rapporto quando si applicano i raggruppamenti a tali elementi.
 
-**[!UICONTROL Controlla] e [!UICONTROL Annulla] opzioni non visibili durante la modifica delle allocazioni delle attività**
+**[!UICONTROL Seleziona] e [!UICONTROL Annulla] non sono visibili durante la modifica delle allocazioni di un’attività**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente tenta di modificare l&#39;allocazione delle attività per un&#39;attività e l&#39;intervallo di tempo di tale attività si estende fino o oltre il bordo della pagina visibile, la [!UICONTROL Controlla] e [!UICONTROL Annulla] i pulsanti non sono visibili e l’utente non può salvare o annullare le modifiche di allocazione.
+Quando un utente tenta di modificare l’allocazione di un’attività e l’intervallo di tempo di tale attività si estende fino o oltre il bordo della pagina visibile, i pulsanti [!UICONTROL Seleziona] e [!UICONTROL Annulla] non sono visibili, di conseguenza l’utente non può salvare o annullare le modifiche di allocazione.
 
-**Aggiunta di un campo personalizzato a [!UICONTROL Pagina principale] causa la mancanza di dati sul campo**
+**L’aggiunta di un campo personalizzato alla [!UICONTROL Home] causa la perdita di dati nel campo**
 
-_[!UICONTROL Pagina principale]_
+_[!UICONTROL Home]_
 
-Quando viene aggiunto un campo personalizzato a [!UICONTROL Pagina principale], altri campi iniziano a perdere dati e a essere visualizzati in modo errato.
+Quando un campo personalizzato viene aggiunto alla pagina [!UICONTROL Home], gli altri campi vengono visualizzati in modo errato a causa della perdita di dati al loro interno.
 
-**Impossibile visualizzare gli elementi collegati quando si è effettuato l&#39;accesso come un altro utente**
+**Impossibile visualizzare gli elementi collegati quando si accede come altro utente**
 
 _Integrazioni_
 
-Se un amministratore ha tentato di visualizzare gli elementi collegati da un provider esterno durante l&#39;accesso come altro utente, non è stato in grado di aprire le cartelle collegate e non è stato possibile visualizzare gli elementi.
+Quando un amministratore tenta di visualizzare gli elementi collegati effettuando l’accesso come altro utente da un provider esterno, non è in grado di aprire le cartelle collegate e visualizzare gli elementi al loro interno.
 
 +++
 
-+++**Aggiornamento della manutenzione il 2 settembre 2021**
++++**Aggiornamento di manutenzione del giovedì 2 settembre 2021**
 
 **Impossibile fissare il dashboard personalizzato**
 
 _Dashboard_
 
-Quando un utente tenta di fissare un dashboard personalizzato, il dashboard non si blocca e l’utente visualizza il seguente errore:
+Quando un utente tenta di fissare un dashboard personalizzato, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
-&quot;[!UICONTROL Si è verificato un errore durante il pinning. Contattare [!DNL Workfront] quindi possiamo riparare questo.]&quot;
+“[!UICONTROL Si è verificato un errore durante l’operazione di fissaggio. Contatta [!DNL Workfront] per risolvere il problema]”.
 
-**[!DNL Workfront Proof]riepilogo di stampa vuoto**
+**[!DNL Workfront Proof]: il riepilogo di stampa è vuoto**
 
 [!DNL Workfront Proof]
 
-Quando un utente apre il riepilogo di stampa per stampare una bozza, l&#39;intestazione viene visualizzata ma il riepilogo stesso è vuoto.
+Quando un utente apre il riepilogo di stampa per stampare una bozza, l’intestazione viene visualizzata correttamente ma il riepilogo è vuoto.
 
 +++
 
 
-## Aggiornamenti in agosto 2021
+## Aggiornamenti di agosto 2021
 
-+++**Aggiornamento della manutenzione il 26 agosto 2021**
++++**Aggiornamento di manutenzione del giovedì 26 agosto 2021**
 
 **In [!DNL Safari] è presente uno sfondo grigio scuro nel testo delle intestazioni di colonna**
 
 _Elenchi_
 
-In [!DNL Safari] nelle intestazioni delle colonne è presente uno sfondo grigio scuro che evidenzia il testo. Questo non è un problema con altri browser supportati.
+Nel browser [!DNL Safari] è presente uno sfondo grigio scuro sulle intestazioni di colonna, in modo da evidenziare il testo. Questo problema non si verifica con altri browser supportati.
 
-**Errore imprevisto durante l&#39;impostazione dei predecessori**
+**Errore imprevisto durante la configurazione delle attività predecessore**
 
 _Attività_
 
-Quando un utente tenta di impostare un&#39;attività come predecessore utilizzando la modifica in linea, il predecessore non è impostato e l&#39;utente visualizza il seguente messaggio:
+Quando un utente tenta di impostare un’attività predecessore utilizzando la modifica in linea, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
 &quot;[!UICONTROL Si è verificato un errore inatteso]&quot;
 
 +++
 
-+++**Aggiornamento della manutenzione il 19 agosto 2021**
++++**Aggiornamento di manutenzione del giovedì 19 agosto 2021**
 
-**Filtri salvati mancanti dopo la selezione di un filtro senza problemi**
+**Filtri salvati mancanti dopo aver selezionato un filtro che non mostra problemi**
 
 _Elenchi_
 
-I filtri salvati mancano in un elenco di problemi dopo aver selezionato un filtro che non visualizza risultati.
+I filtri salvati non sono presenti in un elenco di problemi dopo aver selezionato un filtro che non mostra risultati.
 
-**Problemi relativi alla mancata visualizzazione dei dettagli dei problemi**
+**I dettagli dei problemi non vengono visualizzati nella sezione Problemi**
 
-_[!UICONTROL Pagina principale] sommario_
+_[!UICONTROL Riepilogo Home]_
 
-Quando un utente effettua un [!DNL Adobe Workfront Classic] seleziona un problema dal [!UICONTROL Elenco lavori], l’anteprima nel pannello di destra mostra alcuni campi privi di valori immessi. Tuttavia, se accedi al problema e visualizzi il [!UICONTROL Dettagli del problema], in questi campi sono stati inseriti dei valori.
+In [!DNL Adobe Workfront Classic], quando un utente seleziona un problema da [!UICONTROL Work List] (Elenco di lavoro), l’anteprima nel pannello a destra mostra alcuni campi senza valori immessi. Tuttavia, se l’utente passa al problema e visualizza la scheda [!UICONTROL Issue Details] (Dettagli del problema), in questi campi sono presenti i valori immessi.
 
 +++
 
-+++**Aggiornamento della manutenzione il 12 agosto 2021**
++++**Aggiornamento di manutenzione del giovedì 12 agosto 2021**
 
-**Impossibile personalizzare la visualizzazione agile nel progetto**
+**Impossibile personalizzare la visualizzazione agile di un progetto**
 
 _Agile_
 
-Quando un utente tenta di personalizzare una visualizzazione agile esistente in precedenza su un progetto, la finestra si chiude e l&#39;utente non è in grado di modificare la visualizzazione.
+Quando un utente tenta di personalizzare una visualizzazione agile già esistente in un progetto, la finestra si chiude e l’utente non è in grado di modificare la vista.
 
-**Il nome non cambia nelle nuove versioni del documento**
+**Il nome non si aggiorna nelle nuove versioni di un documento**
 
 _Documenti_
 
-Quando un utente carica una nuova versione di un documento, il nome del documento non viene aggiornato in modo che corrisponda al nome della versione più recente.
+Quando un utente carica una nuova versione di un documento, il nome del documento non viene aggiornato in modo da corrispondere al nome della versione più recente.
 
-**L&#39;icona Predecessore non diventa verde quando il predecessore è completato.**
+**L’icona del predecessore non diventa verde dopo aver completato l’attività.**
 
 _Attività_
 
-Quando un&#39;attività ha un&#39;attività predecessore e l&#39;attività predecessore è completa, l&#39;icona predecessore nell&#39;attività dipendente non diventa verde.
+Quando un’attività presenta un predecessore completo, la corrispondente icona nell’attività dipendente non diventa verde.
 
-Quando un modulo personalizzato è incluso nel nuovo [!DNL Adobe Workfront] l’esperienza è impostata per essere visibile a livello di sistema, tutti gli utenti possono allegare il modulo personalizzato a un oggetto. Tuttavia, gli utenti dovrebbero essere in grado di visualizzare il modulo personalizzato e non di allegarlo a un oggetto, a meno che non sia stato condiviso specificatamente con loro.
+Tutti gli utenti possono allegare un modulo personalizzato a un oggetto se tale modulo è impostato per essere visibile a livello di sistema all’interno della nuova esperienza [!DNL Adobe Workfront]. Gli utenti, tuttavia, dovrebbero solo essere in grado di visualizzare il modulo personalizzato e non di allegarlo a un oggetto, a meno che non sia stato condiviso specificatamente con loro.
 
 +++
 
-+++**Aggiornamento di manutenzione (Hotfix) il 6 agosto 2021**
++++**Aggiornamento di manutenzione (aggiornamento rapido) del venerdì 6 agosto 2021**
 
-**Impossibile selezionare i calendari in [!DNL Outloo]k Impostazioni del calendario**
+**Impossibile selezionare i calendari nelle impostazioni del calendario di [!DNL Outloo]**
 
-_Pagina principale_
+_Home_
 
-Quando un utente entra nel nuovo [!DNL Workfront] esperienza di visualizzazione [!DNL Outlook] Calendario in home e apre le impostazioni, mancano le caselle di controllo per selezionare i calendari. Se l&#39;utente fa clic sul punto in cui si trova la casella di controllo, il calendario risponde come se la casella di controllo fosse presente.
+All’interno della nuova esperienza [!DNL Workfront], quando un utente visualizza il proprio calendario di [!DNL Outlook] dalla Home e apre le impostazioni, le caselle di controllo destinate alla selezione dei calendari non sono presenti. Se l’utente fa clic sul punto in cui dovrebbe trovarsi la casella di controllo, il calendario risponde come se la casella di controllo fosse presente.
 
-**Impossibile riautorizzare o verificare la connessione a [!UICONTROL Webdam]**
+**Impossibile autorizzare nuovamente la connessione a [!UICONTROL Webdam]** o verificarla
 
 _[!DNL Workfront Fusion]_
 
-[!DNL Adobe Workfront Fusion] utenti con scenari di connessione [!UICONTROL Webdam] devono essere consapevoli che [!UICONTROL Webdam] le connessioni richiedono la riautenticazione manuale ogni 14 giorni. La [!UICONTROL Webdam] Al momento l’API non supporta la riautorizzazione automatica.
+Gli utenti [!DNL Adobe Workfront Fusion] con scenari di connessione a [!UICONTROL Webdam] devono essere consapevoli del fatto che tali connessioni a [!UICONTROL Webdam] richiedono una nuova autenticazione manuale ogni 14 giorni. L’API [!UICONTROL Webdam] attualmente non supporta la riautorizzazione automatica.
 
 +++
 
-+++**Aggiornamento della manutenzione il 5 agosto 2021**
++++**Aggiornamento di manutenzione del giovedì 5 agosto 2021**
 
-**Impossibile interagire con il documento in [!UICONTROL Pannello di riepilogo] o [!UICONTROL Altro] menu**
+**Impossibile interagire con un documento nel [!UICONTROL Summary panel] (Pannello di riepilogo) o nel menu [!UICONTROL Altro]**
 
 _Documenti_
 
-Quando un utente entra nel nuovo [!DNL Workfront] l&#39;esperienza sta visualizzando un documento e tenta di effettuare una selezione nel [!UICONTROL Pannello di riepilogo] o [!UICONTROL Altro] il documento è deselezionato, causando la [!UICONTROL Pannello di riepilogo] o [!UICONTROL Altro] per lasciare vuoto il menu.
+All’interno della nuova esperienza [!DNL Workfront], quando un utente visualizza un documento e tenta di effettuare una selezione nel [!UICONTROL Summary panel] (Pannello di riepilogo) o nel menu [!UICONTROL Altro], il documento viene deselezionato e il [!UICONTROL Summary panel] (Pannello di riepilogo) o il menu [!UICONTROL Altro] non viene visualizzato.
 
-**[!UICONTROL Nuova richiesta] pulsante mancante**
+**[!UICONTROL Il pulsante New Request] (Nuova richiesta) non viene visualizzato**
 
 _Richieste_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l&#39;esperienza va al [!UICONTROL Richieste] pagina, [!UICONTROL Nuova richiesta] non viene visualizzato e non è possibile inviare una richiesta.
+All’interno della nuova esperienza [!DNL Adobe Workfront], quando un utente accede alla pagina [!UICONTROL Richieste], il pulsante [!UICONTROL New Request] (Nuova richiesta) non viene visualizzato e l’utente non è in grado di inviare una richiesta.
 
-**Gli utenti che non dispongono delle autorizzazioni di condivisione appropriate possono allegare moduli personalizzati agli oggetti**
+**Gli utenti che non dispongono delle autorizzazioni di condivisione appropriate possono allegare i moduli personalizzati agli oggetti**
 
 _Moduli personalizzati_
 
-Quando un modulo personalizzato è incluso nel nuovo [!DNL Adobe Workfront] l’esperienza è impostata per essere visibile a livello di sistema, tutti gli utenti possono allegare il modulo personalizzato a un oggetto. Tuttavia, gli utenti dovrebbero essere in grado di visualizzare il modulo personalizzato e non di allegarlo a un oggetto, a meno che non sia stato condiviso specificatamente con loro.
+Tutti gli utenti possono allegare un modulo personalizzato a un oggetto se tale modulo è impostato per essere visibile a livello di sistema all’interno della nuova esperienza [!DNL Adobe Workfront]. Gli utenti, tuttavia, dovrebbero solo essere in grado di visualizzare il modulo personalizzato e non di allegarlo a un oggetto, a meno che non sia stato condiviso specificatamente con loro.
 
 **Impossibile modificare le impostazioni della bozza quando si crea una nuova bozza**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente crea una nuova bozza e tenta di modificare le impostazioni, questa viene ripristinata in un’impostazione precedente.
+Quando un utente crea una nuova bozza e tenta di modificare le impostazioni, queste tornano a un’impostazione precedente.
 
-**[!UICONTROL Scheda Storia] non caricato correttamente**
+**[!UICONTROL La bacheca delle storie] non si carica correttamente**
 
 _Agile_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] esperienza passa a un [!UICONTROL Scheda Storia], il caricamento della bacheca può richiedere fino a 10 secondi. Il ritardo nel caricamento è dovuto al caricamento del sistema di tutte le schede quando dovrebbe essere solo caricare 50 schede alla volta.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente passa a una [!UICONTROL Storyboard], il caricamento della bacheca può richiedere fino a 10 secondi. Il ritardo è dovuto al fatto che il sistema carica tutte le schede, mentre dovrebbe caricarne solo 50 alla volta.
 
 +++
 
 
-## Aggiornamenti a luglio 2021
+## Aggiornamenti di luglio 2021
 
-+++**Aggiornamento di manutenzione (Hotfix) il 29 luglio 2021**
++++**Aggiornamento di manutenzione (aggiornamento rapido) del giovedì 29 luglio 2021**
 
-**Impossibile caricare una nuova bozza o una nuova versione di prova**
+**Impossibile caricare una nuova bozza o una nuova versione della bozza**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente tenta di caricare una nuova bozza o una nuova versione di una bozza nel Classic [!DNL Workfront] esperienza, la nuova pagina di bozza o nuova versione è vuota e l&#39;utente non è in grado di caricare la bozza o la versione.
+Quando un utente tenta di caricare una nuova bozza o una nuova versione della bozza nell’esperienza [!DNL Workfront] classica, la nuova pagina non viene visualizzata, rendendo impossibile caricare la bozza o la versione.
 
 +++
 
-+++**Aggiornamento della manutenzione il 29 luglio 2021**
++++**Aggiornamento di manutenzione del giovedì 29 luglio 2021**
 
-**[!UICONTROL Attività di bozza] e [!UICONTROL Impostazioni del visualizzatore delle prove] pagine sempre disponibili**
+Le pagine **[!UICONTROL Proof Activity] (Attività bozza) e [!UICONTROL Proof Viewer Settings] (Impostazioni del visualizzatore di bozze) sono sempre disponibili**
 
 _[!DNL Workfront Proof]_
 
-La [!UICONTROL Attività di bozza] e [!UICONTROL Visualizzatore di prove] Le pagine delle impostazioni sono sempre visibili, anche se l’utente non ha accesso per aggiornare tali pagine.
+Le pagine [!UICONTROL Proof Activity] (Attività bozza) e [!UICONTROL Proof Viewer Settings] (Impostazioni del visualizzatore di bozze) sono sempre visibili, anche se l’utente non è autorizzato ad accedere per aggiornare tali pagine.
 
-Precedentemente, quando un utente con un profilo di autorizzazione di prova personalizzato passava a un documento, la [!UICONTROL Attività di bozza] e [!UICONTROL Impostazioni del visualizzatore delle prove] le pagine a sinistra non erano sempre visibili.
+In precedenza, quando un utente con un profilo di autorizzazione di bozza personalizzato passava a un documento, le pagine [!UICONTROL Proof Activity] (Attività bozza) e [!UICONTROL Proof Viewer Settings] (Impostazioni del visualizzatore di bozze) a sinistra non erano sempre visibili.
 
-**Messaggio di errore durante l&#39;utilizzo [!UICONTROL Percentuale] opzione per [!UICONTROL Ore assegnate]**
+**Messaggio di errore durante l’utilizzo dell’opzione [!UICONTROL Percentuale] per [!UICONTROL Allocated hours]** (Ore assegnate)
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente seleziona la [!UICONTROL Percentuale] opzione per [!UICONTROL Ore assegnate]e sono presenti i lavori elencati nel [!UICONTROL Lavoro non assegnato] l&#39;utente visualizza il seguente errore:
+Quando un utente seleziona l’opzione [!UICONTROL Percentuale] per [!UICONTROL Allocated hours] (Ore assegnate) ed è presente un lavoro elencato nella sezione [!UICONTROL Unassigned work] (Lavoro non assegnato), visualizza il messaggio di errore seguente:
 
 &quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]&quot;
 
 +++
 
-+++**Aggiornamento della manutenzione il 22 luglio 2021**
++++**Aggiornamento di manutenzione del giovedì 22 luglio 2021**
 
-**Eliminazione dei nomi delle nuove versioni di bozza**
+**I nomi delle nuove versioni delle bozze risultano tagliati**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente effettua un [!DNL Adobe Workfront Classic] carica una nuova versione di una bozza che contiene un punto nel nome file, il nome del file viene tagliato alla fine.
+Quando un utente in [!DNL Adobe Workfront Classic] carica una nuova versione di una bozza con un punto nel nome del file, la parte finale del nome viene tagliata.
 
 +++
 
-+++**Aggiornamento della manutenzione (Hotfix) il 19 luglio 2021**
++++**Aggiornamento di manutenzione (aggiornamento rapido) del lunedì 19 luglio 2021**
 
-**Errore durante il tentativo di passare a progetti, fogli presenze, attività o programmi**
+**Errore durante l’accesso a progetti, schede orario, attività o programmi**
 
-Nella nuova [!DNL Adobe Workfront] esperienza: quando un utente cerca di passare a progetti, fogli ore, attività o programmi, viene visualizzato il messaggio di errore &quot;[!UICONTROL Wow! Si è verificato un errore. Contattare [!DNL Workfront] quindi possiamo capire cosa è andato storto e ripararlo.]&quot;
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente tenta di accedere a progetti, schede orario, attività o programmi, visualizza il messaggio di errore “[!UICONTROL Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
 +++
 
-+++**Aggiornamento della manutenzione il 15 luglio 2021**
++++**Aggiornamento di manutenzione del giovedì 15 luglio 2021**
 
-**La priorità predefinita nelle nuove richieste non è corretta**
+**La priorità predefinita per le nuove richieste non è corretta**
 
 _Richieste_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] esperienza crea una richiesta, la richiesta non rispetta la priorità predefinita impostata in [!UICONTROL Preferenze del progetto] e non sono in grado di modificare la priorità prima di inviare la richiesta.
+Quando utente crea una richiesta nella nuova esperienza [!DNL Adobe Workfront], la priorità assegnata a tale richiesta non corrisponde a quella impostata in [!UICONTROL Project Preferences] (Preferenze del progetto) e non è possibile modificarla prima di inviare la richiesta.
 
-**[!UICONTROL Vai alla bozza] il collegamento non indirizza al commento**
+**[!UICONTROL Go to proof] (Vai alla bozza) non reindirizza al commento**
 
 _Notifiche e-mail_
 
-Quando un utente riceve una notifica e-mail per un commento a prova e fa clic su [!UICONTROL Vai alla bozza], sono indirizzati al commento sbagliato nella bozza o non sono diretti ad alcun commento.
+Quando un utente riceve una notifica e-mail relativa a un commento della bozza e fa clic su [!UICONTROL Go to proof] (Vai alla bozza), il collegamento non funziona o l’utente viene reindirizzato verso un commento errato.
 
-**I valori dei campi RTF non vengono riportati dopo la conversione di un problema in un’attività**
+**I valori dei campi con formato Rich Text non vengono trasferiti dopo la conversione di un problema in un’attività**
 
 _Moduli personalizzati_
 
-Quando un utente converte un problema in un’attività e il problema presenta un modulo personalizzato allegato con un valore inserito in un campo di testo con formattazione RTF, il valore nel campo di testo non viene riportato dopo la conversione.
+Quando un utente converte un problema in un’attività e tale problema contiene un modulo personalizzato allegato con un valore inserito in un campo di testo con formato Rich Text, tale valore non viene trasferito dopo la conversione.
 
-**I valori dei campi personalizzati vengono modificati dopo la selezione**
+**I valori dei campi personalizzati si modificano dopo la selezione**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l’esperienza sta creando una nuova bozza e in alcuni campi personalizzati di una bozza viene immesso un valore. il valore di alcuni campi precedenti viene ripristinato ai valori predefiniti anziché al valore immesso dall’utente.
+Quando un utente crea una nuova bozza nella nuova esperienza [!DNL Adobe Workfront] e immette un valore in alcuni campi personalizzati della bozza, il valore di alcuni campi precedenti viene ripristinato al valore predefinito e non a quello inserito dall’utente.
 
-**[!UICONTROL Assegna a] typeahead non funziona**
+**[!UICONTROL Il campo di completamento automatico Assign to] (Assegna a) non funziona**
 
-_[!UICONTROL Pagina principale]_
+_[!UICONTROL Home]_
 
-Quando un utente effettua un [!DNL Adobe Workfront Classic] crea un progetto, un&#39;attività o una richiesta da [!UICONTROL Pagina principale] la zona [!UICONTROL Assegna a] il campo typeahead non compila i nomi utente.
+In [!DNL Adobe Workfront Classic], quando un utente crea un progetto, un’attività o una richiesta dalla sezione [!UICONTROL Home], il campo di completamento automatico [!UICONTROL Assign to] (Assegna a) non si popola con i nomi utente.
 
-**Arrotondamento delle ore in modo errato**
+**Arrotondamento errato delle ore**
 
 _Schede orario_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] experience naviga in [!UICONTROL Schede temporali] > [!UICONTROL Tutti i fogli presenze], i numeri delle ore totali per alcuni fogli presenze vengono arrotondati a un decimale anziché a incrementi di 0,25, ma le ore totali vengono visualizzate correttamente nella scheda attività individuale. Ad esempio, nell&#39;area Tutti i fogli presenze, una scheda attività mostra 44,8 ore totali, ma all&#39;apertura della scheda attività mostra 44,75 ore totali.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente passa a [!UICONTROL Timesheets] (Schede orario) > [!UICONTROL All Timesheets] (Tutte le schede orario), i numeri delle ore totali per alcune schede orario vengono arrotondati a una cifra decimale invece che a incrementi di 0,25 ma le ore totali vengono visualizzate correttamente nelle singole schede. Ad esempio, nell’area All Timesheets (Tutte le schede orario), una scheda mostra un totale di 44,8 ore tuttavia quando si apre il totale ammonta a 44,75 ore.
 
 **Impossibile delegare le approvazioni**
 
-_[!UICONTROL Pagina principale]_
+_[!UICONTROL Home]_
 
-Quando un utente effettua un [!DNL Adobe Workfront Classic] click [!UICONTROL Delega le mie approvazioni] in [!UICONTROL Pagina principale] e iniziano a digitare il nome dell&#39;utente a cui stanno tentando di delegare, nessun risultato viene visualizzato nel [!UICONTROL timone] e non possono selezionare un utente.
+In [!DNL Adobe Workfront Classic], quando un utente fa clic su [!UICONTROL Delegate My Approvals] (Delega le mie approvazioni) nella [!UICONTROL Home] e inizia a digitare il nome dell’utente a cui delegare l’approvazione, nell’elenco di [!UICONTROL completamento automatico] non viene visualizzato alcun risultato, rendendo impossibile selezionare un utente.
 
-**[!UICONTROL Diagramma di Gantt] visualizzazione non disponibile per i rapporti attività**
+**[!UICONTROL La vista Grafico di Gantt] non è disponibile per i rapporti attività**
 
 _Rapporti_
 
-NOTA: Questo fenomeno interessa anche i rapporti sui progetti.
+NOTA: questo problema riguarda anche i rapporti del progetto.
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] viene aperto un rapporto di attività, con l’opzione per selezionare un [!UICONTROL Diagramma di Gantt] visualizzazione mancante nella barra degli strumenti del rapporto. Se la [!UICONTROL Diagramma di Gantt] per impostazione predefinita, la visualizzazione è selezionata per essere visualizzata nel rapporto. Viene invece visualizzato un formato di elenco.
+Quando un utente apre un rapporto attività nella nuova esperienza [!DNL Adobe Workfront], l’opzione per selezionare una vista [!UICONTROL Grafico di Gantt] non è presente nella barra degli strumenti del rapporto. Se la vista [!UICONTROL Grafico di Gantt] è selezionata come impostazione predefinita nel rapporto, viene invece visualizzato un formato elenco.
 
-**Clic [!UICONTROL Altro] nel rapporto non viene caricato nulla**
+**Facendo clic su [!UICONTROL Ulteriori informazioni] in un rapporto non si caricano i vari elementi**
 
 _Dashboard_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l&#39;esperienza sta visualizzando un rapporto su un dashboard e fanno clic sul pulsante [!UICONTROL Altro] non accade nulla e non possono visualizzare tutti gli elementi del rapporto.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente visualizza un rapporto su un dashboard e fa clic sul pulsante [!UICONTROL Ulteriori informazioni], non succede nulla e l’utente non è in grado di visualizzare tutti gli elementi del rapporto.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Aggiornamento della manutenzione il 1° luglio 2021**
++++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del 1° luglio 2021**
 
 **La copia dei moduli non funziona**
 
 _[!DNL Adobe Workfront Fusion]_
 
-Quando un utente seleziona più moduli e tenta di copiarli e incollarli, i moduli non vengono incollati.
+Quando un utente seleziona più moduli e tenta di copiarli e incollarli, l’operazione ha esito negativo.
 
 +++
 
-+++**Aggiornamento della manutenzione il 1° luglio 2021**
++++**Aggiornamento di manutenzione del 1° luglio 2021**
 
-**Set di colori per le carte non rispettate**
+**I colori impostati per le schede non vengono rispettati**
 
 _Kanban_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l&#39;esperienza imposta i colori specifici della scheda nelle impostazioni del team; tali colori non vengono riflessi sulle schede Kanban.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente imposta colori specifici per le schede nelle impostazioni del team, tali colori non si riflettono sulle schede Kanban.
 
-**Impossibile incollare testo nel campo messaggio personalizzato**
+**Impossibile incollare il testo nel campo del messaggio personalizzato**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente crea una nuova bozza nel [!UICONTROL Visualizzatore per correzione web] e tentano di incollare testo nella [!UICONTROL Messaggio] nel campo [!UICONTROL Notifica e-mail] impossibile incollare il testo. Questo sembra accadere solo quando il testo ha la formattazione del paragrafo ed è presente un’interruzione di paragrafo.
+Quando un utente crea una nuova bozza in [!UICONTROL Web Proofing Viewer] (Visualizzatore di bozze web) e tenta di incollare un testo da un’e-mail che si trova nel campo [!UICONTROL Messaggio] della sezione [!UICONTROL Notifica e-mail], non riesce a incollare il testo. Questo comportamento si verifica apparentemente solo quando il testo ha una formattazione di paragrafo ed è presente un’interruzione di paragrafo.
 
-**Le richieste vengono inviate con campi obbligatori vuoti**
-
-_Richieste_
-
-Quando un utente effettua una richiesta e la invia, le informazioni nei campi obbligatori non vengono inviate insieme alla richiesta.
-
-**[!UICONTROL Nuova richiesta] pulsante mancante**
+**Le richieste vengono inviate con i campi obbligatori vuoti**
 
 _Richieste_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l&#39;esperienza va al [!UICONTROL Richieste] pagina, [!UICONTROL Nuova richiesta] non viene visualizzato e non è possibile inviare una richiesta.
+Quando un utente effettua una richiesta e la invia, le informazioni presenti nei campi obbligatori non vengono inviate con la richiesta.
+
+**[!UICONTROL Il pulsante New Request] (Nuova richiesta) non viene visualizzato**
+
+_Richieste_
+
+All’interno della nuova esperienza [!DNL Adobe Workfront], quando un utente accede alla pagina [!UICONTROL Richieste], il pulsante [!UICONTROL New Request] (Nuova richiesta) non viene visualizzato e l’utente non è in grado di inviare una richiesta.
 
 **Errore durante l’espansione di un modulo personalizzato**
 
 _Progetti_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l’esperienza tenta di espandere un modulo personalizzato allegato a un progetto, non è in grado di aprire il modulo personalizzato e viene visualizzato il messaggio di errore &quot;[!UICONTROL Si è verificato un errore e stiamo lavorando per risolvere il problema. Per continuare il lavoro, prova ad aggiornare la pagina del browser.]&quot; L&#39;aggiornamento della pagina non risolve il problema.
+All’interno della nuova esperienza [!DNL Adobe Workfront], quando un utente tenta di espandere un modulo personalizzato allegato a un progetto, l’operazione ha esito negativo e viene visualizzato il messaggio di errore “[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.]”. L’aggiornamento della pagina non risolve il problema.
 
-**[!DNL Adobe Workfront]il branding viene ora visualizzato nelle e-mail del centro annunci**
+**[!DNL Adobe Workfront]viene ora visualizzato nelle e-mail del centro annunci**
 
 E-mail
 
-Come [!DNL Adobe Workfront] Il branding viene implementato in tutta l’applicazione, i seguenti aggiornamenti sono stati apportati alle e-mail del centro annunci:
+Con l’introduzione del marchio [!DNL Adobe Workfront] in tutta l’applicazione, sono stati apportati i seguenti aggiornamenti alle e-mail del centro annunci:
 
-* La [!DNL Adobe Workfront] il leone è stato aggiunto all&#39;area contenuto principale.
-* La [!DNL Adobe Workfront] è stato aggiunto il logo al piè di pagina.
+* L’icona con il leone di [!DNL Adobe Workfront] è stata aggiunta all’area del contenuto principale.
+* Il logo di [!DNL Adobe Workfront] è stato aggiunto al piè di pagina.
 
-In futuro, questo marchio verrà visualizzato su ulteriori tipi di e-mail provenienti da Workfront.
+In futuro questo marchio verrà visualizzato su altri tipi di e-mail di Workfront.
 
 +++
 
 
-## Aggiornamenti a giugno 2021
+## Aggiornamenti di giugno 2021
 
-+++**Aggiornamento della manutenzione il 24 giugno 2021**
++++**Aggiornamento di manutenzione del giovedì 24 giugno 2021**
 
 **Impossibile modificare un team**
 
 _Agile_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] clic esperienza [!UICONTROL Modifica] per aprire [!DNL Edit] Pagina del team di Agile, la pagina viene caricata inizialmente, le impostazioni scompaiono e diventa vuota.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente fa clic su [!UICONTROL Modifica] per aprire la pagina [!DNL Edit] team per un team Agile, inizialmente la pagina si carica ma successivamente le impostazioni scompaiono e la pagina appare vuota.
 
 **Dati rimossi dalla richiesta inviata**
 
 _Richieste_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l’esperienza compila una richiesta; nella richiesta inviata mancano i valori immessi per alcuni campi personalizzati, alcuni dei quali includono campi obbligatori.
+Nella nuova esperienza [!DNL Adobe Workfront], i valori precedentemente immessi in una richiesta non vengono più visualizzati dopo il suo invio, sia per quanto riguarda i campi personalizzati che i campi obbligatori.
 
 **Le colonne non vengono visualizzate**
 
 _Kanban_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l&#39;esperienza aggiunge un [!UICONTROL Campi aggiuntivi] su una bacheca Kanban, tutte le intestazioni di colonna smettono di essere visualizzate sulla bacheca.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente aggiunge una colonna [!UICONTROL Campi aggiuntivi] personalizzata su una bacheca Kanban, tutte le intestazioni di colonna non vengono più visualizzate sulla bacheca.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Aggiornamento della manutenzione il 23 giugno 2021**
++++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del 23 giugno 2021**
 
-**Collegamento interrotto rimosso nelle e-mail di notifica**
+**Il collegamento interrotto è stato rimosso nelle e-mail di notifica**
 
 _[!DNL Adobe Workfront Fusion]_
 
-Il collegamento alle impostazioni di notifica è stato rimosso da [!DNL Adobe Workfront Fusion] e-mail di notifica.
-Per informazioni sulla modifica delle impostazioni di notifica, consulta [!DNL Adobe Workfront Fusion] organizzazioni e team.
+Il collegamento alle impostazioni di notifica è stato rimosso dalle e-mail di notifica di [!DNL Adobe Workfront Fusion].
+Per informazioni sulla modifica delle impostazioni di notifica, vedi la sezione Organizzazioni e team di [!DNL Adobe Workfront Fusion].
 
 +++
 
-+++**Aggiornamento della manutenzione il 17 giugno 2021**
++++**Aggiornamento di manutenzione del giovedì 17 giugno 2021**
 
-**[!UICONTROL Diagramma di Gantt] visualizzazione non disponibile per il rapporto Attività**
+**[!UICONTROL La vista Grafico di Gantt] non è disponibile per i rapporti attività**
 
 _Rapporti_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] viene aperto un rapporto di attività, con l’opzione per selezionare un [!UICONTROL Diagramma di Gantt] visualizzazione mancante nella barra degli strumenti del rapporto. Se la [!UICONTROL Diagramma di Gantt] per impostazione predefinita, la visualizzazione è selezionata per essere visualizzata nel rapporto. Viene invece visualizzato un formato di elenco.
+Quando un utente apre un rapporto attività nella nuova esperienza [!DNL Adobe Workfront], l’opzione per selezionare una vista [!UICONTROL Grafico di Gantt] non è presente nella barra degli strumenti del rapporto. Se la vista [!UICONTROL Grafico di Gantt] è selezionata come impostazione predefinita nel rapporto, viene invece visualizzato un formato elenco.
 
-**Errore del limite di caratteri non presente nelle richieste inviate**
+**L’errore relativo al limite di caratteri non viene visualizzato durante l’invio di richieste**
 
 _Richieste_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l’esperienza tenta di inviare una richiesta e supera il limite di caratteri per un campo, non è in grado di inviare la richiesta e non viene visualizzato alcun messaggio di errore. In [!DNL Adobe Workfront Classic], l&#39;utente visualizza l&#39;avviso &quot;[!UICONTROL [numero] caratteri in eccesso&quot; e quando tentano di inviare la richiesta, visualizzano il messaggio di errore &quot;Controlla quanto segue: Inserisci non più di 2000 caratteri (hai inserito [numero] caratteri).]&quot;
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente tenta di inviare una richiesta e supera il limite di caratteri per un campo, l’operazione ha esito negativo ma non viene visualizzato alcun messaggio di errore. In [!DNL Adobe Workfront Classic], l’utente visualizza l’avviso “[!UICONTROL [number] caratteri superati” e quando tenta di inviare la richiesta riceve il messaggio di errore “Controllare i seguenti elementi: non immettere più di 2.000 caratteri. Hai inserito [number] caratteri.]”
 
 +++
 
-+++**Aggiornamento della manutenzione il 10 giugno 2021**
++++**Aggiornamento di manutenzione del giovedì 10 giugno 2021**
 
-**Le attività dei modelli riordinati non vengono spostate**
-
-_Modelli_
-
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] esperienza trascina un&#39;attività modello in una nuova posizione in un elenco, il numero di aggiornamenti dell&#39;attività modello, ma non riordina.
-
-**Attività figlio non selezionate con le attività padre**
+**Le attività modello riordinate non vengono spostate**
 
 _Modelli_
 
-Quando un utente seleziona un&#39;attività padre in un progetto creato da un modello, le attività secondarie non vengono selezionate automaticamente.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente trascina un’attività modello in una nuova posizione all’interno di un elenco, il numero delle attività modello viene aggiornato ma non riordinato.
 
-**Le fasi di modifica in linea di un elenco di attività visualizzano tutte le fasi cardine**
+**Attività secondarie non selezionate con le attività padre**
+
+_Modelli_
+
+Quando un utente seleziona un’attività padre in un progetto creato da un modello, le attività secondarie non vengono selezionate automaticamente.
+
+**La modifica in linea delle milestone in un elenco attività mostra tutte le milestone**
 
 _Progetti_
 
-Quando un progetto ha aggiunto un percorso cardine e un utente nel nuovo [!DNL Adobe Workfront] modifica in linea dell&#39;esperienza [!UICONTROL Milestone: Nome] nell’elenco delle attività, nel menu a discesa vengono visualizzati tutti i percorsi delle attività cardine, anziché solo i percorsi delle attività associate al progetto.
+Nella nuova esperienza [!DNL Adobe Workfront], quando a un progetto è stato aggiunto un percorso milestone e un utente effettua una modifica in linea della colonna [!UICONTROL Milestone: Name] (Milestone: Nome) nell’elenco attività, il menu a discesa mostra tutti i percorsi milestone e non soltanto quelli associati al progetto.
 
 +++
 
-+++**Aggiornamento della manutenzione il 3 giugno 2021**
++++**Aggiornamento di manutenzione del giovedì 3 giugno 2021**
 
-**Il prompt causa l&#39;agitazione della pagina**
+**Il prompt provoca la visualizzazione errata della pagina**
 
 _Rapporti_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] esperienza esegue un rapporto con un prompt, le colonne del rapporto si spostano rapidamente da sinistra a destra.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente esegue un rapporto con un prompt, le colonne del rapporto si spostano rapidamente da sinistra a destra.
 
-**Alcune frasi sul [!UICONTROL Nuova prova] la pagina non viene tradotta correttamente**
-
-_[!DNL Workfront Proof]_
-
-Quando un utente passa alla [!UICONTROL Creazione di nuove prove] in [!DNL Workfront Proof] e il contenuto è tradotto in una lingua diversa dall&#39;inglese, alcune frasi sono ancora visualizzate in inglese.
-
-**Etichette disattivate ed eliminate aggiunte agli utenti[!DNL Workfront Proof]**
+**Alcune frasi della pagina [!UICONTROL New proof] (Nuova bozza) non vengono tradotte correttamente**
 
 _[!DNL Workfront Proof]_
 
-[!UICONTROL Disattivato] e [!UICONTROL Eliminato] le etichette utente sono state aggiunte alle seguenti aree in [!DNL Workfront] Prova:
+In [!DNL Workfront Proof], quando un utente passa alla pagina di creazione [!UICONTROL New proof] (Nuova bozza) in una lingua diversa dall’inglese, alcune frasi rimangono in lingua inglese.
 
-* [!UICONTROL Dettagli della bozza] page
-* [!UICONTROL Visualizzazione di correzione]
-* [!UICONTROL Visualizzatore di bozze]
-* [!UICONTROL Flussi di lavoro di correzione]
-* [!UICONTROL Stampa commenti] page
-* [!UICONTROL Utente] page
+**Le etichette Disattivato ed Eliminato sono state aggiunte agli utenti di[!DNL Workfront Proof]**
+
+_[!DNL Workfront Proof]_
+
+[!UICONTROL Le etichette utente Disattivato] ed [!UICONTROL Eliminato] sono state aggiunte alle seguenti aree in [!DNL Workfront] Proof:
+
+* Pagina [!UICONTROL Proof details] (Dettagli della bozza)
+* [!UICONTROL Proofing views] (Viste della bozza)
+* [!UICONTROL Proofing viewer] (Visualizzatore di bozze)
+* [!UICONTROL Proofing workflows] (Flussi di lavoro della bozza)
+* Pagina [!UICONTROL Stampa commenti]
+* Pagina [!UICONTROL Utente]
 
 +++
 
 
-## Aggiornamenti a maggio 2021
+## Aggiornamenti di maggio 2021
 
-+++**Aggiornamento della manutenzione il 27 maggio 2021**
++++**Aggiornamento di manutenzione del giovedì 27 maggio 2021**
 
-**[!UICONTROL Data impegno] viene visualizzato il calendario per gli aggiornamenti**
+**[!UICONTROL Il calendario Commit Date] (Data impegno) viene visualizzato automaticamente per gli aggiornamenti**
 
 _Attività_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] è in corso l&#39;immissione di un aggiornamento su un&#39;attività, [!UICONTROL Data impegno] il calendario viene visualizzato senza che l&#39;utente selezioni [!UICONTROL Data impegno] campo .
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente inserisce un aggiornamento in un’attività, il calendario [!UICONTROL Commit Date] (Data impegno) viene visualizzato automaticamente, senza selezione del campo [!UICONTROL Commit Date] (Data impegno) da parte dell’utente.
 
-**[!UICONTROL Altro] menu mancante da filtri, viste e raggruppamenti**
+**[!UICONTROL Il menu Altro] non è presente in filtri, viste e raggruppamenti**
 
 _Elenchi_
 
-Quando un utente entra nel nuovo [!DNL Adobe Workfront] l’esperienza visualizza i filtri, le visualizzazioni o i raggruppamenti per un elenco, [!UICONTROL Altro] icona del menu mancante, che impedisce la condivisione o, se dispongono dell’accesso, la rimozione di filtri, visualizzazioni o raggruppamenti.
+Nella nuova esperienza [!DNL Adobe Workfront], quando un utente visualizza i filtri, le viste o i raggruppamenti di un elenco, l’icona del menu [!UICONTROL Altro] non è presente, rendendo impossibile la condivisione o, in caso di accesso, la rimozione di questi elementi.
 
-**Copiare e incollare un progetto [!UICONTROL Numero di riferimento] aggiunge &quot;[!UICONTROL Questo]&quot;**
+**Quando si copia e si incolla un [!UICONTROL Numero di riferimento] in un progetto viene aggiunta la parola “[!UICONTROL Questo]”**
 
 _Progetti_
 
-Quando un utente entra nel nuovo [!DNL Workfront] esperienza: passa a un progetto, copia il [!UICONTROL Numero di riferimento] dal [!UICONTROL Panoramica] area, quindi incolla, la parola &quot;[!UICONTROL Questo]&quot; viene aggiunto alla fine del numero.
+Nella nuova esperienza [!DNL Workfront], quando un utente passa a un progetto, copia il [!UICONTROL Numero di riferimento] dalla sezione [!UICONTROL Panoramica] e lo incolla, alla fine di tale numero viene aggiunta la parola “[!UICONTROL Questo]”.
 
-**[!UICONTROL Digest giornaliero] Le e-mail vengono inviate quando sono disabilitate**
+**[!UICONTROL Le e-mail di Riepilogo giornaliero] vengono inviate anche quando la funzionalità è disabilitata**
 
 _Notifiche e-mail_
 
-Alcuni utenti ricevono [!UICONTROL Digest giornaliero] notifiche e-mail quando non sono state abilitate nelle impostazioni utente.
+Alcuni utenti ricevono le notifiche e-mail di [!UICONTROL Riepilogo giornaliero] anche se tale funzionalità non è stata abilitata nelle impostazioni utente.
 
-**Errore non più presente nell&#39;oggetto**
+**Errore The object no longer exists (L’oggetto non esiste più)**
 
 _Oggetti_
 
-Quando un utente entra nel nuovo [!DNL Workfront] esperienza tenta di aprire alcuni oggetti, vedono il messaggio di errore &quot;[!UICONTROL Il (oggetto) non esiste più: Potrebbe aver digitato l&#39;indirizzo web per errore. Verificare e riprovare a immettere l&#39;indirizzo.]&quot; Il collegamento oggetto viene comunque visualizzato in elenchi, recenti, preferiti, risultati della ricerca, ecc., ma non è possibile accedervi e non viene visualizzato nel Cestino con oggetti eliminati.
+Nella nuova esperienza [!DNL Workfront], quando un utente tenta di aprire alcuni oggetti, visualizza il messaggio di errore “[!UICONTROL L’oggetto non esiste più. È possibile che l’indirizzo web sia stato digitato in modo errato. Controllare l’indirizzo e digitarlo di nuovo.]”. Il collegamento all’oggetto viene ancora visualizzato in elenchi, recenti, preferiti, risultati della ricerca e altro ancora, ma non è possibile accedervi e non viene visualizzato nel cestino con gli oggetti eliminati.
 
 
 
 +++
 
-+++**Aggiornamento della manutenzione il 20 maggio 2021**
++++**Aggiornamento di manutenzione del giovedì 20 maggio 2021**
 
-**Opzioni di prova mancanti**
+**Opzioni di bozza mancanti**
 
 _Bozze_
 
-Quando un utente carica un&#39;altra versione di una bozza in [!DNL Workfront], [!UICONTROL Prova aperta] e [!UICONTROL Flusso di lavoro di correzione] Mancano collegamenti, facendo sembrare che si tratti di un documento invece di una prova. Se mancano questi collegamenti, l’etichetta [!UICONTROL In sospeso] visualizza e altri utenti non sono in grado di generare la bozza mentre è in questo [!UICONTROL In sospeso] stato.
+Quando un utente carica un’altra versione di una bozza in [!DNL Workfront], i collegamenti [!UICONTROL Open Proof] (Apri bozza) e [!UICONTROL Proofing Workflow] (Flusso di lavoro della bozza) non sono presenti, rendendo il file più simile a un documento che a una bozza. Quando mancano questi collegamenti, viene visualizzata anche l’etichetta [!UICONTROL In sospeso] e gli altri utenti non sono in grado di generare la bozza mentre si trova nello stato [!UICONTROL In sospeso].
 
-**Utenti che non ricevono consegne di report pianificati**
+**Gli utenti non ricevono i rapporti pianificati per la consegna**
 
 _Rapporti_
 
-Quando alcuni rapporti sono pianificati per la consegna dei rapporti, a volte gli utenti non ricevono i rapporti.
+Talvolta gli utenti non ricevono i rapporti pianificati per la consegna.
 
-**Impossibile rimuovere l&#39;accesso per il modello di layout**
+**Impossibile rimuovere l’accesso per il modello di layout**
 
 _Dashboard_
 
-Quando un utente apre [!UICONTROL Condivisione] opzioni di una dashboard per rimuovere l’accesso a un modello di layout, no [!UICONTROL Elimina] accanto al modello di layout viene visualizzata l’icona che non è in grado di rimuovere l’accesso.
+Quando un utente accede alle opzioni [!UICONTROL Condivisione] di un dashboard per rimuovere l’accesso a un modello di layout, accanto a tale modello non viene visualizzata alcuna icona [!UICONTROL Elimina], di conseguenza l’utente non è in grado di rimuovere l’accesso.
 
 +++
 
-+++**[!DNL Workfront Fusion]Aggiornamento della manutenzione il 17 maggio 2021**
++++**[!DNL Workfront Fusion]Aggiornamento di manutenzione del lunedì 17 maggio 2021**
 
-**Il dashboard dell&#39;organizzazione ora visualizza correttamente il numero di scenari attivi**
-
-_[!DNL Workfront Fusion]_
-
-La [!UICONTROL Organizzazione] in precedenza, il dashboard mostrava un campo vuoto invece del numero di scenari utilizzati.
-
-**La ricerca nell’archivio dati ora mostra le etichette delle colonne**
+**Il dashboard Organizzazione ora visualizza correttamente il numero di scenari attivi**
 
 _[!DNL Workfront Fusion]_
 
-Le strutture di dati che utilizzavano le etichette di colonna visualizzavano in precedenza il nome della colonna nel [!UICONTROL esplorazione archivio dati] visualizza.  Ora viene visualizzata l’etichetta della colonna.  Se non è identificata alcuna etichetta per la colonna, viene visualizzato il nome della colonna.
+Il dashboard [!UICONTROL Organizzazione] mostrava in precedenza un campo vuoto anziché il numero di scenari utilizzati.
 
-**L&#39;errore di inizializzazione dello scenario non influisce più sui dati del webhook**
-
-_[!DNL Workfront Fusion]_
-
-In precedenza, uno scenario avviato da un webhook (inclusi quelli che utilizzano eventi in tempo reale per attivare) che ha rilevato un errore durante l&#39;inizializzazione dello scenario potrebbe causare la perdita dell&#39;accesso ai dati del webhook.  Ora, se si verifica un errore durante l&#39;inizializzazione dello scenario (ad esempio non è possibile verificare una connessione), i dati del webhook verranno mantenuti nella coda del webhook e l&#39;esecuzione viene ritentata automaticamente.  Dopo tre tentativi non riusciti, lo scenario viene disattivato e le informazioni rimarranno comunque nella coda.
-
-**I record nelle code del webhook vengono ora elaborati in batch più piccoli**
+**La vista esplorazione dell’archivio dati ora mostra le etichette delle colonne**
 
 _[!DNL Workfront Fusion]_
 
-Precedentemente, se un utente attivava uno scenario inattivo che aveva una coda di webhook associata di molti record, [!DNL Workfront Fusion] tenta di elaborare l&#39;intera coda in un&#39;unica esecuzione (anche se con più cicli).  A seconda della quantità di record elaborati, ciò potrebbe talvolta causare il superamento del tempo massimo di esecuzione della singola esecuzione (40 minuti).  Ora, quando si attiva uno scenario inattivo che ha una coda di record del webhook associata, Workfront Fusion elaborerà fino al numero massimo di record identificati in una singola esecuzione (di solito 2 record per esecuzione).
+Le strutture di dati che utilizzavano le etichette di colonna mostravano in precedenza il nome della colonna nella vista [!UICONTROL esplorazione dell’archivio dati].  Ora viene visualizzata l’etichetta della colonna.  Se non viene identificata alcuna etichetta per la colonna, viene visualizzato il nome.
 
-**Gli archivi dati ora visualizzano correttamente i valori &quot;0&quot;**
+**L’errore relativo all’inizializzazione dello scenario non influisce più sui dati del webhook**
 
 _[!DNL Workfront Fusion]_
 
-In precedenza, i valori dell&#39;archivio dati pari a 0 venivano visualizzati come vuoti. &lt;...>
+In precedenza, la generazione di un errore durante l’inizializzazione di uno scenario avviato da un webhook, inclusi quelli che utilizzano eventi in tempo reale per l’attivazione, poteva comportare la perdita dell’accesso ai dati del webhook.  Ora, se si verifica un errore durante l’inizializzazione dello scenario, ad esempio l’impossibilità di verificare una connessione, i dati del webhook vengono mantenuti nella coda del webhook e si tenta automaticamente una nuova esecuzione.  Dopo tre tentativi falliti, lo scenario viene disattivato ma le informazioni rimangono nella coda.
+
+**I record nelle code webhook vengono ora elaborati in batch più piccoli**
+
+_[!DNL Workfront Fusion]_
+
+In precedenza, se un utente attivava uno scenario inattivo a cui era associata una coda del webhook con molti record, [!DNL Workfront Fusion] tentava di elaborare l’intera coda in una singola esecuzione (con più cicli).  A seconda della quantità di record elaborati, talvolta ciò comportava il superamento del tempo massimo, ossia 40 minuti, per l’elaborazione della singola esecuzione.  Ora, quando si attiva uno scenario inattivo a cui è associata una coda del webhook con più record, Workfront Fusion elaborerà fino al numero massimo di record identificati in una singola esecuzione (in genere 2 record per esecuzione).
+
+**Gli archivi dati ora visualizzano correttamente i valori pari a “0”**
+
+_[!DNL Workfront Fusion]_
+
+In precedenza, i valori dell’archivio dati pari a 0 venivano visualizzati come vuoti. &lt;...>
 
 +++
 
-+++**Aggiornamento della manutenzione il 13 maggio 2021**
++++**Aggiornamento di manutenzione del giovedì 13 maggio 2021**
 
-**Il calendario a discesa viene visualizzato dietro la [!UICONTROL Lavoro non assegnato] header**
+**Il calendario a discesa viene visualizzato dietro l’intestazione [!UICONTROL Unassigned Work] (Lavoro non assegnato)**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente passa alla [!UICONTROL Bilanciamento del carico di lavoro] in [!DNL Workfront Classic], la parte superiore del datepicker è nascosta dietro il [!UICONTROL Lavoro non assegnato] , che impedisce all’utente di passare a diversi mesi.
+Quando un utente passa al [!UICONTROL Bilanciatore dei carichi di lavoro] in [!DNL Workfront Classic], la parte superiore del datepicker è nascosta dietro l’intestazione [!UICONTROL Unassigned Work] (Lavoro non assegnato), impedendo all’utente di spostarsi in mesi diversi.
 
-**Impossibile incollare testo nel campo messaggio personalizzato**
+**Impossibile incollare il testo nel campo del messaggio personalizzato**
 
 _[!DNL Workfront Proof]_
 
-Nota: Questo problema sembra influenzare solo il [!DNL Google Chrome] browser web in questo momento.
+Nota: apparentemente questo problema riguarda soltanto il browser web [!DNL Google Chrome] al momento.
 
-Quando un utente crea una nuova bozza in [!DNL Workfront Proof] e tentano di incollare testo da un’e-mail all’interno di [!UICONTROL Messaggio] nel campo [!UICONTROL Notifica e-mail] impossibile incollare il testo.
+Quando un utente crea una nuova bozza in [!DNL Workfront Proof] e tenta di incollare un testo da un’e-mail che si trova nel campo [!UICONTROL Messaggio] della sezione [!UICONTROL Notifica e-mail], non riesce a incollare il testo.
 
-**Campi non supportati visualizzati nel generatore**
+**Il generatore mostra campi non supportati**
 
 _Moduli personalizzati_
 
-Quando un utente crea un modulo personalizzato e tenta di creare un campo calcolato utilizzando un campo dinamico, ad esempio [!UICONTROL Numero di rischi aperti]- la casella di calcolo evidenzia il rosso e non consente di salvare le modifiche. I campi dinamici non devono essere visualizzati nel selettore per i campi calcolati.
+Quando un utente genera un modulo personalizzato e tenta di creare un campo calcolato utilizzando un campo dinamico, ad esempio [!UICONTROL Number of Open Risks] (Numero di rischi aperti), la casella di calcolo viene evidenziata in rosso, non consentendo il salvataggio delle modifiche. I campi dinamici non devono essere visualizzati nel selettore per i campi calcolati.
 
-**Anteprima delle attività in [!UICONTROL Elenco lavori] non si carica**
+**Impossibile caricare l’anteprima delle attività in [!UICONTROL Work List] (Elenco di lavoro)**
 
-_Pagina principale_
+_Home_
 
-Quando un utente entra nel nuovo [!DNL Workfront] l’esperienza viene assegnata a un modello di layout che include campi personalizzati in [!UICONTROL Pagina principale], la pagina non risponde e non carica le attività dal [!UICONTROL Elenco lavori] se gli utenti li selezionano.
+Nella nuova esperienza [!DNL Workfront], quando un utente viene assegnato a un modello di layout che include campi personalizzati nella [!UICONTROL Home], la pagina non risponde e se l’utente seleziona un’attività dalla sezione [!UICONTROL Work List] (Elenco di lavoro) la pagina non si carica.
 
-**Oggetti in [!UICONTROL Elenco lavori] senza caricamento [!UICONTROL Pagina principale]**
+**Gli oggetti in [!UICONTROL Work List] (Elenco di lavoro) non vengono caricati in [!UICONTROL Home]**
 
-_[!UICONTROL Pagina principale]_
+_[!UICONTROL Home]_
 
-Quando un utente fa clic su un oggetto nel [!UICONTROL Elenco dei lavori domestici], l’intestazione dell’oggetto viene visualizzata nel pannello di destra, ma i dettagli dell’oggetto non vengono visualizzati. Alla fine l&#39;utente visualizza il messaggio &quot;[!UICONTROL Pagine non reattive.]&quot;
+Quando un utente fa clic su un oggetto nella sezione [!UICONTROL Work List] (Elenco di lavoro) dell’area Home, l’intestazione dell’oggetto viene visualizzata nel pannello di destra, ma i relativi dettagli non vengono mostrati. Alla fine l’utente visualizza il messaggio “[!UICONTROL Pages Unresponsive]” (Le pagine non rispondono).
 
-**Problemi relativi ai campi RTF in[!DNL Microsoft Outlook]**
+**Problemi relativi ai campi in formato Rich text in[!DNL Microsoft Outlook]**
 
-_Integrazioni Workfront_
+_Integrazioni di Workfront_
 
-Quando un utente aggiorna un campo di testo RTF con [!DNL Workfront for Outlook] non sono in grado di:
+Quando un utente aggiorna un campo in formato Rich text con [!DNL Workfront for Outlook], non è in grado di eseguire le operazioni seguenti:
 
-* Backspace
-* Copia testo
-* Incolla il testo
-* Invia una richiesta quando tutti i campi sono compilati
+* Utilizzare il tasto Backspace
+* Copiare il testo
+* Incollare il testo
+* Inviare una richiesta quando tutti i campi sono compilati
 
 +++
 
-+++**Aggiornamento della manutenzione il 6 maggio 2021**
++++**Aggiornamento di manutenzione del giovedì 6 maggio 2021**
 
-**[!UICONTROL Valuta] campo non funzionante come previsto**
+**[!UICONTROL Il campo Valuta] non funziona come previsto**
 
 _Elenchi_
 
-Quando un utente prova a modificare in linea il CurrCampo di aggiornamento in un elenco, non sono in grado di salvare le modifiche a causa dei seguenti problemi:
+Quando un utente tenta di modificare in linea il campo Valuta in un elenco, non può salvare le modifiche a causa dei problemi seguenti:
 
-* Elenco attività e problemi che non consentono l&#39;immissione di simboli di valuta
-* Elenchi che non consentono l’immissione di abbreviazioni di valuta quando si utilizzano impostazioni internazionali diverse dall’inglese
-* Elenchi di sottoattività ed emissioni che consentono solo l&#39;abbreviazione della valuta di USD, indipendentemente dalla divisa del progetto impostata
+* Gli elenchi Task and Issue (Attività e Problemi) non consentono l’immissione di simboli di valuta
+* Gli elenchi non consentono l’immissione di abbreviazioni di valuta quando si utilizza una lingua diversa dall’inglese
+* Gli elenchi Subtask and Issue (Attività secondaria e problemi) consentono solo l’abbreviazione di valuta USD, indipendentemente dalla valuta impostata nel progetto
 
-**Nome non aggiornato per corrispondere al nuovo nome della bozza**
+**Il nome non viene aggiornato per corrispondere al nuovo nome della bozza**
 
 _Documenti_
 
-Quando un utente crea una nuova versione di una bozza e aggiorna il nome della bozza, l&#39;oggetto documento in [!DNL Workfront] Mantiene il nome originale invece di corrispondere al nuovo nome della bozza.
+Quando un utente crea una nuova versione di una bozza e aggiorna il nome della bozza, l’oggetto documento in [!DNL Workfront] mantiene il nome originale invece di corrispondere al nuovo nome della bozza.
 
-**[!UICONTROL Business case] i pulsanti non funzionano quando i moduli personalizzati sono collegati**
+**[!UICONTROL I pulsanti Caso di business] non funzionano quando si allegano moduli personalizzati**
 
 _Progetti_
 
-Quando un progetto nel nuovo [!DNL Workfront] l&#39;esperienza viene creata a partire da un modello di progetto ed è presente un modulo personalizzato allegato, gli utenti non possono inviare, rifiutare o approvare un caso aziendale.
+Nella nuova esperienza [!DNL Workfront], quando si crea un progetto a partire da un modello a cui è allegato un modulo personalizzato, gli utenti non sono in grado di inviare, rifiutare o approvare un caso di business.
 
-**Prove archiviate visualizzate su elenchi e rapporti**
+**Visualizzazione delle bozze archiviate in elenchi e rapporti**
 
 _Bozze_
 
-Quando un utente visualizza il proprio elenco di lavoro in [!UICONTROL Pagina principale] o [!UICONTROL Il mio lavoro], le bozze già archiviate vengono visualizzate nell’elenco. Le bozze archiviate vengono visualizzate anche nei rapporti e nelle dashboard.
+Quando un utente visualizza il proprio elenco di lavoro in [!UICONTROL Home] o [!UICONTROL My Work] (Lavoro personale), nella pagina vengono visualizzate le bozze che sono già state archiviate. Le bozze archiviate vengono visualizzate anche nei rapporti e nei dashboard.
 
-**Il progetto creato dal modello presenta impostazioni di accesso errate**
+**I progetti creati da un modello presentano impostazioni di accesso errate**
 
 _Progetti_
 
-Quando un utente crea un progetto da un modello, le impostazioni di accesso del modello non vengono riportate nel nuovo progetto creato.
+Quando un utente crea un progetto da un modello, le impostazioni di accesso del modello non vengono trasferite nel nuovo progetto creato.
 
-**Oggetti in [!UICONTROL Elenco lavori] senza caricamento [!UICONTROL Pagina principale]**
+**Gli oggetti in [!UICONTROL Work List] (Elenco di lavoro) non vengono caricati in [!UICONTROL Home]**
 
-_[!UICONTROL Pagina principale]_
+_[!UICONTROL Home]_
 
-Quando un utente fa clic su un oggetto nel [!UICONTROL Elenco dei lavori domestici], l’intestazione dell’oggetto viene visualizzata nel pannello di destra, ma i dettagli dell’oggetto non vengono visualizzati. Alla fine l&#39;utente visualizza il messaggio &quot;[!UICONTROL Pagine non reattive.]&quot;
+Quando un utente fa clic su un oggetto nella sezione [!UICONTROL Work List] (Elenco di lavoro) dell’area Home, l’intestazione dell’oggetto viene visualizzata nel pannello di destra, ma i relativi dettagli non vengono mostrati. Alla fine l’utente visualizza il messaggio “[!UICONTROL Pages Unresponsive]” (Le pagine non rispondono).
 
 +++
 
 
-## Aggiornamenti nell’aprile 2021
+## Aggiornamenti di aprile 2021
 
-+++**Aggiornamento della manutenzione il 29 aprile 2021**
++++**Aggiornamento di manutenzione del giovedì 29 aprile 2021**
 
-**[!DNL SharePoint]l&#39;integrazione si autentica utilizzando le credenziali di un&#39;integrazione separata**
+L’integrazione di **[!DNL SharePoint]esegue l’autenticazione utilizzando le credenziali di un’integrazione separata**
 
-_Integrazioni Workfront_
+_Integrazioni di Workfront_
 
-Quando un utente ne ha più di uno [!DNL SharePoint] integrazione, una [!DNL SharePoint] l&#39;autenticazione tenta di eseguire l&#39;autenticazione utilizzando le credenziali di un altro [!DNL SharePoint] integrazione.
+Quando un utente dispone di più integrazioni di [!DNL SharePoint], un’autenticazione di [!DNL SharePoint] tenta di accedere utilizzando le credenziali di un’altra integrazione di [!DNL SharePoint].
 
-**Impossibile caricare o esportare file da [!DNL Adobe] products**
+**Impossibile caricare o esportare file dai prodotti [!DNL Adobe]**
 
-_Integrazioni Workfront_
+_Integrazioni di Workfront_
 
-Quando un utente tenta di caricare o esportare i file utilizzando il [!DNL Workfront for Adobe Creative Cloud] integrazione, visualizzano il messaggio di errore &quot;[!UICONTROL Impossibile leggere la proprietà &#39;stage&#39; di undefined]&quot; e non sono in grado di caricare o esportare i file.
+Quando un utente tenta di caricare o esportare i file utilizzando l’integrazione di [!DNL Workfront for Adobe Creative Cloud], visualizza il messaggio di errore “[!UICONTROL Impossibile leggere la proprietà “stages” di undefined]” e l’operazione ha esito negativo.
 
 **I file non sono visibili in[!DNL Internet Explorer]**
 
 _Documenti_
 
-Quando un utente ha un [!DNL Internet Explorer] il browser passa alla [!UICONTROL Documenti] area di un oggetto [!UICONTROL Documenti] La schermata è vuota e non carica i file. Per alcuni utenti, la schermata carica alcuni file, ma il numero di file visualizzati non corrisponde al numero visualizzato accanto al [!UICONTROL Documenti] sezione .
+Quando un utente con un browser [!DNL Internet Explorer] passa alla sezione [!UICONTROL Documenti] di un oggetto, la schermata [!UICONTROL Documenti] è vuota e non mostra i file. Alcuni utenti sono in grado di visualizzare solo determinati documenti, ma il numero di file visualizzati non corrisponde a quello riportato accanto alla sezione [!UICONTROL Documenti].
 
 +++
 
-+++**Aggiornamento della manutenzione il 22 aprile 2021**
++++**Aggiornamento di manutenzione del giovedì 22 aprile 2021**
 
 **Attività aggiunte nell’ordine errato**
 
 _Modelli_
 
-Quando un utente aggiunge un&#39;attività a un modello, l&#39;attività non riceve il numero di attività previsto e l&#39;attività viene aggiunta nel punto sbagliato.
+Quando un utente aggiunge un’attività a un modello, l’attività non riceve il numero previsto e viene aggiunta in una posizione errata.
 
 **Le bozze vengono ora combinate in un’unica e-mail**
 
 _Bozze_
 
-[!DNL Workfront] ora invia un’e-mail per le bozze combinate anziché un’e-mail per ogni file incluso.
+[!DNL Workfront] ora invia un’e-mail per le bozze combinate anziché inviare un’e-mail per ogni file incluso.
 +++
 
-+++**[!DNL Workfront Fusion]Aggiornamento della manutenzione il 15 aprile 2021**
++++**[!DNL Workfront Fusion]Aggiornamento di manutenzione del giovedì 15 aprile 2021**
 
-**&quot;[!UICONTROL Scenario rifiutato]&quot; errore durante l&#39;esecuzione di uno scenario**
+**Errore “[!UICONTROL Scenario rejected]” (Scenario rifiutato) durante l’esecuzione di uno scenario**
 
 _[!DNL Workfront Fusion]_
 
-Quando un utente tenta di eseguire uno scenario, lo scenario non viene eseguito e l&#39;utente riceve il messaggio &quot;[!UICONTROL Scenario rifiutato.]&quot;
+Quando un utente tenta di eseguire uno scenario, l’operazione ha esito negativo e l’utente riceve il messaggio “[!UICONTROL Scenario rejected]” (Scenario rifiutato).
 
 +++
 
-+++**Aggiornamento della manutenzione il 15 aprile 2021**
++++**Aggiornamento di manutenzione del giovedì 15 aprile 2021**
 
-**[!UICONTROL Bilanciamento del carico di lavoro] visualizza ore pianificate non corrette**
+**[!UICONTROL Il Bilanciatore dei carichi di lavoro] visualizza un numero errato di ore pianificate**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente visualizza le ore pianificate di un&#39;attività nel [!UICONTROL Bilanciamento del carico di lavoro] il valore delle ore pianificate non corrisponde alle ore pianificate assegnate all&#39;attività.
+Quando un utente visualizza le ore pianificate per un’attività nel [!UICONTROL Bilanciatore dei carichi di lavoro], il valore mostrato non corrisponde alle ore pianificate assegnate all’attività.
 
 **La barra di navigazione superiore non è visibile in[!DNL Workfront Proof]**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente passa a qualsiasi [!DNL Workfront Proof] pagina diversa dalla pagina Dashboard, la barra di navigazione superiore scompare. L’utente non è in grado di accedere alla funzionalità nella barra di navigazione, ad esempio le impostazioni dell’account o il profilo.
+Quando un utente passa a una pagina diversa da Dashboard in [!DNL Workfront Proof], la barra di navigazione superiore scompare. L’utente non è in grado di accedere alle funzionalità della barra di navigazione, ad esempio alle impostazioni dell’account o al profilo.
 
 **Miglioramento dei moduli personalizzati**
 
 _Moduli personalizzati nel mio gruppo_
 
-Per una migliore esperienza durante la compilazione di un modulo personalizzato, è stato migliorato il modo in cui vengono visualizzate le etichette dei campi personalizzati di lunga data. Quando c&#39;è abbastanza spazio orizzontale per mostrarle tutte, queste etichette non vengono più troncate.
+Per una migliore esperienza durante la compilazione di un modulo personalizzato, la visualizzazione delle etichette nei campi personalizzati lunghi è stata perfezionata. Quando lo spazio orizzontale è sufficiente per visualizzarle interamente, queste etichette non vengono più troncate.
 
 +++
 
-+++**Aggiornamento della manutenzione l’8 aprile 2021**
++++**Aggiornamento di manutenzione dell’8 aprile 2021**
 
-**Impossibile creare bozze in [!DNL Adobe Creative Cloud] integrazione**
+**Impossibile creare bozze nell’integrazione di [!DNL Adobe Creative Cloud]**
 
-_Integrazioni Workfront_
+_Integrazioni di Workfront_
 
-Quando un utente tenta di creare una bozza direttamente dal [!DNL Adobe Creative Cloud], la bozza non viene generata.
+Quando un utente tenta di creare una bozza direttamente da [!DNL Adobe Creative Cloud], la bozza non viene generata.
 
 +++
 
-+++**Aggiornamento della manutenzione il 1 aprile 2021**
++++**Aggiornamento di manutenzione del 1° aprile 2021**
 
-**Problemi relativi alla visualizzazione del pannello di riepilogo in[!DNL Chrome]**
+**Problemi durante la visualizzazione del pannello di riepilogo in[!DNL Chrome]**
 
 _[!UICONTROL Riepilogo]_
 
-Quando un utente apre la [!UICONTROL Riepilogo] quando si utilizza il pannello [!DNL Chrome] , l’interfaccia utente del pannello di riepilogo non si comporta come previsto. L’utente non è in grado di scorrere, le icone potrebbero scomparire e il contenuto potrebbe sovrapporsi ad altri contenuti.
+Quando un utente apre il pannello [!UICONTROL Riepilogo] tramite il browser [!DNL Chrome], l’interfaccia utente del pannello di riepilogo non si comporta come previsto. L’utente non è in grado di scorrere la pagina, le icone potrebbero scomparire e il contenuto potrebbe sovrapporsi ad altri elementi.
 
-**[!UICONTROL Team] area [!UICONTROL Configurazione] non visualizzare tutti i team**
+**[!UICONTROL Nella sezione Team] di [!UICONTROL Configurazione] non vengono mostrati tutti i team**
 
 _[!UICONTROL Configura]_
 
-Quando un amministratore accede alla pagina [!UICONTROL Team] area [!UICONTROL Configurazione], possono visualizzare solo i team creati. I team creati da altri amministratori non sono visibili.
+L’amministratore è in grado di visualizzare solo i team che ha creato personalmente quando accede alla pagina [!UICONTROL Team] di [!UICONTROL Configurazione]. I team creati da altri amministratori non sono visibili.
 
-**Impossibile aggiungere aggiornamenti al progetto in [!UICONTROL Approvazione in sospeso] status**
+**Impossibile aggiungere aggiornamenti a un progetto che si trova nello stato [!UICONTROL In attesa di approvazione]**
 
 _Progetti_
 
-Se un utente tenta di aggiungere un aggiornamento a un progetto in [!UICONTROL Approvazione in sospeso] e non sono l’utente assegnato per l’approvazione del progetto, l’aggiornamento non viene aggiunto e viene visualizzato il seguente avviso:
+Quando un utente tenta di aggiungere un aggiornamento a un progetto che si trova nello stato [!UICONTROL In attesa di approvazione] e tale utente non è designato all’approvazione del progetto, l’aggiornamento non viene aggiunto e l’utente visualizza l’avviso seguente:
 
-Un progetto con &quot;[!DNL Pending Approval]Impossibile modificare lo stato di &quot;. Puoi modificare il progetto modificando lo stato.
+Impossibile modificare un progetto con lo stato “[!DNL Pending Approval]”. È possibile modificare il progetto cambiando lo stato.
 
 +++
 
 
-## Aggiornamenti a marzo 2021
+## Aggiornamenti di marzo 2021
 
-+++**Aggiornamento della manutenzione il 26 marzo 2021**
++++**Aggiornamento di manutenzione del venerdì 26 marzo 2021**
 
-**I pulsanti in un caso aziendale vengono visualizzati in modo errato**
+**I pulsanti in un caso di business vengono visualizzati in modo errato**
 
 _Progetti_
 
-Quando un utente visualizza un business case e la finestra è in modalità a schermo intero, la [!UICONTROL Salva] e [!UICONTROL Annulla] i pulsanti vengono visualizzati vicino al centro dello schermo e si sovrappongono agli elementi del business case.
+Quando un utente visualizza un caso di business e la finestra è in modalità a schermo intero, i pulsanti [!UICONTROL Salva] e [!UICONTROL Annulla] vengono visualizzati al centro dello schermo, sovrapponendosi ad altri elementi del caso di business.
 
-**Impossibile modificare l&#39;ordinamento di un report**
+**Impossibile modificare l’ordinamento di un rapporto**
 
 _Rapporti_
 
-Quando un utente tenta di modificare l’ordinamento di un rapporto nel nuovo [!DNL Workfront] esperienza, l&#39;ordinamento non cambia dall&#39;ordinamento selezionato al momento della creazione del rapporto.
+Quando un utente tenta di modificare l’ordinamento di un rapporto nella nuova esperienza [!DNL Workfront], l’ordinamento non cambia rispetto a quello selezionato al momento della creazione del rapporto.
 
-**Condivisione di elementi disabilitati su nuove prove**
-
-_[!DNL Workfront Proof]_
-
-Quando un utente ha [!UICONTROL Condivisione pubblica] se attivata nelle impostazioni di bozza predefinite, viene creata una bozza; la bozza viene creata con la condivisione disabilitata. Altri utenti non possono visualizzare il [!UICONTROL Condividi] o condividere la bozza.
-
-**&quot;[!UICONTROL Impossibile generare la bozza]&quot; errore durante la creazione della bozza**
+**La Condivisione è disabilitata per le nuove bozze**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente tenta di creare una bozza, la bozza non viene creata e l’utente visualizza il seguente messaggio di errore:
+Quando un utente crea una bozza con l’opzione [!UICONTROL Condivisione pubblica] abilitata, al momento della sua generazione la condivisione si disabilita. Gli altri utenti non possono visualizzare il pulsante [!UICONTROL Condividi] o condividere la bozza.
 
-&quot;[!UICONTROL Impossibile generare la bozza. Errore interno]&quot;
+**Errore “[!UICONTROL Proof failed to generate]” (Impossibile generare la bozza) durante la creazione di una bozza**
 
-+++
+_[!DNL Workfront Proof]_
 
-+++**[!DNL Workfront Fusion]Aggiornamento della manutenzione il 25 marzo 2021**
+Quando un utente tenta di creare una bozza, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
-**Raccolta o campo di riferimento ridondanti rimosso dal pannello di mappatura**
-
-_[!DNL Workfront Fusion]2,0_
-
-Quando un utente utilizza un termine del [!DNL Workfront] API per selezionare una raccolta o un campo di riferimento da includere nell&#39;output di un [!DNL Workfront] modulo, l&#39;output per quel modulo mostra quel campo con due punti (ad esempio [!UICONTROL proprietario:nome]) e anche negli attributi (il nome è un campo in proprietario). Il campo contrassegnato con due punti non contiene dati e fornisce dati errati se mappato a un modulo in un secondo momento nello scenario.
+“[!UICONTROL Proof failed to generate -- internal error]” (Impossibile generare la bozza. Errore interno)
 
 +++
 
-+++**[!DNL Workfront Fusion]Aggiornamento della manutenzione il 18 marzo 2021**
++++**[!DNL Workfront Fusion]Aggiornamento di manutenzione del giovedì 25 marzo 2021**
 
-**Le impostazioni dei modelli di progetto ora si applicano ai progetti creati tramite [!DNL Workfront Fusion] 2,0**
+**Raccolta o campo di riferimento ridondante rimosso dal pannello di mappatura**
 
-_[!DNL Workfront Fusion]2,0_
+_[!DNL Workfront Fusion]2.0_
 
-Quando crei un progetto da un modello utilizzando [!DNL Workfront Fusion] 2.0, le impostazioni del modello vengono applicate al nuovo progetto. Questo comportamento è lo stesso quando si crea un progetto da un modello nel [!DNL Workfront] applicazione.
+Quando un utente utilizza un termine dell’API [!DNL Workfront] per selezionare una raccolta o un campo di riferimento da includere nell’output di un modulo [!DNL Workfront], l’output mostra tale campo con due punti, ad esempio, [!UICONTROL owner:name] (proprietario:nome), e anche negli attributi (nome è un campo sotto proprietario). Il campo contrassegnato con due punti non contiene dati e fornisce informazioni errate se viene mappato in un modulo successivo nello scenario.
 
 +++
 
-+++**Aggiornamento della manutenzione il 18 marzo 2021**
++++**[!DNL Workfront Fusion]Aggiornamento di manutenzione del giovedì 18 marzo 2021**
 
-**Le impostazioni dei modelli di progetto ora si applicano ai progetti creati tramite API**
+**Le impostazioni dei modelli di progetto ora si applicano ai progetti creati tramite [!DNL Workfront Fusion] 2.0**
+
+_[!DNL Workfront Fusion]2.0_
+
+Quando un utente crea un progetto da un modello utilizzando [!DNL Workfront Fusion] 2.0, le impostazioni del modello vengono applicate al nuovo progetto. Questo comportamento è identico alla procedura di creazione di un progetto a partire da un modello nell’applicazione [!DNL Workfront].
+
++++
+
++++**Aggiornamento di manutenzione del giovedì 18 marzo 2021**
+
+**Le impostazioni dei modelli di progetto ora si applicano ai progetti creati tramite l’API**
 
 _[!DNL Workfront]API_
 
-Quando crei un progetto da un modello utilizzando [!DNL Workfront] API, le impostazioni del modello vengono applicate al nuovo progetto. Questo comportamento è lo stesso quando si crea un progetto da un modello nel [!DNL Workfront] applicazione.
+Quando un utente crea un progetto da un modello utilizzando l’API [!DNL Workfront], le impostazioni del modello vengono applicate al nuovo progetto. Questo comportamento è identico alla procedura di creazione di un progetto a partire da un modello nell’applicazione [!DNL Workfront].
 
 +++
 
-+++**Aggiornamento della manutenzione (Hotfix) il 15 marzo 2021**
++++**Aggiornamento di manutenzione (aggiornamento rapido) del lunedì 15 marzo 2021**
 
 **Il componente condiviso non funziona come previsto**
 
 _[!DNL Workfront Proof]_
 
-Se indipendente [!DNL Workfront Proof] gli account vengono spostati in un componente condiviso, le seguenti funzionalità possono verificarsi quando un utente aggiunge una nuova versione di una bozza o di un documento:
+Se gli account [!DNL Workfront Proof] autonomi vengono spostati in un componente condiviso, possono verificarsi gli scenari seguenti quando un utente aggiunge una nuova versione di una bozza o di un documento:
 
-* Impossibile eliminare l&#39;utente [!UICONTROL Prove da studio].
+* L’utente non è in grado di eliminare l’utente [!UICONTROL Studio Proof].
 * Il messaggio predefinito non viene visualizzato nella nuova versione.
 
 **La condivisione di collegamenti pubblici non è abilitata nella nuova versione di una bozza**
 
 _Documenti_
 
-Quando un utente abilita la condivisione di collegamenti pubblici su una bozza e successivamente carica una nuova versione della bozza, la condivisione di collegamenti pubblici non viene abilitata automaticamente sulla nuova versione della bozza.
+Quando un utente abilita la condivisione di collegamenti pubblici su una bozza e successivamente ne carica una nuova versione, la condivisione di collegamenti pubblici non viene abilitata automaticamente sulla nuova versione.
 
-**[!UICONTROL Approva], [!UICONTROL Modifiche], [!UICONTROL Rifiuta] pulsanti mancanti dalla bozza**
+**[!UICONTROL I pulsanti Approva], [!UICONTROL Modifiche], [!UICONTROL Rifiuta] non sono presenti nella bozza**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente visualizza una bozza nel visualizzatore delle prove, il [!UICONTROL Approva], [!UICONTROL Modifiche]e [!UICONTROL Rifiuta] nella parte superiore dello schermo mancano i pulsanti.
+Quando un utente visualizza una bozza in Proof Viewer (Visualizzatore di bozze), i pulsanti [!UICONTROL Approva], [!UICONTROL Modifiche] e [!UICONTROL Rifiuta] non sono presenti nella parte superiore dello schermo.
 
-**Impossibile modificare l&#39;ordinamento di un report**
+**Impossibile modificare l’ordinamento di un rapporto**
 
 _Rapporti_
 
-Quando un utente tenta di modificare l’ordinamento di un rapporto nel nuovo [!DNL Workfront] esperienza, l&#39;ordinamento non cambia dall&#39;ordinamento selezionato al momento della creazione del rapporto.
+Quando un utente tenta di modificare l’ordinamento di un rapporto nella nuova esperienza [!DNL Workfront], l’ordinamento non cambia rispetto a quello selezionato al momento della creazione del rapporto.
 
-**Messaggio personalizzato sulla prova che non ritorna alla nuova versione**
+**Il messaggio personalizzato di una bozza non viene trasferito nella nuova versione**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente allega un messaggio personalizzato a una bozza e quindi carica una nuova versione della bozza, il messaggio personalizzato non viene visualizzato nella nuova bozza.
+Quando un utente allega un messaggio personalizzato a una bozza e carica una nuova versione, il messaggio personalizzato non viene visualizzato nella nuova bozza.
 
-**L&#39;elenco utenti non viene visualizzato**
+**L’elenco utenti non viene visualizzato**
 
 _Elenchi_
 
-Quando un utente tenta di visualizzare un elenco di utenti e la visualizzazione include il[!UICONTROL Icone di stato]&quot;, l&#39;elenco non viene visualizzato.
+Quando un utente tenta di visualizzare un Elenco utenti e la visualizzazione include la colonna “[!UICONTROL Status Icons]” (Icone di stato), l’elenco non viene visualizzato.
 
-**&quot;[!UICONTROL Notifica ai destinatari questa bozza]&quot; opzione disabilitata indipendentemente dalle impostazioni del flusso di lavoro**
+**Opzione “[!UICONTROL Notify recipients about this proof]” (Notifica ai destinatari questa bozza) disabilitata indipendentemente dalle impostazioni del flusso di lavoro**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente crea una nuova bozza e non attiva manualmente il pulsante &quot;[!UICONTROL Notifica ai destinatari questa bozza]&quot;, il destinatario previsto non viene informato. Questo vale anche se l’opzione è abilitata nelle impostazioni del flusso di lavoro.
+Quando un utente crea una nuova bozza e non abilita manualmente l’opzione “[!UICONTROL Notify recipients about this proof]” (Notifica ai destinatari questa bozza), il destinatario non riceve alcuna notifica. Ciò avviene anche quando l’opzione è abilitata nelle impostazioni del flusso di lavoro.
 
-**Impossibile modificare l&#39;intervallo di tempo**
+**Impossibile modificare l’intervallo di date**
 
-_[!UICONTROL Analisi avanzata]_
+_[!UICONTROL Funzionalità di analisi avanzate]_
 
-Quando un utente visualizza [!UICONTROL Analisi migliorata] e clicca sul calendario per regolare l&#39;intervallo di date, le date non cambiano.
+Quando un utente visualizza la [!UICONTROL Funzionalità di analisi avanzate] e fa clic sul calendario per modificare l’intervallo di date, le date non cambiano.
 
-**Impossibile scaricare il documento condiviso pubblicamente**
+**Impossibile scaricare un documento condiviso pubblicamente**
 
 _Documenti_
 
-Quando un utente fa clic su un collegamento condiviso per scaricare un documento, il documento non viene scaricato e l&#39;utente visualizza un errore dal browser che indica che la pagina non esiste.
+Quando un utente fa clic su un collegamento condiviso per scaricare un documento, l’operazione ha esito negativo e l’utente visualizza all’interno del browser un messaggio di errore dove si indica che la pagina non esiste.
 
 +++
 
-+++**Aggiornamento della manutenzione l’11 marzo 2021**
++++**Aggiornamento di manutenzione dell’giovedì 11 marzo 2021**
 
-**Sezione del modulo personalizzato non esportata per non amministratori**
+**Esportazione di una sezione del modulo personalizzato consentita solo agli amministratori**
 
 _Moduli personalizzati_
 
-Se un modulo personalizzato allegato a un oggetto presenta un’interruzione di sezione che richiede qualcosa di precedente a &quot;[!UICONTROL Visualizza]&quot; accesso necessario per visualizzare il contenuto della sezione, il contenuto della sezione non può essere esportato da altri utenti che non siano amministratori.
+Se un modulo personalizzato allegato a un oggetto presenta un’interruzione di sezione che richiede un accesso superiore rispetto a “[!UICONTROL View]” (Visualizzazione) per visualizzare il contenuto della sezione, tale contenuto può essere esportato soltanto dagli amministratori.
 
-**Il documento scaricato ha un nome non corretto**
+**Il nome del documento scaricato non è corretto**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente scarica un documento dal [!UICONTROL Visualizzatore di prove], il del documento ha il nome di una versione precedente del documento, non la versione scaricata.
+Quando un utente scarica un documento da [!UICONTROL Proof viewer] (Visualizzatore di bozze), il documento presenta il nome di una versione precedente, non di quella scaricata.
 
 +++
 
-+++**Aggiornamento della manutenzione il 4 marzo 2021**
++++**Aggiornamento di manutenzione del giovedì 4 marzo 2021**
 
 **Errore durante l’accesso al modello di layout**
 
 _Modelli di layout_
 
-Quando un utente si è iscritto al nuovo [!DNL Workfront] passa a [!DNL Classic] esperienza e tentativi di accesso a un [!DNL Classic] modello layout, vedono l&#39;errore &quot;[!UICONTROL La pagina non esiste.]&quot;
+Quando un utente iscritto alla nuova esperienza [!DNL Workfront] passa a [!DNL Classic] e tenta di accedere a un modello di layout [!DNL Classic], visualizza l’errore “[!UICONTROL La pagina non esiste]”.
 
-**Impossibile modificare i filtri nel [!UICONTROL Bilanciamento del carico di lavoro]**
+**Impossibile modificare i filtri nel [!UICONTROL Bilanciatore dei carichi di lavoro]**
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente tenta di modificare un filtro nel [!UICONTROL Bilanciamento del carico di lavoro], il generatore di filtri non si apre.
+Quando un utente tenta di modificare un filtro nel [!UICONTROL Bilanciatore dei carichi di lavoro], il generatore di filtri non si apre.
 
-**&quot;[!UICONTROL Visualizza tutte le notifiche]&quot; link in email notification reindirizza a pagina errata**
-
-_Notifiche e-mail_
-
-Quando un utente fa clic su &quot;[!UICONTROL Visualizza tutte le notifiche]&quot; in una notifica e-mail, vengono reindirizzati a una pagina con il seguente messaggio:
-
-&quot;[!UICONTROL L&#39;utente non esiste più. L’indirizzo web potrebbe non essere digitato correttamente. Controllalo e prova di digitarlo di nuovo.]&quot;
-
-**L’utente non viene indirizzato al commento di bozza a cui è stato applicato il tag**
+**Il collegamento “[!UICONTROL See All Notifications]” (Visualizza tutte le notifiche) in una notifica e-mail reindirizza l’utente a una pagina errata**
 
 _Notifiche e-mail_
 
-Quando un utente ha i tag in un commento di bozza e fa clic sul pulsante [!UICONTROL Vai a prova] in una notifica e-mail, sono indirizzati alla bozza ma non al commento specifico. Se l’utente è in [!DNL Workfront Classic], sono dirette al [!UICONTROL Dettagli documento] al posto del commento nella bozza.
+Quando un utente fa clic sul collegamento “[!UICONTROL See All Notifications]” (Visualizza tutte le notifiche) in una notifica e-mail, viene reindirizzato a una pagina contenente il messaggio seguente:
 
-**Utenti aggiunti a [!DNL Workfront] ricezione di notifiche e-mail**
+“[!UICONTROL L’utente non esiste più. L’indirizzo web potrebbe non essere digitato correttamente. Controllalo e prova di digitarlo di nuovo.]&quot;
+
+**L’utente non viene indirizzato al commento della bozza in cui è taggato**
+
+_Notifiche e-mail_
+
+Quando un utente viene taggato all’interno di un commento della bozza e fa clic sul collegamento [!UICONTROL Go To Proof] (Vai alla bozza) nella notifica e-mail, viene indirizzato alla bozza ma non al commento specifico. Se l’utente si trova in [!DNL Workfront Classic], viene indirizzato alla pagina [!UICONTROL Dettagli documento] e non al commento nella bozza.
+
+**Gli utenti aggiunti alla fase [!DNL Workfront] ricevono notifiche e-mail**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente che non è nel flusso di lavoro apre una bozza da [!DNL Workfront], il sistema crea automaticamente un&#39;area di visualizzazione, aggiunge l&#39;utente alla bozza e invia un [!UICONTROL Nuova bozza] notifica via e-mail.
+Quando un utente che non fa parte del flusso di lavoro apre una bozza da [!DNL Workfront], il sistema crea automaticamente una fase, aggiunge l’utente alla bozza e invia la notifica e-mail [!UICONTROL New Proof] (Nuova bozza).
 
-**Il pannello di riepilogo del documento si oscura, rendendo le azioni non disponibili**
+**Il pannello di riepilogo del documento si scurisce, rendendo le azioni non disponibili**
 
 _Documenti_
 
-Quando un utente si trova su una pagina del documento e passa il mouse sul pannello di riepilogo del documento, il pannello si oscura e può mostrare altri pulsanti. L’utente non può fare clic sulle azioni nel pannello di riepilogo.
+Quando un utente si trova su una pagina del documento e passa il puntatore sul pannello di riepilogo, il pannello si scurisce e potrebbe mostrare altri pulsanti. L’utente non può selezionare le azioni del pannello di riepilogo.
 
-**Modifica delle prestazioni del flusso di lavoro**
+**Modifica delle prestazioni del flusso di aggiornamento**
 
-_Aggiorna flusso_
+_Flusso di aggiornamento_
 
-Abbiamo ridotto il numero di aggiornamenti utente visualizzati nella [!UICONTROL Aggiornamenti] da 50 a 25 alla volta per migliorare le prestazioni.
+Il numero di aggiornamenti utente mostrati nella scheda [!UICONTROL Aggiornamenti] è stato ridotto da 50 a 25 alla volta per migliorare le prestazioni.
 
 +++
 
-+++**Aggiornamento della manutenzione (Hotfix) il 1° marzo 2021**
++++**Aggiornamento di manutenzione (correzione rapida) del 1° marzo 2021**
 
 **Le nuove e-mail di bozza non vengono inviate**
 
 _[!DNL Workfront Proof]_
 
-NOTA: Questo problema è stato risolto nel nuovo [!DNL Workfront] esperienza il 26 febbraio 2021.
-È stato risolto nel [!DNL Classic] esperienza del 1° marzo 2021.
+NOTA: questo problema è stato risolto nella nuova esperienza [!DNL Workfront] il 26 febbraio 2021.
+È stato risolto in [!DNL Classic] il 1° marzo 2021.
 
-Quando un utente crea una nuova bozza e abilita l’opzione [!UICONTROL Notifica ai destinatari questa bozza], non viene inviata alcuna e-mail di notifica al destinatario.
+Quando un utente crea una nuova bozza e abilita l’opzione [!UICONTROL Notify recipients about this proof] (Notifica ai destinatari questa bozza), non viene inviata alcuna e-mail di notifica al destinatario.
 
 +++
 
 
-## Aggiornamenti a febbraio 2021
+## Aggiornamenti di febbraio 2021
 
-+++**Aggiornamento della manutenzione il 25 febbraio 2021**
++++**Aggiornamento di manutenzione del giovedì 25 febbraio 2021**
 
-**[!UICONTROL Pianificazione] lo strumento non viene caricato in nessuna area**
+**[!UICONTROL Lo strumento Pianificazione] non si carica in nessuna area**
 
 _Gestione risorse_
 
-Quando un utente con un apostrofo nel suo nome utente tenta di accedere al [!UICONTROL Pianificazione] entrare nello strumento [!DNL Workfront Classic], la pagina è vuota e lo strumento non viene mai caricato.
+Quando un utente che presenta un apostrofo nel proprio nome utente tenta di accedere allo strumento [!UICONTROL Pianificazione] in [!DNL Workfront Classic], la pagina è vuota e lo strumento non si carica.
 
-**Il nome non cambia nelle nuove versioni della bozza**
+**Il nome non si aggiorna nelle nuove versioni di una bozza**
 
 _Documenti_
 
-Quando un utente entra nel nuovo [!DNL Workfront] experience carica una nuova versione di un documento con un nome diverso. il nome non viene aggiornato per corrispondere al nome della versione più recente.
+Nella nuova esperienza [!DNL Workfront], quando un utente carica una nuova versione di un documento con un nome diverso, il nome non viene aggiornato in modo da corrispondere al nome della versione più recente.
 
-**[!UICONTROL Condivisione documenti] errore durante l’eliminazione di progetti**
+**[!UICONTROL Errore Document Share] (Condivisione documento) durante l’eliminazione di progetti**
 
 _Progetti_
 
-Quando un utente amministratore di sistema ha accesso a un progetto copiato e tenta di eliminarlo o di eliminarlo nel progetto, non è in grado di eliminare l&#39;oggetto e viene visualizzato l&#39;errore &quot;[!UICONTROL Condivisione documenti con valori chiave principali non trovata.]&quot;
+Quando un amministratore di sistema ha accesso a un progetto che è stato copiato e tenta di eliminare tale progetto o un documento al suo interno, l’operazione ha esito negativo e viene visualizzato il messaggio di errore “[!UICONTROL Condivisione documento con valore/i di chiave primaria non trovato]”.
 
 **Il rapporto utente non applica tutti i filtri**
 
 _Rapporti_
 
-Quando un utente entra nel nuovo [!DNL Workfront] crea un rapporto utente con una regola di filtro che include [!UICONTROL ID principale] non vengono applicate altre regole di filtro nel rapporto.
+Nella nuova esperienza [!DNL Workfront], quando un utente crea un rapporto utente con una regola di filtro che include il campo [!UICONTROL Top Parent ID] (ID padre principale), le altre regole di filtro non vengono applicate.
 
-**Campi calcolati non ricalcolati dopo le modifiche**
-
-_Moduli personalizzati_
-
-Quando un utente entra nel nuovo [!DNL Workfront] l’esperienza modifica e salva un modulo personalizzato contenente campi calcolati, questi campi non vengono aggiornati.
-
-**Documenti che vengono eliminati quando il modulo personalizzato viene eliminato**
+**I campi calcolati non vengono ricalcolati dopo le modifiche**
 
 _Moduli personalizzati_
 
-Quando un utente entra nel nuovo [!DNL Workfront] esperienza elimina un modulo personalizzato Documenti allegato ai documenti, nonché tali documenti vengono eliminati.
+Nella nuova esperienza [!DNL Workfront], quando un utente modifica e salva un modulo personalizzato contenente campi calcolati, questi campi non vengono aggiornati.
+
+**Eliminazione di documenti durante la rimozione di un modulo personalizzato**
+
+_Moduli personalizzati_
+
+Nella nuova esperienza [!DNL Workfront], quando un utente elimina un modulo personalizzato Documenti allegato ai documenti, anche questi ultimi vengono eliminati.
 
 +++
 
-+++**Aggiornamento della manutenzione il 18 febbraio 2021**
++++**Aggiornamento di manutenzione del giovedì 18 febbraio 2021**
 
-**Casella di controllo non necessaria rimossa [!UICONTROL Richieste] area**
+**Casella di controllo non necessaria rimossa dall’area [!UICONTROL Richieste]**
 
 _Richieste_
 
-Abbiamo rimosso la casella di controllo a sinistra dei nomi delle richieste nell&#39;elenco Inviato della [!UICONTROL Richieste] area. Questa casella di controllo non era connessa ad alcuna funzionalità, pertanto l&#39;abbiamo rimossa per eliminare un&#39;esperienza confusa.
+La casella di controllo a sinistra dei nomi delle richieste nell’elenco Inviato dell’area [!UICONTROL Richieste] è stata rimossa. Questa casella di controllo non era connessa ad alcuna funzionalità, pertanto la sua rimozione ha contribuito a migliorare l’esperienza dell’utente.
 
 **Impossibile accedere ai documenti dai collegamenti**
 
 _Documenti_
 
-Quando un utente entra nel nuovo [!DNL Workfront] l&#39;esperienza fa clic su alcuni collegamenti ai documenti, non sono in grado di accedere al documento e visualizzano il messaggio di errore &quot;[!UICONTROL Il documento non esiste più: Potrebbe aver digitato l&#39;indirizzo web per errore. Verificare e riprovare a immettere l&#39;indirizzo.]&quot; Lo stesso errore si verifica con [!UICONTROL Visualizza dettagli] collegamento nelle notifiche e-mail a prova di .
+Nella nuova esperienza [!DNL Workfront], quando un utente fa clic su alcuni collegamenti all’interno del documento, non è in grado di accedere al documento e visualizza il messaggio di errore “[!UICONTROL Il documento non esiste più. È possibile che l’indirizzo web sia stato digitato in modo errato. Controllare l’indirizzo e digitarlo di nuovo.]”. Lo stesso errore si verifica con il collegamento [!UICONTROL Visualizza dettagli] delle notifiche e-mail relative alla bozza.
 
 +++
 
-+++**Aggiornamento sulla manutenzione di Workfront Fusion il 16 febbraio 2021**
++++**Aggiornamento di manutenzione di Workfront Fusion del 16 febbraio 2021**
 
-**[!DNL Workfront Fusion]2.0 mostra fusi orari non accurati**
+**[!DNL Workfront Fusion]2.0 mostra fusi orari imprecisi**
 
 _Scenari_
 
-Questo aggiornamento ha risolto un problema in cui [!DNL Fusion] 2.0 visualizzava i fusi orari utente in modo non accurato. Gli utenti possono ora visualizzare il proprio fuso orario nei campi di input per le date.
+Questo aggiornamento ha risolto un problema relativo alla visualizzazione non corretta dei fusi orari in [!DNL Fusion] 2.0. Gli utenti possono ora visualizzare il proprio fuso orario nei campi di input per le date.
 
 +++
 
-+++**Aggiornamento della manutenzione l’11 febbraio 2021**
++++**Aggiornamento di manutenzione dell’giovedì 11 febbraio 2021**
 
 **Le bozze non vengono caricate nella cartella selezionata**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente apre una cartella e ne aggiunge una nuova, la bozza viene caricata nel generale [!UICONTROL Documenti] area dell’oggetto anziché all’interno della cartella.
+Quando un utente apre una cartella e aggiunge una nuova bozza, quest’ultima viene caricata nell’area [!UICONTROL Documenti] generale dell’oggetto anziché all’interno della cartella.
 
-**Troppe pagine bloccate causano la scomparsa della navigazione superiore**
+**Troppe pagine fissate provocano la scomparsa della barra di navigazione superiore**
 
 _Navigazione_
 
-Quando un utente ha più di 60 pagine bloccate, la navigazione in alto smette di essere visualizzata, impedendo all’utente di accedere [!UICONTROL Ricerca], [!UICONTROL Menu principale], [!UICONTROL Notifiche]e altro ancora.
+Quando un utente ha fissato più di 60 pagine, la visualizzazione della barra di navigazione superiore si interrompe, impedendo all’utente di accedere alle sezioni [!UICONTROL Ricerca], [!UICONTROL Menu principale], [!UICONTROL Notifiche] e altro ancora.
 
-**L&#39;utente non può digitare testo nel campo RTF**
+**Impossibile digitare testo nel campo in formato Rich text**
 
 _Elenchi_
 
-Quando un utente tenta di modificare in linea un campo di testo RTF, può digitare un solo carattere.
+Quando un utente tenta di modificare in linea un campo in formato Rich text, può digitare un solo carattere.
 
 +++
 
-+++**Aggiornamento della manutenzione il 4 febbraio 2021**
++++**Aggiornamento di manutenzione del giovedì 4 febbraio 2021**
 
-**Mostra report esportati [!DNL Workfront Classic] branding**
+**Il rapporto esportato mostra il marchio [!DNL Workfront Classic]**
 
 _Rapporti_
 
-Quando un utente nella nuova esperienza Workfront esporta un rapporto, il logo visualizzato nel rapporto esportato corrisponde al [!DNL Workfront Classic] impostazioni trovate in [!UICONTROL Configurazione] > [!UICONTROL Sistema] > [!UICONTROL Branding].
+Quando un utente nella nuova esperienza Workfront esporta un rapporto, il logo visualizzato nel rapporto esportato corrisponde alle impostazioni di [!DNL Workfront Classic] presenti in [!UICONTROL Configurazione] > [!UICONTROL Sistema] > [!UICONTROL Marchio].
 
 +++
 
 
-## Aggiornamenti a gennaio 2021
+## Aggiornamenti di gennaio 2021
 
-+++**Aggiornamento della manutenzione il 28 gennaio 2021**
++++**Aggiornamento di manutenzione del giovedì 28 gennaio 2021**
 
-**Commenti non visualizzati &quot;[!UICONTROL a nome di]&quot;**
+**Nei commenti non viene visualizzato “[!UICONTROL per conto di]”**
 
 _Aggiornamenti_
 
-Quando un [!DNL Workfront] l’amministratore effettua l’accesso come un altro utente e risponde a un commento nel [!UICONTROL Aggiornamenti] area di un oggetto, testo &quot;[!UICONTROL a nome di]&quot; non viene visualizzato prima del nome utente.
+Quando un amministratore [!DNL Workfront] effettua l’accesso come altro utente e risponde a un commento nella sezione [!UICONTROL Aggiornamenti] di un oggetto, il testo “[!UICONTROL per conto di]” non viene visualizzato prima del nome utente.
 
 **Impossibile allegare un documento**
 
 _Richieste_
 
-Quando un utente entra nel nuovo [!DNL Workfront] esperienza tenta di aggiungere un documento a una nuova richiesta di un provider di documenti esterno, il [!UICONTROL Documenti] l&#39;elenco non viene caricato, il che impedisce all&#39;utente di selezionare il documento e completare la richiesta.
+Nella nuova esperienza [!DNL Workfront], quando un utente tenta di aggiungere un documento a una nuova richiesta di un provider di documenti esterno, l’elenco [!UICONTROL Documenti] non si carica, impedendo all’utente di selezionare il documento e completare la richiesta.
 
 **La larghezza dello schermo si espande a destra, causando problemi di navigazione**
 
 _[!UICONTROL Calendario Home]_
 
-Quando un utente entra nel nuovo [!DNL Workfront] l&#39;esperienza apre [!UICONTROL Calendario Home] e hanno oggetti dovuti in alcune settimane, lo schermo si espande a destra, impedendo loro di visualizzare l&#39;intera settimana contemporaneamente. Se l&#39;utente seleziona un elemento per aprire il [!UICONTROL Dettagli] in questo stato e desiderano visualizzare i dettagli di un altro elemento, devono scorrere a sinistra, che chiude il [!UICONTROL Dettagli] pannello.
+Nella nuova esperienza [!DNL Workfront], quando un utente apre la sezione [!UICONTROL Home Calendar] (Calendario Home) contenente voci in scadenza tra qualche settimana, lo schermo si espande a destra, impedendo all’utente di visualizzare tutta la settimana. Se l’utente seleziona un elemento per aprire il pannello [!UICONTROL Dettagli] in questo stato e desidera visualizzare i dettagli di un altro elemento, deve scorrere verso sinistra, chiudendo così il pannello [!UICONTROL Dettagli].
 
-**Etichetta del processo di approvazione monouso corretta**
-
-_Progetti_
-
-Quando si utilizza un processo di approvazione a uso singolo per un progetto nel nuovo [!DNL Workfront] esperienza, ora viene visualizzato come &quot;[!UICONTROL Processo di approvazione a uso singolo]&quot; invece di &quot;\&lt;custom>&quot; nel [!UICONTROL Modifica progetto] scatola. Non è ancora disponibile per attività e problemi.
-
-**Aspetto dei moduli personalizzati migliorato**
+**L’etichetta del processo di approvazione a utente singolo è stata corretta**
 
 _Progetti_
 
-È stato migliorato l’aspetto e l’aspetto dell’utilizzo dei moduli personalizzati nella nuova [!DNL Workfront] esperienza per i progetti.
+Nella nuova esperienza [!DNL Workfront], il processo di approvazione a utente singolo per un progetto ora viene visualizzato come “[!UICONTROL Single-use approval process]” (Processo di approvazione a utente singolo) invece di “\&lt;Custom\>” nella casella [!UICONTROL Edit Project] (Modifica progetto). Questo aggiornamento non è ancora disponibile per attività e problemi.
+
+**È stato migliorato il look and feel dei moduli personalizzati**
+
+_Progetti_
+
+È stato migliorato il look and feel dei moduli personalizzati nella nuova esperienza [!DNL Workfront] per i progetti.
 
 **La funzionalità API per la valuta del progetto ora corrisponde alla funzionalità in-app**
 
 _Progetti_
 
-Non è possibile modificare la valuta di un progetto se nel progetto sono già presenti informazioni finanziarie. Con l’ultimo aggiornamento di manutenzione, la funzionalità API per questo caso ora corrisponde all’esperienza in [!DNL Workfront] interfaccia.
+Non è possibile modificare la valuta di un progetto se sono già presenti informazioni finanziarie. Con l’ultimo aggiornamento di manutenzione, la funzionalità API per questa circostanza corrisponde ora all’esperienza nell’interfaccia di [!DNL Workfront].
 
-**Non genera automaticamente la settimana successiva**
+**Nessuna generazione automatica della settimana successiva**
 
 _Schede orario_
 
-Quando un utente passa alla [!UICONTROL Schede temporali] visualizza solo la scheda attività della settimana corrente. La scheda attività per le prossime settimane non viene generata automaticamente.
+Quando un utente passa alla sezione [!UICONTROL Schede orario], visualizza solo la scheda orario della settimana corrente. Le schede orario per le settimane successive non vengono generate automaticamente.
 
 +++
 
-+++**Aggiornamento della manutenzione il 21 gennaio 2021**
++++**Aggiornamento di manutenzione del giovedì 21 gennaio 2021**
 
-**L’ordinamento manuale in base a una colonna mostra tutti i risultati**
+**L’ordinamento manuale per colonna mostra tutti i risultati**
 
 _Rapporti_
 
-Quando un utente entra nel nuovo [!DNL Workfront] l’esperienza fa clic su una barra nel grafico di un rapporto, quindi fa clic su un’intestazione di colonna per ordinare manualmente i risultati di tale raggruppamento, vengono visualizzati tutti i risultati del rapporto e non solo i risultati del raggruppamento selezionato originariamente.
+Nella nuova esperienza [!DNL Workfront], quando un utente fa clic su una barra nel grafico di un rapporto e successivamente fa clic su un’intestazione di colonna per ordinare manualmente i risultati di tale raggruppamento, vengono visualizzati tutti i risultati del rapporto e non solo i risultati del raggruppamento selezionato originariamente.
 
-**&quot;[!UICONTROL Consenti condivisione di prove tramite URL o codice di incorporamento]&quot; modifica delle impostazioni**
-
-_[!DNL Workfront Proof]_
-
-Quando un utente crea una bozza e deseleziona l’impostazione [!UICONTROL Consenti condivisione di prove tramite URL o codice di incorporamento], l’impostazione viene nuovamente controllata dopo la generazione della bozza. Se l’utente lascia selezionata l’impostazione , questa viene deselezionata dopo la generazione della bozza.
-
-**[!DNL Mac]gli utenti non possono incollare nei campi di testo nel visualizzatore di prove**
+**Modifiche all’impostazione “[!UICONTROL Allow sharing proof via URL or embed code]” (Consenti condivisione di bozze tramite URL o codice di incorporamento)**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente tenta di incollare del testo in determinati campi nel visualizzatore di prove, il testo non viene visualizzato nel campo.
+Quando un utente crea una bozza e deseleziona l’impostazione [!UICONTROL Allow sharing proof via URL or embed code] (Consenti condivisione di bozze tramite URL o codice di incorporamento), l’impostazione viene nuovamente selezionata dopo la generazione della bozza. Se l’utente lascia tale impostazione selezionata, dopo la generazione della bozza viene deselezionata.
+
+Gli utenti **[!DNL Mac]non possono incollare nei campi di testo nel visualizzatore di bozze**
+
+_[!DNL Workfront Proof]_
+
+Quando un utente tenta di incollare del testo in determinati campi del visualizzatore di bozze, il testo non viene visualizzato.
 
 +++
 
-+++**Aggiornamento della manutenzione il 14 gennaio 2021**
++++**Aggiornamento di manutenzione del giovedì 14 gennaio 2021**
 
-**Impossibile aggiornare le impostazioni di Notifiche e-mail**
+**Impossibile aggiornare le impostazioni delle notifiche e-mail**
 
 _Configura_
 
-Quando un utente prova ad aggiornare le impostazioni per le notifiche e-mail, non può accedere al [!UICONTROL Notifiche e-mail] e visualizza il messaggio di errore &quot;[!UICONTROL Proviamolo ancora. Wow! Si è verificato un errore. Contattare [!DNL Workfront] quindi possiamo capire cosa è andato storto e ripararlo.]&quot;
+Quando un utente prova ad aggiornare le impostazioni delle notifiche e-mail, non può accedere alla sezione [!UICONTROL Notifiche e-mail] e visualizza il messaggio di errore “[!UICONTROL Riproviamo. Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
-**[!UICONTROL Diagramma di Gantt] causa il troncamento di alcuni campi**
+**[!UICONTROL Il Grafico di Gantt] causa il troncamento di alcuni campi**
 
 _Elenchi_
 
-Quando un utente apre la [!UICONTROL Diagramma di Gantt] in alcune aree elenco, alcuni campi, ad esempio [!UICONTROL Descrizione]- tronca il testo. Per visualizzare il testo completo, l’utente deve fare doppio clic sul campo.
+In alcune aree dell’elenco, quando un utente apre il [!UICONTROL Grafico di Gantt], il testo all’interno di alcuni campi, ad esempio [!UICONTROL Descrizione], appare troncato. Per visualizzare il testo completo, l’utente deve fare doppio clic sul campo.
 
 **Impossibile inviare file da [!UICONTROL Dettagli documento]**
 
 _Documenti_
 
-Quando un utente entra nel nuovo [!DNL Workfront] tenta di inviare un documento dal [!UICONTROL Dettagli documento] page, visualizzano il messaggio di errore &quot;[!UICONTROL Si è verificato un errore e stiamo lavorando per risolvere il problema. Per continuare il lavoro, prova ad aggiornare la pagina del browser.]&quot;
+Nella nuova esperienza [!DNL Workfront], quando un utente tenta di inviare un documento dalla pagina [!UICONTROL Dettagli documento], visualizza il messaggio di errore “[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 +++
 
-+++**Aggiornamento della manutenzione il 7 gennaio 2021**
++++**Aggiornamento di manutenzione del giovedì 7 gennaio 2021**
 
-**Si chiude la finestra di dialogo Delega approvazioni**
+**La finestra di dialogo Delegate Approvals (Delega approvazioni) si chiude**
 
-_Pagina principale_
+_Home_
 
-Quando un utente prova a delegare le approvazioni in [!UICONTROL Pagina principale] e fanno clic su una data, la finestra di dialogo viene chiusa senza selezionare la data o consentire all’utente di completare la delega dell’utente.
+Quando un utente prova a delegare le approvazioni in [!UICONTROL Home] e fa clic su una data, la finestra di dialogo si chiude senza selezionare la data o consentire all’utente di completare il processo di delega utente.
 
-**Problema relativo allo spostamento di un documento in un&#39;attività**
+**Problema relativo allo spostamento di un documento in un’attività**
 
 _Documenti_
 
-Quando un utente tenta di spostare un documento o una bozza nel nuovo [!DNL Workfront] esperienza, alcune attività al di fuori del progetto non elencano il progetto padre come previsto.
+Quando un utente tenta di spostare un documento o una bozza nella nuova esperienza [!DNL Workfront], alcune attività esterne al progetto non elencano il progetto principale come previsto.
 
-**Il nome di PDF scaricato non è corretto**
+**Il nome del PDF scaricato non è corretto**
 
 _[!DNL Workfront Proof]_
 
-Quando un utente riceve un collegamento per il download tramite e-mail ([!UICONTROL Prova] > [!UICONTROL Stampa commenti] > [!UICONTROL PDF]) ed esportano il file, il file scaricato è denominato con numeri casuali anziché con l’ID bozza.
+Quando un utente riceve un collegamento per il download tramite e-mail ([!UICONTROL Proof] (Bozza) > [!UICONTROL Stampa commenti] > [!UICONTROL PDF]) ed esporta il file, al file scaricato viene assegnato un numero casuale e non l’ID bozza.
 
 +++
