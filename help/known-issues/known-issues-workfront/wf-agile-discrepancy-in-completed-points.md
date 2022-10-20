@@ -1,21 +1,21 @@
 ---
-title: 'Agile: Discrepanza nei punti completati per un''iterazione"'
-description: Il numero visualizzato per i punti completati sulla bacheca storie a volte non corrisponde al numero effettivo di punti completati per i brani in un'iterazione
+title: '“Agile: discrepanza in Completed Points (Punti completati) per un’iterazione”'
+description: Il numero visualizzato per Completed Points (Punti completati) nella bacheca delle storie a volte non corrisponde al numero effettivo di punti completati per le storie in un’iterazione
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 hidefromtoc: true
 source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Agile: Discrepanza nei punti completati per un&#39;iterazione
+# Agile: discrepanza in Completed Points (Punti completati) per un’iterazione
 
 >[!NOTE]
 >
->Il team prodotto sta valutando questa risoluzione del problema, che potrebbe richiedere miglioramenti al prodotto. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
-Numero visualizzato per [!UICONTROL Punti completati] in Story Board a volte non corrisponde al numero effettivo di punti completati per i brani in un&#39;iterazione
+Il numero visualizzato per [!UICONTROL Completed Points] (Punti completati) nella bacheca delle storie a volte non corrisponde al numero effettivo di punti completati per le storie in un’iterazione
 
-_Primo comunicato il 13 aprile 2021._
+_Segnalato per la prima volta il martedì 13 aprile 2021._
