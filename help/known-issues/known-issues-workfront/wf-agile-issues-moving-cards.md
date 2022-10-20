@@ -1,21 +1,21 @@
 ---
-title: 'Agile: Problemi relativi allo spostamento delle carte sulla scheda Agile'
-description: Sono stati segnalati diversi problemi durante lo spostamento di schede sulla bacheca di Agile.
+title: '“Agile: problemi durante lo spostamento delle schede sulla bacheca Agile”'
+description: Sono stati segnalati diversi problemi durante lo spostamento di schede sulla bacheca Agile.
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
 hidefromtoc: true
 source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Agile: Problemi relativi allo spostamento delle carte sulla scheda Agile
+# Agile: problemi durante lo spostamento delle schede sulla bacheca Agile
 
-Sono stati segnalati i seguenti problemi durante lo spostamento di schede sulla bacheca di Agile:
+Sono stati segnalati i problemi seguenti durante lo spostamento di schede sulla bacheca Agile:
 
-* Il trascinamento dell&#39;animazione è ritardato
+* L’animazione di trascinamento subisce ritardi
 * La scheda torna alla colonna originale prima dello spostamento
 * La scheda viene spostata in una posizione imprevedibile nella nuova colonna
 
-_Prima segnalazione il 1° giugno 2022._
+_Segnalato per la prima volta il mercoledì 1 giugno 2022._
