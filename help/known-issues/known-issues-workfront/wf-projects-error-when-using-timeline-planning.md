@@ -16,7 +16,7 @@ ht-degree: 100%
 >
 >Questo problema è stato risolto il giovedì 25 agosto 2022.
 
-Quando un utente cerca di modificare una data in un progetto la cui [!UICONTROL Plan Mode] (Modalità di pianificazione) è impostata 	su [!UICONTROL Manual save] (Salvataggio manuale) > [!UICONTROL Timeline Planning] (Pianificazione temporale), la data non viene modificata e l’utente visualizza un errore.
+Quando un utente cerca di modificare una data in un progetto la cui [!UICONTROL Plan Mode] (Modalità di pianificazione) è impostata su [!UICONTROL Manual save] (Salvataggio manuale) > [!UICONTROL Timeline Planning] (Pianificazione temporale), la data non viene modificata e l’utente visualizza un errore.
 
 “[!UICONTROL La modalità di pianificazione della sequenza temporale è disponibile solo quando timelineDate è caricata. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
