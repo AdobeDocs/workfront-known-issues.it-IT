@@ -1,26 +1,26 @@
 ---
-title: "Documenti: Approvazioni documenti non disponibili dalla pagina Dettagli documento"
-description: "Quando un utente tenta di approvare un documento dalla pagina Dettagli del documento, la [!UICONTROL Approva], [!UICONTROL Approva con le modifiche]e [!UICONTROL Rifiuta] i pulsanti non sono disponibili e l'utente non può prendere una decisione sul documento."
+title: '“Documenti: le approvazioni dei documenti non sono disponibili dalla pagina Dettagli documento”'
+description: “Quando un utente tenta di approvare un documento dalla relativa pagina Dettagli, i pulsanti [!UICONTROL Approva], [!UICONTROL Approve with changes] (Approva con modifiche) e [!UICONTROL Rifiuta] non sono disponibili, impedendogli così di prendere una decisione in merito al documento”.
 hidefromtoc: true
 source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Documenti: Approvazioni documenti non disponibili da [!UICONTROL Dettagli documento] page
+# Documenti: le approvazioni dei documenti non sono disponibili dalla pagina [!UICONTROL Dettagli documento]
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 7 settembre 2022.
+>Questo problema è stato risolto il mercoledì 7 settembre 2022.
 
-Quando un utente tenta di approvare un documento dal documento [!UICONTROL Dettagli] pagina, [!UICONTROL Approva], [!UICONTROL Approva con le modifiche]e [!UICONTROL Rifiuta] i pulsanti non sono disponibili e l&#39;utente non può prendere una decisione sul documento.
+Quando un utente tenta di approvare un documento dalla relativa pagina [!UICONTROL Details], i pulsanti [!UICONTROL Approva], [!UICONTROL Approve with changes] (Approva con modifiche) e [!UICONTROL Rifiuta] non sono disponibili, impedendogli così di prendere una decisione in merito al documento.
 
 **Soluzione alternativa**
 
-Fai clic sul documento nel [!UICONTROL Documenti] elenco di un elemento di lavoro. La [!UICONTROL Approva], [!UICONTROL Approva con le modifiche]e [!UICONTROL Rifiuta] sono disponibili nella [!UICONTROL Riepilogo del documento] area.
+Fai clic sul documento all’interno dell’elenco [!UICONTROL Documenti] di un elemento di lavoro. I pulsanti [!UICONTROL Approva], [!UICONTROL Approve with changes] (Approva con modifiche) e [!UICONTROL Rifiuta] sono disponibili nella sezione [!UICONTROL Document Summary] (Riepilogo del documento).
 
-_Primo comunicato il 2 settembre 2022._
+_Segnalato per la prima volta il venerdì 2 settembre 2022._
 
