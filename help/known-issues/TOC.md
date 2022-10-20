@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
 workflow-type: tm+mt
-source-wordcount: '1467'
+source-wordcount: '1454'
 ht-degree: 79%
 
 ---
@@ -165,7 +165,6 @@ ht-degree: 79%
    + Problemi risolti in [!DNL Workfront] Proof {#proof-resolved}
       + [[!DNL Workfront Proof]: le sezioni di  [!DNL Workfront Proof]  non vengono aggiornate durante la creazione, lo spostamento o l’archiviazione di una bozza](known-issues-workfront-proof/resolved-issues-proof/proof-areas-not-update-when-proof-moved.md)
       + [Bozze: le bozze mostrano il messaggio “[!UICONTROL Generating proof]” (Generazione della bozza in corso...) per un periodo di tempo eccessivo](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
-      + [L’utente non può passare autonomamente a un’altra fase della bozza](known-issues-workfront-proof/resolved-issues-proof/user-cannot-move-self-to-another-stage-of-a-proof.md)
 
 
 + [!DNL Adobe Workfront Fusion] {#fusion}
@@ -183,7 +182,6 @@ ht-degree: 79%
       + [[!DNL Workfront Fusion]: errore 502 quando lo scenario include un modulo che controlla le decisioni relative alle bozze in Workfront](known-issues-workfront-fusion/fusion-502-error-when-checking-proof-decision.md)
       + [I collegamenti di aiuto in-app [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
    + Problemi risolti in [!DNL Workfront Fusion] {#fusion-resolved}
-      + [Errore 401 nei moduli [!DNL Workfront] ](known-issues-workfront-fusion/resolved-issues-fusion/401-error-on-workfront-modules.md)
       + [I dati dei moduli personalizzati non sono disponibili nei moduli [!DNL Workfront Fusion] [!DNL Workfront]](known-issues-workfront-fusion/resolved-issues-fusion/data-from-custom-forms-not-available.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
