@@ -1,18 +1,18 @@
 ---
-title: "Scheda attività: Le ore dei fogli ore non vengono salvate correttamente"
-description: Quando un utente compila una scheda attività, si sposta e quindi ritorna alla scheda attività, viene rilevato che alcune delle ore inserite nella scheda attività sono mancanti. Queste ore non sono state salvate automaticamente nella scheda attività.
+title: '“Scheda orario: le ore delle schede orario non vengono salvate correttamente”'
+description: Quando un utente compila una scheda orario, si sposta e poi ritorna alla scheda orario, nota che mancano alcune delle ore inserite nella scheda orario. Queste ore non sono state salvate automaticamente nella scheda orario.
 exl-id: 08290dff-9820-4cb4-bccc-b65ec1835920
 hidefromtoc: true
 source-git-commit: 73a7173c2d8a92d2a06285e99138a555e8687894
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Scheda attività: Ore del foglio presenze non salvate correttamente
+# Schede orario: le ore delle schede orario non vengono salvate correttamente
 
-Quando un utente compila una scheda attività, si sposta e quindi ritorna alla scheda attività, viene rilevato che alcune delle ore inserite nella scheda attività sono mancanti. Queste ore non sono state salvate automaticamente nella scheda attività.
+Quando un utente compila una scheda orario, si sposta e poi ritorna alla scheda orario, nota che mancano alcune delle ore inserite nella scheda orario. Queste ore non sono state salvate automaticamente nella scheda orario.
 
 
-_Prima segnalazione il 19 luglio 2022._
+_Segnalato per la prima volta il martedì 19 luglio 2022._
