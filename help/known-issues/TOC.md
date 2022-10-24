@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 43639b335e2cc9b7c5e9ab96a4ec0642947270f2
+source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
 workflow-type: tm+mt
-source-wordcount: '1454'
-ht-degree: 79%
+source-wordcount: '1463'
+ht-degree: 78%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Moduli personalizzati: [!UICONTROL ORA] funzione nei campi calcolati utilizza UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [Agile: Le attività assegnate tramite la modifica collettiva non vengono visualizzate nel backlog del team](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Rapporti: Le informazioni sull&#39;utilizzo del rapporto non vengono aggiornate](known-issues-workfront/wf-reports-usage-not-updating.md)
       + [Navigazione: Impossibile fissare gli oggetti](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
