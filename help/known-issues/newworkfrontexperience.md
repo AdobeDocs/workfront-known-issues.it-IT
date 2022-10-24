@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
+source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 61%
+source-wordcount: '574'
+ht-degree: 60%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente all&#39;esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Configurazione]: Elenca il caricamento lento in [!UICONTROL Configurazione]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 24 ottobre 2022 |
 | [Agile: Le attività assegnate tramite la modifica collettiva non vengono visualizzate nel backlog del team](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | 20 ottobre 2022 |
 | [Prove: Il riepilogo della stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 ottobre 2022 |
 | [Notifiche: Utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | mercoledì 29 settembre 2022 |

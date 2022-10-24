@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 63a50bd96799fb0c5338119dc4283100b0b01582
+source-git-commit: b2994f5f4dfd018d18d3a7f45dae01bb8e9023f6
 workflow-type: tm+mt
-source-wordcount: '1463'
+source-wordcount: '1469'
 ht-degree: 78%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 78%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Configurazione]: Elenca il caricamento lento in [!UICONTROL Configurazione]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Moduli personalizzati: [!UICONTROL ORA] funzione nei campi calcolati utilizza UTC](known-issues-workfront/wf-custom-form-hours-use-utc.md)
       + [Agile: Le attività assegnate tramite la modifica collettiva non vengono visualizzate nel backlog del team](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md)
       + [Rapporti: Le informazioni sull&#39;utilizzo del rapporto non vengono aggiornate](known-issues-workfront/wf-reports-usage-not-updating.md)
