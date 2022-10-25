@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
 workflow-type: tm+mt
-source-wordcount: '14458'
-ht-degree: 94%
+source-wordcount: '14607'
+ht-degree: 93%
 
 ---
 
@@ -30,6 +30,28 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2022.
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Previous Maintenance Updates](#previous-maintenance-updates) (Aggiornamenti di manutenzione precedenti)
 
 ## Aggiornamenti di ottobre 2022
+
++++**Aggiornamento della manutenzione (pianificato) il 27 ottobre 2022**
+
+**[!UICONTROL ORA] funzione nei campi calcolati utilizza UTC**
+
+*Moduli personalizzati nel mio gruppo*
+
+Quando un campo calcolato include [!UICONTROL ORA] funzione , la funzione restituisce valori basati su UTC anziché sul fuso orario previsto. Pertanto, qualsiasi calcolo basato sul valore HOUR non è corretto.
+
+**[!UICONTROL Filtro rapido] restituisce nessun risultato durante la ricerca di team**
+
+*Elenchi*
+
+Quando un utente tenta di utilizzare il [!UICONTROL Filtro rapido] in un elenco per cercare un team, l&#39;immissione del nome del team non restituisce alcun risultato, anche quando il team è visibile nell&#39;elenco (ad esempio nel [!UICONTROL Assegnato a] (campo). Ricerca della parola &quot;[!UICONTROL team]&quot; non restituisce alcun risultato.
+
+**Tutti gli utenti elencati in [!UICONTROL Bilanciamento del carico di lavoro] quando si utilizza un collegamento condivisibile in [!DNL Safari] browser**
+
+*[!UICONTROL Bilanciatore dei carichi di lavoro]*
+
+Quando un utente segue un collegamento condivisibile al [!UICONTROL Bilanciamento del carico di lavoro] durante l&#39;utilizzo di un [!DNL Safari] browser, visualizzano tutti gli utenti anziché solo i membri del team elencati.
+
++++
 
 +++**Aggiornamento di manutenzione del giovedì 20 ottobre 2022**
 
