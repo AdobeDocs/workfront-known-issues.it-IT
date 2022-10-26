@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d95e66921c74e55ea5a8c6e926ed61e2c85174ed
+source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
 workflow-type: tm+mt
-source-wordcount: '14607'
-ht-degree: 93%
+source-wordcount: '14720'
+ht-degree: 92%
 
 ---
 
@@ -32,6 +32,18 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Previous Mainten
 ## Aggiornamenti di ottobre 2022
 
 +++**Aggiornamento della manutenzione (pianificato) il 27 ottobre 2022**
+
+**Impossibile ripetere il pin di una pagina dopo la rimozione del pin**
+
+*Navigazione*
+
+>[!NOTE]
+>
+>Questo problema è stato risolto in Anteprima il 13 ottobre 2022. Sarà fissato in Produzione il 27 ottobre 2022.
+
+Quando un utente seleziona il &quot;[!UICONTROL Rimuovi perno]&quot; opzione su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su &quot;[!UICONTROL Annulla]&quot; nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all&#39;elenco dei pin sotto il [!UICONTROL Altri pin] (il menu a tre punti nel [!UICONTROL Pins] area).
+
+Se un utente tenta di fissare nuovamente la pagina passando alla pagina e fissandola, il pin non viene creato e l’utente non può fissare la pagina.
 
 **[!UICONTROL ORA] funzione nei campi calcolati utilizza UTC**
 
