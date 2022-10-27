@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d607895a61242dc6a9a9ddfc7c728fe3e29c29f6
+source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
 workflow-type: tm+mt
-source-wordcount: '14720'
+source-wordcount: '14719'
 ht-degree: 92%
 
 ---
@@ -31,19 +31,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Previous Mainten
 
 ## Aggiornamenti di ottobre 2022
 
-+++**Aggiornamento della manutenzione (pianificato) il 27 ottobre 2022**
-
-**Impossibile ripetere il pin di una pagina dopo la rimozione del pin**
-
-*Navigazione*
-
->[!NOTE]
->
->Questo problema è stato risolto in Anteprima il 13 ottobre 2022. Sarà fissato in Produzione il 27 ottobre 2022.
-
-Quando un utente seleziona il &quot;[!UICONTROL Rimuovi perno]&quot; opzione su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su &quot;[!UICONTROL Annulla]&quot; nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all&#39;elenco dei pin sotto il [!UICONTROL Altri pin] (il menu a tre punti nel [!UICONTROL Pins] area).
-
-Se un utente tenta di fissare nuovamente la pagina passando alla pagina e fissandola, il pin non viene creato e l’utente non può fissare la pagina.
++++**Aggiornamento di manutenzione del giovedì 27 ottobre 2022**
 
 **[!UICONTROL ORA] funzione nei campi calcolati utilizza UTC**
 
@@ -56,6 +44,18 @@ Quando un campo calcolato include [!UICONTROL ORA] funzione , la funzione restit
 *Elenchi*
 
 Quando un utente tenta di utilizzare il [!UICONTROL Filtro rapido] in un elenco per cercare un team, l&#39;immissione del nome del team non restituisce alcun risultato, anche quando il team è visibile nell&#39;elenco (ad esempio nel [!UICONTROL Assegnato a] (campo). Ricerca della parola &quot;[!UICONTROL team]&quot; non restituisce alcun risultato.
+
+**Impossibile ripetere il pin di una pagina dopo la rimozione del pin**
+
+*Navigazione*
+
+>[!NOTE]
+>
+>Questo problema è stato risolto in Anteprima il 13 ottobre 2022. Sarà fissato in Produzione il 27 ottobre 2022.
+
+Quando un utente seleziona il &quot;[!UICONTROL Rimuovi perno]&quot; opzione su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su &quot;[!UICONTROL Annulla]&quot; nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all&#39;elenco dei pin sotto il [!UICONTROL Altri pin] (il menu a tre punti nel [!UICONTROL Pins] area).
+
+Se un utente tenta di fissare nuovamente la pagina passando alla pagina e fissandola, il pin non viene creato e l’utente non può fissare la pagina.
 
 **Tutti gli utenti elencati in [!UICONTROL Bilanciamento del carico di lavoro] quando si utilizza un collegamento condivisibile in [!DNL Safari] browser**
 
