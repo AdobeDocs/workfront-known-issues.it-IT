@@ -3,10 +3,10 @@ title: Problemi noti in  [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 57%
+source-wordcount: '223'
+ht-degree: 56%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente all&#39;esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Prove: La generazione di prove è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 ottobre 2022 |
 | [Prove: Il riepilogo della stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 ottobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
