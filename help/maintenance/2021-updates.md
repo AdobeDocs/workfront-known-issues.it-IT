@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione di Workfront per il 2021
 description: Cronologia degli aggiornamenti di manutenzione del 2021 per [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 7fa90198186a7b0f392683d432a7da0424943da2
-workflow-type: ht
-source-wordcount: '10019'
-ht-degree: 100%
+source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -582,7 +582,7 @@ Quando un utente visualizza un rapporto con una formattazione condizionale che m
 
 **I dettagli dei problemi non vengono visualizzati nella sezione Problemi**
 
-_Home_
+_Pagina principale_
 
 Nella nuova esperienza [!DNL Adobe Workfront], quando un utente seleziona un problema da [!UICONTROL Work List] (Elenco di lavoro), l’anteprima nel pannello a destra mostra alcuni campi senza valori immessi. Tuttavia, se l’utente passa al problema e visualizza la scheda [!UICONTROL Issue Details] (Dettagli del problema), in questi campi sono presenti i valori immessi.
 
@@ -644,7 +644,7 @@ Quando un utente tenta di modificare l’allocazione di un’attività e l’int
 
 **L’aggiunta di un campo personalizzato alla [!UICONTROL Home] causa la perdita di dati nel campo**
 
-_[!UICONTROL Home]_
+_[!UICONTROL Pagina principale]_
 
 Quando un campo personalizzato viene aggiunto alla pagina [!UICONTROL Home], gli altri campi vengono visualizzati in modo errato a causa della perdita di dati al loro interno.
 
@@ -739,7 +739,7 @@ Tutti gli utenti possono allegare un modulo personalizzato a un oggetto se tale 
 
 **Impossibile selezionare i calendari nelle impostazioni del calendario di [!DNL Outloo]**
 
-_Home_
+_Pagina principale_
 
 All’interno della nuova esperienza [!DNL Workfront], quando un utente visualizza il proprio calendario di [!DNL Outlook] dalla Home e apre le impostazioni, le caselle di controllo destinate alla selezione dei calendari non sono presenti. Se l’utente fa clic sul punto in cui dovrebbe trovarsi la casella di controllo, il calendario risponde come se la casella di controllo fosse presente.
 
@@ -864,7 +864,7 @@ Quando un utente crea una nuova bozza nella nuova esperienza [!DNL Adobe Workfro
 
 **[!UICONTROL Il campo di completamento automatico Assign to] (Assegna a) non funziona**
 
-_[!UICONTROL Home]_
+_[!UICONTROL Pagina principale]_
 
 In [!DNL Adobe Workfront Classic], quando un utente crea un progetto, un’attività o una richiesta dalla sezione [!UICONTROL Home], il campo di completamento automatico [!UICONTROL Assign to] (Assegna a) non si popola con i nomi utente.
 
@@ -876,7 +876,7 @@ Nella nuova esperienza [!DNL Adobe Workfront], quando un utente passa a [!UICONT
 
 **Impossibile delegare le approvazioni**
 
-_[!UICONTROL Home]_
+_[!UICONTROL Pagina principale]_
 
 In [!DNL Adobe Workfront Classic], quando un utente fa clic su [!UICONTROL Delegate My Approvals] (Delega le mie approvazioni) nella [!UICONTROL Home] e inizia a digitare il nome dell’utente a cui delegare l’approvazione, nell’elenco di [!UICONTROL completamento automatico] non viene visualizzato alcun risultato, rendendo impossibile selezionare un utente.
 
@@ -1173,13 +1173,13 @@ Quando un utente genera un modulo personalizzato e tenta di creare un campo calc
 
 **Impossibile caricare l’anteprima delle attività in [!UICONTROL Work List] (Elenco di lavoro)**
 
-_Home_
+_Pagina principale_
 
 Nella nuova esperienza [!DNL Workfront], quando un utente viene assegnato a un modello di layout che include campi personalizzati nella [!UICONTROL Home], la pagina non risponde e se l’utente seleziona un’attività dalla sezione [!UICONTROL Work List] (Elenco di lavoro) la pagina non si carica.
 
 **Gli oggetti in [!UICONTROL Work List] (Elenco di lavoro) non vengono caricati in [!UICONTROL Home]**
 
-_[!UICONTROL Home]_
+_[!UICONTROL Pagina principale]_
 
 Quando un utente fa clic su un oggetto nella sezione [!UICONTROL Work List] (Elenco di lavoro) dell’area Home, l’intestazione dell’oggetto viene visualizzata nel pannello di destra, ma i relativi dettagli non vengono mostrati. Alla fine l’utente visualizza il messaggio “[!UICONTROL Pages Unresponsive]” (Le pagine non rispondono).
 
@@ -1234,7 +1234,7 @@ Quando un utente crea un progetto da un modello, le impostazioni di accesso del 
 
 **Gli oggetti in [!UICONTROL Work List] (Elenco di lavoro) non vengono caricati in [!UICONTROL Home]**
 
-_[!UICONTROL Home]_
+_[!UICONTROL Pagina principale]_
 
 Quando un utente fa clic su un oggetto nella sezione [!UICONTROL Work List] (Elenco di lavoro) dell’area Home, l’intestazione dell’oggetto viene visualizzata nel pannello di destra, ma i relativi dettagli non vengono mostrati. Alla fine l’utente visualizza il messaggio “[!UICONTROL Pages Unresponsive]” (Le pagine non rispondono).
 
@@ -1393,7 +1393,7 @@ Quando un utente utilizza un termine dell’API [!DNL Workfront] per selezionare
 
 **Le impostazioni dei modelli di progetto ora si applicano ai progetti creati tramite [!DNL Workfront Fusion] 2.0**
 
-_[!DNL Workfront Fusion]2.0_
+_[!DNL Workfront Fusion]2,0_
 
 Quando un utente crea un progetto da un modello utilizzando [!DNL Workfront Fusion] 2.0, le impostazioni del modello vengono applicate al nuovo progetto. Questo comportamento è identico alla procedura di creazione di un progetto a partire da un modello nell’applicazione [!DNL Workfront].
 
@@ -1745,7 +1745,7 @@ Nella nuova esperienza [!DNL Workfront], quando un utente tenta di inviare un do
 
 **La finestra di dialogo Delegate Approvals (Delega approvazioni) si chiude**
 
-_Home_
+_Pagina principale_
 
 Quando un utente prova a delegare le approvazioni in [!UICONTROL Home] e fa clic su una data, la finestra di dialogo si chiude senza selezionare la data o consentire all’utente di completare il processo di delega utente.
 
