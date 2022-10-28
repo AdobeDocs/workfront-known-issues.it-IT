@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
+source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
 workflow-type: tm+mt
-source-wordcount: '14719'
+source-wordcount: '14718'
 ht-degree: 92%
 
 ---
@@ -51,7 +51,7 @@ Quando un utente tenta di utilizzare il [!UICONTROL Filtro rapido] in un elenco 
 
 >[!NOTE]
 >
->Questo problema è stato risolto in Anteprima il 13 ottobre 2022. Sarà fissato in Produzione il 27 ottobre 2022.
+>Questo problema è stato risolto in Anteprima il 13 ottobre 2022. È stato fissato in Produzione il 27 ottobre 2022.
 
 Quando un utente seleziona il &quot;[!UICONTROL Rimuovi perno]&quot; opzione su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su &quot;[!UICONTROL Annulla]&quot; nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all&#39;elenco dei pin sotto il [!UICONTROL Altri pin] (il menu a tre punti nel [!UICONTROL Pins] area).
 
