@@ -3,7 +3,7 @@ title: '“Elenchi: il nuovo stato non viene visualizzato quando si modifica lo 
 description: “Quando un utente in linea modifica lo stato di un oggetto in un elenco, il nuovo stato viene visualizzato per un momento e poi viene ripristinato lo stato precedente. Se l’elenco dispone di un filtro che non è applicabile al nuovo stato, l’oggetto continua a essere visualizzato nell’elenco anche se non dovrebbe. ”
 hidefromtoc: true
 source-git-commit: 505e512651cb14559e63b8f6c9509ff3cfc4474f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
 ht-degree: 100%
 
