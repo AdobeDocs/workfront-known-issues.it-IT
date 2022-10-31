@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
 workflow-type: tm+mt
-source-wordcount: '608'
-ht-degree: 57%
+source-wordcount: '615'
+ht-degree: 56%
 
 ---
 
@@ -66,6 +66,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [API: Impossibile ordinare per campi dinamici](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 ottobre 2022 |
 | [[!UICONTROL Configurazione]: Elenca il caricamento lento in [!UICONTROL Configurazione]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 ottobre 2022 |
 | [Prove: La bozza non è condivisa con gli utenti nel flusso di lavoro di prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | mercoledì 18 settembre 2022 |
 | [Bozze: il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | mercoledì 14 settembre 2022 |
