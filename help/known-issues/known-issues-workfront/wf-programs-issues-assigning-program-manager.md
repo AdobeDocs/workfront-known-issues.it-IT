@@ -1,21 +1,21 @@
 ---
-title: "Programmi: Problemi durante l'assegnazione di un proprietario del programma"
-description: "Quando un utente crea un programma e assegna un proprietario del programma, si verificano i problemi descritti in questo articolo."
+title: '“Programmi: problemi durante l’assegnazione di un Proprietario del programma”'
+description: “Quando un utente crea un programma e assegna un Proprietario del programma, si verificano i problemi descritti in questo articolo.”
 hidefromtoc: true
 source-git-commit: f7685aec7811e8741440479d083ef13922b73327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Programmi: Problemi durante l’assegnazione di un [!UICONTROL Proprietario programma]
+# Programmi: problemi durante l’assegnazione di un [!UICONTROL Proprietario del programma]
 
-Quando un utente crea un programma e assegna un [!UICONTROL Proprietario programma], si verificano i seguenti problemi:
+Quando un utente crea un programma e assegna un [!UICONTROL Proprietario del programma], si verificano i seguenti problemi:
 
-* L&#39;utente visualizza l&#39;errore &quot;[!UICONTROL 500: Errore del database: BizContext.commit non riuscito. /attask/api-internal/PRGM/(ID programma)]&quot;
-* Quando l&#39;utente visualizza la condivisione per il programma, vede che il nuovo [!UICONTROL Proprietario programma] è stato aggiunto, ma sono state rimosse tutte le autorizzazioni ereditate che il programma era stato rimosso.
+* L’utente visualizza l’errore “[!UICONTROL 500: Errore del database: BizContext.commit non riuscito. /attask/api-internal/PRGM/(ID programma)]”
+* Quando l’utente visualizza la condivisione per il programma, vede che il nuovo [!UICONTROL Proprietario del programma] è stato aggiunto, ma tutte le autorizzazioni ereditate che aveva il programma sono state rimosse.
 
-_Prima segnalazione il 16 settembre 2022._
+_Segnalato per la prima volta il venerdì 16 settembre 2022._
 
