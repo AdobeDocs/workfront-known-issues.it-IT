@@ -1,22 +1,22 @@
 ---
-title: "Prove: L'aggiunta di un gruppo a una bozza non aggiunge tutti i membri del gruppo"
-description: "Quando un utente crea una bozza e utilizza un gruppo per aggiungere utenti a un’area di visualizzazione, non tutti gli utenti di tale gruppo vengono aggiunti all’area di visualizzazione."
+title: 'Bozze: l’aggiunta di un gruppo a una bozza non aggiunge tutti i membri del gruppo”'
+description: “Quando un utente crea una bozza e utilizza un gruppo per aggiungere utenti a un’area di visualizzazione, non tutti gli utenti di tale gruppo vengono aggiunti all’area di visualizzazione.”
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Prove: L&#39;aggiunta di un gruppo a una bozza non aggiunge tutti i membri del gruppo
+# Bozze: l’aggiunta di un gruppo a una bozza non aggiunge tutti i membri del gruppo
 
 <!--This issue is on the WF and WFP TOCs-->
 
 >[!NOTE]
 >
->Questo problema è stato chiuso perché non è un problema.
+>Questa segnalazione è stata chiusa perché il problema non sussiste.
 
 Quando un utente crea una bozza e utilizza un gruppo per aggiungere utenti a un’area di visualizzazione, non tutti gli utenti di tale gruppo vengono aggiunti all’area di visualizzazione.
 
@@ -24,5 +24,5 @@ Quando un utente crea una bozza e utilizza un gruppo per aggiungere utenti a un�
 
 Ogni utente può essere aggiunto singolarmente all’area di visualizzazione.
 
-_Primo comunicato il 28 settembre 2022._
+_Segnalato per la prima volta il venerdì 28 settembre 2022._
 
