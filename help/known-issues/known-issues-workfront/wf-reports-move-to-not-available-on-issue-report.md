@@ -1,18 +1,18 @@
 ---
-title: "Rapporti: Opzione Sposta a non disponibile nei report dei problemi"
-description: "Quando un utente visualizza un report di un problema e tenta di spostarlo, l'opzione Sposta a non è disponibile nel menu Altro (a tre punti)."
+title: '“Rapporti: l’opzione Copia in non disponibile nei Rapporti sui problemi”'
+description: “Quando un utente visualizza il rapporto relativo a un problema e tenta di spostarlo, l’opzione Copia in non è disponibile nel menu Altro (tre punti).”
 hidefromtoc: true
 source-git-commit: cdc8a8a6c4dbf6b53a7c8aa0aeae37058f60f5c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Rapporti: Opzione &quot;Sposta a&quot; non disponibile nei report dei problemi
+# Rapporti: opzione “Copia in” non disponibile nei rapporti sui problemi
 
-Quando un utente visualizza un report del problema e tenta di spostarlo, l&#39;opzione &quot;Sposta a&quot; non è disponibile nel menu Altro (a tre punti).
+Quando un utente visualizza una relazione del problema e tenta di spostarlo, l’opzione “Copia in” non è disponibile nel menu Altro (a tre punti).
 
-_Prima segnalazione il 12 ottobre 2022._
+_Segnalato per la prima volta il 12 ottobre 2022._
 
