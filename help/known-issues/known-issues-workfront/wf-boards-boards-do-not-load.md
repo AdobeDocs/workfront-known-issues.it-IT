@@ -1,18 +1,18 @@
 ---
-title: "Bacheche: La pagina delle bacheche non viene caricata"
-description: "Quando un utente tenta di accedere alle bacheche, l'intestazione delle bacheche viene visualizzata brevemente, ma scompare e l'utente visualizza solo una pagina vuota."
+title: '“Schede: la pagina Schede non viene caricata”'
+description: “Quando un utente tenta di accedere alle schede, l’intestazione delle Schede viene visualizzata brevemente, ma scompare e l’utente visualizza solo una pagina vuota.”
 hidefromtoc: true
 source-git-commit: 3409c8e333da62ef218156c1479c4c4263448806
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Schede]: [!UICONTROL Schede] la pagina non viene caricata
+# [!UICONTROL Schede]: la pagina [!UICONTROL Schede] non viene caricata
 
-Quando un utente tenta di accedere [!UICONTROL Schede], l&#39;intestazione [!UICONTROL Schede] viene visualizzato brevemente, ma scompare e l’utente visualizza solo una pagina vuota.
+Quando un utente tenta di accedere alle [!UICONTROL Schede], viene visualizzata brevemente l’intestazione [!UICONTROL Schede] che quindi scompare lasciando una pagina vuota.
 
-_Prima segnalazione l&#39;11 ottobre 2022._
+_Segnalato per la prima volta il 11 ottobre 2022._
 
