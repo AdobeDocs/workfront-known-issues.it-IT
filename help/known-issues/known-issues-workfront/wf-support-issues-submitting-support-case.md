@@ -1,19 +1,19 @@
 ---
-title: "[!DNL Workfront]: Problemi relativi all’invio di un caso di assistenza Workfront all’Experience League"
-description: '''"Se sei un [!DNL Workfront] Contatto di assistenza autorizzato e riscontri problemi nell''invio di un caso di assistenza, contattaci ai numeri qui sotto in modo che possiamo aiutarti."'
+title: '“[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di Workfront su Experience League”'
+description: “Se sei un Contatto di assistenza autorizzato di  [!DNL Workfront]  e riscontri problemi nell’invio di un caso di supporto, contattaci ai numeri sottostanti in modo che possiamo aiutarti.”
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront]: Problemi relativi all’invio di un [!DNL Workfront] caso di supporto [!DNL Experience League]
+# [!DNL Workfront]: problemi relativi all’invio di un caso di supporto di [!DNL Workfront] su [!DNL Experience League]
 
-Se sei un [!DNL Workfront] Contatto di supporto autorizzato e si sono verificati problemi durante l&#39;invio di un caso di assistenza, fare clic su [qui](https://workfrontpartners.force.com/one/s/).
+Se sei un Contatto di supporto autorizzato [!DNL Workfront] e si sono verificati problemi durante l’invio di un caso di supporto, fai clic [qui](https://workfrontpartners.force.com/one/s/).
 
-Se hai ancora problemi, ti preghiamo di chiamarci ai numeri qui sotto in modo da poterti aiutare.
+Se hai ancora problemi, ti preghiamo di chiamarci ai numeri sottostanti in modo da poterti aiutare.
 
 Chiamare 844-306-4357 (HELP) o 44-1256-274200 o 61-1800-849259
