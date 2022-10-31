@@ -1,22 +1,22 @@
 ---
-title: "Attività: Non è possibile selezionare il tempo trascorso durante la modifica in linea dell'attività Durata"
-description: Quando un utente visualizza un elenco di attività e tenta di modificare la Durata attività, le unità di durata trascorse non sono disponibili.
+title: '“Attività: impossibile selezionare il Tempo trascorso quando si modifica la Task Duration (Durata dell’attività) in linea”'
+description: Quando un utente visualizza un elenco di attività e tenta di modificare la Task Duration (Durata dell’attività), le unità di durata trascorsa non sono disponibili.
 exl-id: ce481ab5-2391-4d62-af30-90fb91319206
 hidefromtoc: true
 source-git-commit: 1aebfa10be7601db9b807b13545d52a6efdab06c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '83'
+ht-degree: 100%
 
 ---
 
-# Attività: Impossibile selezionare [!UICONTROL Tempo trascorso] durante la modifica in linea dell&#39;attività
+# Attività: impossibile selezionare il [!UICONTROL tempo Trascorso] quando si modifica la Task Duration (Durata dell’attività) in linea
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 21 luglio 2022.
+>Questo problema è stato risolto il giovedì 21 luglio 2022.
 
-Quando un utente visualizza un elenco di attività e tenta di modificare il [!UICONTROL Durata attività], le seguenti unità di durata non sono disponibili:
+Quando un utente visualizza un elenco di attività e tenta di modificare la [!UICONTROL Task Duration] (Durata dell’attività), le seguenti unità di durata non sono disponibili:
 
 * [!UICONTROL Minuti trascorsi]
 * [!UICONTROL Ore trascorse]
@@ -24,4 +24,4 @@ Quando un utente visualizza un elenco di attività e tenta di modificare il [!UI
 * [!UICONTROL Settimane trascorse]
 * [!UICONTROL Mesi trascorsi]
 
-_Prima segnalazione il 1° luglio 2022._
+_Segnalato per la prima volta il venerdì 1 luglio 2022._
