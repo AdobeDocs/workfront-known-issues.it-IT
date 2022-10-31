@@ -3,7 +3,7 @@ title: '“Workfront Fusion: il modulo non si carica durante la creazione o la m
 description: “Quando un utente tenta di aprire un modulo durante la creazione o la modifica di uno scenario, l’operazione ha esito negativo. L’utente visualizza l’icona di caricamento, ossia un cerchio che ruota, ma il modulo non si carica”.
 hidefromtoc: true
 source-git-commit: 1db610e1f210d6139ed273c6002ca9fade7a9a95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
