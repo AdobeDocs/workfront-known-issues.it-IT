@@ -1,22 +1,22 @@
 ---
-title: "Attività: Le ore non vengono salvate quando si immettono ore nell'attività [!UICONTROL Pannello di riepilogo]"
-description: "Quando un utente tenta di immettere le ore di un'attività nel pannello Riepilogo dell'attività, le ore non vengono salvate. Ciò si verifica quando l'utente lascia il cursore nel quadrato in cui ha inserito le ore, e scorre il [!UICONTROL Pannello di riepilogo]. "
+title: '“Attività: le ore inserite nel [!UICONTROL pannello Riepilogo] dell’Attività non vengono salvate”'
+description: “Quando un utente tenta di immettere le ore di un’attività nel pannello Riepilogo dell’attività, le ore non vengono salvate. Ciò si verifica quando l’utente lascia il cursore nel quadrato in cui ha inserito le ore, e fa scorrere verso il basso il [!UICONTROL pannello Riepilogo].   ”
 hidefromtoc: true
 source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Attività: Le ore non vengono salvate quando si immettono ore nell&#39;attività [!UICONTROL Pannello di riepilogo].
+# “Attività: le ore inserite nel [!UICONTROL pannello Riepilogo] dell’Attività non vengono salvate”
 
-Quando un utente tenta di immettere ore per un&#39;attività nel pannello Riepilogo dell&#39;attività, le ore non vengono salvate. Ciò si verifica quando l&#39;utente lascia il cursore nel quadrato in cui ha inserito le ore, e scorre il [!UICONTROL Pannello di riepilogo].
+Quando un utente tenta di immettere ore per un’attività nel pannello Riepilogo dell’attività, le ore non vengono salvate. Ciò si verifica quando l’utente lascia il cursore nel quadrato in cui ha inserito le ore, e fa scorrere verso il basso il [!UICONTROL pannello Riepilogo].
 
 **Soluzione alternativa**
 
-Fai clic all’esterno del quadrato in cui vengono inserite le ore prima di scorrere il [!UICONTROL Pannello di riepilogo].
+Fai clic all’esterno del quadrato in cui vengono inserite le ore prima di far scorrere il [!UICONTROL pannello Riepilogo].
 
-_Prima segnalazione il 1° giugno 2022._
+_Segnalato per la prima volta il mercoledì 1 giugno 2022._
 
