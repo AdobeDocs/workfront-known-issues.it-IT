@@ -1,18 +1,18 @@
 ---
-title: "[!DNL Workfront Fusion]: Impossibile verificare l'errore di connessione"
-description: "Le connessioni Workfront Fusion a un account Workfront possono non riuscire a eseguire l'autenticazione, causando la generazione del seguente errore in scenari: Impossibile verificare la connessione."
+title: '“[!DNL Workfront Fusion]: errore Impossibile verificare la connessione”'
+description: '“A volte le connessioni Workfront Fusion a un account Workfront non riescono eseguire l’autenticazione, generando il seguente errore in determinate situazioni: Impossibile verificare la connessione.”'
 hidefromtoc: true
 source-git-commit: dad865ba30f208589a6f57ff5a1d634f57cb7fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: Errore &quot;Impossibile verificare la connessione&quot;
+# [!DNL Workfront Fusion]: Errore “Impossibile verificare la connessione”
 
-[!UICONTROL Workfront Fusion] collegamenti a un [!DNL Workfront] l&#39;autenticazione dell&#39;account potrebbe non riuscire, causando la generazione del seguente errore da parte degli scenari:
+A volte le connessioni [!UICONTROL Workfront Fusion] a un account[!DNL Workfront] non riescono a seguire l’autenticazione, causando la generazione del seguente errore:
 
 Impossibile verificare la connessione.
 
@@ -22,5 +22,5 @@ Impossibile eseguire lo scenario finché la connessione non viene ripristinata.
 
 Crea una nuova connessione e sostituisci le connessioni correnti nei moduli Workfront con la nuova connessione.
 
-_Prima segnalazione l&#39;8 settembre 2022._
+_Segnalato per la prima volta il giovedì 8 settembre 2022._
 
