@@ -4,9 +4,9 @@ description: Quando un utente cerca di modificare una scheda orario in modo da a
 hidefromtoc: true
 exl-id: b2eef921-84f0-4c58-890a-c27b6ecd3686
 source-git-commit: cc0e24a8d60928a6a13725b4c4ba765aa47abd53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 6 ottobre 2022.
+>Questo problema è stato risolto il giovedì 6 ottobre 2022.
 
 Quando un utente cerca di modificare una scheda orario in modo da attivare un salvataggio automatico, le modifiche non vengono salvate e l’utente visualizza il seguente messaggio:
 
-“Le[!UICONTROL  tue modifiche recenti non sono state salvate. Aggiorna la pagina per visualizzarle.]”
+“[!UICONTROL Le tue modifiche recenti non sono state salvate. Aggiorna la pagina per visualizzarle.]”
 
 Questo problema è stato segnalato durante la modifica dei seguenti elementi:
 
