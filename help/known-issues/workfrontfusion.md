@@ -3,10 +3,10 @@ title: Problemi noti in  [!DNL Adobe Workfront Fusion]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: fb9067cb4d4941c06ae5e6730c15ab906124dc02
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 99%
+source-wordcount: '159'
+ht-degree: 95%
 
 ---
 
@@ -36,6 +36,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] il modulo viene visualizzato come &quot;[!UICONTROL oggetto]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1 novembre 2022 |
 | [[!DNL Workfront Fusion]: Errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md) | venerdì 19 ottobre 2022 |
 | I collegamenti di aiuto in-app [[!DNL Workfront Fusion]: [!DNL Fusion]  non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | martedì 2 agosto 2022 |
 

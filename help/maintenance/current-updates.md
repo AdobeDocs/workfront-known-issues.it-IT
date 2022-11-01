@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
+source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
 workflow-type: tm+mt
-source-wordcount: '14718'
-ht-degree: 92%
+source-wordcount: '14801'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,33 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Previous Mainten
 
 ## Aggiornamenti di ottobre 2022
 
-+++**Aggiornamento di manutenzione del giovedì 27 ottobre 2022**
++++**Aggiornamento di manutenzione del giovedì 3 novembre 2022**
+
+**Errori durante l&#39;accesso alle impostazioni di notifica e-mail**
+
+*Notifiche*
+
+>[!NOTE]
+>
+>Questo problema esiste sia negli ambienti di Produzione che in quelli di Anteprima.
+
+Quando un utente cerca di modificare le impostazioni delle notifiche e-mail, potrebbe visualizzare i seguenti errori:
+
+* ”[!UICONTROL Riproviamo. Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
+
+* “[!UICONTROL Impossibile recuperare la notifica e-mail]”
+
+Ciò è stato segnalato nelle seguenti aree:
+
+* [!UICONTROL Setup] (Configura) > [!UICONTROL Email notifications] (Notifiche e-mail)
+* [!UICONTROL User] (Utente)> [!UICONTROL Edit user] (Modifica utente)
+* [!UICONTROL Gruppi]
+
++++
+
+## Aggiornamenti di ottobre 2022
+
++++**Aggiornamento di manutenzione del lunedì 27 ottobre 2022**
 
 **[!UICONTROL ORA] funzione nei campi calcolati utilizza UTC**
 
@@ -43,9 +69,9 @@ Quando un campo calcolato include [!UICONTROL ORA] funzione , la funzione restit
 
 *Elenchi*
 
-Quando un utente tenta di utilizzare il [!UICONTROL Filtro rapido] in un elenco per cercare un team, l&#39;immissione del nome del team non restituisce alcun risultato, anche quando il team è visibile nell&#39;elenco (ad esempio nel [!UICONTROL Assegnato a] (campo). Ricerca della parola &quot;[!UICONTROL team]&quot; non restituisce alcun risultato.
+Quando un utente tenta di utilizzare il [!UICONTROL filtro rapido] in un elenco per cercare un team, l’immissione del nome del team non restituisce alcun risultato, anche quando il team è visibile nell’elenco (ad esempio nel campo [!UICONTROL Assegnato a]). La ricerca della parola [!UICONTROL “team”] non restituisce alcun risultato.
 
-**Impossibile ripetere il pin di una pagina dopo la rimozione del pin**
+**Impossibile ripetere l’operazione di fissaggio di una pagina dopo la rimozione dello stesso**
 
 *Navigazione*
 
@@ -53,9 +79,9 @@ Quando un utente tenta di utilizzare il [!UICONTROL Filtro rapido] in un elenco 
 >
 >Questo problema è stato risolto in Anteprima il 13 ottobre 2022. È stato fissato in Produzione il 27 ottobre 2022.
 
-Quando un utente seleziona il &quot;[!UICONTROL Rimuovi perno]&quot; opzione su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su &quot;[!UICONTROL Annulla]&quot; nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all&#39;elenco dei pin sotto il [!UICONTROL Altri pin] (il menu a tre punti nel [!UICONTROL Pins] area).
+Quando un utente seleziona l’opzione “[!UICONTROL Rimuovi fissaggio]” su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su “[!UICONTROL Annulla]” nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all’elenco dei pin sotto l’elenco [!UICONTROL Altri pin] (il menu a tre punti nell’area [!UICONTROL Pins]).
 
-Se un utente tenta di fissare nuovamente la pagina passando alla pagina e fissandola, il pin non viene creato e l’utente non può fissare la pagina.
+Se un utente tenta di fissare nuovamente la pagina andando alla pagina e fissandola, il pin non viene creato e l’utente non è in grado di completare l’operazione.
 
 **Tutti gli utenti elencati in [!UICONTROL Bilanciamento del carico di lavoro] quando si utilizza un collegamento condivisibile in [!DNL Safari] browser**
 
@@ -67,62 +93,62 @@ Quando un utente segue un collegamento condivisibile al [!UICONTROL Bilanciament
 
 +++**Aggiornamento di manutenzione del giovedì 20 ottobre 2022**
 
-**Errore durante l&#39;assegnazione in massa di un team**
+**Errore durante l’assegnazione in blocco di un team**
 
 *Assegnazioni*
 
-Quando un utente modifica in serie attività o problemi e assegna un team dopo l&#39;assegnazione di un singolo utente, le assegnazioni non vengono salvate e l&#39;utente visualizza il seguente errore:
+Quando un utente modifica attività o problemi in blocco e assegna un team dopo l’assegnazione di un singolo utente, le assegnazioni non vengono salvate e l’utente visualizza il seguente errore:
 
-&quot;[!UICONTROL Proviamo di nuovo - Si è verificato il seguente errore: teamAssignments deve essere un elenco di oggetti o un elenco di ID]&quot;
+“[!UICONTROL Riproviamo - Si è verificato il seguente errore: teamAssignments deve essere un elenco di oggetti o un elenco di ID]”
 
 **&quot;[!UICONTROL Impossibile caricare il file]&quot; Errore**
 
 *Documenti*
 
-Quando un utente tenta di caricare un file nel [!UICONTROL Documenti] area, il file non viene caricato e l&#39;utente visualizza l&#39;errore &quot;[!UICONTROL Impossibile caricare il file].&quot;
+Quando un utente tenta di caricare un file nell’area [!UICONTROL Documenti], il file non viene caricato e l’utente visualizza l’errore “[!UICONTROL Impossibile caricare il file].”
 
-Questo è stato riportato durante il tentativo di caricare file MP4.
+Il problema è stato segnalato durante il caricamento di file MP4.
 
-**Il conteggio dei problemi nella navigazione a sinistra dell&#39;attività non è corretto**
+**Il conteggio dei problemi nella navigazione a sinistra dell’attività non è corretto**
 
 *problemi*
 
-Quando un utente visualizza un&#39;attività, il numero visualizzato nella [!UICONTROL Problemi] la sezione della navigazione a sinistra non rappresenta con precisione il numero effettivo di problemi associati all&#39;attività.
+Quando un utente visualizza un’attività, il numero visualizzato nella sezione [!UICONTROL Problemi] della navigazione a sinistra non rappresenta con precisione il numero effettivo di problemi associati all’attività.
 
 
-**[!UICONTROL Predecessore] icona mancante nell&#39;intestazione dell&#39;attività**
+Icona **[!UICONTROL Predecessore] mancante nell’intestazione dell’attività**
 
 *Attività*
 
-Quando un utente visualizza un&#39;attività, l&#39;icona del predecessore attività risulta mancante nell&#39;intestazione.
+Quando un utente visualizza un’attività, l’icona del predecessore attività risulta mancante nell’intestazione.
 
 +++
 
 +++**Aggiornamento di manutenzione del giovedì 13 ottobre 2022**
 
-**Impossibile ripetere il pin di una pagina dopo la rimozione del pin**
+**Impossibile ripetere l’operazione di fissaggio di una pagina dopo la rimozione dello stesso**
 
 *Navigazione*
 
 >[!NOTE]
 >
->Questo problema verrà risolto in Anteprima il 13 ottobre 2022. Sarà fissato in Produzione il 27 ottobre 2022.
+>Questo problema verrà risolto in Anteprima il 13 ottobre 2022. Sarà risolto in Produzione il 27 ottobre 2022.
 
-Quando un utente seleziona il &quot;[!UICONTROL Rimuovi perno]&quot; opzione su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su &quot;[!UICONTROL Annulla]&quot; nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all&#39;elenco dei pin sotto il [!UICONTROL Altri pin] (il menu a tre punti nel [!UICONTROL Pins] area).
+Quando un utente seleziona l’opzione “[!UICONTROL Rimuovi fissaggio]” su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su “[!UICONTROL Annulla]” nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all’elenco dei pin sotto l’elenco [!UICONTROL Altri pin] (il menu a tre punti nell’area [!UICONTROL Pins]).
 
-Se un utente tenta di fissare nuovamente la pagina passando alla pagina e fissandola, il pin non viene creato e l’utente non può fissare la pagina.
+Se un utente tenta di fissare nuovamente la pagina andando sulla pagina e fissandola, il pin non viene creato e l’utente non è in grado di completare l’operazione.
 
 **Impossibile assegnare un nome o salvare i filtri appena creati**
 
 *[!UICONTROL Pianificazione risorse]*
 
-Quando un utente tenta di denominare un nuovo filtro nel [!UICONTROL Planner risorse], la casella del nome rimane vuota. Inoltre, se l&#39;utente ha premuto la barra spaziatrice, la [!UICONTROL Salva] pulsante disattiva.
+Quando un utente tenta di denominare un nuovo filtro nella [!UICONTROL Pianificazione risorse], la casella del nome rimane vuota. Inoltre, se l’utente ha premuto la barra spaziatrice, il pulsante [!UICONTROL Salva] si disattiva.
 
-**Impossibile modificare il nome o la percentuale di completamento di un&#39;attività o di un problema**
+**Impossibile modificare il nome o la percentuale di completamento di un’attività o di un problema**
 
 *Attività e problemi*
 
-Utenti con [!UICONTROL Collaborare] l&#39;accesso a un&#39;attività o a un problema non può modificare il nome dell&#39;attività o del problema nell&#39;intestazione. Inoltre, gli utenti con [!UICONTROL Collaborare] impossibile modificare la percentuale di completamento di un&#39;attività o di un problema.
+Utenti con l’accesso [!UICONTROL Contribuisci] a un’attività o a un problema non possono modificare il nome dell’attività o del problema nell’intestazione. Inoltre, gli utenti con l’accesso [!UICONTROL Contribuisci] non possono modificare la percentuale di completamento di un’attività o di un problema.
 
 **i richiedenti e i revisori vengono conteggiati nel numero di licenze di un’organizzazione**
 
@@ -132,19 +158,19 @@ Quando un utente viene aggiunto a una bozza come revisore o richiedente, ottiene
 
 +++
 
-+++**Aggiornamento della manutenzione l’11 ottobre 2022**
++++**Aggiornamento di manutenzione del martedì 11 ottobre 2022**
 
-**Impossibile ripetere il pin di una pagina dopo la rimozione del pin**
+**Impossibile ripetere il fissaggio di una pagina dopo la rimozione dello stesso**
 
 *Navigazione*
 
 >[!NOTE]
 >
->Questo problema è stato risolto in Anteprima il 13 ottobre 2022. Sarà fissato in Produzione il 27 ottobre 2022.
+>Questo problema è stato risolto in Anteprima il 13 ottobre 2022. Sarà risolto in Produzione il 27 ottobre 2022.
 
-Quando un utente seleziona il &quot;[!UICONTROL Rimuovi perno]&quot; opzione su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su &quot;[!UICONTROL Annulla]&quot; nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all&#39;elenco dei pin sotto il [!UICONTROL Altri pin] (il menu a tre punti nel [!UICONTROL Pins] area).
+Quando un utente seleziona l’opzione “[!UICONTROL Rimuovi fissaggio]” su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su “[!UICONTROL Annulla]” nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all’elenco dei pin sotto l’elenco [!UICONTROL Altri pin] (il menu a tre punti nell’area [!UICONTROL Pins]).
 
-Se un utente tenta di fissare nuovamente la pagina passando alla pagina e fissandola, il pin non viene creato e l’utente non può fissare la pagina.
+Se un utente tenta di fissare nuovamente la pagina andando sulla pagina e fissandola, il pin non viene creato e l’utente non è in grado di completare l’operazione.
 
 +++
 
@@ -154,7 +180,7 @@ Se un utente tenta di fissare nuovamente la pagina passando alla pagina e fissan
 
 *Blueprint*
 
-Il tipo di blueprint &quot;Dashboard&quot; è stato aggiunto al catalogo di blueprint. In precedenza erano disponibili solo i modelli Modello di progetto e Struttura organizzativa .
+Il tipo di blueprint “Dashboard” è stato aggiunto al catalogo dei blueprint. In precedenza erano disponibili solo i modelli Modello di progetto e Struttura organizzativa.
 
 **Elementi che si sovrappongono nel pannello a sinistra**
 
@@ -162,15 +188,15 @@ Il tipo di blueprint &quot;Dashboard&quot; è stato aggiunto al catalogo di blue
 
 Il messaggio di notifica relativo al limite dei campi, che viene visualizzato nel caso in cui un utente utilizzi il generatore di moduli con un modulo contenente più di 100 campi, causa la sovrapposizione degli elementi nel pannello sinistro.
 
-**Il selettore data non si apre più automaticamente quando si attiva l&#39;input o si fa clic su**
+**La selezione della data non si apre più automaticamente quando si attiva l’input o si fa clic su**
 
 *Navigazione*
 
-Quando un utente naviga tramite tastiera, i selettori di date non vengono più aperti automaticamente alla data in cui l’input della tastiera riceve lo stato attivo. Al contrario, gli utenti di tastiera devono passare all’icona del selettore data e premere Invio per aprire il selettore data. Quando un utente naviga con il mouse, i selettori di date non vengono più aperti automaticamente quando si fa clic sull’input della data. Al contrario, gli utenti del mouse devono fare clic sull’icona del selettore data per aprire il selettore data.
+Quando un utente naviga tramite tastiera, le selezioni della data non vengono più aperte automaticamente alla data in cui l’input della tastiera riceve lo stato attivo. Al contrario, gli utenti che utilizzano la tastiera devono passare all’icona della selezione data e premere Invio per aprire la selezione data. Quando un utente naviga usando il mouse, le selezioni della data non vengono più aperte automaticamente quando si fa clic sull’input della data. Al contrario, gli utenti che utilizzano il mouse devono fare clic sull’icona della selezione della data per aprire la selezione della data.
 
-Questa modifica è stata apportata per essere più conforme ai pattern UX del selettore data standard e per creare un’esperienza più accessibile per gli utenti di tastiera e assistenti vocali.
+Questa modifica è stata apportata per conformarsi ai pattern UX standard della selezione di data e creare un’esperienza più accessibile per gli utenti che utilizzano tastiera e assistenti vocali.
 
-**L’assegnazione di più team comporta l’assegnazione di un solo team**
+**L’assegnazione di più team risulta nell’assegnazione di un unico team**
 
 *Team*
 
@@ -178,15 +204,15 @@ Questa modifica è stata apportata per essere più conforme ai pattern UX del se
 >
 >Questo problema esiste solo nell’ambiente di anteprima.
 
-Quando un utente assegna più team a un&#39;attività o a un problema, nell&#39;elenco delle assegnazioni viene visualizzato un solo team. Questo problema influisce anche sul reporting. I rapporti che mostrano le assegnazioni del team non sono accurati perché viene visualizzato un solo team assegnato all&#39;attività o al problema.
+Quando un utente assegna più team a un’attività o a un problema, nell’elenco delle assegnazioni viene visualizzato un solo team. Questo problema influisce anche sulla produzione di rapporti. I rapporti che mostrano le assegnazioni del team non sono accurati, poiché viene visualizzato un unico team assegnato all’attività o al problema.
 
-**&quot;[!UICONTROL Le modifiche recenti non sono state salvate]&quot; errore durante il salvataggio automatico delle modifiche su una scheda attività**
+Errore **“[!UICONTROL Le modifiche recenti non sono state salvate]” durante il salvataggio automatico delle modifiche su una scheda orario**
 
 *Schede orario*
 
 Quando un utente cerca di modificare una scheda orario in modo da attivare un salvataggio automatico, le modifiche non vengono salvate e l’utente visualizza il seguente messaggio:
 
-&quot;[!UICONTROL Le modifiche recenti non sono state salvate. Aggiorna la pagina da visualizzare.]&quot;
+“[!UICONTROL Le modifiche recenti non sono state salvate. Aggiorna la pagina da visualizzare.]”
 
 Questo problema è stato segnalato durante la modifica dei seguenti elementi:
 
@@ -201,13 +227,13 @@ In [!DNL Workfront Proof], quando si verifica un evento che attiva una notifica 
 
 +++
 
-+++**Aggiornamento di manutenzione del giovedì 3 ottobre 2022**
++++**Aggiornamento di manutenzione del lunedì 3 ottobre 2022**
 
-**Salvataggio manuale della scheda attività quando i ruoli di lavoro precedenti sono cambiati**
+**Salvataggio manuale della scheda orario quando i ruoli di lavoro precedenti sono cambiati**
 
 *Schede orario*
 
-Se un ruolo di lavoro per il quale hai effettuato l&#39;accesso è cambiato e [!UICONTROL Assegnare manualmente i ruoli del processo alle voci dell&#39;ora] è stata disabilitata, è necessario salvare manualmente le voci di tempo fino a quando non vengono più registrate ore per il ruolo di processo modificato.
+Se un ruolo di lavoro per il quale hai effettuato l’accesso è cambiato e l’impostazione [!UICONTROL Assegnare manualmente i ruoli del processo alle voci orarie] è stata disabilitata, è necessario salvare manualmente le voci orarie fino a quando non vengono più registrate ore per la mansione che è stata modificata.
 
 +++
 
@@ -215,19 +241,19 @@ Se un ruolo di lavoro per il quale hai effettuato l&#39;accesso è cambiato e [!
 
 +++**Aggiornamento di manutenzione del giovedì 29 settembre 2022**
 
-**L&#39;utente non ritorna alla pagina precedente quando chiude la bozza**
+**L’utente non ritorna alla pagina precedente quando chiude la bozza**
 
 *Bozze*
 
-Quando un utente visualizza una bozza in [!DNL Workfront] chiude la bozza, non restituisce la pagina in cui si trovava prima dell’apertura della bozza. Vengono invece reindirizzati a un’altra pagina in [!DNL Workfront].
+Quando un utente che sta visualizzando una bozza in [!DNL Workfront] chiude la bozza, non viene reindirizzato alla pagina in cui si trovava prima di aprire la bozza. Viene invece reindirizzato a un’altra pagina in [!DNL Workfront].
 
 **Impossibile aprire la bozza in[!DNL Workfront]**
 
 *Bozze*
 
-Quando un utente visualizza un documento in [!DNL Workfront] e tenta di aprire la bozza, la bozza non si apre e l’utente viene restituito al [!UICONTROL Dettagli documento] pagina.
+Quando un utente visualizza un documento in [!DNL Workfront] e prova ad aprire la bozza, la bozza non si apre e l’utente viene reindirizzato alla pagina [!UICONTROL Dettagli documento].
 
-**Le ore non vengono salvate quando si utilizza [!UICONTROL Scheda] key**
+**Le ore non vengono salvate quando si utilizza il tasto [!UICONTROL TAB]**
 
 *Schede orario*
 
@@ -261,7 +287,7 @@ Quando un utente visualizza gli aggiornamenti e passa il mouse su un nome, si ap
 
 Quando un utente cerca di registrare le ore per un’attività sulla propria scheda orario, le ore non vengono salvate automaticamente e l’utente visualizza il seguente errore:
 
-&quot;[!UICONTROL Database error from concurrent edit on a locked row. Automatic retry failed. Try transaction later.]&quot;
+”[!UICONTROL Database error from concurrent edit on a locked row. Automatic retry failed. Try transaction later.]”
 
 **Non è possibile chiudere la scheda utente nel flusso di aggiornamento**
 
@@ -287,7 +313,7 @@ Adesso, quando si condivide un filtro di progetto con un gruppo che ha altri sot
 
 +++
 
-+++**Aggiornamento di manutenzione dell’giovedì 8 settembre 2022**
++++**Aggiornamento di manutenzione del giovedì 8 settembre 2022**
 
 **Nomi aggiornati ripristinati per i campi di assegnazione degli utenti e dei ruoli**
 
@@ -358,7 +384,7 @@ Ora è possibile aggiungere il campo [!UICONTROL Integrazioni] all’intestazion
 
 +++
 
-+++**Aggiornamento di manutenzione del 1° settembre 2022**
++++**Aggiornamento di manutenzione del giovedì 1 settembre 2022**
 
 **Elementi completati rimossi dalla delega**
 
@@ -487,7 +513,7 @@ Adesso, quando si aggiunge un nuovo campo a un’intestazione personalizzabile, 
 
 +++
 
-+++**Aggiornamento di manutenzione dell’giovedì 11 agosto 2022**
++++**Aggiornamento di manutenzione del giovedì 11 agosto 2022**
 
 **Impossibile modificare i moduli personalizzati a causa di un limite di caratteri errato nei campi di testo descrittivo**
 
@@ -852,7 +878,7 @@ Quando un utente visualizza un dashboard in un progetto e tenta di aggiungere un
 
 Quando un utente visualizza la sezione [!UICONTROL Work List] (Elenco di lavoro) dell’area Home e fa clic su un elemento nella sezione [!UICONTROL Approvals I’ve Submitted] (Approvazioni inviate), la pagina mostra il seguente errore:
 
-&quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]&quot;
+”[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
 
 Se l’utente aggiorna la pagina e poi fa clic su qualsiasi elemento nella [!UICONTROL Work List] (Elenco di lavoro), viene visualizzato l’errore. Il problema non riguarda più solo gli elementi nella sezione [!UICONTROL Approvals I’ve Submitted] (Approvazioni inviate).
 
@@ -909,7 +935,7 @@ Quando un utente crea un filtro e filtra in base a un campo data, il menu a disc
 
 Quando un utente cerca di convertire un problema in un progetto tramite un modello e il problema ha un modulo personalizzato che contiene una sezione solo per amministratori, il problema non viene convertito e l’utente visualizza il seguente errore:
 
-&quot;[!UICONTROL Riproviamo. Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
+”[!UICONTROL Riproviamo. Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
 **Le richieste vengono inviate senza i campi obbligatori compilati**
 
@@ -1184,7 +1210,7 @@ Quando un utente cerca di aggiungere un nuovo record della fatturazione dall’a
 
 Quando un utente cerca di effettuare assegnazioni nel [!DNL Workload Balancer] di un progetto, viene reindirizzato a una pagina con il seguente messaggio:
 
-&quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]&quot;
+”[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
 
 L’utente non può spostarsi da questa pagina finché non aggiorna la pagina.
 
@@ -1200,7 +1226,7 @@ Adesso è sufficiente fare clic su una barra dei problemi o delle attività nel 
 
 Quando un utente assegnato a un livello di accesso che include l’impostazione di accesso [!UICONTROL Amministratore utenti (utenti gruppo)] tenta di visualizzare i dettagli di un utente del proprio gruppo, viene visualizzato il seguente errore:
 
-&quot;[!UICONTROL Riproviamo. Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
+”[!UICONTROL Riproviamo. Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
 **Impossibile eliminare lo stato dei gruppo personalizzati**
 
@@ -1358,7 +1384,7 @@ Quando un utente visualizza gli aggiornamenti e scorre la schermata per visualiz
 
 Quando un utente nel [!UICONTROL Bilanciatore dei carichi di lavoro] tenta di assegnare delle attività a un utente la cui mansione non corrisponde a quella assegnata alle attività, l’utente visualizza un messaggio che indica che l’attività verrà assegnata utilizzando la mansione principale dell’utente assegnato. Tuttavia, quando l’utente fa clic su “[!UICONTROL Assign]” (Assegna), le attività non vengono assegnate e l’utente visualizza il seguente errore:
 
-&quot;[!UICONTROL Errore. Si è verificato un errore sconosciuto del server.]&quot;
+”[!UICONTROL Errore. Si è verificato un errore sconosciuto del server.]”
 
 +++
 
@@ -1649,7 +1675,7 @@ Sono stati segnalati i seguenti problemi relativi all’accesso all’ambiente d
 
 Quando un utente cerca di accedere all’ambiente di anteprima, viene visualizzato un messaggio che indica che l’ID o la password immessi sono errati.
 
-Quando un utente cerca di reimpostare la propria password, visualizza l’errore “[!UICONTROL ?Sono stati trovati più utenti con l’indirizzo e-mail <example@example.com>?]”
+Quando un utente cerca di reimpostare la propria password, visualizza l’errore “[!UICONTROL Sono stati trovati più utenti con l’indirizzo e-mail <example@example.com>?]”
 
 **I moduli personalizzati si caricano lentamente nell’area [!UICONTROL Project Details] (Dettagli progetto)**
 
@@ -1775,7 +1801,7 @@ L’indirizzo e-mail di un utente in [!DNL Workfront Proof] può essere presente
 
 Quando un utente visualizza un rapporto, nell’intestazione del rapporto viene visualizzato il seguente errore:
 
-&quot;[!UICONTROL Riproviamo. Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
+”[!UICONTROL Riproviamo. Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
 Se l’utente visualizza un dashboard, l’errore potrebbe comparire nell’intestazione di tutti i rapporti nel dashboard.
 
@@ -1846,7 +1872,7 @@ Quando un utente cerca di copiare una richiesta, il pulsante [!UICONTROL Copy Re
 
 Quando un utente compila un modulo personalizzato nell’ambito della conversione di un problema in un progetto, la compilazione di un campo personalizzato potrebbe causare la scomparsa dei dati in un altro campo personalizzato. Se l’utente immette nuovamente i dati mancanti, quando tenta di creare il progetto, visualizza il seguente messaggio di errore:
 
-&quot;[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]&quot;
+”[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]”
 
 **Il campo “[!UICONTROL This approval process can be used by...]” (Questa approvazione è utilizzabile da...) non è visibile**
 
@@ -1918,7 +1944,7 @@ Il rollout graduale continuerà per 2 settimane.
 
 Quando un utente cerca di eliminare un predecessore dalla scheda [!UICONTROL Predecessors] (Predecessori) su un’attività, l’attività non viene eliminata e l’utente visualizza il seguente errore:
 
-[!UICONTROL Attività con valore della chiave primaria “” non trovata]
+[!UICONTROL Attività con valore della chiave primaria &quot;&quot; non trovata]
 
 **Errore all’apertura della pagina Utenti**
 
@@ -1948,7 +1974,7 @@ Tutte le opzioni sotto il pulsante sono etichettate come “[!UICONTROL object O
 
 Quando un utente che non è amministratore tenta di creare un progetto e allega un modulo personalizzato con una sezione disponibile solo per gli amministratori, non può creare il progetto e viene visualizzato il seguente errore:
 
-&quot;Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema&quot;
+”Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema”
 
 **I dati nella sezione Solo Amministratore nel modulo personalizzato non vengono conservati durante la conversione dei problemi in progetti**
 
@@ -1966,7 +1992,7 @@ Quando un utente converte un problema in un progetto utilizzando un modello che 
 
 Quando un utente che non è amministratore tenta di creare un progetto e allega un modulo personalizzato con una sezione disponibile solo per gli amministratori, non può creare il progetto e viene visualizzato il seguente errore:
 
-&quot;[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]&quot;
+”[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]”
 
 **Gli utenti che sono stati disattivati e poi riattivati non compaiono in [!UICONTROL Proof contacts]** (Contatti bozza)
 
@@ -1988,7 +2014,7 @@ Quando un utente che non è amministratore tenta di convertire un problema in un
 
 Quando un utente amministratore tenta di visualizzare progetti, attività o problemi in [!UICONTROL Project Preferences] (Preferenze del progetto) nell’area [!UICONTROL Setup] (Configura), la pagina non viene caricata e l’utente visualizza il seguente errore:
 
-&quot;[!UICONTROL Impossibile caricare il contenuto della pagina. Provare a riaggiornare la pagina.]&quot;
+”[!UICONTROL Impossibile caricare il contenuto della pagina. Provare a riaggiornare la pagina.]”
 
 +++
 
@@ -2000,7 +2026,7 @@ Quando un utente amministratore tenta di visualizzare progetti, attività o prob
 
 Quando un utente cerca di accedere a [!DNL Workfront], l’accesso non riesce e viene visualizzato il seguente messaggio:
 
-&quot;[!UICONTROL Riproviamo. Errore del database: commit BizContext non riuscito.]”
+”[!UICONTROL Riproviamo. Errore del database: commit BizContext non riuscito.]”
 
 Questo problema è stato segnalato nell’ambiente di anteprima.
 
@@ -2037,7 +2063,7 @@ Quando un utente visualizza un rapporto in un dashboard e tenta di modificare il
 
 Quando un utente che non è amministratore tenta di creare un progetto e allega un modulo personalizzato con una sezione disponibile solo per gli amministratori, non può creare il progetto e viene visualizzato il seguente errore:
 
-&quot;[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]&quot;
+”[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]”
 
 **I dati personalizzati non vengono conservati durante la conversione del problema in progetto**
 
@@ -2051,7 +2077,7 @@ Quando un utente converte un problema in un progetto utilizzando un modello, i d
 
 Quando un utente cerca di convertire un problema in un progetto, il problema non viene convertito e l’utente visualizza il seguente errore:
 
-&quot;[!UICONTROL Un errore inaspettato si è verificato]&quot;
+”[!UICONTROL Un errore inaspettato si è verificato]”
 
 +++
 
@@ -2166,7 +2192,7 @@ Quando un utente cerca di allegare un modulo personalizzato o un modello a un pr
 
 Quando un utente visualizza una bozza nell’area [!UICONTROL Documenti], i commenti inseriti nella bozza non vengono visualizzati nell’area [!UICONTROL Aggiornamenti] del documento.
 
-**[!UICONTROL Bilanciatore dei carichi di lavoro]: &quot;[!UICONTROL ?[object Object]?]compare nelle informazioni sulla sovrassegnazione**
+**[!UICONTROL Bilanciatore dei carichi di lavoro]: ”[!UICONTROL ?[object Object]?]compare nelle informazioni sulla sovrassegnazione**
 
 *[!UICONTROL Bilanciatore dei carichi di lavoro]*
 
