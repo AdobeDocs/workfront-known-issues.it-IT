@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 57105cfb344a29ae7eb7b64c932d735198f135f6
+source-git-commit: ed5bd591f4be66631dba19d666b7d280eda1e1ab
 workflow-type: tm+mt
-source-wordcount: '14801'
-ht-degree: 99%
+source-wordcount: '14844'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,12 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Previous Mainten
 ## Aggiornamenti di ottobre 2022
 
 +++**Aggiornamento di manutenzione del giovedì 3 novembre 2022**
+
+**Rinominare le sezioni &quot;Pianificazione&quot; e &quot;Pianificazione&quot; per team e progetti nel modello di layout**
+
+*Modelli di layout*
+
+Le schede &quot;Pianificazione&quot; e &quot;Pianificazione&quot; disponibili per aggiungere un modello di layout al pannello di sinistra di un team o di un progetto sono state rinominate &quot;Workbench carico di lavoro&quot;.
 
 **Errori durante l&#39;accesso alle impostazioni di notifica e-mail**
 
