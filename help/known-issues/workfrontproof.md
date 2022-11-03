@@ -1,12 +1,12 @@
 ---
 title: Problemi noti in  [!DNL Adobe Workfront Proof]
-description: Problemi noti segnalati per [!DNL Adobe Workfront Proof]
+description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 56%
+source-wordcount: '229'
+ht-degree: 94%
 
 ---
 
@@ -16,16 +16,16 @@ Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfr
 
 >[!IMPORTANT]
 >
->Per informazioni relative sui tempi di attività o sulle interruzioni del server, vedi [https://status.adobe.com/it](https://status.adobe.com/it). Per informazioni sui problemi risolti di recente, vedi Aggiornamenti di manutenzione di [[!DNL Workfront] ](../maintenance/current-updates.md).
+>Per informazioni relative sui tempi di attività o sulle interruzioni del server, vedi [https://status.adobe.com/it](https://status.adobe.com/it). Per informazioni sui problemi risolti di recente, vedi [[!DNL Workfront] Aggiornamenti di manutenzione](../maintenance/current-updates.md).
 
 ## Nuovo
 
-Questi problemi segnalati di recente sono attualmente all&#39;esame.
+Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Prove: La generazione di prove è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 ottobre 2022 |
-| [Prove: Il riepilogo della stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 ottobre 2022 |
+| [Prove: La generazione di prove è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | martedì 27 ottobre 2022 |
+| [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | venerdì 19 ottobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -35,8 +35,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenti: Il collegamento di richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 ottobre 2022 |
-| [Prove: La casella di testo &quot;Nuovi destinatari bozza&quot; è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | 18 ottobre 2022 |
+| [[!DNL Workfront Proof]: Impossibile aprire una bozza interattiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 3 novembre 2022 |
+| [Documenti: il collegamento per la richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | martedì 20 ottobre 2022 |
+| [Bozze: la casella di testo “Destinatari nuova bozza” è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | martedì 18 ottobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -46,7 +47,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Prove: La bozza non è condivisa con gli utenti nel flusso di lavoro di prova](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | mercoledì 18 settembre 2022 |
+| [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | mercoledì 18 settembre 2022 |
 | [Bozze: il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | mercoledì 14 settembre 2022 |
 | [[!DNL Workfront Proof]: impossibile aggiungere un ’utente alla bozza assegnandogli un tag in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md) | mercoledì 23 marzo 2022 |
 | [[!UICONTROL Home]: il comportamento del pulsante [!UICONTROL Reply in Proof] (Rispondi nella bozza) è incoerente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | lunedì 21 giugno 2021 |

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
+source-git-commit: 5c3f91350bc1a1e2b563d4d3fc6660fc49f38075
 workflow-type: tm+mt
-source-wordcount: '1560'
-ht-degree: 92%
+source-wordcount: '1583'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: Impossibile modificare [!UICONTROL Data completamento pianificata] di un compito](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront: Errore 500 quando si apportano modifiche a un oggetto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
       + [Richieste: Messaggio &quot;Whoops&quot; durante la modifica della coda delle richieste](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Elenchi: Gli errori di modifica in linea per utente non causano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Ricerca: La ricerca è estremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
@@ -149,6 +151,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: Impossibile aprire una bozza interattiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
