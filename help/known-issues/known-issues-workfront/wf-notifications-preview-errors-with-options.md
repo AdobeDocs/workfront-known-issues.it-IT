@@ -2,10 +2,10 @@
 title: '“Notifiche: errori durante l’accesso alle impostazioni delle notifiche e-mail”'
 description: “Quando un utente cerca di modificare le impostazioni delle notifiche e-mail, potrebbe visualizzare un errore.”
 hidefromtoc: true
-source-git-commit: 78d0a040027e22dc14e0a2326f635c5f4c6e1a41
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 93%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema esiste sia negli ambienti di Produzione che in quelli di Anteprima.
+>Questo problema è stato risolto il 3 novembre 2022.
 
 Quando un utente cerca di modificare le impostazioni delle notifiche e-mail, potrebbe visualizzare i seguenti errori:
 
