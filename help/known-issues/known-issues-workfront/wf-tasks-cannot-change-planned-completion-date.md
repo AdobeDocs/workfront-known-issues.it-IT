@@ -2,15 +2,19 @@
 title: "Attività: Impossibile modificare la data di completamento pianificata di un'attività"
 description: '"Quando un utente tenta di modificare la data di completamento pianificata di un''attività, il campo non risponde. ”'
 hidefromtoc: true
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 16%
+source-wordcount: '118'
+ht-degree: 24%
 
 ---
 
 
 # Attività: Impossibile modificare [!UICONTROL Data completamento pianificata] di un compito
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso perché funziona come previsto.
 
 Quando un utente tenta di modificare il [!UICONTROL Data completamento pianificata] di un’attività, il campo non risponde.
 

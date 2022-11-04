@@ -2,15 +2,19 @@
 title: "Prove: La generazione della prova è estremamente lenta"
 description: "Quando un utente tenta di aggiungere una bozza a un elemento di lavoro Workfront tramite l’opzione Aggiungi nuovo > Prova, utilizzando un flusso di lavoro automatizzato, la generazione della bozza richiede alcuni minuti."
 hidefromtoc: true
-source-git-commit: 9d484f963278ae1e7b5df10379ed2d0c7b9caade
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 5%
+source-wordcount: '103'
+ht-degree: 10%
 
 ---
 
 
 # Prove: La generazione di prove è estremamente lenta
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 31 ottobre 2022.
 
 <!--This article is on the WF and WFP TOCs-->
 

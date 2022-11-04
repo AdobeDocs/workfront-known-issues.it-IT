@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d425d85b81c88bf301fce143b7cbed55c3c64cbb
+source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 81%
+source-wordcount: '595'
+ht-degree: 86%
 
 ---
 
@@ -25,13 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Richieste: Messaggio &quot;Whoops&quot; durante la modifica della coda delle richieste](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 novembre 2022 |
-| [Elenchi: Gli errori di modifica in linea per utente non causano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 2 novembre 2022 |
-| [Ricerca: La ricerca è estremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md) | 1 novembre 2022 |
 | [Prove: La generazione di prove è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | martedì 27 ottobre 2022 |
-| [Richieste: Impossibile visualizzare più di 100 argomenti della coda in una pagina](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | martedì 27 ottobre 2022 |
-| [Problemi: Quando sono presenti problemi, nella navigazione a sinistra vengono visualizzati i problemi &quot;(0)&quot;](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md) | martedì 27 ottobre 2022 |
 | [Richieste: [!UICONTROL Impostazioni coda e-mail] non disponibile](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | martedì 27 ottobre 2022 |
-| [[!UICONTROL Schede]: [!UICONTROL Ingresso] ricerca a colonne non efficace](known-issues-workfront/wf-boards-search-returns-no-results.md) | martedì 26 ottobre 2022 |
 | [Agile: Le attività assegnate tramite la modifica collettiva non vengono visualizzate nel backlog del team](known-issues-workfront/wf-agile-not-appearing-in-team-backlog.md) | martedì 20 ottobre 2022 |
 | [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | venerdì 19 ottobre 2022 |
 | [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | mercoledì 29 settembre 2022 |
@@ -45,12 +40,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Attività: Impossibile modificare [!UICONTROL Data completamento pianificata] di un compito](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md) | 3 novembre 2022 |
+| [Elenchi: Gli errori di modifica in linea per utente non causano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
+| [Richieste: Impossibile visualizzare più di 100 argomenti della coda in una pagina](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 novembre 2022 |
 | [[!DNL Workfront]: 500 error when making changes to a [!DNL Workfront] oggetto](known-issues-workfront/wf-500-error-when-making-changes.md) | 3 novembre 2022 |
-| [Moduli personalizzati: [!UICONTROL ORA] funzione nei campi calcolati utilizza UTC](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | martedì 28 ottobre 2022 |
 | [Progetti: Problemi di prestazioni e messaggi di errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | martedì 27 ottobre 2022 |
 | [Documenti: il collegamento per la richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | martedì 20 ottobre 2022 |
-| [[!UICONTROL Schede]: la pagina [!UICONTROL Schede] non viene caricata](known-issues-workfront/wf-boards-boards-do-not-load.md) | martedì 20 ottobre 2022 |
 | [Rapporti: le informazioni sull’utilizzo del rapporto non vengono aggiornate](known-issues-workfront/wf-reports-usage-not-updating.md) | venerdì 19 ottobre 2022 |
 | [Navigazione: impossibile fissare gli oggetti](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | venerdì 19 ottobre 2022 |
 | [Bozze: la casella di testo “Destinatari nuova bozza” è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | martedì 18 ottobre 2022 |
