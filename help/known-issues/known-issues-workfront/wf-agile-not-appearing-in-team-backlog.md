@@ -2,15 +2,19 @@
 title: "Agile: Le attività assegnate tramite la modifica collettiva non vengono visualizzate nel backlog del team"
 description: "Quando un utente assegna attività a un team di Scrum utilizzando la modifica collettiva, queste attività non vengono visualizzate nel backlog del team."
 hidefromtoc: true
-source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '92'
 ht-degree: 5%
 
 ---
 
 
 # Agile: Le attività assegnate tramite la modifica collettiva non vengono visualizzate nel backlog del team
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 4 novembre 2022.
 
 Quando un utente assegna attività a un team di Scrum utilizzando la modifica collettiva, tali attività non vengono visualizzate nel backlog del team.
 

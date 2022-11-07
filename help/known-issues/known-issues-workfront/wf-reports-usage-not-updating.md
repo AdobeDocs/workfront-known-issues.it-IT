@@ -1,23 +1,27 @@
 ---
-title: "Rapporti: Le informazioni sull'utilizzo del rapporto non vengono aggiornate"
-description: "Quando un utente visualizza un rapporto, le informazioni Ultima visualizzazione, come Ultima data di visualizzazione e Ultima visualizzazione per, non vengono aggiornate. Ciò significa che qualsiasi informazione sull'utilizzo può essere errata."
+title: '“Rapporti: le informazioni sull’utilizzo del rapporto non vengono aggiornate”'
+description: “Quando un utente visualizza un rapporto, le informazioni relative all’Ultima visualizzazione, come Ultima data di visualizzazione e Ultima visualizzazione di, non vengono aggiornate. Ciò significa che qualsiasi informazione sull’utilizzo potrebbe essere errata.”
 hidefromtoc: true
-source-git-commit: 61c497b0e94a3844113240757d359c0ba26c5ebd
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '115'
+ht-degree: 94%
 
 ---
 
 
-# Rapporti: Le informazioni sull&#39;utilizzo del rapporto non vengono aggiornate
+# Rapporti: le informazioni sull’utilizzo del rapporto non vengono aggiornate
 
-Quando un utente visualizza un rapporto, le informazioni Ultima visualizzazione, come Ultima data di visualizzazione e Ultima visualizzazione per, non vengono aggiornate. Ciò significa che eventuali informazioni di utilizzo potrebbero essere errate.
+>[!NOTE]
+>
+>Questo problema è stato risolto il 4 novembre 2022.
+
+Quando un utente visualizza un rapporto, le informazioni Ultima visualizzazione, come Ultima data di visualizzazione e Ultima visualizzazione di, non vengono aggiornate. Ciò significa che eventuali informazioni di utilizzo potrebbero essere errate.
 
 Questo comportamento è stato segnalato quando l’utente accede al rapporto nei seguenti modi:
 
 * Ricerca
-* Pins
+* Pin
 * Preferiti
 * Recenti
 

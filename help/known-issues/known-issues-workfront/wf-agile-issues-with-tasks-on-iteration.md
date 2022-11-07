@@ -2,15 +2,19 @@
 title: '“Agile: problemi con le attività aggiunte a un’iterazione”'
 description: “Sono stati segnalati più casi relativi a problemi aggiunti a un’iterazione”
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
+workflow-type: tm+mt
+source-wordcount: '114'
+ht-degree: 94%
 
 ---
 
 
 # Agile: problemi relativi alle attività aggiunte a un’iterazione
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 4 novembre 2022.
 
 Sono stati segnalati i seguenti problemi relativi ad attività aggiunte a un’iterazione:
 

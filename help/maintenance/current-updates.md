@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
+source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
 workflow-type: tm+mt
-source-wordcount: '14844'
+source-wordcount: '15198'
 ht-degree: 98%
 
 ---
@@ -30,6 +30,77 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2022.
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Previous Maintenance Updates](#previous-maintenance-updates) (Aggiornamenti di manutenzione precedenti)
 
 ## Aggiornamenti di novembre 2022
+
++++**Aggiornamento di manutenzione (Hotfix) il 4 novembre 2022**
+
+**problemi relativi alle attività aggiunte a un’iterazione**
+
+*Agile*
+
+Sono stati segnalati i seguenti problemi relativi ad attività aggiunte a un’iterazione:
+
+* Alcune sotto attività di un’attività aggiunta a un’iterazione non vengono visualizzate nella pagina [!UICONTROL Iterazione].
+* Quando un utente tenta di aggiungere un’attività mancante all’iterazione, l’attività non viene aggiunta e l’utente visualizza il seguente messaggio:
+
+   “[!UICONTROL Si è verificato il seguente errore: impossibile spostare gli elementi selezionati perché non sono assegnati a un Team Agile o non sono elementi Agile]”
+
+**Le attività assegnate tramite la modifica collettiva non vengono visualizzate nel backlog del team**
+
+*Agile*
+
+Quando un utente assegna attività a un team di Scrum utilizzando la modifica collettiva, tali attività non vengono visualizzate nel backlog del team.
+
+I team kanban non sono interessati da questo problema.
+
+**&quot;[!UICONTROL Nuovi destinatari della bozza]&quot; casella di testo troppo piccola**
+
+*Bozze*
+
+Quando un utente visualizza una bozza e tenta di condividerla dalla scheda [!UICONTROL Condivisione], la casella di testo “[!UICONTROL Destinatari nuova bozza]” è molto piccola. L’utente può digitare un nome, ma date le dimensioni ridotte della casella, il testo viene disposto in modo da rendere difficile lettura.”
+
+**Le informazioni sull&#39;utilizzo del rapporto non vengono aggiornate**
+
+*Rapporti*
+
+Quando un utente visualizza un rapporto, le informazioni Ultima visualizzazione, come Ultima data di visualizzazione e Ultima visualizzazione di, non vengono aggiornate. Ciò significa che eventuali informazioni di utilizzo potrebbero essere errate.
+
+Questo comportamento è stato segnalato quando l’utente accede al rapporto nei seguenti modi:
+
+* Ricerca
+* Pin
+* Preferiti
+* Recenti
+
+L’accesso ai rapporti tramite una dashboard aggiorna le informazioni Ultima visualizzazione.
+
+**[!DNL Workfront]: Errore 500 quando si apportano modifiche a un [!DNL Workfront] oggetto**
+
+*[!DNL Workfront]*
+
+Quando un utente tenta di apportare modifiche a un [!DNL Workfront] oggetto , le modifiche non vengono salvate e l&#39;utente visualizza il seguente errore:
+
+&quot;[!UICONTROL 500: Errore del database a causa di un&#39;istruzione SQL non valida.]&quot;
+
+Questo è stato riportato nelle seguenti situazioni:
+
+* Modifica dello stato di un oggetto
+* Ricalcolo delle timeline
+* Collegamento di un modello
+* Tempo di registrazione
+
++++
+
++++**[!DNL Workfront Fusion]Aggiornamento di manutenzione del giovedì 3 novembre 2022**
+
+**Errore relativo a [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL Eventi di controllo] modulo**
+
+*[!DNL Workfront Fusion]*
+
+Quando un utente tenta di aggiungere un webhook nel [!DNL Workfront] > [!UICONTROL Eventi di controllo] modulo, ricevono il seguente errore:
+
+&quot;[!UICONTROL L&#39;apiKey fornita è vuota o ritenuta non valida.]&quot;
+
++++
 
 +++**Aggiornamento di manutenzione del giovedì 3 novembre 2022**
 

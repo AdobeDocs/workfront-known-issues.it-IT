@@ -3,9 +3,9 @@ title: Problemi noti in  [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '202'
 ht-degree: 97%
 
 ---
@@ -36,7 +36,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof]: Impossibile aprire una bozza interattiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md) | 3 novembre 2022 |
 | [Documenti: il collegamento per la richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | martedì 20 ottobre 2022 |
-| [Bozze: la casella di testo “Destinatari nuova bozza” è troppo piccola](known-issues-workfront/wf-proof-proof-share-recipient-box-too-small.md) | martedì 18 ottobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
