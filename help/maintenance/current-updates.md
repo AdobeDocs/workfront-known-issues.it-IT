@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a1758017f1fa00903c057f6f3d51bc8ac81c1f02
+source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
 workflow-type: tm+mt
-source-wordcount: '15198'
-ht-degree: 98%
+source-wordcount: '15236'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,18 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2022.
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Previous Maintenance Updates](#previous-maintenance-updates) (Aggiornamenti di manutenzione precedenti)
 
 ## Aggiornamenti di novembre 2022
+
++++**Aggiornamento della manutenzione (pianificato) il 10 novembre 2022**
+
+**Impossibile aprire una bozza interattiva**
+
+*Bozza Workfront*
+
+Quando un utente tenta di aprire una bozza interattiva, la bozza non viene aperta e l’utente visualizza il seguente messaggio:
+
+&quot;[!UICONTROL Prova non caricata (501) Riprova]&quot;
+
++++
 
 +++**Aggiornamento di manutenzione (Hotfix) il 4 novembre 2022**
 
