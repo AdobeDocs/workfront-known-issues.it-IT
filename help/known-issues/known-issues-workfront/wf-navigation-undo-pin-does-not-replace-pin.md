@@ -3,9 +3,9 @@ title: '“Navigazione: impossibile ripetere l’operazione di fissaggio di una 
 description: “Quando un utente seleziona l’opzione Rimuovi fissaggio su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su Annulla nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all’elenco dei pin sotto l’area Altro (il menu a tre punti nei pin). Se un utente tenta di ripetere il fissaggio andando sulla pagina e fissandola, il pin non viene creato e l’utente non può fissare la pagina.”
 hidefromtoc: true
 source-git-commit: c2fd207043d8d813dbea4695198b49a4cda5fbc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->Questo problema è stato risolto in Anteprima l’11 ottobre 2022. È stato fissato in Produzione il 27 ottobre 2022.
+>Questo problema è stato risolto in Anteprima l’11 ottobre 2022. È stato risolto in Produzione il 27 ottobre 2022.
 
-Quando un utente seleziona l’opzione “[!UICONTROL Rimuovi fissaggio]” su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su “[!UICONTROL Annulla]” nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all’elenco dei pin sotto l’elenco [!UICONTROL Altri pin] (il menu a tre punti nell’area [!UICONTROL Pins]).
+Quando un utente seleziona l’opzione “[!UICONTROL Rimuovi pin]” su un pin, riceve un messaggio sulla rimozione e tenta di sostituire il pin facendo clic su “[!UICONTROL Annulla]” nel messaggio, il pin non viene sostituito nella navigazione superiore, né viene aggiunto all’elenco dei pin sotto l’elenco [!UICONTROL Altri pin] (il menu con tre punti nell’area [!UICONTROL Pin]).
 
 Se un utente tenta di fissare nuovamente la pagina andando alla pagina e fissandola, il pin non viene creato e l’utente non è in grado di completare l’operazione.
 
