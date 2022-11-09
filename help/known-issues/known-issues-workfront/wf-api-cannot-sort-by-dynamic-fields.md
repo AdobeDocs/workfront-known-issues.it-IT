@@ -1,16 +1,16 @@
 ---
-title: "API: Impossibile ordinare per campi dinamici"
-description: '"L’API Workfront non consente l’ordinamento per campi dinamici. ”'
+title: '“API: impossibile ordinare per campi dinamici”'
+description: “L’API Workfront non consente l’ordinamento per campi dinamici. ”
 hidefromtoc: true
 source-git-commit: 0f9815d500d0da022a217f023b14379cfbda645b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# API: Impossibile ordinare per campi dinamici
+# API: impossibile ordinare per campi dinamici
 
 <!--Article exists to let people know they can't do this.-->
 
