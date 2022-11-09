@@ -1,16 +1,16 @@
 ---
-title: "Documenti: Impossibile caricare l'errore del file"
-description: "Quando un utente tenta di caricare un file nell'area Documenti, il file non viene caricato e l'utente visualizza l'errore Impossibile caricare il file."
+title: '“Documenti: errore Impossibile caricare il file”'
+description: “Quando un utente tenta di caricare un file nell’area Documenti, il file non viene caricato e l’utente visualizza l’errore Impossibile caricare il file.”
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Documenti: &quot;[!UICONTROL Impossibile caricare il file]&quot; Errore
+# Documenti: errore “[!UICONTROL Impossibile caricare il file]”
 
 <!--This issue is on the Workfront TOC and the Workfront Proof TOC-->
 
@@ -18,9 +18,9 @@ ht-degree: 4%
 >
 >Questo problema è stato risolto il 20 ottobre 2022.
 
-Quando un utente tenta di caricare un file nel [!UICONTROL Documenti] area, il file non viene caricato e l&#39;utente visualizza l&#39;errore &quot;[!UICONTROL Impossibile caricare il file].&quot;
+Quando un utente tenta di caricare un file nell’area [!UICONTROL Documenti], il file non viene caricato e l’utente visualizza l’errore “[!UICONTROL Impossibile caricare il file].”
 
-Questo è stato riportato durante il tentativo di caricare file MP4.
+Il problema è stato segnalato durante il caricamento di file MP4.
 
-_Segnalato per la prima volta il venerdì 19 settembre 2022._
+_Segnalato per la prima volta il 19 settembre 2022._
 
