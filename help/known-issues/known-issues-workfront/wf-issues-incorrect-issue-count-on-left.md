@@ -3,7 +3,7 @@ title: '“Problemi: il conteggio dei problemi nella navigazione a sinistra dell
 description: “Quando un utente visualizza un’attività, il numero visualizzato nella sezione Problemi della navigazione a sinistra non rappresenta con precisione il numero effettivo di problemi associati all’attività.”
 hidefromtoc: true
 source-git-commit: a76b4e421c2c15339e82622bcd62b8e5dcafe5f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 20 ottobre 2022.
+>Questo problema è stato risolto il 20 ottobre 2022.
 
 Quando un utente visualizza un’attività, il numero visualizzato nella sezione [!UICONTROL Problemi] della navigazione a sinistra non rappresenta con precisione il numero effettivo di problemi associati all’attività.
 
