@@ -1,25 +1,25 @@
 ---
-title: "[!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Chiamata API personalizzata] modulo che restituisce errori 404 o 422"
-description: "Il modulo Workfront > API personalizzata restituisce un errore."
+title: '“Il modulo [!DNL Workfront Fusion]:  [!DNL Workfront]  > [!UICONTROL Chiamata API personalizzata] restituisce errori 404 o 422”'
+description: “Il modulo Workfront > API personalizzata restituisce un errore.”
 hidefromtoc: true
 source-git-commit: f5a953dafaa758e941e56595e9b1cabd6dc87f15
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '68'
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Chiamata API personalizzata] modulo che restituisce errori 404 o 422
+# Il modulo [!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Chiamata API personalizzata] restituisce errori 404 o 422
 
 >[!NOTE]
 >
 >Questa segnalazione è stata chiusa perché il problema non sussiste.
 
-La [!DNL Workfront] > [!UICONTROL Chiamata API personalizzata] modulo restituisce uno dei seguenti errori:
+Il modulo [!DNL Workfront] > [!UICONTROL Chiamata API personalizzata] restituisce uno dei seguenti errori:
 
-* [!UICONTROL [404] Parametro con valori chiave primaria &quot;CMS State Filing Code&quot; non trovato]
-* [!UICONTROL RuntimeError [422] Parametro non valido: Valore dello stato di archiviazione &quot;CMS&quot;]
+* [!UICONTROL [404] Parametro con valori chiave primaria “CMS State Filing Code” non trovato]
+* [!UICONTROL RuntimeError [422] Parametro non valido: Valore dello stato di archiviazione “CMS”]
 
-_Segnalato per la prima volta il venerdì 28 settembre 2022._
+_Segnalato per la prima volta il 28 settembre 2022._
 
