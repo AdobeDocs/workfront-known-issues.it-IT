@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 93%
+source-wordcount: '554'
+ht-degree: 94%
 
 ---
 
@@ -40,13 +40,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Attività: La modifica collettiva delle attività modifica le assegnazioni delle attività](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md) | 7 novembre 2022 |
 | [Elenchi: Gli errori di modifica in linea per utente non causano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
 | [Richieste: impossibile visualizzare più di 100 argomenti della coda in una pagina](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 novembre 2022 |
 | [Progetti: problemi di prestazioni e messaggio di errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 ottobre 2022 |
 | [Documenti: il collegamento per la richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 ottobre 2022 |
 | [Navigazione: impossibile fissare gli oggetti](known-issues-workfront/wf-navigation-cannot-pin-objects.md) | 19 ottobre 2022 |
-| [Programmi: problemi durante l’assegnazione di un [!UICONTROL Proprietario del programma]](known-issues-workfront/wf-programs-issues-assigning-program-manager.md) | 17 ottobre 2022 |
 | [Report: Opzione “Copia in” non disponibile nei report sui problemi](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md) | 13 ottobre 2022 |
 | [Moduli personalizzati: Errore “Ops” durante la configurazione di un campo calcolato](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 ottobre 2022 |
 | [Attività: le ore immesse nel [!UICONTROL pannello di Riepilogo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) dell’Attività non vengono salvate | 30 settembre 2022 |

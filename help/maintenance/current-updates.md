@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92a2874dbdc9d8233c4e112905bedcb9d39507fb
+source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
 workflow-type: tm+mt
-source-wordcount: '15236'
+source-wordcount: '15269'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,13 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di
 
 ## Aggiornamenti di novembre 2022
 
-+++**Aggiornamento della manutenzione (pianificato) il 10 novembre 2022**
++++**Aggiornamento di manutenzione del 10 novembre 2022**
+
+**La modifica collettiva delle attività modifica le assegnazioni delle attività**
+
+*Attività*
+
+Quando un utente modifica in blocco qualsiasi campo per un insieme di attività, le assegnazioni della prima attività vengono applicate a tutte le attività. In questo modo vengono eliminate le assegnazioni precedenti.
 
 **Impossibile aprire una bozza interattiva**
 
