@@ -3,7 +3,7 @@ title: Problemi noti in  [!DNL Adobe Workfront Fusion]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
+source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 94%
@@ -24,7 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] moduli](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | martedì 31 ottobre 2022 |
+| [[!DNL Workfront Fusion]: 404 errors on [!DNL Workfront] moduli](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md) | 31 ottobre 2022 |
 | [[!DNL Workfront Fusion]: 409 error in [!DNL Fusion] scenario](known-issues-workfront-fusion/fusion-409-error.md) | giovedì 6 ottobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -36,7 +36,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| **** | [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] il modulo viene visualizzato come &quot;[!UICONTROL oggetto]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1 novembre 2022 |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] il modulo viene visualizzato come &quot;[!UICONTROL oggetto]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1 novembre 2022 |
 | I collegamenti di aiuto in-app [[!DNL Workfront Fusion]: [!DNL Fusion]  non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | martedì 2 agosto 2022 |
 
 {style=&quot;table-layout:auto&quot;}
