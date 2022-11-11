@@ -3,7 +3,7 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 813e6bb26b612f016ad7df071fa7f6690fe528cf
+source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 92%
@@ -29,7 +29,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Bozze: la generazione di bozze è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 ottobre 2022 |
 | [Richieste: [!UICONTROL Impostazioni coda e-mail] non disponibile](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 ottobre 2022 |
 | [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 ottobre 2022 |
-| [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 29 settembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -60,6 +59,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 novembre 2022 |
 | [API: impossibile ordinare per campi dinamici](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 ottobre 2022 |
 | [[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 ottobre 2022 |
 | [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 settembre 2022 |
