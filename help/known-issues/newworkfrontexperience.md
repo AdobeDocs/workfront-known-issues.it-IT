@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '583'
-ht-degree: 89%
+source-wordcount: '615'
+ht-degree: 85%
 
 ---
 
@@ -41,6 +41,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporti: Errore &quot;Whoops&quot; quando si aggiunge un nuovo problema a un report di un problema](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
+| [Rapporti: Grafico a combinazione visualizza gli stessi dati due volte](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 novembre 2022 |
+| [Prove: L’aggiunta di messaggi personalizzati causa un problema nel visualizzatore delle prove](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 novembre 2022 |
 | [Modelli di layout: Nascondere un elemento nasconde l&#39;elemento non corretto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10 novembre 2022 |
 | [Elenchi: Gli errori di modifica in linea per utente non causano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
 | [Richieste: impossibile visualizzare più di 100 argomenti della coda in una pagina](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 novembre 2022 |

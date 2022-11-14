@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '1624'
-ht-degree: 93%
+source-wordcount: '1653'
+ht-degree: 92%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporti: Errore &quot;Whoops&quot; quando si aggiunge un nuovo problema a un report di un problema](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
+      + [Rapporti: Grafico a combinazione visualizza gli stessi dati due volte](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
+      + [Prove: L’aggiunta di messaggi personalizzati causa un problema nel visualizzatore delle prove](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [Prove: Riepilogo di stampa non mostra la miniatura dell&#39;immagine](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Integrazioni: [!UICONTROL Calendario Home] mostra gli eventi un&#39;ora più tardi [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Modelli di layout: Nascondere un elemento nasconde l&#39;elemento non corretto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)

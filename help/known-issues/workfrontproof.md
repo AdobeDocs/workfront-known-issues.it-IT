@@ -3,10 +3,10 @@ title: Problemi noti in  [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 7d6683758d76de8d31048f6f0657d45ea9fd5fe1
+source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 95%
+source-wordcount: '214'
+ht-degree: 91%
 
 ---
 
@@ -34,6 +34,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Prove: L’aggiunta di messaggi personalizzati causa un problema nel visualizzatore delle prove](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 novembre 2022 |
 | [Documenti: il collegamento per la richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 ottobre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
