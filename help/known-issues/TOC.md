@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
-source-wordcount: '1653'
-ht-degree: 92%
+source-wordcount: '1666'
+ht-degree: 91%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Moduli personalizzati: &quot;[!UICONTROL Espressione personalizzata non valida]&quot; messaggio quando si fa riferimento a &quot;[!UICONTROL proprietario]&quot; in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Rapporti: Errore &quot;Whoops&quot; quando si aggiunge un nuovo problema a un report di un problema](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Rapporti: Grafico a combinazione visualizza gli stessi dati due volte](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
       + [Prove: L’aggiunta di messaggi personalizzati causa un problema nel visualizzatore delle prove](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)

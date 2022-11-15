@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3ce48fed9e3e7b57e2775c33313718159daecb98
+source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 85%
+source-wordcount: '629'
+ht-degree: 83%
 
 ---
 
@@ -41,6 +41,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Moduli personalizzati: &quot;[!UICONTROL Espressione personalizzata non valida]&quot; messaggio quando si fa riferimento a &quot;[!UICONTROL proprietario]&quot; in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 15 novembre 2022 |
 | [Rapporti: Errore &quot;Whoops&quot; quando si aggiunge un nuovo problema a un report di un problema](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
 | [Rapporti: Grafico a combinazione visualizza gli stessi dati due volte](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 novembre 2022 |
 | [Prove: L’aggiunta di messaggi personalizzati causa un problema nel visualizzatore delle prove](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 novembre 2022 |
