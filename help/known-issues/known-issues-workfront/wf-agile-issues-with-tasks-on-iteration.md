@@ -1,14 +1,14 @@
 ---
-title: '“Agile: problemi con le attività aggiunte a un’iterazione”'
-description: “Sono stati segnalati più casi relativi a problemi aggiunti a un’iterazione”
+title: '“Agile: problemi relativi alle attività aggiunte a un’iterazione”'
+description: Sono stati segnalati più casi relativi a problemi aggiunti a un’iterazione
 hidefromtoc: true
-source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+exl-id: 25ca4bba-4e0e-470e-ac25-9dede2c6a3be
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
-
 
 # Agile: problemi relativi alle attività aggiunte a un’iterazione
 
@@ -23,5 +23,4 @@ Sono stati segnalati i seguenti problemi relativi ad attività aggiunte a un’i
 
    “[!UICONTROL Si è verificato il seguente errore: impossibile spostare gli elementi selezionati perché non sono assegnati a un Team Agile o non sono elementi Agile]”
 
-_Segnalato per la prima volta il venerdì 23 settembre 2022._
-
+_Segnalato per la prima volta il 23 settembre 2022._
