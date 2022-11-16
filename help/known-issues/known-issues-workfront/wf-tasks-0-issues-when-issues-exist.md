@@ -3,9 +3,9 @@ title: '“Problemi: quando sono presenti dei problemi, nella barra di navigazio
 description: “Quando un utente visualizza un’attività in cui sono presenti dei problemi, nell’area Problemi della barra di navigazione a sinistra viene visualizzato (0), a indicare che non vi sono problemi. Tuttavia, i problemi sono riportati correttamente nell’area Problemi dell’attività.”
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->Questo problema è stato chiuso perché funziona come previsto. Il numero nell&#39;area Problemi si riferisce al numero di problemi aperti, non al totale.
+>Questo problema è stato chiuso perché il sistema funziona come previsto. Il numero nell’area Problemi si riferisce al numero di problemi aperti, non al totale.
 
 “Quando un utente visualizza un’attività in cui sono presenti dei problemi, nell’area Problemi della barra di navigazione a sinistra viene visualizzato “(0)”, a indicare che non vi sono problemi. Tuttavia, i problemi sono riportati correttamente nell’area Problemi dell’attività.
 
