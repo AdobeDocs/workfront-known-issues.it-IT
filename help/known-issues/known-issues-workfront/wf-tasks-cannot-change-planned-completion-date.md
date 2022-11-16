@@ -1,34 +1,34 @@
 ---
-title: "Attività: Impossibile modificare la data di completamento pianificata di un'attività"
-description: '"Quando un utente tenta di modificare la data di completamento pianificata di un''attività, il campo non risponde. ”'
+title: '“Attività: impossibile modificare la Data di completamento pianificata di un’attività”'
+description: “Quando un utente tenta di modificare la data di completamento pianificata di un’attività, il campo non risponde. ”
 hidefromtoc: true
 source-git-commit: a681d8afd4bcf1ddfccf192871442e63dae1b2c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 
-# Attività: Impossibile modificare [!UICONTROL Data completamento pianificata] di un compito
+# Attività: impossibile modificare la [!UICONTROL Data di completamento pianificata] di un’attività
 
 >[!NOTE]
 >
->Questo problema è stato chiuso perché funziona come previsto.
+>Questo problema è stato chiuso perché il sistema funziona come previsto. 
 
-Quando un utente tenta di modificare il [!UICONTROL Data completamento pianificata] di un’attività, il campo non risponde.
+Quando un utente tenta di modificare la [!UICONTROL data di completamento pianificata] di un’attività, il campo non risponde.
 
-Ciò è stato segnalato nelle seguenti aree:
+Questo problema è stato segnalato nelle seguenti aree:
 
-* Intestazione attività
-* La [!UICONTROL Dettagli attività] area
+* Nell’intestazione delle attività
+* Nell’area [!UICONTROL Dettagli attività]
 
 **Soluzione alternativa**
 
 Esegui una delle operazioni seguenti:
 
-* In [!UICONTROL Dettagli attività] area, modificare [!UICONTROL Vincolo attività] a &quot;[!UICONTROL Deve terminare il]&quot; e quindi modificare il [!UICONTROL Data completamento pianificata].
-* Modificare la [!UICONTROL Data completamento pianificata] in linea nell&#39;elenco delle attività.
+* Nell’area [!UICONTROL Dettagli attività], imposta [!UICONTROL Vincolo attività] in “[!UICONTROL Deve finire al]”, quindi modifica la [!UICONTROL Data di completamento pianificata].
+* Modifica la [!UICONTROL Data di completamento pianificata] in linea nell’elenco delle attività.
 
-_Segnalato per la prima volta il 11 ottobre 2022._
+_Segnalato per la prima volta l’11 ottobre 2022._
 
