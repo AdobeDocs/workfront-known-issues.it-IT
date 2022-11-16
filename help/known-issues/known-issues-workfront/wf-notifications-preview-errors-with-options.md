@@ -3,9 +3,9 @@ title: '“Notifiche: errori durante l’accesso alle impostazioni delle notific
 description: “Quando un utente cerca di modificare le impostazioni delle notifiche e-mail, potrebbe visualizzare un errore.”
 hidefromtoc: true
 source-git-commit: 047fff767e0eb5e0eff72640ddeb7626276afb7c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -28,5 +28,5 @@ Ciò è stato segnalato nelle seguenti aree:
 * [!UICONTROL User] (Utente)> [!UICONTROL Edit user] (Modifica utente)
 * [!UICONTROL Gruppi]
 
-_Segnalato per la prima volta il martedì 2 agosto 2022._
+_Segnalato per la prima volta il 2 agosto 2022._
 
