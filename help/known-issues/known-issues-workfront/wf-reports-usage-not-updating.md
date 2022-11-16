@@ -3,9 +3,9 @@ title: '“Rapporti: le informazioni sull’utilizzo del rapporto non vengono ag
 description: “Quando un utente visualizza un rapporto, le informazioni relative all’Ultima visualizzazione, come Ultima data di visualizzazione e Ultima visualizzazione di, non vengono aggiornate. Ciò significa che qualsiasi informazione sull’utilizzo potrebbe essere errata.”
 hidefromtoc: true
 source-git-commit: 2d7514e1378880fa84acefdda4c06cb1794c5d42
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
