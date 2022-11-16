@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
 source-wordcount: '629'
-ht-degree: 83%
+ht-degree: 89%
 
 ---
 
@@ -26,8 +26,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | -----------------------------------------------------------------| ----------------- |
 | [Prove: [!UICONTROL Riepilogo stampa] non mostra la miniatura dell&#39;immagine](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 novembre 2022 |
 | [Integrazioni: [!UICONTROL Calendario Home] mostra gli eventi un&#39;ora più tardi [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 novembre 2022 |
-| [Agile: L&#39;attività ha un ordine di backlog Kanban pari a 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 novembre 2022 |
-| [Richieste: Messaggio &quot;Whoops&quot; durante la modifica della coda delle richieste](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 novembre 2022 |
+| [Agile: l’attività ha un ordine di backlog Kanban pari a 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | 7 novembre 2022 |
+| [Richieste: messaggio di errore quando si modifica la coda delle richieste](known-issues-workfront/wf-requests-error-message-when-editing-queue.md) | 2 novembre 2022 |
 | [Bozze: la generazione di bozze è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 ottobre 2022 |
 | [Richieste: [!UICONTROL Impostazioni coda e-mail] non disponibile](known-issues-workfront/wf-requests-email-queue-details-not-available.md) | 27 ottobre 2022 |
 | [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 ottobre 2022 |
@@ -46,7 +46,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Rapporti: Grafico a combinazione visualizza gli stessi dati due volte](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md) | 14 novembre 2022 |
 | [Prove: L’aggiunta di messaggi personalizzati causa un problema nel visualizzatore delle prove](known-issues-workfront/wf-proofs-cannot-add-custom-message.md) | 14 novembre 2022 |
 | [Modelli di layout: Nascondere un elemento nasconde l&#39;elemento non corretto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md) | 10 novembre 2022 |
-| [Elenchi: Gli errori di modifica in linea per utente non causano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
+| [Elenchi: gli errori di modifica in linea da parte dell’utente non generano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md) | 4 novembre 2022 |
 | [Richieste: impossibile visualizzare più di 100 argomenti della coda in una pagina](known-issues-workfront/wf-requests-cannot-see-more-than-100-queue-topics.md) | 4 novembre 2022 |
 | [Progetti: problemi di prestazioni e messaggio di errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 27 ottobre 2022 |
 | [Documenti: il collegamento per la richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md) | 20 ottobre 2022 |

@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: ffd3cb1f7e355af7fd568a33c7ca205031633276
 workflow-type: tm+mt
 source-wordcount: '15307'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di
 
 ## Aggiornamenti di novembre 2022
 
-+++**Aggiornamento della manutenzione (pianificato) il 17 novembre 2022**
++++**(Pianificato) Aggiornamento di manutenzione del 17 novembre 2022**
 
 **Nascondere un elemento nasconde l&#39;elemento non corretto**
 
@@ -48,21 +48,21 @@ Quando un utente cambia se un elemento è nascosto o visualizzato, tali modifich
 
 *Attività*
 
-Quando un utente modifica in blocco qualsiasi campo per un insieme di attività, le assegnazioni della prima attività vengono applicate a tutte le attività. In questo modo vengono eliminate le assegnazioni precedenti.
+Quando un utente modifica in blocco un campo di un set di attività, le assegnazioni della prima attività vengono applicate a tutte le attività. Questo elimina le assegnazioni precedenti.
 
 **Impossibile aprire una bozza interattiva**
 
 *Bozza Workfront*
 
-Quando un utente tenta di aprire una bozza interattiva, la bozza non viene aperta e l’utente visualizza il seguente messaggio:
+Quando un utente cerca di aprire una bozza interattiva, la bozza non si apre e viene visualizzato il seguente errore:
 
-&quot;[!UICONTROL Prova non caricata (501) Riprova]&quot;
+“[!UICONTROL Bozza non caricata (501) Riprova]”
 
 +++
 
-+++**Aggiornamento di manutenzione (Hotfix) il 4 novembre 2022**
++++**Aggiornamento di manutenzione (aggiornamento rapido) del 4 novembre 2022**
 
-**problemi relativi alle attività aggiunte a un’iterazione**
+**Problemi relativi alle attività aggiunte a un’iterazione**
 
 *Agile*
 
@@ -73,7 +73,7 @@ Sono stati segnalati i seguenti problemi relativi ad attività aggiunte a un’i
 
    “[!UICONTROL Si è verificato il seguente errore: impossibile spostare gli elementi selezionati perché non sono assegnati a un Team Agile o non sono elementi Agile]”
 
-**le attività assegnate tramite la modifica in blocco non vengono visualizzate nel backlog del team**
+**Le attività assegnate tramite la modifica in blocco non vengono visualizzate nel backlog del team**
 
 *Agile*
 
@@ -81,13 +81,13 @@ Quando un utente assegna attività a un team Scrum utilizzando la modifica in bl
 
 I team Kanban non sono interessati da questo problema.
 
-**&quot;[!UICONTROL Nuovi destinatari della bozza]&quot; casella di testo troppo piccola**
+**La casella di testo “[!UICONTROL Destinatari nuova bozza]” è troppo piccola**
 
 *Bozze*
 
-Quando un utente visualizza una bozza e tenta di condividerla dalla scheda [!UICONTROL Condivisione], la casella di testo “[!UICONTROL Destinatari nuova bozza]” è molto piccola. L’utente può digitare un nome, ma date le dimensioni ridotte della casella, il testo viene disposto in modo da rendere difficile lettura.”
+Quando un utente visualizza una bozza e tenta di condividerla dalla scheda [!UICONTROL Condivisione], la casella di testo “[!UICONTROL Destinatari nuova bozza]” è molto piccola. L’utente può digitare un nome, ma date le dimensioni ridotte della casella, il testo viene disposto in modo da rendere difficile lettura.
 
-**Le informazioni sull&#39;utilizzo del rapporto non vengono aggiornate**
+**Le informazioni sull’utilizzo del report non vengono aggiornate**
 
 *Report*
 
@@ -102,44 +102,44 @@ Questo comportamento è stato segnalato quando l’utente accede al rapporto nei
 
 L’accesso ai rapporti tramite una dashboard aggiorna le informazioni Ultima visualizzazione.
 
-**[!DNL Workfront]: Errore 500 quando si apportano modifiche a un [!DNL Workfront] oggetto**
+**[!DNL Workfront]: errore 500 quando si apportano modifiche a un oggetto [!DNL Workfront]**
 
 *[!DNL Workfront]*
 
-Quando un utente tenta di apportare modifiche a un [!DNL Workfront] oggetto , le modifiche non vengono salvate e l&#39;utente visualizza il seguente errore:
+Quando un utente cerca di apportare modifiche a un oggetto [!DNL Workfront], le modifiche non vengono salvate e viene visualizzato il seguente errore:
 
-&quot;[!UICONTROL 500: Errore del database a causa di un&#39;istruzione SQL non valida.]&quot;
+“[!UICONTROL 500: Errore database a causa di dichiarazione SQL non valida.]”
 
-Questo è stato riportato nelle seguenti situazioni:
+Questo problema è stato segnalato nelle seguenti situazioni:
 
 * Modifica dello stato di un oggetto
 * Ricalcolo delle timeline
-* Collegamento di un modello
-* Tempo di registrazione
+* Allegamento di un modello
+* Registrazione dell’ora
 
 +++
 
 +++**[!DNL Workfront Fusion]Aggiornamento di manutenzione del 3 novembre 2022**
 
-**Errore relativo a [!UICONTROL apiKey] in [!DNL Workfront] > [!UICONTROL Eventi di controllo] modulo**
+**Errore relativo a [!UICONTROL apiKey] nel modulo [!DNL Workfront] > [!UICONTROL Osserva eventi]**
 
 *[!DNL Workfront Fusion]*
 
-Quando un utente tenta di aggiungere un webhook nel [!DNL Workfront] > [!UICONTROL Eventi di controllo] modulo, ricevono il seguente errore:
+Quando un utente tenta di aggiungere un webhook nel modulo [!DNL Workfront] > [!UICONTROL Osserva eventi], riceve il seguente errore:
 
-&quot;[!UICONTROL L&#39;apiKey fornita è vuota o ritenuta non valida.]&quot;
+“[!UICONTROL La chiave apiKey fornita è vuota o ritenuta non valida.]”
 
 +++
 
 +++**Aggiornamento di manutenzione del 3 novembre 2022**
 
-**Rinominare le sezioni &quot;Pianificazione&quot; e &quot;Pianificazione&quot; per team e progetti nel modello di layout**
+**Ridenominazione delle sezioni “Pianifica” e “Pianificazione” per team e progetti nel modello di layout**
 
 *Modelli di layout*
 
-Le schede &quot;Pianificazione&quot; e &quot;Pianificazione&quot; disponibili per aggiungere un modello di layout al pannello di sinistra di un team o di un progetto sono state rinominate &quot;Workbench carico di lavoro&quot;.
+Le schede “Pianifica” e ”Pianificazione” da aggiungere a un modello di layout nel pannello di sinistra di un team o di un progetto sono state rinominate “Bilanciatore dei carichi di lavoro”.
 
-**Errori durante l&#39;accesso alle impostazioni di notifica e-mail**
+**Errori durante l’accesso alle impostazioni di notifica e-mail**
 
 *Notifiche*
 
@@ -1620,7 +1620,7 @@ Quando un utente cerca di aggiungere un modulo personalizzato con più oggetti a
 
 Quando un utente cerca di assegnare un altro utente a un’attività nel [!UICONTROL Bilanciatore dei carichi di lavoro] assegnata a una mansione diversa dalla mansione principale dell’utente, l’utente viene assegnato all’attività in base alla sua mansione principale e viene visualizzato il seguente messaggio:
 
-“&lt;Name> non corrisponde al ruolo di &lt;Task role assignment>. 1 elemento di lavoro attualmente assegnato al ruolo di &lt;\Task role assignment> sarà assegnato a &lt;Name> nel ruolo di &lt;Primary job role>.”
+“&lt;Name> non corrisponde al ruolo di &lt;Task role assignment>. 1 elemento di lavoro attualmente assegnato al ruolo di &lt;Task role assignment> sarà assegnato a &lt;Name> nel ruolo di &lt;Primary job role>.”
 
 Ciò si verifica anche se il ruolo dell’assegnazione della mansione è secondario per l’utente.
 

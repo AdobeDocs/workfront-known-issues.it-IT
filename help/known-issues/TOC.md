@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per [!DNL Adobe Workfront]
 source-git-commit: 6fb8c92089c56f00825ab27f6c92ed9335380a4f
 workflow-type: tm+mt
 source-wordcount: '1666'
-ht-degree: 91%
+ht-degree: 95%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 91%
       + [Prove: Riepilogo di stampa non mostra la miniatura dell&#39;immagine](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + [Integrazioni: [!UICONTROL Calendario Home] mostra gli eventi un&#39;ora più tardi [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Modelli di layout: Nascondere un elemento nasconde l&#39;elemento non corretto](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
-      + [Attività: La modifica collettiva delle attività modifica le assegnazioni delle attività](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
-      + [Agile: L&#39;attività ha un ordine di backlog Kanban pari a 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
-      + [Attività: Impossibile modificare [!UICONTROL Data completamento pianificata] di un compito](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
-      + [Workfront: Errore 500 quando si apportano modifiche a un oggetto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
-      + [Richieste: Messaggio &quot;Whoops&quot; durante la modifica della coda delle richieste](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
-      + [Elenchi: Gli errori di modifica in linea per utente non causano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md)
-      + [Ricerca: La ricerca è estremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
-      + [[!DNL Workfront Fusion]: 404 errori su [!DNL Workfront] moduli](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+      + [Attività: la modifica in blocco delle attività cambia le assegnazioni delle attività](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
+      + [Agile: l’attività ha un ordine di backlog Kanban pari a 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
+      + [Attività: impossibile modificare la [!UICONTROL Data di completamento pianificata] di un’attività](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
+      + [Workfront: errore 500 quando si apportano modifiche a un oggetto Workfront](known-issues-workfront/wf-500-error-when-making-changes.md)
+      + [Richieste: messaggio di errore quando si modifica la coda delle richieste](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
+      + [Elenchi: gli errori di modifica in linea da parte dell’utente non generano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md)
+      + [Ricerca: la ricerca è estremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
+      + [[!DNL Workfront Fusion]: errori 404 nei moduli  [!DNL Workfront] ](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API: impossibile ordinare per campi dinamici](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Bozze: la generazione di bozze è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Progetti: problemi di prestazioni e messaggio di errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
@@ -160,7 +160,7 @@ ht-degree: 91%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: Impossibile aprire una bozza interattiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
+      + [[!DNL Workfront Proof]: impossibile aprire una bozza interattiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
@@ -195,12 +195,12 @@ ht-degree: 91%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Elementi array in [!UICONTROL Iteratore] il modulo viene visualizzato come &quot;[!UICONTROL oggetto]&quot;](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
+      + [[!DNL Workfront Fusion]: gli elementi array nel modulo [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: errore 409 nello scenario  [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: errore “[!UICONTROL Impossibile caricare i dati]”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
       + [Il modulo [!DNL Workfront Fusion]:  [!DNL Workfront]  > [!UICONTROL Chiamata API personalizzata] che restituisce errori 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
-      + [Il modulo [!DNL Workfront Fusion]:  [!DNL Adobe PDF Services]  > [!UICONTROL Estrai testo] non produce alcun testo](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
+      + [[!DNL Workfront Fusion]: Il modulo  [!DNL Adobe PDF Services]  > [!UICONTROL Estrai testo] non produce alcun testo](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: errore “Impossibile verificare la connessione”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: il modulo non si carica durante la creazione o la modifica di uno scenario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: il modulo di  [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
