@@ -1,24 +1,24 @@
 ---
-title: "Richieste: Messaggio Whops durante la modifica della coda delle richieste"
-description: "Quando un utente modifica una coda di richiesta e tenta di salvare le modifiche, visualizza un errore."
+title: '“Richieste: messaggio di errore quando si modifica la coda delle richieste”'
+description: “Quando un utente modifica una coda di richieste e tenta di salvare le modifiche, viene visualizzato un errore.”
 hidefromtoc: true
 source-git-commit: d2d2ae6585d64cfc68d90c17f72d5ce47f7168ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# Richieste: Messaggio &quot;Whoops&quot; durante la modifica della coda delle richieste
+# Richieste: messaggio di errore quando si modifica la coda delle richieste
 
-Quando un utente modifica una coda di richiesta e tenta di salvare le modifiche, viene visualizzato il seguente errore:
+Quando un utente modifica una coda di richieste e tenta di salvare le modifiche, viene visualizzato il seguente errore:
 
-”Riproviamo. Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.”
+“Riproviamo. Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.”
 
-Inoltre, l’utente visualizza il seguente messaggio nella parte inferiore della pagina, vicino al pulsante Salva :
+Inoltre, viene visualizzato il seguente messaggio nella parte inferiore della pagina, vicino al pulsante Salva:
 
-&quot;Impossibile accedere al servizio e-mail della coda richieste. Contattare Workfront.&quot;
+“Impossibile accedere al servizio e-mail della coda richieste. Contatta Workfront.”
 
 Le modifiche alla coda delle richieste vengono salvate nonostante il messaggio di errore.
 
