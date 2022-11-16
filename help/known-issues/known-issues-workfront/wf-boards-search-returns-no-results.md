@@ -1,12 +1,12 @@
 ---
-title: 'Bacheche: la ricerca nella colonna Acquisizione non è efficace '
-description: '"Quando un utente tenta di cercare la colonna Intake di una bacheca, non vi sono modifiche negli elementi visualizzati in quella colonna. '''
+title: '“Bacheche: la ricerca nella colonna Acquisizione non è efficace”'
+description: “Quando un utente tenta di cercare nella colonna Acquisizione di una bacheca, non cambia nulla negli elementi visualizzati in tale colonna. ”
 hidefromtoc: true
 exl-id: d5c6470d-59ed-4fb6-9cc8-a8445abb2e67
 source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
