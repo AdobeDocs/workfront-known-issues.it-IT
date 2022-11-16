@@ -1,12 +1,12 @@
 ---
-title: 'Moduli personalizzati: la funzione ORA nei campi calcolati utilizza valori UTC'
+title: '“Moduli personalizzati: la funzione ORA nei campi calcolati utilizza valori UTC”'
 description: Quando un campo calcolato include la funzione ORA, questa restituisce valori basati su UTC anziché sul fuso orario previsto. Pertanto, eventuali calcoli basati sul valore ORA risultano errati.
 hidefromtoc: true
 exl-id: f4f9fb6e-6226-4603-9518-4c935a644039
 source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
