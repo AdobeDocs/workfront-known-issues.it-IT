@@ -1,18 +1,17 @@
 ---
-title: "Workfront Fusion: Gli elementi array nel modulo Iterator vengono visualizzati come oggetto Object"
-description: "Quando un utente visualizza un modulo Iterator, gli elementi dell'array vengono visualizzati come oggetto Object. Questo può verificarsi anche quando gli elementi array vengono visualizzati correttamente quando visualizzati in precedenza."
+title: '“Workfront Fusion: gli elementi array nel modulo Iterator vengono visualizzati come oggetto”'
+description: Quando un utente visualizza un modulo Iterator, gli elementi dell’array vengono visualizzati come oggetti Oggetto. Questo problema può verificarsi anche se gli elementi dell’array venivano visualizzati correttamente in precedenza.
 hidefromtoc: true
-source-git-commit: e7bfb61054250c1eaf92c15f07316b37cc50a01a
-workflow-type: tm+mt
+exl-id: 94cab740-6e04-41a6-85c7-d7755b6bae7e
+source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Fusion]: gli elementi array nel modulo [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto]”
 
-# [!DNL Workfront Fusion]: Elementi array in [!UICONTROL Iteratore] il modulo viene visualizzato come &quot;[!UICONTROL oggetto]&quot;
-
-Quando un utente visualizza un [!UICONTROL Iteratore] modulo, gli elementi dell&#39;array vengono visualizzati come &quot;[!UICONTROL oggetto].&quot; Ciò può verificarsi anche quando gli elementi dell’array vengono visualizzati correttamente quando vengono visualizzati in precedenza.
+Quando un utente visualizza un modulo [!UICONTROL Iterator], gli elementi dell’array vengono visualizzati come “[!UICONTROL oggetti Oggetto]”. Questo problema può verificarsi anche se gli elementi dell’array venivano visualizzati correttamente in precedenza.
 
 _Segnalato per la prima volta il 13 ottobre 2022._
-
