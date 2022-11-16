@@ -3,7 +3,7 @@ title: '“Notifiche: gli utenti non ricevono notifiche e-mail o in-app quando v
 description: “Quando un utente viene menzionato o incluso in un commento o in un aggiornamento del flusso di aggiornamento di un oggetto, potrebbe non ricevere l’e-mail o la notifica in-app del commento.”
 hidefromtoc: true
 source-git-commit: 8a0bd10d95cda709d9d934ef1458bb07fc2f335d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
 ht-degree: 100%
 
