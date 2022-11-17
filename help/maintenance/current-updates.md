@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
 workflow-type: tm+mt
-source-wordcount: '15306'
+source-wordcount: '15397'
 ht-degree: 99%
 
 ---
@@ -32,6 +32,12 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di
 ## Aggiornamenti di novembre 2022
 
 +++**Aggiornamento di manutenzione del 17 novembre 2022**
+
+**Documenti inseriti nel [!UICONTROL Cestino] se questa opzione è deselezionata durante lo spostamento di un’attività o di un problema**
+
+*Documenti*
+
+Ora, quando deselezioni la [!UICONTROL Documenti] durante il processo di spostamento di un&#39;attività o di un problema, i documenti allegati all&#39;attività o il problema verranno inseriti nel [!UICONTROL Cestino] per 30 giorni. Se necessario, un amministratore può ripristinarli. L&#39;utente che deseleziona i documenti nel processo in movimento riceverà un avviso su questo comportamento nel [!UICONTROL Sposta attività] o [!UICONTROL Problema di spostamento] scatola. Prima di questo miglioramento, i documenti venivano eliminati definitivamente.
 
 **Nascondere un elemento nasconde l&#39;elemento non corretto**
 
