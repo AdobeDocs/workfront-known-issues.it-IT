@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4934cd2daca87cbc3b1df7914a0e38969e22e061
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 88%
+source-wordcount: '646'
+ht-degree: 86%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Prove: Le bozze vengono visualizzate nel visualizzatore delle prove in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 | [Moduli personalizzati: &quot;[!UICONTROL Accesso insufficiente]&quot; errore durante la modifica del modulo personalizzato](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 16 novembre 2022 |
 | [Prove: [!UICONTROL Riepilogo stampa] non mostra la miniatura dell&#39;immagine](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md) | 14 novembre 2022 |
 | [Integrazioni: [!UICONTROL Calendario Home] mostra gli eventi un&#39;ora più tardi [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md) | 11 novembre 2022 |

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 67b9557b2284ee1089d5e5ecb8ba246cd5363ad8
+source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1691'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Prove: Le bozze vengono visualizzate nel visualizzatore delle prove in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Moduli personalizzati: &quot;[!UICONTROL Accesso insufficiente]&quot; errore durante la modifica del modulo personalizzato](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Moduli personalizzati: &quot;[!UICONTROL Espressione personalizzata non valida]&quot; messaggio quando si fa riferimento a &quot;[!UICONTROL proprietario]&quot; in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Rapporti: Errore &quot;Whoops&quot; quando si aggiunge un nuovo problema a un report di un problema](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
