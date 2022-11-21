@@ -1,22 +1,26 @@
 ---
-title: "Navigazione: Impossibile fissare gli oggetti"
-description: "Quando un utente tenta di fissare un oggetto in Workfront, l’oggetto non viene bloccato e l’utente visualizza il seguente messaggio: Si è verificato un errore durante il pinning. Contatta Workfront per risolvere il problema."
+title: '“Navigazione: impossibile fissare gli oggetti”'
+description: '“Quando un utente tenta di fissare un oggetto in Workfront, l’oggetto non viene fissato e l’utente visualizza il seguente messaggio: Si è verificato un errore durante l’operazione di fissaggio. Contatta Workfront per risolvere il problema”.'
 hidefromtoc: true
-source-git-commit: 323f4e42b6b0093858542ada3812f9a630bd3a5f
+source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 16%
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 
 
-# Navigazione: Impossibile fissare gli oggetti
+# Navigazione: impossibile fissare gli oggetti
 
-Quando un utente tenta di fissare un oggetto in [!DNL Workfront], l’oggetto non è bloccato e l’utente visualizza il seguente messaggio:
+>[!NOTE]
+>
+>Questo problema è stato risolto il 16 novembre 2022.
+
+Quando un utente tenta di fissare un oggetto in [!DNL Workfront], l’oggetto non viene fissato e l’utente visualizza il seguente messaggio:
 
 “[!UICONTROL Si è verificato un errore durante l’operazione di fissaggio. Contatta [!DNL Workfront] per risolvere il problema]”.
 
-Questo può verificarsi quando si centra un oggetto anche se l’utente può fissare correttamente gli elenchi.
+Questo può verificarsi quando si fissa un oggetto anche se l’utente è in grado fissare correttamente gli elenchi.
 
 _Segnalato per la prima volta il venerdì 28 settembre 2022._
 
