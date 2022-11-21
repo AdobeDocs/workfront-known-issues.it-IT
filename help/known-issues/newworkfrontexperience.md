@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 86%
+source-wordcount: '660'
+ht-degree: 85%
 
 ---
 
@@ -66,6 +66,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Moduli personalizzati: I moduli personalizzati multioggetto richiedono [!UICONTROL Gestisci] o [!UICONTROL Modifica] accesso alla modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 novembre 2022 |
 | [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 novembre 2022 |
 | [API: impossibile ordinare per campi dinamici](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 ottobre 2022 |
 | [[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 ottobre 2022 |

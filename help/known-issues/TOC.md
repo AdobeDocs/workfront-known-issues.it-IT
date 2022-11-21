@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: c46af0adbbb427a8acc7ba0833f7332f3455f9d3
+source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
 workflow-type: tm+mt
-source-wordcount: '1691'
-ht-degree: 94%
+source-wordcount: '1704'
+ht-degree: 93%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Moduli personalizzati: I moduli personalizzati multioggetto richiedono [!UICONTROL Gestisci] o [!UICONTROL Modifica] accesso alla modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
       + [Prove: Le bozze vengono visualizzate nel visualizzatore delle prove in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md)
       + [Moduli personalizzati: &quot;[!UICONTROL Accesso insufficiente]&quot; errore durante la modifica del modulo personalizzato](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Moduli personalizzati: &quot;[!UICONTROL Espressione personalizzata non valida]&quot; messaggio quando si fa riferimento a &quot;[!UICONTROL proprietario]&quot; in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
