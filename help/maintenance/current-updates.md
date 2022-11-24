@@ -39,18 +39,18 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di
 
 Ora, quando deselezioni la [!UICONTROL Documenti] durante il processo di spostamento di un&#39;attività o di un problema, i documenti allegati all&#39;attività o il problema verranno inseriti nel [!UICONTROL Cestino] per 30 giorni. Se necessario, un amministratore può ripristinarli. L&#39;utente che deseleziona i documenti nel processo in movimento riceverà un avviso su questo comportamento nel [!UICONTROL Sposta attività] o [!UICONTROL Problema di spostamento] scatola. Prima di questo miglioramento, i documenti venivano eliminati definitivamente.
 
-**Nascondere un elemento nasconde l&#39;elemento non corretto**
+**Quando si nasconde un elemento, viene nascosto l’elemento sbagliato**
 
 *Modelli di layout*
 
-Quando un utente cambia se un elemento è nascosto o visualizzato, tali modifiche vengono applicate a un elemento diverso nel modello di layout.
+Quando un utente cambia lo stato di un elemento da nascosto a visualizzato o viceversa, la modifica viene applicata a un elemento diverso nel modello di layout.
 
 
 +++
 
 +++**Aggiornamento di manutenzione del 10 novembre 2022**
 
-**La modifica collettiva delle attività modifica le assegnazioni delle attività**
+**La modifica in blocco delle attività cambia le assegnazioni delle attività**
 
 *Attività*
 
