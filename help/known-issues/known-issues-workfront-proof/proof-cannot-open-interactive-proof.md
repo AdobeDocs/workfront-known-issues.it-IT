@@ -3,7 +3,7 @@ title: '“Bozza di Workfront: impossibile aprire una bozza interattiva”'
 description: “Quando un utente cerca di aprire una bozza interattiva, la bozza non si apre e viene visualizzato un messaggio di errore.”
 hidefromtoc: true
 source-git-commit: ef589b0430dcc32edde3348960fe3116c863d25e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 
