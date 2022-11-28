@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 91%
+source-wordcount: '663'
+ht-degree: 88%
 
 ---
 
@@ -39,6 +39,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni: Impossibile accedere agli elementi di [!DNL Workfront for Jira] integrazione](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md) | venerdì 28 novembre 2022 |
+| [Moduli personalizzati: Impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | venerdì 28 novembre 2022 |
 | [Fogli orari: Utenti disattivati disponibili quando si seleziona l&#39;approvatore della scheda attività](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | venerdì 23 novembre 2022 |
 | [Moduli personalizzati: &quot;[!UICONTROL Accesso insufficiente]&quot; errore durante la modifica del modulo personalizzato](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | venerdì 21 novembre 2022 |
 | [Agile: l’attività ha un ordine di backlog Kanban pari a 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md) | venerdì 21 novembre 2022 |

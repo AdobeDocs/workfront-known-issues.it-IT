@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 94ab02425f64dc53dc62fe32df5fe72b8563b005
+source-git-commit: f37010ce4fbe9bbbde8f54ae10b511e35fdbe1ac
 workflow-type: tm+mt
-source-wordcount: '1721'
-ht-degree: 96%
+source-wordcount: '1746'
+ht-degree: 95%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrazioni: Impossibile accedere agli elementi di [!DNL Workfront for Jira] integrazione](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [Moduli personalizzati: Impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Agile: Errore durante lo spostamento di elementi di lavoro in un&#39;iterazione](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [Fogli orari: Utenti disattivati disponibili quando si seleziona l&#39;approvatore della scheda attività](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Moduli personalizzati: I moduli personalizzati multioggetto richiedono [!UICONTROL Gestisci] o [!UICONTROL Modifica] accesso alla modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -200,6 +202,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: Impossibile creare la connessione a [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: gli elementi array nel modulo [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: errore 409 nello scenario  [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
