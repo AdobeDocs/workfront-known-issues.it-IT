@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: fdf641bd38d05d6b8abac133daa3118d2c0fff3a
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '15397'
-ht-degree: 99%
+source-wordcount: '15666'
+ht-degree: 98%
 
 ---
 
@@ -28,6 +28,56 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2022.
 -->
 
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
+
+## Aggiornamenti di dicembre 2022
+
++++**Aggiornamento della manutenzione (pianificato) il 1° dicembre 2022**
+
+**l’attività ha un ordine di backlog Kanban pari a 0**
+
+*Agile*
+
+Quando un utente visualizza il backlog di un team Kanban, una o più attività presentano un ordine di backlog pari a 0.
+
+**&quot;[!UICONTROL Espressione personalizzata non valida]&quot; messaggio quando si fa riferimento a &quot;[!UICONTROL proprietario]&quot; in un campo calcolato**
+
+*Moduli personalizzati*
+
+Quando un utente aggiunge un campo calcolato a un modulo personalizzato a livello di problema e tenta di aggiungere qualunque riferimento a un “[!UICONTROL proprietario]” (ad esempio, `ownerID`), il campo non viene salvato e l’utente visualizza il seguente messaggio:
+
+“[!UICONTROL Questa è un’espressione personalizzata non valida. Riprovare.]”
+
+Ciò si verifica anche quando l’espressione è valida.
+
+**Impossibile accedere agli elementi di [!DNL Workfront for Jira] integrazione**
+
+*Integrazioni*
+
+Al momento non è possibile accedere ai seguenti elementi nel [!DNL Workfront for Jira] integrazione per [!DNL Jira Cloud]:
+
+* La [!UICONTROL Configurazione] page
+* &quot;[!UICONTROL Apri Workfront]&quot; pulsante su un [!DNL Jira] problema
+
+**L’aggiunta di messaggi personalizzati causa un problema nel visualizzatore delle prove**
+
+*Bozze*
+
+Quando un utente condivide una bozza e tenta di aggiungere un messaggio personalizzato, si verifica quanto segue:
+
+* Il Visualizzatore bozze ingrandisce la bozza.
+* Le aree nella barra di navigazione a sinistra non sono più attive.
+
+**Utenti disattivati disponibili quando si seleziona l&#39;approvatore della scheda attività**
+
+*Schede orario*
+
+Quando un utente crea una scheda attività e tenta di assegnare un approvatore, l&#39;elenco a discesa include gli utenti disattivati. Se è selezionato un utente disattivato, la scheda attività non viene salvata e l&#39;utente visualizza il seguente messaggio:
+
+”[!UICONTROL Errore. Scusate! Solo gli utenti con licenza Plan possono approvare o rifiutare i fogli presenze. Contattare l&#39;amministratore di sistema.]&quot;
+
+Poiché l’utente disattivato non può essere assegnato, deve selezionare un utente attivato. La scheda attività funziona quindi come previsto, ma gli utenti disattivati nell&#39;elenco possono causare confusione o problemi all&#39;utente.
+
++++
 
 ## Aggiornamenti di novembre 2022
 

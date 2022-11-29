@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: bf8ea112ab3b45cc9aed93caec9a7b62dbbced75
+source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 87%
+source-wordcount: '678'
+ht-degree: 86%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Pagina principale]: Impossibile rimuovere un&#39;assegnazione di un problema in [!UICONTROL Pagina principale]](known-issues-workfront/wf-home-cannot-remove-assignment.md) | venerdì 29 novembre 2022 |
 | [Fogli orari: Scheda attività non generata](known-issues-workfront/wf-timesheets-timesheet-not-generated.md) | venerdì 28 novembre 2022 |
 | [Agile: Errore durante lo spostamento di elementi di lavoro in un&#39;iterazione](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md) | venerdì 23 novembre 2022 |
 | [Prove: Le bozze vengono visualizzate nel visualizzatore delle prove in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md) | venerdì 18 novembre 2022 |
