@@ -2,15 +2,19 @@
 title: "Fogli orari: Utenti disattivati disponibili quando si seleziona l'approvatore della scheda attività"
 description: "Quando un utente crea una scheda attività e tenta di assegnare un approvatore, l'elenco a discesa include gli utenti disattivati. Se è selezionato un utente disattivato, la scheda attività non viene salvata e l'utente visualizza un messaggio di errore."
 hidefromtoc: true
-source-git-commit: f37c5514fa93915589c8af9bf5a4b678446a8078
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '152'
+ht-degree: 3%
 
 ---
 
 
 # Fogli orari: Utenti disattivati disponibili quando si seleziona l&#39;approvatore della scheda attività
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 1° dicembre 2022.
 
 Quando un utente crea una scheda attività e tenta di assegnare un approvatore, l&#39;elenco a discesa include gli utenti disattivati. Se è selezionato un utente disattivato, la scheda attività non viene salvata e l&#39;utente visualizza il seguente messaggio:
 

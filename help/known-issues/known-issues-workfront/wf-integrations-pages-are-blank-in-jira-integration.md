@@ -2,15 +2,19 @@
 title: "Integrazioni: Impossibile accedere agli elementi di Workfront per l'integrazione Jira"
 description: "Al momento non è possibile accedere ad alcuni elementi in Workfront per l’integrazione Jira per Jira Cloud."
 hidefromtoc: true
-source-git-commit: 7d50ddbd99edf3421ce92564590a2d8db76ae939
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 7%
+source-wordcount: '61'
+ht-degree: 6%
 
 ---
 
 
 # Integrazioni: Impossibile accedere agli elementi di [!DNL Workfront for Jira] integrazione
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 1° dicembre 2022.
 
 Al momento non è possibile accedere ai seguenti elementi nel [!DNL Workfront for Jira] integrazione per [!DNL Jira Cloud]:
 

@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
 workflow-type: tm+mt
-source-wordcount: '15666'
+source-wordcount: '15702'
 ht-degree: 98%
 
 ---
@@ -31,7 +31,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di
 
 ## Aggiornamenti di dicembre 2022
 
-+++**Aggiornamento della manutenzione (pianificato) il 1° dicembre 2022**
++++**Aggiornamento di manutenzione del 1 dicembre 2022**
 
 **l’attività ha un ordine di backlog Kanban pari a 0**
 
@@ -76,6 +76,12 @@ Quando un utente crea una scheda attività e tenta di assegnare un approvatore, 
 ”[!UICONTROL Errore. Scusate! Solo gli utenti con licenza Plan possono approvare o rifiutare i fogli presenze. Contattare l&#39;amministratore di sistema.]&quot;
 
 Poiché l’utente disattivato non può essere assegnato, deve selezionare un utente attivato. La scheda attività funziona quindi come previsto, ma gli utenti disattivati nell&#39;elenco possono causare confusione o problemi all&#39;utente.
+
+**Scheda attività non generata**
+
+*Schede orario*
+
+I fogli presenze non vengono generati nonostante le impostazioni del profilo della scheda attività. Poiché la scheda attività non viene mai generata, l&#39;utente non può immettere l&#39;ora e non è visibile negli elenchi.
 
 +++
 

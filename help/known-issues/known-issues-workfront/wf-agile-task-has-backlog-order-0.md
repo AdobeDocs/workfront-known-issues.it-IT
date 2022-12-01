@@ -3,14 +3,18 @@ title: '“Agile: l’attività ha un ordine di backlog Kanban pari a 0”'
 description: Quando un utente visualizza il backlog di un team Kanban, una o più attività presentano un ordine di backlog pari a 0.
 hidefromtoc: true
 exl-id: 5bc183e2-15c1-4ff4-9f88-05df873a7926
-source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 90%
 
 ---
 
 # Agile: l’attività ha un ordine di backlog Kanban pari a 0
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 1° dicembre 2022.
 
 Quando un utente visualizza il backlog di un team Kanban, una o più attività presentano un ordine di backlog pari a 0.
 
