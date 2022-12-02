@@ -3,7 +3,7 @@ title: '“Bozze: [!UICONTROL Riepilogo stampa] non mostra la miniatura dell’i
 description: “Quando un utente visualizza la pagina [!UICONTROL Riepilogo stampa] di una bozza in [!DNL Workfront], la miniatura della bozza non viene visualizzata. Viene invece visualizzata una semplice immagine segnaposto.”
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato chiuso perché il sistema funziona come previsto. 
+>Questo problema è stato chiuso perché il sistema funziona come previsto.
 
 Quando un utente visualizza la pagina [!UICONTROL Riepilogo stampa] di una bozza in [!DNL Workfront], la miniatura della bozza non viene visualizzata. Viene invece visualizzata una semplice immagine segnaposto.
 
