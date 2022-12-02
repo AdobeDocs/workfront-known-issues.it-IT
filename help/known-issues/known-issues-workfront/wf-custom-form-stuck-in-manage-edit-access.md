@@ -1,29 +1,28 @@
 ---
-title: "Moduli personalizzati: Per modificare i campi, i moduli personalizzati con più oggetti richiedono l’accesso a Gestione o Modifica"
-description: "Quando un utente crea un modulo con oggetti incrociati che consentono solo l’accesso a Gestione o Modifica e quindi lo rimuove, il modulo personalizzato continua a richiedere l’accesso a Gestisci o Modifica per modificare i campi. Non esiste alcuna indicazione visiva che i campi richiedano l’accesso a Gestione o Modifica e non è possibile reimpostare il modulo."
+title: '“Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso Gestisci o Modifica per la modifica dei campi”'
+description: Quando un utente crea un modulo con più oggetti che consentono solo l’accesso Gestisci o Modifica e in seguito rimuove quel tipo di oggetto, il modulo personalizzato continua a richiedere l’accesso Gestisci o Modifica per la modifica dei campi. Non esiste alcuna indicazione visiva che i campi richiedano l’accesso Gestione o Modifica e non è possibile reimpostare il modulo in alcun modo.
 hidefromtoc: true
-source-git-commit: be498327ea7bb2a49be0fc65e53806ddb217aa8c
-workflow-type: tm+mt
+exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
+source-git-commit: d8285b98fc4cabf099994de64c466e829061611c
+workflow-type: ht
 source-wordcount: '184'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-
-# Moduli personalizzati: I moduli personalizzati multioggetto richiedono [!UICONTROL Gestisci] o [!UICONTROL Modifica] accesso alla modifica dei campi
+# Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi
 
 >[!NOTE]
 >
 >Questo problema è stato chiuso
 
-Quando un utente crea un modulo con oggetti incrociati che consentono solo [!UICONTROL Gestisci] o [!UICONTROL Modifica] accedere e quindi rimuovere tale tipo di oggetto, il modulo personalizzato continua a richiedere [!UICONTROL Gestisci] o [!UICONTROL Modifica] accedere per modificare i campi. Non esiste alcuna indicazione visiva che i campi richiedano l’accesso a Gestione o Modifica e che non è possibile reimpostare il modulo.
+Quando un utente crea un modulo con più oggetti che consentono solo l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] e in seguito rimuove quel tipo di oggetto, il modulo personalizzato continua a richiedere l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi. Non esiste alcuna indicazione visiva che i campi richiedano l’accesso Gestione o Modifica e non è possibile reimpostare il modulo in alcun modo.
 
 **Soluzione alternativa**
 
-1. Aggiungi al modulo un’interruzione di sezione con valori predefiniti, se viene compilata con.
+1. Aggiungere al modulo un’interruzione di sezione con valori predefiniti inseriti.
 2. Spostare l’interruzione di sezione nella parte superiore del modulo.
 3. Salvare il modulo.
-4. Rimuovere l’interruzione di sezione appena aggiunta e salvare nuovamente il modulo.
+4. Rimuovere l’interruzione di sezione appena aggiunta e salva nuovamente il modulo.
 
-_Segnalato per la prima volta il 9° novembre 2022._
-
+_Segnalato per la prima volta il 9 novembre 2022._
