@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per [!DNL Adobe Workfront]
 source-git-commit: 5fdf05bfe98beb6a51bbc679253898cb1f3f7841
 workflow-type: tm+mt
 source-wordcount: '1759'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 94%
       + [Fogli orari: Scheda attività non generata](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
       + [Integrazioni: Impossibile accedere agli elementi di [!DNL Workfront for Jira] integrazione](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [Moduli personalizzati: Impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
-      + [Agile: Errore durante lo spostamento di elementi di lavoro in un&#39;iterazione](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
-      + [Fogli orari: Utenti disattivati disponibili quando si seleziona l&#39;approvatore della scheda attività](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
-      + [Moduli personalizzati: I moduli personalizzati multioggetto richiedono [!UICONTROL Gestisci] o [!UICONTROL Modifica] accesso alla modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
-      + [Prove: Le bozze vengono visualizzate nel visualizzatore delle prove in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md)
-      + [Moduli personalizzati: &quot;[!UICONTROL Accesso insufficiente]&quot; errore durante la modifica del modulo personalizzato](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
+      + [Agile: errore durante lo spostamento di elementi di lavoro in un’iterazione](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
+      + [Schede orario: utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
+      + [Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
+      + [Bozze: le bozze vengono visualizzate nel Visualizzatore bozze in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md)
+      + [Moduli personalizzati: errore “[!UICONTROL Livello di accesso insufficiente]” quando si modifica un modulo personalizzato](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md)
       + [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md)
       + [Report: errore durante l’aggiunta di un nuovo problema a un report sui problemi](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md)
       + [Report: il grafico combinato visualizza gli stessi dati due volte](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
