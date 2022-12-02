@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
 workflow-type: tm+mt
-source-wordcount: '15702'
-ht-degree: 98%
+source-wordcount: '15901'
+ht-degree: 99%
 
 ---
 
@@ -30,6 +30,35 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2022.
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di dicembre 2022
+
++++**Aggiornamento di manutenzione (aggiornamento rapido) del 1 dicembre 2022**
+
+**Gli errori di modifica in linea per utente non causano messaggi di errore**
+
+*Elenchi*
+
+Quando un utente modifica in linea un oggetto e compie un errore che dovrebbe generare un messaggio di errore, non viene visualizzato alcun messaggio di errore. L’errore stesso non viene salvato in Workfront, pertanto i dati non vengono interessati, ma l’assenza di un messaggio di errore può causare confusione.
+
+Questo problema è stato segnalato nelle seguenti situazioni:
+
+* Predecessori: viene creato un ciclo predecessore, ad esempio con l’assegnazione di un’attività a se stessa
+* Date: viene impostata una data impossibile, ad esempio una data di completamento anteriore alla data di inizio o successiva alla data di completamento del progetto
+
+**Opzione &quot;Sposta a&quot; non disponibile nei report dei problemi**
+
+*Report*
+
+Quando un utente visualizza una relazione del problema e tenta di spostarlo, l’opzione “Copia in” non è disponibile nel menu Altro (a tre punti).
+
+
+**Non è possibile chiudere la scheda utente nel flusso di aggiornamento**
+
+*Aggiornamenti*
+
+Quando un utente visualizza gli aggiornamenti e passa il mouse su un nome, si apre una scheda con i dettagli dell’utente che non si chiude automaticamente. La pagina non risponde finché la scheda non viene chiusa manualmente facendo clic sulla X nell’angolo in alto a destra.
+
+
++++
 
 +++**Aggiornamento di manutenzione del 1 dicembre 2022**
 
@@ -71,11 +100,11 @@ Quando un utente condivide una bozza e tenta di aggiungere un messaggio personal
 
 *Schede orario*
 
-Quando un utente crea una scheda attività e tenta di assegnare un approvatore, l&#39;elenco a discesa include gli utenti disattivati. Se è selezionato un utente disattivato, la scheda attività non viene salvata e l&#39;utente visualizza il seguente messaggio:
+Quando un utente crea una scheda attività e tenta di assegnare un approvatore, l’elenco a discesa include gli utenti disattivati. Se viene selezionato un utente disattivato, la scheda orario non viene salvata e l’utente visualizza il seguente messaggio:
 
-”[!UICONTROL Errore. Scusate! Solo gli utenti con licenza Plan possono approvare o rifiutare i fogli presenze. Contattare l&#39;amministratore di sistema.]&quot;
+“[!UICONTROL Errore. Solo gli utenti con la licenza Plan possono approvare o rifiutare le schede orario. Contatta l’amministratore di sistema]”.
 
-Poiché l’utente disattivato non può essere assegnato, deve selezionare un utente attivato. La scheda attività funziona quindi come previsto, ma gli utenti disattivati nell&#39;elenco possono causare confusione o problemi all&#39;utente.
+Poiché l’utente disattivato non può essere assegnato, l’utente deve selezionare un utente attivato. La scheda orario funziona quindi come previsto, ma gli utenti disattivati nell’elenco possono creare confusione o problemi all’utente.
 
 **Scheda attività non generata**
 
@@ -89,11 +118,11 @@ I fogli presenze non vengono generati nonostante le impostazioni del profilo del
 
 +++**Aggiornamento di manutenzione del 17 novembre 2022**
 
-**Documenti inseriti nel [!UICONTROL Cestino] se questa opzione è deselezionata durante lo spostamento di un’attività o di un problema**
+**Documenti inseriti nel [!UICONTROL Cestino] se l’opzione è deselezionata durante lo spostamento di un’attività o di un problema**
 
 *Documenti*
 
-Ora, quando deselezioni la [!UICONTROL Documenti] durante il processo di spostamento di un&#39;attività o di un problema, i documenti allegati all&#39;attività o il problema verranno inseriti nel [!UICONTROL Cestino] per 30 giorni. Se necessario, un amministratore può ripristinarli. L&#39;utente che deseleziona i documenti nel processo in movimento riceverà un avviso su questo comportamento nel [!UICONTROL Sposta attività] o [!UICONTROL Problema di spostamento] scatola. Prima di questo miglioramento, i documenti venivano eliminati definitivamente.
+Adesso, quando deselezioni l’opzione [!UICONTROL Documenti] durante lo spostamento di un’attività o di un problema, i documenti allegati all’attività o al problema verranno inseriti nel [!UICONTROL Cestino] per 30 giorni. Possono essere ripristinati da un amministratore, se necessario. L’utente che deseleziona Documenti durante lo spostamento riceverà un avviso relativo a questo comportamento nella casella [!UICONTROL Move Task] (Sposta attività) o [!UICONTROL Move Issue] (Sposta problema). Prima di questo miglioramento, i documenti venivano eliminati definitivamente.
 
 **Quando si nasconde un elemento, viene nascosto l’elemento sbagliato**
 
@@ -352,7 +381,7 @@ Il tipo di blueprint “Dashboard” è stato aggiunto al catalogo dei blueprint
 
 **Elementi che si sovrappongono nel pannello a sinistra**
 
-*Moduli personalizzati nel mio gruppo*
+*Moduli personalizzati*
 
 Il messaggio di notifica relativo al limite dei campi, che viene visualizzato nel caso in cui un utente utilizzi il generatore di moduli con un modulo contenente più di 100 campi, causa la sovrapposizione degli elementi nel pannello sinistro.
 
@@ -455,7 +484,7 @@ Quando un utente visualizza gli aggiornamenti e passa il mouse su un nome, si ap
 
 Quando un utente cerca di registrare le ore per un’attività sulla propria scheda orario, le ore non vengono salvate automaticamente e l’utente visualizza il seguente errore:
 
-”[!UICONTROL Database error from concurrent edit on a locked row. Automatic retry failed. Try transaction later.]”
+“[!UICONTROL Database error from concurrent edit on a locked row. Automatic retry failed. Try transaction later.]”
 
 **Non è possibile chiudere la scheda utente nel flusso di aggiornamento**
 
@@ -685,7 +714,7 @@ Adesso, quando si aggiunge un nuovo campo a un’intestazione personalizzabile, 
 
 **Impossibile modificare i moduli personalizzati a causa di un limite di caratteri errato nei campi di testo descrittivo**
 
-*Moduli personalizzati nel mio gruppo*
+*Moduli personalizzati*
 
 Quando un utente tenta di modificare un modulo personalizzato con un campo [!UICONTROL Testo descrittivo] contenente più di 512 caratteri, non può salvare le modifiche all’interno di tale modulo e visualizza il messaggio di errore seguente:
 
@@ -695,25 +724,25 @@ Questo problema riguarda anche i campi [!UICONTROL Testo descrittivo] con più d
 
 **I dati nei campi nascosti da un’interruzione di sezione non vengono mantenuti quando si converte un problema in un progetto**
 
-*Moduli personalizzati nel mio gruppo*
+*Moduli personalizzati*
 
 Quando un utente converte un problema in un progetto e il problema include un modulo personalizzato con dati in un’interruzione di sezione che può essere nascosta utilizzando la logica di visualizzazione, i dati in tale sezione non vengono trasferiti al nuovo progetto.
 
 **I dati nei campi nascosti dall’interruzione di sezione non vengono conservati quando si converte una richiesta in un progetto**
 
-*Moduli personalizzati nel mio gruppo*
+*Moduli personalizzati*
 
 Quando un utente converte una richiesta in un progetto e la richiesta include un modulo personalizzato con dati in un’interruzione di sezione che può essere nascosta utilizzando la logica di visualizzazione, i dati in tale sezione non vengono trasferiti al nuovo progetto.
 
 **Impossibile modificare i moduli personalizzati a causa del campo Testo descrittivo**
 
-*Moduli personalizzati nel mio gruppo*
+*Moduli personalizzati*
 
 Quando un utente tenta di modificare un modulo personalizzato che include un campo Testo descrittivo, l’etichetta del campo non si popola. L’utente visualizza l’errore “[!UICONTROL Questo campo è obbligatorio]” nel campo etichetta e a causa di questo errore non può modificare il modulo personalizzato.
 
 **Impossibile rimuovere istruzioni da un campo personalizzato nel sistema di creazione di moduli personalizzati**
 
-*Moduli personalizzati nel mio gruppo*
+*Moduli personalizzati*
 
 Quando un utente modifica un campo personalizzato e tenta di rimuovere il testo esistente nella sezione [!UICONTROL Istruzioni], il testo non viene rimosso durante il salvataggio del campo. L’utente può modificare il testo, ma non può rimuoverlo completamente.
 
@@ -1046,7 +1075,7 @@ Quando un utente visualizza un dashboard in un progetto e tenta di aggiungere un
 
 Quando un utente visualizza la sezione [!UICONTROL Elenco lavori] dell’area Home e fa clic su un elemento nella sezione [!UICONTROL Approvazioni inviate], la pagina mostra il seguente errore:
 
-”[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
 
 Se l’utente aggiorna la pagina e poi fa clic su qualsiasi elemento nella [!UICONTROL Elenco lavori], viene visualizzato l’errore. Il problema non riguarda più solo gli elementi nella sezione [!UICONTROL Approvazioni inviate].
 
@@ -1378,7 +1407,7 @@ Quando un utente cerca di aggiungere un nuovo record della fatturazione dall’a
 
 Quando un utente cerca di effettuare assegnazioni nel [!DNL Workload Balancer] di un progetto, viene reindirizzato a una pagina con il seguente messaggio:
 
-”[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
 
 L’utente non può spostarsi da questa pagina finché non aggiorna la pagina.
 
@@ -1552,7 +1581,7 @@ Quando un utente visualizza gli aggiornamenti e scorre la schermata per visualiz
 
 Quando un utente nel [!UICONTROL Bilanciatore dei carichi di lavoro] tenta di assegnare delle attività a un utente la cui mansione non corrisponde a quella assegnata alle attività, l’utente visualizza un messaggio che indica che l’attività verrà assegnata utilizzando la mansione principale dell’utente assegnato. Tuttavia, quando l’utente fa clic su “[!UICONTROL Assegna]”, le attività non vengono assegnate e l’utente visualizza il seguente errore:
 
-”[!UICONTROL Errore. Si è verificato un errore sconosciuto del server.]”
+“[!UICONTROL Errore. Si è verificato un errore sconosciuto del server.]”
 
 +++
 
@@ -1586,7 +1615,7 @@ Quando un utente visualizza un flusso di aggiornamenti che sarebbe più di una p
 
 *Report*
 
-Quando si condividono report con più entità visualizzate nel riquadro [!UICONTROL Accesso ai report], gli utenti non sono in grado di scorrere fino alla fine per vedere l’intero elenco quando l’impostazione “[!UICONTROL Visibile a livello di sistema]“ è abilitata.
+Quando si condividono report con più entità visualizzate nel riquadro [!UICONTROL Accesso ai report], gli utenti non sono in grado di scorrere fino alla fine per vedere l’intero elenco quando l’impostazione “[!UICONTROL Visibile a livello di sistema]” è abilitata.
 
 **Valuta errata nei report**
 
@@ -1710,7 +1739,7 @@ Quando un utente compila le richieste di un report e incontra un selettore di da
 
 **Impossibile modificare o salvare i calcoli nel sistema di creazione dei moduli personalizzati**
 
-*Moduli personalizzati nel mio gruppo*
+*Moduli personalizzati*
 
 Se un utente immette manualmente un calcolo in un campo di calcolo nel sistema di creazione dei moduli personalizzati e salva il modulo, il calcolo non viene salvato. Se l’utente riapre il modulo personalizzato, tale campo è vuoto.
 
@@ -1907,7 +1936,7 @@ Soluzione alternativa: impostare il ruolo di bozza dell’utente nel suo profilo
 
 **Il modulo personalizzato non viene caricato durante la conversione del problema in progetto utilizzando un modello**
 
-*Moduli personalizzati nel mio gruppo*
+*Moduli personalizzati*
 
 Quando un utente cerca di convertire un problema in un progetto utilizzando un modello, uno o più moduli personalizzati allegati al modello potrebbero non essere caricati. Quando l’utente configura il modello per il nuovo progetto, invece dei moduli personalizzati viene visualizzato il seguente messaggio:
 
@@ -2036,11 +2065,11 @@ Quando un utente cerca di copiare una richiesta, il pulsante [!UICONTROL Copia r
 
 **I dati del modulo personalizzato scompaiono quando vengono compilati altri campi del modulo**
 
-*Moduli personalizzati nel mio gruppo*
+*Moduli personalizzati*
 
 Quando un utente compila un modulo personalizzato nell’ambito della conversione di un problema in un progetto, la compilazione di un campo personalizzato potrebbe causare la scomparsa dei dati in un altro campo personalizzato. Se l’utente immette nuovamente i dati mancanti, quando tenta di creare il progetto, visualizza il seguente messaggio di errore:
 
-”[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]”
+“[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]”
 
 **Il campo “[!UICONTROL Questa approvazione è utilizzabile da...]” non è visibile**
 
@@ -2142,7 +2171,7 @@ Tutte le opzioni sotto il pulsante sono etichettate come “[!UICONTROL Oggetto 
 
 Quando un utente che non è amministratore tenta di creare un progetto e allega un modulo personalizzato con una sezione disponibile solo per gli amministratori, non può creare il progetto e viene visualizzato il seguente errore:
 
-”Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema”
+“Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema”
 
 **I dati nella sezione Solo Amministratore nel modulo personalizzato non vengono conservati durante la conversione dei problemi in progetti**
 
@@ -2160,7 +2189,7 @@ Quando un utente converte un problema in un progetto utilizzando un modello che 
 
 Quando un utente che non è amministratore tenta di creare un progetto e allega un modulo personalizzato con una sezione disponibile solo per gli amministratori, non può creare il progetto e viene visualizzato il seguente errore:
 
-”[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]”
+“[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]”
 
 **Gli utenti che sono stati disattivati e poi riattivati non compaiono in [!UICONTROL Contatti bozza]**
 
@@ -2231,7 +2260,7 @@ Quando un utente visualizza un report in un dashboard e tenta di modificare il f
 
 Quando un utente che non è amministratore tenta di creare un progetto e allega un modulo personalizzato con una sezione disponibile solo per gli amministratori, non può creare il progetto e viene visualizzato il seguente errore:
 
-”[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]”
+“[!UICONTROL Per cambiare il valore dei parametri dei dati personalizzati è necessario essere amministratore di sistema]”
 
 **I dati personalizzati non vengono conservati durante la conversione del problema in progetto**
 
@@ -2245,7 +2274,7 @@ Quando un utente converte un problema in un progetto utilizzando un modello, i d
 
 Quando un utente cerca di convertire un problema in un progetto, il problema non viene convertito e l’utente visualizza il seguente errore:
 
-”[!UICONTROL Un errore inaspettato si è verificato]”
+“[!UICONTROL Un errore inaspettato si è verificato]”
 
 +++
 
@@ -2360,7 +2389,7 @@ Quando un utente cerca di allegare un modulo personalizzato o un modello a un pr
 
 Quando un utente visualizza una bozza nell’area [!UICONTROL Documenti], i commenti inseriti nella bozza non vengono visualizzati nell’area [!UICONTROL Aggiornamenti] del documento.
 
-**[!UICONTROL Bilanciatore dei carichi di lavoro]: ”[!UICONTROL ?[object Object]?] compare nelle informazioni sulla sovrassegnazione**
+**[!UICONTROL Bilanciatore dei carichi di lavoro]: ”[!UICONTROL ?[object Object]?]” compare nelle informazioni sulla sovrassegnazione**
 
 *[!UICONTROL Bilanciatore dei carichi di lavoro]*
 

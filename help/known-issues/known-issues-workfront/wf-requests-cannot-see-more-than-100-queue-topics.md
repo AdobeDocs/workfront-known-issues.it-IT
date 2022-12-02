@@ -2,15 +2,19 @@
 title: '“Richieste: impossibile visualizzare più di 100 argomenti della coda in una pagina”'
 description: “Quando un utente visualizza un elenco di argomenti della coda con più di 100 elementi e tenta di modificare l’elenco per visualizzare più argomenti della coda per pagina oppure tutti gli argomenti della coda, l’elenco resta invariato e viene visualizzato un messaggio di errore.”
 hidefromtoc: true
-source-git-commit: 8f04dc85caf0019001913bb4762c924109516a96
-workflow-type: ht
-source-wordcount: '180'
-ht-degree: 100%
+source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 96%
 
 ---
 
 
 # Richieste: impossibile visualizzare più di 100 argomenti della coda in una pagina
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 2 dicembre 2022.
 
 Quando un utente visualizza un elenco di argomenti della coda con più di 100 elementi e tenta di modificare l’elenco per visualizzare più argomenti della coda per pagina oppure tutti gli argomenti della coda, l’elenco resta invariato e viene visualizzato un messaggio di errore:
 
