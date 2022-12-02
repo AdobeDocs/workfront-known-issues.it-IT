@@ -3,7 +3,7 @@ title: '“Richieste: messaggio di errore quando si modifica la coda delle richi
 description: “Quando un utente modifica una coda di richieste e tenta di salvare le modifiche, viene visualizzato un errore.”
 hidefromtoc: true
 source-git-commit: 60f5f70a6bf8d67a8a450c3a8dd9950d1ee376aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Quando un utente modifica una coda di richieste e tenta di salvare le modifiche, viene visualizzato il seguente errore:
 
-“Riproviamo. Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.&quot;
+“Riproviamo. Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.”
 
 Inoltre, viene visualizzato il seguente messaggio nella parte inferiore della pagina, vicino al pulsante Salva:
 
