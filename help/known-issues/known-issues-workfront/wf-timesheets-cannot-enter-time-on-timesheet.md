@@ -1,11 +1,11 @@
 ---
-title: ""
-description: ""
+title: "Fogli orari: Impossibile immettere l'ora nella scheda attività"
+description: "Quando un utente tenta di aggiungere tempo a una scheda attività, viene visualizzato che le caselle delle ore in qualsiasi ora o riga dell'attività del progetto sono disattivate e non possono immettere l'ora in queste caselle. Possono accedere all'ora solo nell'area Ora generale."
 hidefromtoc: true
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 3a66060667d5c90b4a2c7c17fd56e7003367ebc8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '115'
+ht-degree: 4%
 
 ---
 
