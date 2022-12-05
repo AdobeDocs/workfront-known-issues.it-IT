@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: eff0362813a15b8e2f5085c05b1d88b716aba25e
 workflow-type: tm+mt
-source-wordcount: '1778'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Fogli orari: Impossibile immettere l&#39;ora nella scheda attività](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [Prove: Lo stato della bozza non viene aggiornato in [!UICONTROL Documento] elenchi](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Progetti: Lo stato del progetto non segue le preferenze del progetto Gruppo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Progetti: Errore &quot;Whoops&quot; durante la creazione di un progetto da un modello](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Pagina principale]: Impossibile rimuovere un&#39;assegnazione di un problema in [!UICONTROL Pagina principale]](known-issues-workfront/wf-home-cannot-remove-assignment.md)

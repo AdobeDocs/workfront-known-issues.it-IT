@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,7 +38,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Schede orario: utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 dicembre 2022 |
+| [Fogli orari: Impossibile immettere l&#39;ora nella scheda attività](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 dicembre 2022 |
+| [Schede orario: utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 dicembre 2022 |
 | [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 dicembre 2022 |
 | [Progetti: Lo stato del progetto non segue le preferenze del progetto Gruppo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 2 dicembre 2022 |
 | [Progetti: Errore &quot;Whoops&quot; durante la creazione di un progetto da un modello](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md) | 2 dicembre 2022 |
@@ -58,6 +59,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Prove: Lo stato della bozza non viene aggiornato in [!UICONTROL Documento] elenchi](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [Attività: le ore immesse nel [!UICONTROL pannello di Riepilogo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) dell’Attività non vengono salvate | 2 dicembre 2022 |
 | [Progetti: problemi di prestazioni e messaggio di errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 dicembre 2022 |
 | [Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 novembre 2022 |
