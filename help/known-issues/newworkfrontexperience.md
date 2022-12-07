@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4557df164d16b5451cb23d19399655a363641ae9
+source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '636'
+ht-degree: 88%
 
 ---
 
@@ -38,6 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Attività: Impossibile aggiungere l&#39;attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 dicembre 2022 |
 | [Fogli orari: Impossibile immettere l&#39;ora nella scheda attività](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 dicembre 2022 |
 | [Schede orario: utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md) | 2 dicembre 2022 |
 | [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 dicembre 2022 |
