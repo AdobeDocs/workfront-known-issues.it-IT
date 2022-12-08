@@ -2,15 +2,19 @@
 title: "Attività: Impossibile aggiungere sottotask"
 description: "Quando un utente tenta di aggiungere una sottoattività utilizzando il pulsante +Nuovo, nella finestra Nuova attività non vengono visualizzate opzioni e l'utente visualizza un messaggio di errore."
 hidefromtoc: true
-source-git-commit: 4de171bddf40bf7329a0928776d63efbfd18603c
+source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 8%
 
 ---
 
 
 # Attività: Impossibile aggiungere l&#39;attività secondaria
+
+>[!NOTE]
+>
+>Questo problema è stato risolto l’8 dicembre 2022.
 
 Quando un utente tenta di aggiungere una sottoattività utilizzando il valore &quot;[!UICONTROL +Nuovo]&quot; pulsante, nessuna opzione viene visualizzata nel [!UICONTROL Nuova attività] e l&#39;utente visualizza il seguente messaggio:
 

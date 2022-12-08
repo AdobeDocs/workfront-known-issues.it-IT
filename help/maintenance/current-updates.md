@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: dd71044b671b7a7da8a8769039485b80664880d7
+source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
-source-wordcount: '15954'
-ht-degree: 99%
+source-wordcount: '16044'
+ht-degree: 98%
 
 ---
 
@@ -31,15 +31,30 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di
 
 ## Aggiornamenti di dicembre 2022
 
-+++**Aggiornamento della manutenzione (pianificato) l’8 dicembre 2022**
-
-+++
++++**Aggiornamento della manutenzione l’8 dicembre 2022**
 
 **Lo stato del progetto non segue le preferenze del progetto Gruppo**
 
 *Progetti*
 
 Quando un utente crea un progetto da un modello, il nuovo progetto non accetta lo stato impostato nelle preferenze del progetto Gruppo. Se un progetto viene creato senza un modello, lo stato riflette le preferenze del progetto Gruppo come previsto.
+
+**Impossibile aggiungere l&#39;attività secondaria**
+
+*Attività*
+
+Quando un utente tenta di aggiungere una sottoattività utilizzando il valore &quot;[!UICONTROL +Nuovo]&quot; pulsante, nessuna opzione viene visualizzata nel [!UICONTROL Nuova attività] e l&#39;utente visualizza il seguente messaggio:
+
+&quot;[!UICONTROL Impossibile leggere le proprietà di undefined (lettura di &#39;convalide&#39;)]&quot;
+
+**Errori durante la chiusura o il salvataggio dei fogli presenze**
+
+*Schede orario*
+
+Quando un utente tenta di aggiungere o chiudere una scheda attività, la scheda attività non viene salvata e l&#39;utente visualizza i seguenti errori:
+
+* Database error due to invalid SQL statement.
+* Le modifiche recenti non sono state salvate. Aggiorna la pagina per visualizzare le ultime modifiche salvate.
 
 +++
 
