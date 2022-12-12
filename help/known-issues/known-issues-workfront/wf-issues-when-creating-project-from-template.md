@@ -3,8 +3,8 @@ title: '“Progetti: problemi di prestazioni e messaggio di errore durante la cr
 description: “Quando un utente crea un progetto da un modello e lo salva, la creazione del progetto richiede 3-5 volte più tempo del solito. Inoltre, l’utente riceve un messaggio di tipo Impossibile recuperare, che suggerisce che il progetto non è stato creato, nonostante sia stato effettivamente creato.”
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
-source-wordcount: '158'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
