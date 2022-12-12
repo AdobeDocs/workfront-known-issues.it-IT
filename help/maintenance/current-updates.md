@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
 workflow-type: tm+mt
 source-wordcount: '16044'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -95,7 +95,7 @@ Quando un utente visualizza gli aggiornamenti e passa il mouse su un nome, si ap
 
 Quando un utente visualizza il backlog di un team Kanban, una o più attività presentano un ordine di backlog pari a 0.
 
-**&quot;[!UICONTROL Espressione personalizzata non valida]&quot; messaggio quando si fa riferimento a &quot;[!UICONTROL proprietario]&quot; in un campo calcolato**
+**messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato**
 
 *Moduli personalizzati*
 
@@ -105,16 +105,16 @@ Quando un utente aggiunge un campo calcolato a un modulo personalizzato a livell
 
 Ciò si verifica anche quando l’espressione è valida.
 
-**Impossibile accedere agli elementi di [!DNL Workfront for Jira] integrazione**
+**Impossibile accedere agli elementi di integrazione [!DNL Workfront for Jira]**
 
 *Integrazioni*
 
-Al momento non è possibile accedere ai seguenti elementi nel [!DNL Workfront for Jira] integrazione per [!DNL Jira Cloud]:
+Al momento non è possibile accedere ai seguenti elementi nell’integrazione [!DNL Workfront for Jira] per [!DNL Jira Cloud]:
 
-* La [!UICONTROL Configurazione] page
-* &quot;[!UICONTROL Apri Workfront]&quot; pulsante su un [!DNL Jira] problema
+* Pagina [!UICONTROL Configurazione]
+* Pulsante “[!UICONTROL Apri Workfront]” su un problema [!DNL Jira]
 
-**L’aggiunta di messaggi personalizzati causa un problema nel visualizzatore delle prove**
+**L’aggiunta di messaggi personalizzati causa un problema in Visualizzatore bozze**
 
 *Bozze*
 
@@ -123,7 +123,7 @@ Quando un utente condivide una bozza e tenta di aggiungere un messaggio personal
 * Il Visualizzatore bozze ingrandisce la bozza.
 * Le aree nella barra di navigazione a sinistra non sono più attive.
 
-**Utenti disattivati disponibili quando si seleziona l&#39;approvatore della scheda attività**
+**Utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario**
 
 *Schede orario*
 
@@ -133,11 +133,11 @@ Quando un utente crea una scheda attività e tenta di assegnare un approvatore, 
 
 Poiché l’utente disattivato non può essere assegnato, l’utente deve selezionare un utente attivato. La scheda orario funziona quindi come previsto, ma gli utenti disattivati nell’elenco possono creare confusione o problemi all’utente.
 
-**Scheda attività non generata**
+**Scheda orario non generata**
 
 *Schede orario*
 
-I fogli presenze non vengono generati nonostante le impostazioni del profilo della scheda attività. Poiché la scheda attività non viene mai generata, l&#39;utente non può immettere l&#39;ora e non è visibile negli elenchi.
+Le schede orario non vengono generate nonostante le impostazioni del profilo della scheda orario. Poiché la scheda orario non viene mai generata, l’utente non può immettere l’ora e non è visibile negli elenchi.
 
 +++
 
@@ -1185,7 +1185,7 @@ Quando un utente cerca di aprire l’area [!UICONTROL Richieste di lavoro] in un
 
 +++
 
-+++**Aggiornamento di manutenzione del 9 giugno 2022**
++++** - Aggiornamento di manutenzione del 9 giugno 2022**
 
 **Impossibile selezionare gli oggetti da filtrare nelle preferenze dell’[!UICONTROL Ottimizzatore portfolio]**
 
@@ -1207,7 +1207,7 @@ Quando un utente con un accesso a Planner che include l’accesso Amministratore
 
 +++
 
-+++**[!DNL Workfront Scenario Planner]- Aggiornamento di manutenzione del 9 giugno 2022**
++++**[!DNL Workfront Scenario Planner] - Aggiornamento di manutenzione del 9 giugno 2022**
 
 **Pannello sinistro ridimensionabile in [!DNL Scenario Planner]**
 
@@ -1217,7 +1217,7 @@ Ora in [!DNL Scenario Planner] è possibile ridimensionare il pannello sinistro 
 
 +++
 
-+++**[!DNL Workfront Fusion]- Aggiornamento di manutenzione del 9 giugno 2022**
++++**[!DNL Workfront Fusion] - Aggiornamento di manutenzione del 9 giugno 2022**
 
 **I dati dei moduli personalizzati non sono disponibili nei moduli [!DNL Workfront] di [!DNL Workfront Fusion]**
 

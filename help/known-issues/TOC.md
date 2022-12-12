@@ -3,8 +3,8 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
 source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1805'
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 0%
       + [Prove: Lo stato della bozza non viene aggiornato in [!UICONTROL Documento] elenchi](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Progetti: Lo stato del progetto non segue le preferenze del progetto Gruppo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Progetti: Errore &quot;Whoops&quot; durante la creazione di un progetto da un modello](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
-      + [[!UICONTROL Pagina principale]: Impossibile rimuovere un&#39;assegnazione di un problema in [!UICONTROL Pagina principale]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
-      + [Fogli orari: Scheda attività non generata](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
-      + [Integrazioni: Impossibile accedere agli elementi di [!DNL Workfront for Jira] integrazione](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
-      + [Moduli personalizzati: Impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
+      + [[!UICONTROL Home]: impossibile rimuovere un’assegnazione di un problema nella [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
+      + [Schede orario: scheda orario non generata](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
+      + [Integrazioni: impossibile accedere agli elementi di integrazione  [!DNL Workfront for Jira] ](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [Moduli personalizzati: impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Agile: errore durante lo spostamento di elementi di lavoro in un’iterazione](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [Schede orario: utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
       + [Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md)
@@ -80,7 +80,7 @@ ht-degree: 0%
       + [Team: l’assegnazione di più team comporta l’assegnazione di un solo team](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Schede orario: errori durante l’aggiunta di commenti a una scheda attività](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Bozze: impossibile aprire la bozza in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Bozze: impossibile aprire la bozza in  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Attività: le ore immesse nel [!UICONTROL pannello Riepilogo] dell’attività non vengono salvate](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Bozze: l’utente non viene reindirizzato alla pagina precedente al momento di chiudere la bozza](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifiche: errori durante l’accesso alle impostazioni di notifica e-mail](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
@@ -211,7 +211,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Impossibile creare la connessione a [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion]: impossibile creare la connessione a  [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: gli elementi array nel modulo [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: errore 409 nello scenario  [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)

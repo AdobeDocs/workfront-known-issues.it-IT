@@ -3,7 +3,7 @@ title: '“Schede orario: utenti disattivati disponibili quando si seleziona l�
 description: “Quando un utente crea una scheda attività e tenta di assegnare un approvatore, l’elenco a discesa include gli utenti disattivati. Se viene selezionato un utente disattivato, la scheda orario non viene salvata e l’utente visualizza un messaggio di errore”.
 hidefromtoc: true
 source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 
