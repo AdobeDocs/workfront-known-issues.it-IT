@@ -3,8 +3,8 @@ title: '“Attività: le ore inserite nel [!UICONTROL pannello Riepilogo] dell�
 description: “Quando un utente tenta di immettere le ore di un’attività nel pannello Riepilogo dell’attività, le ore non vengono salvate. Ciò si verifica quando l’utente lascia il cursore nel quadrato in cui ha inserito le ore, e fa scorrere verso il basso il [!UICONTROL pannello Riepilogo].   ”
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
-source-wordcount: '153'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
