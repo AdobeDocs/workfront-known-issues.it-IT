@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: faf363bbdaa7c44a447117e35779eeb10d463dbf
+source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
 workflow-type: tm+mt
-source-wordcount: '16044'
-ht-degree: 99%
+source-wordcount: '16198'
+ht-degree: 98%
 
 ---
 
@@ -276,6 +276,21 @@ Ciò è stato segnalato nelle seguenti aree:
 * [!UICONTROL Setup] (Configura) > [!UICONTROL Email notifications] (Notifiche e-mail)
 * [!UICONTROL User] (Utente)> [!UICONTROL Edit user] (Modifica utente)
 * [!UICONTROL Gruppi]
+
+**Icone nuove informazioni per fogli presenze, profili foglio presenze e preferenze della scheda attività**
+
+*Workfront*
+
+>[!NOTE]
+>
+>Questo aggiornamento è stato rilasciato solo nell’ambiente di anteprima. Sarà rilasciato in Produzione con la versione 23.1.
+
+Sono state aggiunte diverse icone di informazioni alle seguenti impostazioni:
+
+* Casella di controllo &quot;Può modificare l&#39;ora&quot; durante la creazione o la modifica di una scheda attività o di un profilo della scheda attività per indicare che, se abilitata, gli approvatori possono anche inviare, riaprire o modificare la scheda attività, a meno che l&#39;amministratore non limiti queste azioni nell&#39;area Preferenze scheda attività di Configurazione.
+* &quot;Limita la modifica della scheda attività a proprietari e amministratori&quot; nell&#39;area Preferenze scheda attività e ora di Configurazione per indicare che, se disabilitata, anche i seguenti utenti possono modificare i fogli attività: utenti con accesso amministrativo a schede attività e ore, approvatori di schede attività autorizzati a modificare il tempo e responsabili dei proprietari delle schede attività.
+
+La funzionalità di queste impostazioni non è stata modificata e sono state aggiunte solo le icone delle informazioni per chiarire l’ambito delle impostazioni.
 
 +++
 
