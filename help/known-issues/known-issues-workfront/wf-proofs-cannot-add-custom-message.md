@@ -3,9 +3,9 @@ title: '“Bozze: l’aggiunta di messaggi personalizzati causa un problema in V
 description: “Quando un utente condivide una bozza e tenta di aggiungere un messaggio personalizzato, si verificano dei problemi.”
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 1° dicembre 2022.
+>Questo problema è stato risolto il 1 dicembre 2022.
 
 Quando un utente condivide una bozza e tenta di aggiungere un messaggio personalizzato, si verifica quanto segue:
 
