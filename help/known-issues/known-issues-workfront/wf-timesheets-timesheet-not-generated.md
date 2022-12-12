@@ -1,21 +1,21 @@
 ---
-title: "Fogli orari: Scheda attività non generata"
-description: '"I fogli presenze non vengono generati nonostante le impostazioni del profilo della scheda attività.  '
+title: '“Schede orario: scheda orario non generata”'
+description: “Le schede orario non vengono generate nonostante le impostazioni del profilo della scheda orario.
 hidefromtoc: true
 source-git-commit: 638d0b83d516fb995c5ad774172fa46210e4caf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Fogli orari: Scheda attività non generata
+# Schede orario: scheda orario non generata
 
 >[!NOTE]
->Questo problema è stato risolto il 1° dicembre 2022.
+>Questo problema è stato risolto il 1 dicembre 2022.
 
-I fogli presenze non vengono generati nonostante le impostazioni del profilo della scheda attività. Poiché la scheda attività non viene mai generata, l&#39;utente non può immettere l&#39;ora e non è visibile negli elenchi.
+Le schede orario non vengono generate nonostante le impostazioni del profilo della scheda orario. Poiché la scheda orario non viene mai generata, l’utente non può immettere l’ora e non è visibile negli elenchi.
 
-_Segnalato per la prima volta il 28° novembre 2022._
+_Segnalato per la prima volta il 28 novembre 2022._
 
