@@ -36,7 +36,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)”] | 1 novembre 2022 |
+| [[!DNL Workfront Fusion]: Array elements in [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md) | 1 novembre 2022 |
 | I collegamenti di aiuto in-app [[!DNL Workfront Fusion]: [!DNL Fusion]  non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 agosto 2022 |
 
 {style="table-layout:auto"}
