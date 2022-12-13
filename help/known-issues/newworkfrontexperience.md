@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
+source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 91%
+source-wordcount: '628'
+ht-degree: 90%
 
 ---
 
@@ -85,7 +85,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Notifiche e-mail: l’utente non viene indirizzato al thread di commenti](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 23 aprile 2021 |
 | [Calendari: l’istruzione di filtro  [!DNL OR]  esclude la regola di filtro](known-issues-workfront/wf-calendars-or-filter-statement.md) | 23 aprile 2021 |
 | [[!UICONTROL Workfront Proof]: il report [!UICONTROL Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 aprile 2021 |
-| [[!UICONTROL Home]: le bozze completate rimangono bloccate nella sezione [!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 14 giugno 2021 |
 | [Report: impossibile scorrere il report in orizzontale durante la visualizzazione nel dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 30 marzo 2021 |
 | [[!UICONTROL Home]: il nome del progetto viene visualizzato come GUID in [!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | 11 febbraio 2021 |
 | [Documenti: l’icona del flusso di lavoro della bozza non viene visualizzata](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 gennaio 2021 |
