@@ -1,7 +1,7 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
+source-git-commit: 296acacc040f296c1732ab897b771d26bc0c392e
 workflow-type: tm+mt
 source-wordcount: '1814'
 ht-degree: 96%
@@ -16,7 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Rapporti: I report utilizzano il creatore di report invece del carattere jolly &quot;$$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [Rapporti: Il report utilizza il creatore di report invece del carattere jolly &quot;$$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Documenti: Impossibile caricare il file MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [Integrazioni: Impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Attività: Impossibile aggiungere l&#39;attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
