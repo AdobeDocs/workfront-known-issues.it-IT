@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1e82922e463ea71019e1c4d625ba10157bd582fa
+source-git-commit: 707324aea99a9f77e7664afa555a4b7b9d6e4cef
 workflow-type: tm+mt
-source-wordcount: '16198'
-ht-degree: 98%
+source-wordcount: '16388'
+ht-degree: 97%
 
 ---
 
@@ -30,6 +30,34 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2022.
 Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di dicembre 2022
+
++++**Aggiornamento della manutenzione il 15 dicembre 2022**
+
+**&quot;[!UICONTROL Whops]&quot; errore durante la creazione di un progetto da un modello**
+
+*Progetti*
+
+Quando un utente tenta di creare un progetto da un modello, il progetto non viene creato e l’utente visualizza il seguente errore:
+
+“[!UICONTROL Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
+
+**Grafico a combinazione visualizza gli stessi dati due volte**
+
+*Report*
+
+Quando un utente visualizza un grafico combinato, il grafico visualizza due volte lo stesso set di valori invece di confrontare due set di valori. I set di valori corretti si trovano nei dettagli del report.
+
+**Utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario**
+
+*Schede orario*
+
+Quando un utente crea una scheda attività e tenta di assegnare un approvatore, l’elenco a discesa include gli utenti disattivati. Se viene selezionato un utente disattivato, la scheda orario non viene salvata e l’utente visualizza il seguente messaggio:
+
+“[!UICONTROL Errore. Solo gli utenti con la licenza Plan possono approvare o rifiutare le schede orario. Contatta l’amministratore di sistema]”.
+
+Poiché l’utente disattivato non può essere assegnato, l’utente deve selezionare un utente attivato. La scheda orario funziona quindi come previsto, ma gli utenti disattivati nell’elenco possono creare confusione o problemi all’utente.
+
++++
 
 +++**Aggiornamento della manutenzione l’8 dicembre 2022**
 
@@ -220,7 +248,7 @@ Questo comportamento è stato segnalato quando l’utente accede al rapporto nei
 
 L’accesso ai rapporti tramite una dashboard aggiorna le informazioni Ultima visualizzazione.
 
-**[!DNL Workfront]: errore 500 quando si apportano modifiche a un oggetto [!DNL Workfront]**
+**[!DNL Workfront]: errore 500 quando si apportano modifiche a un oggetto [!DNL Workfront]**+
 
 *[!DNL Workfront]*
 
