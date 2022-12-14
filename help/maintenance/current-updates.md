@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3973a5e7f934404165fb5132faa36392951940f3
+source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
 workflow-type: tm+mt
-source-wordcount: '16460'
+source-wordcount: '16506'
 ht-degree: 97%
 
 ---
@@ -46,6 +46,12 @@ Quando un utente tenta di creare un progetto da un modello, il progetto non vien
 *Report*
 
 Quando un utente visualizza un grafico combinato, il grafico visualizza due volte lo stesso set di valori invece di confrontare due set di valori. I set di valori corretti si trovano nei dettagli del report.
+
+**Sono state aggiunte descrizioni comandi per le celle ora oscurate nei fogli presenze**
+
+*Schede orario*
+
+Sono state aggiunte descrizioni per spiegare il motivo per cui una cella ora potrebbe essere oscurata in una scheda attività. Ad esempio, alcuni dei motivi potrebbero essere dovuti alla chiusura della scheda attività o al completamento del progetto.
 
 **Utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario**
 
