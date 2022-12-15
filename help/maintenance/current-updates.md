@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 927ea8bc10eb333428f1d10961c0b859be8f19bb
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '16506'
-ht-degree: 97%
+source-wordcount: '16687'
+ht-degree: 96%
 
 ---
 
@@ -32,6 +32,17 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di
 ## Aggiornamenti di dicembre 2022
 
 +++**Aggiornamento della manutenzione il 15 dicembre 2022**
+
+**Aggiornamenti all’accessibilità negli elenchi**
+
+*Elenchi*
+
+Le seguenti funzioni di accessibilità sono ora disponibili negli elenchi:
+
+* Le caselle di controllo negli elenchi ora dispongono di un indicatore di stato attivo visibile al momento del tabulazione. Questo facilita la navigazione da tastiera degli elementi di un elenco e la loro visualizzazione.
+* Tutti i pulsanti nelle barre degli strumenti dell’elenco ora dispongono di stati di attivazione e passaggio del mouse coerenti, con uno sfondo grigio visualizzato al passaggio del mouse e uno sfondo grigio e un contorno blu visualizzato sullo stato attivo.
+* In precedenza, quando si apriva un menu a discesa in un elenco con il tasto Spazio, il menu veniva aperto e la pagina scorreva anche un po&#39; verso il basso, operazione non prevista. Ora la pagina non scorre più premendo Spazio su un menu a discesa, che è il comportamento corretto desiderato.
+* Quando si visualizza un elenco con la casella di controllo della riga selezionata, è ora possibile spostarsi tra le voci modificabili mediante il tasto Tab, quindi premere il tasto Spazio per passare alla modalità Modifica e iniziare a modificare la cella nella riga. In precedenza, questi elementi non erano navigabili da tastiera e richiedevano l’uso del mouse. Il passaggio alla modalità di modifica è compatibile sia con il mouse che con la tastiera.
 
 **&quot;[!UICONTROL Whops]&quot; errore durante la creazione di un progetto da un modello**
 

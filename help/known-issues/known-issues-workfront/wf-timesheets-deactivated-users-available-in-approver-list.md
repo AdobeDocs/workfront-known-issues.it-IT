@@ -2,9 +2,9 @@
 title: '“Schede orario: utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario”'
 description: “Quando un utente crea una scheda attività e tenta di assegnare un approvatore, l’elenco a discesa include gli utenti disattivati. Se viene selezionato un utente disattivato, la scheda orario non viene salvata e l’utente visualizza un messaggio di errore”.
 hidefromtoc: true
-source-git-commit: 800d8330bfc7a4f964ea4f4b4ae4217c26eb09b6
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '152'
 ht-degree: 100%
 
 ---
@@ -12,11 +12,9 @@ ht-degree: 100%
 
 # Schede orario: utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on December 1, 2022.
--->
+>Questo problema è stato risolto il 15 dicembre 2022.
 
 Quando un utente crea una scheda attività e tenta di assegnare un approvatore, l’elenco a discesa include gli utenti disattivati. Se viene selezionato un utente disattivato, la scheda orario non viene salvata e l’utente visualizza il seguente messaggio:
 

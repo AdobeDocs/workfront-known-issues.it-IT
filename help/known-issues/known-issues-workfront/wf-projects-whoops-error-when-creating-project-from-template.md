@@ -2,15 +2,19 @@
 title: "Progetti: Whops error durante la creazione di un progetto da un modello"
 description: '"Quando un utente tenta di creare un progetto da un modello, il progetto non viene creato e l’utente visualizza l’errore Whoops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.”'
 hidefromtoc: true
-source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
+source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 33%
+source-wordcount: '121'
+ht-degree: 37%
 
 ---
 
 
 # Progetti: &quot;[!UICONTROL Whops]&quot; errore durante la creazione di un progetto da un modello
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 15 dicembre 2022.
 
 Quando un utente tenta di creare un progetto da un modello, il progetto non viene creato e l’utente visualizza il seguente errore:
 
