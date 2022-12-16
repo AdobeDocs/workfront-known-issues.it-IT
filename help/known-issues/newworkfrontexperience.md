@@ -3,9 +3,9 @@ title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '594'
 ht-degree: 90%
 
 ---
@@ -42,10 +42,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | -----------------------------------------------------------------| ----------------- |
 | [Documenti: Impossibile caricare il file MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 dicembre 2022 |
 | [Attività: Impossibile aggiungere l&#39;attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 dicembre 2022 |
-| [Fogli orari: Impossibile immettere l&#39;ora nella scheda attività](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md) | 5 dicembre 2022 |
 | [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 dicembre 2022 |
 | [Moduli personalizzati: impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 novembre 2022 |
-| [Moduli personalizzati: errore “[!UICONTROL Livello di accesso insufficiente]” quando si modifica un modulo personalizzato](known-issues-workfront/wf-custom-forms-you-do-not-have-sufficient-access.md) | 21 novembre 2022 |
 | [Report: errore durante l’aggiunta di un nuovo problema a un report sui problemi](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
 | [Moduli personalizzati: Errore “Ops” durante la configurazione di un campo calcolato](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 13 ottobre 2022 |
 | [Integrazioni: errore durante l’invio della richiesta da [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 agosto 2022 |

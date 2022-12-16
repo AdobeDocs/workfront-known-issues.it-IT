@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
+source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
-source-wordcount: '16687'
-ht-degree: 96%
+source-wordcount: '16738'
+ht-degree: 95%
 
 ---
 
@@ -73,6 +73,12 @@ Quando un utente crea una scheda attività e tenta di assegnare un approvatore, 
 “[!UICONTROL Errore. Solo gli utenti con la licenza Plan possono approvare o rifiutare le schede orario. Contatta l’amministratore di sistema]”.
 
 Poiché l’utente disattivato non può essere assegnato, l’utente deve selezionare un utente attivato. La scheda orario funziona quindi come previsto, ma gli utenti disattivati nell’elenco possono creare confusione o problemi all’utente.
+
+**Impossibile immettere l&#39;ora nella scheda attività**
+
+*Schede orario*
+
+Quando un utente tenta di aggiungere tempo a una scheda attività, viene visualizzato che le caselle delle ore in una riga Tempo di progetto o Tempo attività sono disattivate e non possono immettere l&#39;ora in queste caselle. Possono immettere l&#39;ora solo nell&#39;area Ora generale.
 
 +++
 
@@ -883,7 +889,7 @@ Quando un utente cerca di aprire un elemento nella sezione [!UICONTROL Elenco la
 
 **Le attività e i problemi delegati a un utente non vengono visualizzati nell’elenco di lavoro dell’area Home dell’utente**
 
-*[!UICONTROL Pagina principale]*
+*[!UICONTROL Home]*
 
 Quando l’utente visualizza la sezione [!UICONTROL Elenco lavori] dell’area Home, eventuali attività o problemi delegati all’utente non compaiono nell’elenco e l’utente potrebbe non essere a conoscenza delle deleghe.
 
@@ -1125,7 +1131,7 @@ Quando un utente visualizza [!DNL API Explorer] e fa clic su un endpoint, le inf
 
 **Problemi con il pulsante [!UICONTROL Dettagli] quando si utilizza l’[!UICONTROL Calendario predefinito]**
 
-*Pagina principale*
+*Home*
 
 Quando un utente usa l’[!UICONTROL Home Calendar] e fa clic su un’attività, può verificarsi una delle seguenti situazioni:
 
@@ -1146,7 +1152,7 @@ Quando un utente modifica un modulo personalizzato e tenta di modificare una dat
 Ciò è stato segnalato nelle seguenti aree:
 
 * Area [!UICONTROL Aggiornamenti]
-* [!UICONTROL Pagina principale]
+* [!UICONTROL Home]
 
 **L’utente non può passare autonomamente a un’altra fase della bozza**
 
@@ -1166,7 +1172,7 @@ Quando un utente visualizza un dashboard in un progetto e tenta di aggiungere un
 
 **Errore durante la visualizzazione degli elementi nell’elenco di lavoro della Home**
 
-*[!UICONTROL Pagina principale]*
+*[!UICONTROL Home]*
 
 Quando un utente visualizza la sezione [!UICONTROL Elenco lavori] dell’area Home e fa clic su un elemento nella sezione [!UICONTROL Approvazioni inviate], la pagina mostra il seguente errore:
 
@@ -1460,7 +1466,7 @@ Quando un utente modifica un progetto e tenta di salvarlo, il pulsante [!UICONTR
 
 **Le etichette dei campi non sono visibili durante la visualizzazione di un oggetto nella [!UICONTROL Home]**
 
-*Pagina principale*
+*Home*
 
 Quando un utente seleziona un oggetto dalla sezione [!UICONTROL Elenco lavori] dell’area Home, l’area a destra di [!UICONTROL Elenco lavori] mostra l’oggetto senza le etichette dei campi. I valori dei campi sono presenti.
 
@@ -1630,7 +1636,7 @@ Quando un utente visualizza un report in un dashboard, la valuta utilizzata nel 
 
 **Il filtro Completati non mostra gli elementi di lavoro completati**&#x200B;
 
-*[!UICONTROL Pagina principale]*
+*[!UICONTROL Home]*
 
 Quando un utente visualizza la sezione [!UICONTROL Elenco lavori] dell’area Home con il filtro [!UICONTROL Completati] selezionato, gli elementi di lavoro completati non vengono visualizzati nell’elenco. Quando si seleziona il filtro [!UICONTROL Tutti], gli elementi completati vengono inclusi nell’elenco, mostrando che gli elementi completati esistono.
 
@@ -1731,7 +1737,7 @@ Quando un utente visualizza un report che mostra informazioni relative all’ult
 
 **Attività completate visualizzate nella sezione [!UICONTROL Elenco lavori]** dell’area Home
 
-*[!UICONTROL Pagina principale]*
+*[!UICONTROL Home]*
 
 Quando un utente visualizza la sezione [!UICONTROL Elenco lavori] dell’area Home, vede le attività completate nell’elenco anche se l’opzione per visualizzare le attività completate non è selezionata.
 
