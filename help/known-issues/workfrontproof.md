@@ -3,10 +3,10 @@ title: Problemi noti in  [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: a98c5f2dde335245343c56a2cabea9caef27e56f
+source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 95%
+source-wordcount: '216'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: Le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 dicembre 2022 |
 | [Bozze: le bozze vengono visualizzate nel Visualizzatore bozze in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
