@@ -3,7 +3,7 @@ title: '“Home: impossibile rimuovere un’assegnazione di un problema nella Ho
 description: “Quando un utente visualizza un problema nella sezione Elenco lavori dell’area Home e tenta di rimuovere l’assegnazione, la pagina viene aggiornata e l’assegnazione non è stata rimossa”.
 hidefromtoc: true
 source-git-commit: a25db8e8235f2140b1364d60e2a96729931fea49
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
