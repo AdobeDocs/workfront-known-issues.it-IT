@@ -1,22 +1,22 @@
 ---
-title: "Progetti: Lo stato del progetto non segue le preferenze del progetto di gruppo"
-description: "Quando un utente crea un progetto da un modello, il nuovo progetto non accetta lo stato impostato nelle preferenze del progetto Gruppo. Se un progetto viene creato senza un modello, lo stato riflette le preferenze del progetto Gruppo come previsto."
+title: '“Progetti: lo stato del progetto non segue le preferenze di progetto del gruppo”'
+description: “Quando un utente crea un progetto da un modello, il nuovo progetto non assume lo stato impostato nelle preferenze di progetto del gruppo. Se un progetto viene creato senza un modello, lo stato riflette le preferenze di progetto del gruppo come previsto.”
 hidefromtoc: true
 source-git-commit: e470ad87b9ebd8795ec3d228479244322f96c928
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Progetti: Lo stato del progetto non segue le preferenze del progetto Gruppo
+# Progetti: lo stato del progetto non segue le preferenze di progetto del gruppo
 
 >[!NOTE]
 >
->Questo problema è stato risolto l’8 dicembre 2022.
+>Questo problema è stato risolto il 8 dicembre 2022.
 
-Quando un utente crea un progetto da un modello, il nuovo progetto non accetta lo stato impostato nelle preferenze del progetto Gruppo. Se un progetto viene creato senza un modello, lo stato riflette le preferenze del progetto Gruppo come previsto.
+Quando un utente crea un progetto da un modello, il nuovo progetto non assume lo stato impostato nelle preferenze di progetto del gruppo. Se un progetto viene creato senza un modello, lo stato riflette le preferenze di progetto del gruppo come previsto.
 
 _Segnalato per la prima volta il 20 ottobre 2022._
 
