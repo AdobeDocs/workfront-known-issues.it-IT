@@ -1,16 +1,16 @@
 ---
-title: "Progetti: Whops error durante la creazione di un progetto da un modello"
-description: '"Quando un utente tenta di creare un progetto da un modello, il progetto non viene creato e l’utente visualizza l’errore Whoops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.”'
+title: '“Progetti: errore durante la creazione di un progetto da un modello”'
+description: “Quando un utente tenta di creare un progetto da un modello, il progetto non viene creato e l’utente visualizza l’errore Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.”
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 
-# Progetti: &quot;[!UICONTROL Whops]&quot; errore durante la creazione di un progetto da un modello
+# Progetti: “[!UICONTROL Ops]” errore durante la creazione di un progetto da un modello
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ Quando un utente tenta di creare un progetto da un modello, il progetto non vien
 
 **Soluzione alternativa**
 
-Crea un progetto vuoto, quindi allega il modello ad esso.
+Crea un progetto vuoto, quindi allega il modello.
 
 _Segnalato per la prima volta il giovedì 1 dicembre 2022._
 

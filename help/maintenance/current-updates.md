@@ -1,11 +1,11 @@
 ---
 title: Aggiornamenti di manutenzione per Workfront
-description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
+description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
 workflow-type: tm+mt
 source-wordcount: '16738'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -15,7 +15,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2022.
 
 >[!NOTE]
 >
->Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+>Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront]ti avvisa quando viene risolto un problema che hai segnalato.
 
 <!--
 * [July 2022](#updates-in-july-2022)
@@ -31,7 +31,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2022, vedi [Aggiornamenti di
 
 ## Aggiornamenti di dicembre 2022
 
-+++**Aggiornamento della manutenzione il 15 dicembre 2022**
++++**Aggiornamento di manutenzione di giovedì 15 dicembre 2022**
 
 **Aggiornamenti all’accessibilità negli elenchi**
 
@@ -78,11 +78,11 @@ Poiché l’utente disattivato non può essere assegnato, l’utente deve selezi
 
 *Schede orario*
 
-Quando un utente tenta di aggiungere tempo a una scheda attività, viene visualizzato che le caselle delle ore in una riga Tempo di progetto o Tempo attività sono disattivate e non possono immettere l&#39;ora in queste caselle. Possono immettere l&#39;ora solo nell&#39;area Ora generale.
+Quando un utente tenta di aggiungere un’ora a una scheda orario, viene visualizzato che le caselle delle ore in qualsiasi ora del progetto o riga dell&#39;attività sono disattivate e non è possibile immettere l’ora in queste caselle. È possibile immettere l’ora solo nell&#39;area Ora generale.
 
 +++
 
-+++**Aggiornamento della manutenzione l’8 dicembre 2022**
++++**Aggiornamento di manutenzione di giovedì 8 dicembre 2022**
 
 **Selezione intelligente degli utenti durante l&#39;aggiunta di approvatori a un percorso di approvazione**
 
@@ -92,34 +92,34 @@ Quando un utente tenta di aggiungere tempo a una scheda attività, viene visuali
 
 Ora, quando aggiungi un utente al [!UICONTROL Approvatori] viene visualizzato anche il campo di un’approvazione a livello di sistema o a uso singolo, oltre al nome e all’avatar, il ruolo principale e l’e-mail. Questo aiuta a distinguere tra più utenti con nomi simili o identici.
 
-**Lo stato del progetto non segue le preferenze del progetto Gruppo**
+**Lo stato del progetto non segue le preferenze di progetto del gruppo**
 
 *Progetti*
 
-Quando un utente crea un progetto da un modello, il nuovo progetto non accetta lo stato impostato nelle preferenze del progetto Gruppo. Se un progetto viene creato senza un modello, lo stato riflette le preferenze del progetto Gruppo come previsto.
+Quando un utente crea un progetto da un modello, il nuovo progetto non assume lo stato impostato nelle preferenze di progetto del gruppo. Se un progetto viene creato senza un modello, lo stato riflette le preferenze di progetto del gruppo come previsto.
 
-**Impossibile aggiungere l&#39;attività secondaria**
+**Impossibile aggiungere l’attività secondaria**
 
 *Attività*
 
-Quando un utente tenta di aggiungere una sottoattività utilizzando il valore &quot;[!UICONTROL +Nuovo]&quot; pulsante, nessuna opzione viene visualizzata nel [!UICONTROL Nuova attività] e l&#39;utente visualizza il seguente messaggio:
+Quando un utente tenta di aggiungere un’attività secondaria utilizzando il pulsante “[!UICONTROL +Nuovo]”, non compare nessuna opzione nella finestra [!UICONTROL Nuova attività] e l’utente visualizza il seguente messaggio:
 
-&quot;[!UICONTROL Impossibile leggere le proprietà di undefined (lettura di &#39;convalide&#39;)]&quot;
+“[!UICONTROL Impossibile leggere le proprietà di non definito (lettura di convalide)]”
 
-**Errori durante la chiusura o il salvataggio dei fogli presenze**
+**Errori durante la chiusura o il salvataggio delle schede orario**
 
 *Schede orario*
 
-Quando un utente tenta di aggiungere o chiudere una scheda attività, la scheda attività non viene salvata e l&#39;utente visualizza i seguenti errori:
+Quando un utente tenta di aggiungere un’ora o chiudere una scheda orario, la scheda orario non viene salvata e l’utente visualizza i seguenti errori:
 
-* Database error due to invalid SQL statement.
+* Errore database a causa di dichiarazione SQL non valida.
 * Le modifiche recenti non sono state salvate. Aggiorna la pagina per visualizzare le ultime modifiche salvate.
 
 +++
 
 +++**Aggiornamento di manutenzione (aggiornamento rapido) del 1 dicembre 2022**
 
-**Gli errori di modifica in linea per utente non causano messaggi di errore**
+**Gli errori di modifica in linea da parte dell’utente non generano messaggi di errore**
 
 *Elenchi*
 
@@ -130,7 +130,7 @@ Questo problema è stato segnalato nelle seguenti situazioni:
 * Predecessori: viene creato un ciclo predecessore, ad esempio con l’assegnazione di un’attività a se stessa
 * Date: viene impostata una data impossibile, ad esempio una data di completamento anteriore alla data di inizio o successiva alla data di completamento del progetto
 
-**Opzione &quot;Sposta a&quot; non disponibile nei report dei problemi**
+**Opzione “Copia in” non disponibile nei report sui problemi**
 
 *Report*
 
@@ -521,7 +521,7 @@ Questo problema è stato segnalato durante la modifica dei seguenti elementi:
 
 *Bozza Workfront*
 
-In [!DNL Workfront Proof], quando si verifica un evento che attiva una notifica e-mail, l’utente non riceve immediatamente l’avviso. La notifica può subire un ritardo di diverse ore.
+In[!DNL Workfront Proof], quando si verifica un evento che attiva una notifica e-mail, l’utente non riceve immediatamente l’avviso. La notifica può subire un ritardo di diverse ore.
 
 +++
 
@@ -646,7 +646,7 @@ Quando, durante la creazione di un’attività o un problema in un progetto, l�
 
 *[!DNL Workfront Proof]*
 
-A partire dall’8 settembre 2022, è stata rimossa la possibilità di inviare bozze via e-mail alle zone di rilascio nel prodotto autonomo [!DNL Workfront Proof].
+A partire dall’8 settembre 2022, è stata rimossa la possibilità di inviare bozze via e-mail alle zone di rilascio nel prodotto autonomo[!DNL Workfront Proof].
 
 È comunque possibile utilizzare le dropzone in altri modi per inviare nuove bozze e nuove versioni delle bozze al proprio account senza dovervi accedere. Vedi [Dropzone](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/create-proofs-and-files/dropzone.html?lang=it) per ulteriori informazioni.
 
@@ -979,7 +979,7 @@ Prima di questo aggiornamento, l’oggetto ignorava il processo di approvazione 
 
 *[!UICONTROL Menu principale]*
 
-Se la tua organizzazione dispone di un sito di assistenza interno dedicato, puoi configurare l’icona [!UICONTROL Aiuto] del [!UICONTROL menu principale] per passare a quel sito. Questa opzione è utile se il sito di assistenza contiene informazioni sull’utilizzo di [!DNL Workfront] da parte dell’organizzazione.
+Se la tua organizzazione dispone di un sito di assistenza interno dedicato, puoi configurare l’icona [!UICONTROL Aiuto] del [!UICONTROL menu principale] per passare a quel sito. Questa opzione è utile se il sito di assistenza contiene informazioni sull’utilizzo di [!DNL Workfront]da parte dell’organizzazione.
 Questo URL dedicato non influisce sul collegamento della Guida principale nell’area superiore di [!DNL Workfront], né sui collegamenti di assistenza sensibili al contesto presenti in [!DNL Workfront], che portano gli utenti al sito di assistenza di [!DNL Workfront].
 
 **Impossibile selezionare il Tempo trascorso quando si modifica la [!UICONTROL Durata attività]** in linea
@@ -1287,7 +1287,7 @@ Quando un utente con un accesso a Planner che include l’accesso Amministratore
 
 *[!DNL Workfront Scenario Planner]*
 
-Ora in [!DNL Scenario Planner] è possibile ridimensionare il pannello sinistro di un piano. Ciò consente di visualizzare completamente i nomi delle iniziative più lunghi. Prima di questo aggiornamento, i nomi delle iniziative più lunghi venivano troncati.
+Ora in [!DNL Scenario Planner]è possibile ridimensionare il pannello sinistro di un piano. Ciò consente di visualizzare completamente i nomi delle iniziative più lunghi. Prima di questo aggiornamento, i nomi delle iniziative più lunghi venivano troncati.
 
 +++
 
@@ -1598,7 +1598,7 @@ Quando un utente aggiunge un’attività sotto un’attività esistente in un el
 
 *Bozze*
 
-Se un utente viene aggiunto a una fase del flusso di lavoro di una bozza, non viene aggiunto alla condivisione del documento e non ottiene le autorizzazioni per l’elemento di lavoro della bozza in [!DNL Workfront]. Quando l’utente cerca di aprire l’elemento di lavoro a cui è allegata la bozza su [!DNL Workfront], viene visualizzato il seguente messaggio:
+Se un utente viene aggiunto a una fase del flusso di lavoro di una bozza, non viene aggiunto alla condivisione del documento e non ottiene le autorizzazioni per l’elemento di lavoro della bozza in [!DNL Workfront]. Quando l’utente cerca di aprire l’elemento di lavoro a cui è allegata la bozza su[!DNL Workfront], viene visualizzato il seguente messaggio:
 
 “[!UICONTROL Livello di accesso insufficiente per visualizzare questo (oggetto)]”
 
@@ -2011,7 +2011,7 @@ Quando un utente cerca di modificare una tariffa di fatturazione nella scheda [!
 
 *Documenti*
 
-Quando un utente cerca di aprire un documento utilizzando un collegamento pubblico, si apre una pagina vuota. Ciò si verifica quando il collegamento viene aperto in una finestra in cui è aperta una sessione attiva di [!DNL Workfront].
+Quando un utente cerca di aprire un documento utilizzando un collegamento pubblico, si apre una pagina vuota. Ciò si verifica quando il collegamento viene aperto in una finestra in cui è aperta una sessione attiva di[!DNL Workfront].
 
 **Errore durante l’aggiunta di attività o problemi a un elenco**
 
@@ -2131,7 +2131,7 @@ Il rollout graduale continuerà per 2 settimane.
 
 Report
 
-Nei report dei dashboard è ora visibile una nuova barra degli strumenti. Questa barra degli strumenti fa parte degli aggiornamenti agli elenchi e ai report che coinvolgono [!DNL Workfront] complessivamente.
+Nei report dei dashboard è ora visibile una nuova barra degli strumenti. Questa barra degli strumenti fa parte degli aggiornamenti agli elenchi e ai report che coinvolgono [!DNL Workfront]complessivamente.
 
 +++
 
@@ -2152,7 +2152,7 @@ Quando un utente converte un problema in un modello che include un modulo person
 
 Quando un utente cerca di esportare la [!DNL Resource Planner] utilizzando l’opzione [!UICONTROL Visualizza per ruolo], l’esportazione non riesce e l’utente riceve un’e-mail con il seguente messaggio:
 
-Si è verificato un errore durante l’esportazione del grafico[!DNL Resource Planner].
+Si è verificato un errore durante l’esportazione del grafico [!DNL Resource Planner].
 
 **Il pulsante Copia richiesta non funziona**
 
@@ -2347,7 +2347,7 @@ Quando un utente cerca di caricare una nuova versione di un documento, la nuova 
 
 *Documenti*
 
-Quando un utente cerca di aprire un documento utilizzando un collegamento pubblico, si apre una pagina vuota. Ciò si verifica quando il collegamento viene aperto in una finestra in cui è aperta una sessione attiva di [!DNL Workfront].
+Quando un utente cerca di aprire un documento utilizzando un collegamento pubblico, si apre una pagina vuota. Ciò si verifica quando il collegamento viene aperto in una finestra in cui è aperta una sessione attiva di[!DNL Workfront].
 
 **I controlli elenco non funzionano sui report nei dashboard**
 
