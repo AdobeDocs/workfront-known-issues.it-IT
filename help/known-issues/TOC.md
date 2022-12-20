@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
+source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
 workflow-type: tm+mt
-source-wordcount: '1243'
-ht-degree: 97%
+source-wordcount: '1253'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Prove: Le bozze non annullano l’archiviazione](known-issues-workfront/wf-proofs-do-not-unarchive.md)
+      + [Documenti: Impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Rapporti: La schermata Modifica rapporto è vuota](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [Documenti: Le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Rapporti: Il report utilizza il creatore di report invece del carattere jolly &quot;$$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
@@ -83,7 +85,7 @@ ht-degree: 97%
       + [Team: l’assegnazione di più team comporta l’assegnazione di un solo team](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Schede orario: errori durante l’aggiunta di commenti a una scheda attività](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Bozze: impossibile aprire la bozza in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Bozze: impossibile aprire la bozza in  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Attività: le ore immesse nel [!UICONTROL pannello Riepilogo] dell’attività non vengono salvate](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Bozze: l’utente non viene reindirizzato alla pagina precedente al momento di chiudere la bozza](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifiche: errori durante l’accesso alle impostazioni di notifica e-mail](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
@@ -137,7 +139,7 @@ ht-degree: 97%
       + [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
-      + [Bozze: errore durante l’aggiunta della bozza a  [!DNL Workfront] da  [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [Bozze: errore durante l’aggiunta della bozza a  [!DNL Workfront]  da  [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: le notifiche e-mail subiscono ritardi](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
       + [[!DNL Workfront Proof]: richiedenti e revisori vengono conteggiati nel numero di licenze di un’organizzazione](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
       + [[!DNL Workfront Proof]: le e-mail di riepilogo giornaliero non includono un pulsante “Visualizza dettagli”](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
