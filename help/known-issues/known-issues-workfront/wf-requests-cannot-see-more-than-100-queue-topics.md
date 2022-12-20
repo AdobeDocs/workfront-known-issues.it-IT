@@ -3,9 +3,9 @@ title: '“Richieste: impossibile visualizzare più di 100 argomenti della coda 
 description: “Quando un utente visualizza un elenco di argomenti della coda con più di 100 elementi e tenta di modificare l’elenco per visualizzare più argomenti della coda per pagina oppure tutti gli argomenti della coda, l’elenco resta invariato e viene visualizzato un messaggio di errore.”
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '186'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
