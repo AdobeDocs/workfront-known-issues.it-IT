@@ -3,9 +3,9 @@ title: '“Integrazioni: il Calendario predefinito mostra gli eventi differiti d
 description: “Quando il Calendario predefinito di un utente è integrato con Workfront e l’utente visualizza i calendari, gli eventi visualizzati in Workfront sono differiti di un’ora rispetto agli stessi eventi visualizzati in Outlook. Ad esempio, un evento visualizzato in Outlook alle 10:00 in Workfront slitta alle 11:00.”
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
