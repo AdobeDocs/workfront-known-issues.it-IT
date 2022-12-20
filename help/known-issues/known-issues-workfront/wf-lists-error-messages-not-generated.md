@@ -3,9 +3,9 @@ title: '“Elenchi: gli errori di modifica in linea da parte dell’utente non g
 description: “Quando un utente modifica in linea un oggetto e compie un errore che dovrebbe generare un messaggio di errore, non viene visualizzato alcun messaggio di errore. L’errore stesso non viene salvato in Workfront, pertanto i dati non vengono interessati, ma l’assenza di un messaggio di errore può causare confusione.”
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 1° dicembre 2022.
+>Questo problema è stato risolto il 1 dicembre 2022.
 
 Quando un utente modifica in linea un oggetto e compie un errore che dovrebbe generare un messaggio di errore, non viene visualizzato alcun messaggio di errore. L’errore stesso non viene salvato in Workfront, pertanto i dati non vengono interessati, ma l’assenza di un messaggio di errore può causare confusione.
 
