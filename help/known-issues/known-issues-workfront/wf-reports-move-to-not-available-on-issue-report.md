@@ -3,9 +3,9 @@ title: '“Rapporti: l’opzione Copia in non disponibile nei Rapporti sui probl
 description: “Quando un utente visualizza il rapporto relativo a un problema e tenta di spostarlo, l’opzione Copia in non è disponibile nel menu Altro (tre punti).”
 hidefromtoc: true
 source-git-commit: 2951a566384274e5f32544dd8be1872f3850af94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 1° dicembre 2022.
+>Questo problema è stato risolto il 1 dicembre 2022.
 
 Quando un utente visualizza una relazione del problema e tenta di spostarlo, l’opzione “Copia in” non è disponibile nel menu Altro (a tre punti).
 
