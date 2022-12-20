@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
-user-guide-description: Problemi noti per [!DNL Adobe Workfront]
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
+user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
+source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
 workflow-type: tm+mt
-source-wordcount: '1237'
-ht-degree: 94%
+source-wordcount: '1243'
+ht-degree: 97%
 
 ---
 
@@ -14,20 +14,21 @@ ht-degree: 94%
 + [Panoramica](overview.md)
 
 + [!DNL Adobe Workfront] {#new-workfront-experience}
-   + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
+   + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporti: La schermata Modifica rapporto è vuota](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [Documenti: Le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Rapporti: Il report utilizza il creatore di report invece del carattere jolly &quot;$$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
-      + [Documenti: Impossibile caricare il file MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
-      + [Integrazioni: Impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
-      + [Attività: Impossibile aggiungere l&#39;attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
-      + [Fogli orari: Impossibile immettere l&#39;ora nella scheda attività](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
-      + [Prove: Lo stato della bozza non viene aggiornato in [!UICONTROL Documento] elenchi](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
-      + [Progetti: Lo stato del progetto non segue le preferenze del progetto Gruppo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
-      + [Progetti: Errore &quot;Whoops&quot; durante la creazione di un progetto da un modello](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
+      + [Documenti: impossibile caricare il file MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
+      + [Integrazioni: impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
+      + [Attività: impossibile aggiungere l’attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
+      + [Schede orario: impossibile immettere l&#39;ora nella scheda orario](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
+      + [Progetti: lo stato del progetto non segue le preferenze di progetto del gruppo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
+      + [Progetti: errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
       + [[!UICONTROL Home]: impossibile rimuovere un’assegnazione di un problema nella [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-remove-assignment.md)
       + [Schede orario: scheda orario non generata](known-issues-workfront/wf-timesheets-timesheet-not-generated.md)
-      + [Integrazioni: impossibile accedere agli elementi di integrazione  [!DNL Workfront for Jira] ](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
+      + [Integrazioni: impossibile accedere agli elementi di integrazione [!DNL Workfront for Jira] ](known-issues-workfront/wf-integrations-pages-are-blank-in-jira-integration.md)
       + [Moduli personalizzati: impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md)
       + [Agile: errore durante lo spostamento di elementi di lavoro in un’iterazione](known-issues-workfront/wf-agile-cannot-move-item-to-iteration.md)
       + [Schede orario: utenti disattivati disponibili quando si seleziona l’approvatore della scheda orario](known-issues-workfront/wf-timesheets-deactivated-users-available-in-approver-list.md)
@@ -39,7 +40,7 @@ ht-degree: 94%
       + [Report: il grafico combinato visualizza gli stessi dati due volte](known-issues-workfront/wf-reports-chart-does-not-compare-different-items.md)
       + [Bozze: l’aggiunta di messaggi personalizzati causa un problema in Visualizzatore bozze](known-issues-workfront/wf-proofs-cannot-add-custom-message.md)
       + [Bozze: Riepilogo stampa non mostra la miniatura dell’immagine](known-issues-workfront/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
-      + [Integrazioni: il [!UICONTROL Calendario predefinito] mostra gli eventi differiti di un’ora rispetto a  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
+      + [Integrazioni: il [!UICONTROL Calendario predefinito] mostra gli eventi differiti di un’ora rispetto a [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-calendar-is-an-hour-off.md)
       + [Modelli di layout: quando si nasconde un elemento, viene nascosto l’elemento sbagliato](known-issues-workfront/wf-layout-templates-hiding-item-not-correct.md)
       + [Attività: la modifica in blocco delle attività cambia le assegnazioni delle attività](known-issues-workfront/wf-tasks-assignments-changed-when-bulk-editing.md)
       + [Agile: l’attività ha un ordine di backlog Kanban pari a 0](known-issues-workfront/wf-agile-task-has-backlog-order-0.md)
@@ -48,7 +49,7 @@ ht-degree: 94%
       + [Richieste: messaggio di errore quando si modifica la coda delle richieste](known-issues-workfront/wf-requests-error-message-when-editing-queue.md)
       + [Elenchi: gli errori di modifica in linea da parte dell’utente non generano messaggi di errore](known-issues-workfront/wf-lists-error-messages-not-generated.md)
       + [Ricerca: la ricerca è estremamente lenta](known-issues-workfront/wf-search-basic-search-is-slow.md)
-      + [[!DNL Workfront Fusion]: errori 404 nei moduli  [!DNL Workfront] ](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
+      + [[!DNL Workfront Fusion]: errori 404 nei moduli [!DNL Workfront] ](known-issues-workfront-fusion/fusion-404-error-in-wf-module.md)
       + [API: impossibile ordinare per campi dinamici](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Bozze: la generazione di bozze è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md)
       + [Progetti: problemi di prestazioni e messaggio di errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
@@ -82,7 +83,7 @@ ht-degree: 94%
       + [Team: l’assegnazione di più team comporta l’assegnazione di un solo team](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Schede orario: errori durante l’aggiunta di commenti a una scheda attività](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Bozze: impossibile aprire la bozza in  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Bozze: impossibile aprire la bozza in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Attività: le ore immesse nel [!UICONTROL pannello Riepilogo] dell’attività non vengono salvate](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Bozze: l’utente non viene reindirizzato alla pagina precedente al momento di chiudere la bozza](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifiche: errori durante l’accesso alle impostazioni di notifica e-mail](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
@@ -93,14 +94,14 @@ ht-degree: 94%
       + [Report: problemi durante la creazione e la modifica di report in [!UICONTROL Report builder]](known-issues-workfront/wf-reports-builder-degraded-performance.md)
       + [Moduli personalizzati: i campi di testo descrittivo mostrano una descrizione](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [Integrazioni: errore 404 durante l’aggiunta di un documento da [!DNL SharePoint] [!UICONTROL (API grafica)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
-      + [Integrazioni: il proprietario della cartella  [!DNL SharePoint]  non è in grado di visualizzarla](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
+      + [Integrazioni: il proprietario della cartella  [!DNL SharePoint] non è in grado di visualizzarla](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
       + [Integrazioni: errore durante l’invio della richiesta da [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [Schede orario: errore “[!UICONTROL Qualcun altro ha provato a salvare questo progetto]” durante l’immissione delle ore](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [Dashboard: impossibile accedere al dashboard dal menu di navigazione a sinistra di un oggetto](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [Attività e problemi: uscita involontaria durante la creazione di attività o problemi](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
       + [Aggiornamenti: non è possibile chiudere la scheda utente nel flusso di aggiornamento](known-issues-workfront/wf-updates-cant-close-user-card.md)
       + [Richieste: impossibile aprire le pagine dell’elenco richieste oltre la prima pagina](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto  [!DNL Workfront]  su Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto  [!DNL Workfront] su Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Notifiche: gli utenti non ricevono una notifica e-mail quando sono menzionati in un commento](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
       + [Schede orario: errore “Le modifiche recenti non sono state salvate” durante il salvataggio automatico delle modifiche su una scheda orario](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
       + [Dashboard: i colori dei grafici del report mostrati in un dashboard sono diversi rispetto a quelli presenti nel report](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
@@ -112,11 +113,11 @@ ht-degree: 94%
       + [[!UICONTROL Home]: problemi relativi al riepilogo della [!UICONTROL Home] quando si utilizzano browser diversi da [!DNL Chrome]](known-issues-workfront/wf-home-summary-issues-when-not-using-chrome.md)
       + [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a]](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md)
       + [Aggiornamenti: il nome del team non viene visualizzato in @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md)
-      + [Calendari: problemi relativi al calendario [!UICONTROL Indisponibilità] ](known-issues-workfront/wf-calendars-issue-time-off.md)
+      + [Calendari: problemi relativi al calendario [!UICONTROL Indisponibilità]](known-issues-workfront/wf-calendars-issue-time-off.md)
       + [Agile: discrepanza in [!UICONTROL Punti completati] per un’iterazione](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md)
       + [Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [Notifiche e-mail: l’utente non viene indirizzato al thread di commenti](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md)
-      + [Calendari: l’istruzione di filtro  [!DNL OR]  esclude la regola di filtro](known-issues-workfront/wf-calendars-or-filter-statement.md)
+      + [Calendari: l’istruzione di filtro  [!DNL OR] esclude la regola di filtro](known-issues-workfront/wf-calendars-or-filter-statement.md)
       + [Report: impossibile scorrere il report in orizzontale durante la visualizzazione nel dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md)
       + [[!UICONTROL Home]: il nome del progetto viene visualizzato come GUID in [!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-project-name-shows-as-guid.md)
       + [“Report: il calendario utilizza date precedenti per impostazione predefinita”](known-issues-workfront/wf-reports-caledar-defaults-to-old-dates.md)
@@ -130,13 +131,13 @@ ht-degree: 94%
 
 
 + [!DNL Workfront Proof] {#proof}
-   + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
+   + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
       + [[!DNL Workfront Proof]: impossibile aprire una bozza interattiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
-      + [Bozze: errore durante l’aggiunta della bozza a  [!DNL Workfront]  da  [!DNL Workfront]  Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [Bozze: errore durante l’aggiunta della bozza a  [!DNL Workfront] da  [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: le notifiche e-mail subiscono ritardi](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
       + [[!DNL Workfront Proof]: richiedenti e revisori vengono conteggiati nel numero di licenze di un’organizzazione](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
       + [[!DNL Workfront Proof]: le e-mail di riepilogo giornaliero non includono un pulsante “Visualizza dettagli”](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
@@ -155,27 +156,27 @@ ht-degree: 94%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: impossibile creare la connessione a  [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
+      + [[!DNL Workfront Fusion]: impossibile creare la connessione a [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: gli elementi array nel modulo [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
-      + [[!DNL Workfront Fusion]: errore 409 nello scenario  [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
+      + [[!DNL Workfront Fusion]: errore 409 nello scenario [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: errore “[!UICONTROL Impossibile caricare i dati]”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
-      + [Il modulo [!DNL Workfront Fusion]:  [!DNL Workfront]  > [!UICONTROL Chiamata API personalizzata] che restituisce errori 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [Il modulo [!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL Chiamata API personalizzata] che restituisce errori 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Il modulo  [!DNL Adobe PDF Services]  > [!UICONTROL Estrai testo] non produce alcun testo](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: errore “Impossibile verificare la connessione”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: il modulo non si carica durante la creazione o la modifica di uno scenario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: il modulo di  [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]: impossibile connettersi al modulo MS Dynamics in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
-      + [I collegamenti di aiuto in-app [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
+      + [I collegamenti di aiuto in-app [!DNL Workfront Fusion]non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
-   + [Problemi noti in  [!DNL Workfront Goals]](workfrontgoals.md)
+   + [Problemi noti in [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
-   + [Problemi noti in  [!DNL Workfront Library]](workfrontlibrary.md)
+   + [Problemi noti in [!DNL Workfront Library]](workfrontlibrary.md)
 + [!DNL Workfront] Mobile App {#mobile}
-   + [Problemi noti nell’app mobile  [!DNL Workfront] ](workfrontmobile.md)
+   + [Problemi noti nell’app mobile [!DNL Workfront] ](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
-   + [Problemi noti in  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
+   + [Problemi noti in [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
 
 <!--
 

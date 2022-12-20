@@ -1,12 +1,12 @@
 ---
-title: Problemi noti nella nuova esperienza  [!DNL Adobe Workfront]
+title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
+source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
 workflow-type: tm+mt
-source-wordcount: '594'
-ht-degree: 90%
+source-wordcount: '601'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | -----------------------------------------------------------------| ----------------- |
 | [Documenti: Le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 dicembre 2022 |
 | [Rapporti: Il report utilizza il creatore di report invece del carattere jolly &quot;$$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md) | 13 dicembre 2022 |
-| [Integrazioni: Impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 7 dicembre 2022 |
+| [Integrazioni: impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 7 dicembre 2022 |
 | [Bozze: le bozze vengono visualizzate nel Visualizzatore bozze in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
 | [Bozze: la generazione di bozze è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 ottobre 2022 |
 | [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 ottobre 2022 |
@@ -40,8 +40,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenti: Impossibile caricare il file MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 dicembre 2022 |
-| [Attività: Impossibile aggiungere l&#39;attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 dicembre 2022 |
+| [Rapporti: La schermata Modifica rapporto è vuota](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 dicembre 2022 |
+| [Documenti: impossibile caricare il file MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md) | 8 dicembre 2022 |
+| [Attività: impossibile aggiungere l’attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 dicembre 2022 |
 | [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 dicembre 2022 |
 | [Moduli personalizzati: impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 28 novembre 2022 |
 | [Report: errore durante l’aggiunta di un nuovo problema a un report sui problemi](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
@@ -57,7 +58,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Prove: Lo stato della bozza non viene aggiornato in [!UICONTROL Documento] elenchi](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
+| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [Attività: le ore immesse nel [!UICONTROL pannello di Riepilogo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) dell’Attività non vengono salvate | 2 dicembre 2022 |
 | [Progetti: problemi di prestazioni e messaggio di errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-issues-when-creating-project-from-template.md) | 2 dicembre 2022 |
 | [Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 novembre 2022 |
@@ -79,7 +80,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [[!UICONTROL Home]: il comportamento del pulsante [!UICONTROL Rispondi nella bozza] è incoerente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 giugno 2021 |
 | [Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”](known-issues-workfront/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 giugno 2021 |
 | [Notifiche e-mail: l’utente non viene indirizzato al thread di commenti](known-issues-workfront/wf-email-notif-user-not-directed-to-thread.md) | 23 aprile 2021 |
-| [Calendari: l’istruzione di filtro  [!DNL OR]  esclude la regola di filtro](known-issues-workfront/wf-calendars-or-filter-statement.md) | 23 aprile 2021 |
+| [Calendari: l’istruzione di filtro  [!DNL OR] esclude la regola di filtro](known-issues-workfront/wf-calendars-or-filter-statement.md) | 23 aprile 2021 |
 | [[!UICONTROL Workfront Proof]: il report [!UICONTROL Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 aprile 2021 |
 | [Report: impossibile scorrere il report in orizzontale durante la visualizzazione nel dashboard](known-issues-workfront/wf-reports-cannot-scroll-horizontally.md) | 30 marzo 2021 |
 | [[!UICONTROL Home]: il nome del progetto viene visualizzato come GUID in [!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-project-name-shows-as-guid.md) | 11 febbraio 2021 |
