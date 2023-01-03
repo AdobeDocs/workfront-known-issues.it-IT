@@ -3,7 +3,7 @@ title: '“Progetti: errore durante la creazione di un progetto da un modello”
 description: “Quando un utente tenta di creare un progetto da un modello, il progetto non viene creato e l’utente visualizza l’errore Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.”
 hidefromtoc: true
 source-git-commit: da562182a96fffe9bde86a4da2ecdf8072505c20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
