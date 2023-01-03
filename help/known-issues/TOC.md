@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
 workflow-type: tm+mt
-source-wordcount: '1253'
-ht-degree: 96%
+source-wordcount: '1268'
+ht-degree: 98%
 
 ---
 
@@ -16,11 +16,12 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Forms personalizzato: Ctrl+F o Comando+F non funziona come previsto nei campi a discesa](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Prove: Le bozze non annullano l’archiviazione](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documenti: Impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
-      + [Rapporti: La schermata Modifica rapporto è vuota](known-issues-workfront/wf-reports-edit-report-is-blank.md)
-      + [Documenti: Le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
-      + [Rapporti: Il report utilizza il creatore di report invece del carattere jolly &quot;$$$[!UICONTROL USERID]&quot;](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
+      + [Report: la schermata Edit Report (Modifica report) è vuota](known-issues-workfront/wf-reports-edit-report-is-blank.md)
+      + [Documenti: le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
+      + [Report: il report utilizza il creatore di report invece del carattere jolly “$$[!UICONTROL USERID]”](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Documenti: impossibile caricare il file MP4](known-issues-workfront/wf-documents-cannot-upload-mp4.md)
       + [Integrazioni: impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Attività: impossibile aggiungere l’attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
@@ -163,7 +164,7 @@ ht-degree: 96%
       + [[!DNL Workfront Fusion]: errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
       + [[!DNL Workfront Fusion]: errore 409 nello scenario [!DNL Fusion] ](known-issues-workfront-fusion/fusion-409-error.md)
       + [[!DNL Workfront Fusion]: errore “[!UICONTROL Impossibile caricare i dati]”](known-issues-workfront-fusion/fusion-failed-to-load-data-error.md)
-      + [Il modulo [!DNL Workfront Fusion]:  [!DNL Workfront] > [!UICONTROL Chiamata API personalizzata] che restituisce errori 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [Il modulo [!DNL Workfront Fusion]:  [!DNL Workfront]  > [!UICONTROL Chiamata API personalizzata] che restituisce errori 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: Il modulo  [!DNL Adobe PDF Services]  > [!UICONTROL Estrai testo] non produce alcun testo](known-issues-workfront-fusion/fusion-pdf-extract-text.md)
       + [[!DNL Workfront Fusion]: errore “Impossibile verificare la connessione”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + [[!DNL Workfront Fusion]: il modulo non si carica durante la creazione o la modifica di uno scenario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
