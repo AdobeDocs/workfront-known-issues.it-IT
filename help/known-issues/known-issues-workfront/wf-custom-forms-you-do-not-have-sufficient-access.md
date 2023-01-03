@@ -3,7 +3,7 @@ title: '“Moduli personalizzati: errore Livello di accesso insufficiente quando
 description: '“Quando un utente tenta di apportare qualsiasi modifica a un modulo personalizzato, la modifica non viene salvata e l’utente visualizza l’errore: Livello di accesso insufficiente per modificare questo parametro”'
 hidefromtoc: true
 source-git-commit: 7bb0987beff9127e4f5ebf82401f5243712f45f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
