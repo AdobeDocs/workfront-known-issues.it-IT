@@ -1,18 +1,18 @@
 ---
-title: "Rapporti: La schermata Modifica rapporto è vuota"
-description: "Quando un utente visualizza un rapporto e tenta di modificarlo, viene visualizzata una schermata vuota e non può modificarlo."
+title: '“Report: la schermata Edit Report (Modifica report) è vuota”'
+description: “Quando un utente visualizza un report e tenta di modificarlo, viene visualizzata una schermata vuota e non può modificarlo”.
 hidefromtoc: true
 source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Rapporti: [!UICONTROL Modifica rapporto] schermo vuoto
+# Report: la schermata [!UICONTROL Edit Report] (Modifica report) è vuota
 
-Quando un utente visualizza un rapporto e tenta di modificarlo, viene visualizzata una schermata vuota e non può modificarlo.
+Quando un utente visualizza un report e tenta di modificarlo, viene visualizzata una schermata vuota e non può modificarlo.
 
 **Soluzione alternativa**
 
