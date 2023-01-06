@@ -4,8 +4,8 @@ description: "Quando un utente visualizza un elenco di attività e fa rientrare 
 hidefromtoc: true
 source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

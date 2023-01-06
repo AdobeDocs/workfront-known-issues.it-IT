@@ -4,8 +4,8 @@ description: "Quando un utente tenta di aggiungere un documento a Workfront da G
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 16%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
