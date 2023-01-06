@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
+source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
 workflow-type: tm+mt
-source-wordcount: '1268'
-ht-degree: 98%
+source-wordcount: '1284'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: Le attività rientrate non rimangono rientrate](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [Aggiornamenti: Lo schermo viene temporaneamente lasciato vuoto quando la risposta viene inviata](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Forms personalizzato: Ctrl+F o Comando+F non funziona come previsto nei campi a discesa](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Prove: Le bozze non annullano l’archiviazione](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documenti: Impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
