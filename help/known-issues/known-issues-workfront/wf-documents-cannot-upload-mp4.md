@@ -2,15 +2,19 @@
 title: '“Documenti: impossibile caricare il file MP4”'
 description: “Quando un utente tenta di caricare un file MP4, il file non viene caricato e l’utente visualizza l’errore Impossibile caricare il file.”
 hidefromtoc: true
-source-git-commit: 40a8c48b51e1da690aa0622606c40ebfd8df4e8e
-workflow-type: ht
-source-wordcount: '62'
+source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+workflow-type: tm+mt
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
 
 
 # Documenti: impossibile caricare il file MP4
+
+>[!NOTE]
+>
+>Questa segnalazione è stata chiusa perché il problema non sussiste.
 
 Quando un utente tenta di caricare un file MP4, il file non viene caricato e l’utente visualizza l’errore “Impossibile caricare il file.”
 
