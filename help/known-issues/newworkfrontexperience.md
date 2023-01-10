@@ -3,9 +3,9 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '624'
+source-wordcount: '628'
 ht-degree: 93%
 
 ---
@@ -44,7 +44,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Forms personalizzato: Ctrl+F o Comando+F non funziona come previsto nei campi a discesa](known-issues-workfront/wf-custom-forms-dropdown-search.md) | 3 gennaio 2023 |
 | [Prove: Le bozze non annullano l’archiviazione](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 dicembre 2022 |
 | [Report: la schermata Edit Report (Modifica report) è vuota](known-issues-workfront/wf-reports-edit-report-is-blank.md) | 20 dicembre 2022 |
-| [Attività: impossibile aggiungere l’attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md) | 7 dicembre 2022 |
 | [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 dicembre 2022 |
 | [Report: errore durante l’aggiunta di un nuovo problema a un report sui problemi](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
 | [Integrazioni: errore durante l’invio della richiesta da [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 agosto 2022 |
@@ -58,6 +57,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: le bozze completate rimangono bloccate nella sezione [!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
 | [Moduli personalizzati: impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 gennaio 2023 |
 | [Progetti: lo stato del progetto non segue le preferenze di progetto del gruppo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6 gennaio 2023 |
 | [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |

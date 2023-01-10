@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 765a69f5f29836e6296a79688c555d681964a6ba
+source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
 workflow-type: tm+mt
-source-wordcount: '1284'
+source-wordcount: '1292'
 ht-degree: 96%
 
 ---
@@ -138,6 +138,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof] API: &quot;[!UICONTROL Corpo non valido]&quot; Errore](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof]: impossibile aprire una bozza interattiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)

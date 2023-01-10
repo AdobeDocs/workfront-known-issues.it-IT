@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: c3f753f5cba03766f04f530edee1a726142475f5
+source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 95%
+source-wordcount: '245'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof] API: &quot;[!UICONTROL Corpo non valido]&quot; Errore](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 10 gennaio 2023 |
 | [Documenti: Impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 dicembre 2022 |
 | [Documenti: le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 dicembre 2022 |
 | [Bozze: le bozze vengono visualizzate nel Visualizzatore bozze in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
@@ -46,6 +47,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: le bozze completate rimangono bloccate nella sezione [!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
 | [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 settembre 2022 |
 | [Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
