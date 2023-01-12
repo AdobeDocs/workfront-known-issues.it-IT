@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 63%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di gennaio 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 12 gennaio 2023**
++++**Aggiornamento di manutenzione del 12 gennaio 2023**
 
 **Ctrl+F o Comando+F non funziona come previsto nei campi a discesa**
 

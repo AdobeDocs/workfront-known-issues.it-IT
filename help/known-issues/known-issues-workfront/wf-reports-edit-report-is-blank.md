@@ -2,15 +2,19 @@
 title: '“Report: la schermata Edit Report (Modifica report) è vuota”'
 description: “Quando un utente visualizza un report e tenta di modificarlo, viene visualizzata una schermata vuota e non può modificarlo”.
 hidefromtoc: true
-source-git-commit: bb8f680e66310afda9544de28dc2dc3ceceda1f7
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Report: la schermata [!UICONTROL Edit Report] (Modifica report) è vuota
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 12 gennaio 2023.
 
 Quando un utente visualizza un report e tenta di modificarlo, viene visualizzata una schermata vuota e non può modificarlo.
 
