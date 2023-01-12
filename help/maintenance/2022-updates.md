@@ -1,10 +1,10 @@
 ---
 title: Aggiornamenti di manutenzione per Workfront nel 2022
-description: Aggiornamenti di manutenzione 2022 per [!DNL Adobe Workfront]
+description: Aggiornamenti di manutenzione 2022 per  [!DNL Adobe Workfront]
 source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16739'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2022.
 
 >[!NOTE]
 >
->Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront]ti avvisa quando viene risolto un problema che hai segnalato.
+>Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 <!--
 * [July 2022](#updates-in-july-2022)
@@ -43,7 +43,7 @@ Negli elenchi sono ora disponibili le seguenti funzioni di accessibilità:
 * In precedenza, quando si apriva un menu a discesa in un elenco con il tasto Spazio, il menu si apriva e la pagina scorreva anche leggermente verso il basso, operazione non prevista. Ora la pagina non scorre più premendo Spazio su un menu a discesa, che è il comportamento corretto desiderato.
 * Quando si visualizza un elenco con la casella di controllo della riga selezionata, è ora possibile spostarsi tra le voci modificabili usando il tasto Tab, quindi premere il tasto Spazio per passare alla modalità Edit (Modifica) e iniziare a modificare la cella nella riga. In precedenza, questi elementi non erano navigabili da tastiera e richiedevano l’uso del mouse. Il passaggio alla modalità Edit (Modifica) è compatibile sia con il mouse che con la tastiera.
 
-**“[!UICONTROL Ops]” errore durante la creazione di un progetto da un modello**
+**“Errore [!UICONTROL Ops]” durante la creazione di un progetto da un modello**
 
 *Progetti*
 
@@ -544,7 +544,7 @@ Se un ruolo di lavoro per il quale hai effettuato l’accesso è cambiato e l’
 
 Quando un utente che sta visualizzando una bozza in [!DNL Workfront] chiude la bozza, non viene reindirizzato alla pagina in cui si trovava prima di aprire la bozza. Viene invece reindirizzato a un’altra pagina in [!DNL Workfront].
 
-**Impossibile aprire la bozza in[!DNL Workfront]**
+**Impossibile aprire la bozza in [!DNL Workfront]**
 
 *Bozze*
 
@@ -927,7 +927,7 @@ Sono stati segnalati i seguenti problemi relativi alla creazione delle schede or
 
 **Alcune aree di [!DNL Workfront Proof] non si aggiornano quando viene creata, spostata o archiviata una bozza**
 
-*[!DNL Workfront]Bozza*
+*[!DNL Workfront] Bozza*
 
 Al momento Proof sta riscontrando ritardi nell’indicizzazione. Ciò può influire sull’esperienza dell’utente in vari modi, tra cui i seguenti:
 
@@ -978,7 +978,7 @@ Prima di questo aggiornamento, l’oggetto ignorava il processo di approvazione 
 
 *[!UICONTROL Menu principale]*
 
-Se la tua organizzazione dispone di un sito di assistenza interno dedicato, puoi configurare l’icona [!UICONTROL Aiuto] del [!UICONTROL menu principale] per passare a quel sito. Questa opzione è utile se il sito di assistenza contiene informazioni sull’utilizzo di [!DNL Workfront]da parte dell’organizzazione.
+Se la tua organizzazione dispone di un sito di assistenza interno dedicato, puoi configurare l’icona [!UICONTROL Aiuto] del [!UICONTROL menu principale] per passare a quel sito. Questa opzione è utile se il sito di assistenza contiene informazioni sull’utilizzo di [!DNL Workfront] da parte dell’organizzazione.
 Questo URL dedicato non influisce sul collegamento della Guida principale nell’area superiore di [!DNL Workfront], né sui collegamenti di assistenza sensibili al contesto presenti in [!DNL Workfront], che portano gli utenti al sito di assistenza di [!DNL Workfront].
 
 **Impossibile selezionare il Tempo trascorso quando si modifica la [!UICONTROL Durata attività]** in linea
@@ -1063,13 +1063,13 @@ Per migliorare le prestazioni dell’area [!UICONTROL Aggiornamenti], è stato i
 
 *Integrazioni di Workfront*
 
-Quando un utente cerca di caricare un allegato utilizzando l’integrazione di [!DNL Workfront for Outlook]per Outlook, l’allegato non viene caricato e l’utente visualizza il seguente messaggio:
+Quando un utente cerca di caricare un allegato utilizzando l’integrazione di [!DNL Workfront for Outlook] per Outlook, l’allegato non viene caricato e l’utente visualizza il seguente messaggio:
 
 [!UICONTROL Alcuni allegati non sono stati caricati. Motivo: si è verificato un errore nel caricamento degli allegati.]
 
 **Aggiornamento delle notifiche e-mail delle bozze**
 
-*[!DNL Workfront]Bozza*
+*[!DNL Workfront] Bozza*
 
 All’inizio di questo mese, nell’ambito di una patch dell’ambiente di produzione di [!DNL Workfront], sono stati corretti alcuni bug del sistema di notifica e-mail delle bozze. Questa modifica non è stata comunicata nell’aggiornamento di manutenzione al momento del rilascio. Abbiamo aggiunto le seguenti informazioni all’[aggiornamento di manutenzione del 2 giugno 2022](#maintenance-update-on-june-2-2022) :
 
@@ -1296,7 +1296,7 @@ Ora in [!DNL Scenario Planner]è possibile ridimensionare il pannello sinistro d
 
 *[!DNL Workfront Fusion]*
 
-Quando un utente configura un modulo [!DNL Workfront] in [!DNL Workfront Fusion]e tenta di selezionare i relativi output, i campi dei moduli personalizzati non sono visibili. Ciò si verifica quando il modulo personalizzato è stato creato per un tipo di oggetto [!DNL Workfront] e successivamente ne è stato aggiunto un altro tipo. [!DNL Workfront Fusion] visualizza solo i campi dei moduli personalizzati originariamente creati per il tipo di oggetto selezionato.
+Quando un utente configura un modulo [!DNL Workfront] in [!DNL Workfront Fusion] e tenta di selezionare i relativi output, i campi dei moduli personalizzati non sono visibili. Ciò si verifica quando il modulo personalizzato è stato creato per un tipo di oggetto [!DNL Workfront] e successivamente ne è stato aggiunto un altro tipo. [!DNL Workfront Fusion] visualizza solo i campi dei moduli personalizzati originariamente creati per il tipo di oggetto selezionato.
 
 **Impossibile scorrere per visualizzare tutte le esecuzioni dello scenario**
 
@@ -1597,7 +1597,7 @@ Quando un utente aggiunge un’attività sotto un’attività esistente in un el
 
 *Bozze*
 
-Se un utente viene aggiunto a una fase del flusso di lavoro di una bozza, non viene aggiunto alla condivisione del documento e non ottiene le autorizzazioni per l’elemento di lavoro della bozza in [!DNL Workfront]. Quando l’utente cerca di aprire l’elemento di lavoro a cui è allegata la bozza su[!DNL Workfront], viene visualizzato il seguente messaggio:
+Se un utente viene aggiunto a una fase del flusso di lavoro di una bozza, non viene aggiunto alla condivisione del documento e non ottiene le autorizzazioni per l’elemento di lavoro della bozza in [!DNL Workfront]. Quando l’utente cerca di aprire l’elemento di lavoro a cui è allegata la bozza su [!DNL Workfront], viene visualizzato il seguente messaggio:
 
 “[!UICONTROL Livello di accesso insufficiente per visualizzare questo (oggetto)]”
 
@@ -2010,7 +2010,7 @@ Quando un utente cerca di modificare una tariffa di fatturazione nella scheda [!
 
 *Documenti*
 
-Quando un utente cerca di aprire un documento utilizzando un collegamento pubblico, si apre una pagina vuota. Ciò si verifica quando il collegamento viene aperto in una finestra in cui è aperta una sessione attiva di[!DNL Workfront].
+Quando un utente cerca di aprire un documento utilizzando un collegamento pubblico, si apre una pagina vuota. Ciò si verifica quando il collegamento viene aperto in una finestra in cui è aperta una sessione attiva di [!DNL Workfront].
 
 **Errore durante l’aggiunta di attività o problemi a un elenco**
 
@@ -2130,7 +2130,7 @@ Il rollout graduale continuerà per 2 settimane.
 
 Report
 
-Nei report dei dashboard è ora visibile una nuova barra degli strumenti. Questa barra degli strumenti fa parte degli aggiornamenti agli elenchi e ai report che coinvolgono [!DNL Workfront]complessivamente.
+Nei report dei dashboard è ora visibile una nuova barra degli strumenti. Questa barra degli strumenti fa parte degli aggiornamenti agli elenchi e ai report che coinvolgono [!DNL Workfront] complessivamente.
 
 +++
 
@@ -2346,7 +2346,7 @@ Quando un utente cerca di caricare una nuova versione di un documento, la nuova 
 
 *Documenti*
 
-Quando un utente cerca di aprire un documento utilizzando un collegamento pubblico, si apre una pagina vuota. Ciò si verifica quando il collegamento viene aperto in una finestra in cui è aperta una sessione attiva di[!DNL Workfront].
+Quando un utente cerca di aprire un documento utilizzando un collegamento pubblico, si apre una pagina vuota. Ciò si verifica quando il collegamento viene aperto in una finestra in cui è aperta una sessione attiva di [!DNL Workfront].
 
 **I controlli elenco non funzionano sui report nei dashboard**
 
