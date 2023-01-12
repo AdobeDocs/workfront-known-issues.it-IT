@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
 workflow-type: tm+mt
 source-wordcount: '1292'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 96%
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Attività: Le attività rientrate non rimangono rientrate](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Aggiornamenti: Lo schermo viene temporaneamente lasciato vuoto quando la risposta viene inviata](known-issues-workfront/wf-updates-reply-goes-blank.md)
-      + [Forms personalizzato: Ctrl+F o Comando+F non funziona come previsto nei campi a discesa](known-issues-workfront/wf-custom-forms-dropdown-search.md)
-      + [Prove: Le bozze non annullano l’archiviazione](known-issues-workfront/wf-proofs-do-not-unarchive.md)
-      + [Documenti: Impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
+      + [Moduli personalizzati: Ctrl+F o Comando+F non funziona come previsto nei campi a discesa](known-issues-workfront/wf-custom-forms-dropdown-search.md)
+      + [Bozze: non è possibile annullare l’archiviazione delle bozze](known-issues-workfront/wf-proofs-do-not-unarchive.md)
+      + [Documenti: impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
       + [Report: la schermata Edit Report (Modifica report) è vuota](known-issues-workfront/wf-reports-edit-report-is-blank.md)
       + [Documenti: le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto](known-issues-workfront/wf-documents-permissions-not-inherited.md)
       + [Report: il report utilizza il creatore di report invece del carattere jolly “$$[!UICONTROL USERID]”](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
@@ -88,7 +88,7 @@ ht-degree: 96%
       + [Team: l’assegnazione di più team comporta l’assegnazione di un solo team](known-issues-workfront/wf-teams-multiple-team-assignments.md)
       + [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Schede orario: errori durante l’aggiunta di commenti a una scheda attività](known-issues-workfront/wf-timesheets-permissions-error-when-adding-hours.md)
-      + [Bozze: impossibile aprire la bozza in  [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
+      + [Bozze: impossibile aprire la bozza in [!DNL Workfront]](known-issues-workfront/wf-cannot-open-proof-returns-to-doc-details.md)
       + [Attività: le ore immesse nel [!UICONTROL pannello Riepilogo] dell’attività non vengono salvate](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Bozze: l’utente non viene reindirizzato alla pagina precedente al momento di chiudere la bozza](known-issues-workfront/wf-proofs-user-redirected-to-random-page-when-closing-proof.md)
       + [Notifiche: errori durante l’accesso alle impostazioni di notifica e-mail](known-issues-workfront/wf-notifications-preview-errors-with-options.md)
@@ -106,7 +106,7 @@ ht-degree: 96%
       + [Attività e problemi: uscita involontaria durante la creazione di attività o problemi](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
       + [Aggiornamenti: non è possibile chiudere la scheda utente nel flusso di aggiornamento](known-issues-workfront/wf-updates-cant-close-user-card.md)
       + [Richieste: impossibile aprire le pagine dell’elenco richieste oltre la prima pagina](known-issues-workfront/wf-requests-cannot-open-second-page-of-requests-list.md)
-      + [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto  [!DNL Workfront] su Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto [!DNL Workfront]  su Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Notifiche: gli utenti non ricevono una notifica e-mail quando sono menzionati in un commento](known-issues-workfront/wf-notif-users-not-receive-email-when-mentioned.md)
       + [Schede orario: errore “Le modifiche recenti non sono state salvate” durante il salvataggio automatico delle modifiche su una scheda orario](known-issues-workfront/wf-timesheets-recent-changes-not-saved-error.md)
       + [Dashboard: i colori dei grafici del report mostrati in un dashboard sono diversi rispetto a quelli presenti nel report](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
@@ -173,7 +173,7 @@ ht-degree: 96%
       + [[!DNL Workfront Fusion]: il modulo non si carica durante la creazione o la modifica di uno scenario](known-issues-workfront-fusion/fusion-module-does-not-load.md)
       + [[!DNL Workfront Fusion]: il modulo di  [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [[!DNL Workfront Fusion]: impossibile connettersi al modulo MS Dynamics in Fusion](known-issues-workfront-fusion/fusion-unable-to-connect-to-ms-dynamics-module.md)
-      + [I collegamenti di aiuto in-app [!DNL Workfront Fusion]non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
+      + [I collegamenti di aiuto in-app [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}
    + [Problemi noti in [!DNL Workfront Goals]](workfrontgoals.md)

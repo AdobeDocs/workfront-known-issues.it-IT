@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: c4530d9f2848adb30cab802303170b3c5bc02451
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 49%
+ht-degree: 63%
 
 ---
 
@@ -15,19 +15,19 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 
 >[!NOTE]
 >
->Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront]ti avvisa quando viene risolto un problema che hai segnalato.
+>Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di gennaio 2023
 
-+++**Aggiornamento della manutenzione (pianificato) il 12 gennaio 2023**
++++**(Pianificato) Aggiornamento di manutenzione del 12 gennaio 2023**
 
 **Ctrl+F o Comando+F non funziona come previsto nei campi a discesa**
 
 _Moduli personalizzati_
 
-Quando un utente compila un modulo personalizzato e cerca un elenco a discesa utilizzando Ctrl+F o Comando+F, tenta di passare all’istanza successiva della ricerca, l’elenco a discesa ritorna all’inizio dell’elenco anziché passare all’istanza successiva della ricerca. Questo si verifica quando un menu a discesa è impostato per consentire selezioni multiple.
+Quando si compila un modulo personalizzato e si cerca in un elenco a discesa utilizzando la scelta rapida Ctrl+F o Comando+F, quindi si tenta di passare all’istanza successiva della ricerca, l’elenco a discesa non passa a tale istanza ma ritorna all’inizio. Questo si verifica se il menu a discesa è impostato per consentire selezioni multiple.
 
 **[!UICONTROL Modifica rapporto] schermo vuoto**
 
@@ -82,5 +82,5 @@ La funzionalità di queste impostazioni non è stata modificata e sono state agg
 
 Le informazioni sui precedenti aggiornamenti di manutenzione sono disponibili qui:
 
-* [[!DNL Workfront] Archivio aggiornamenti di manutenzione - 2022](2022-updates.md)
-* [[!DNL Workfront] Archivio aggiornamenti di manutenzione - 2021](2021-updates.md)
+* [Archivio aggiornamenti di manutenzione per [!DNL Workfront] - 2022](2022-updates.md)
+* [Archivio aggiornamenti di manutenzione per [!DNL Workfront] - 2021](2021-updates.md)
