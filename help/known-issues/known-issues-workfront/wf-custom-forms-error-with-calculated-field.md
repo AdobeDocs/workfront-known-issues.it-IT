@@ -1,16 +1,20 @@
 ---
-title: '“Moduli personalizzati: errore Ops quando si imposta un campo calcolato”'
-description: “Quando un utente crea o modifica un campo calcolato in un modulo personalizzato e include un campo personalizzato nell’espressione del campo calcolato, l’espressione viene considerata non valida. Il pulsante Salva è disattivato e l’utente non può spostarsi dal campo personalizzato. Inoltre, l’utente visualizza un messaggio Ops sotto il campo.”
+title: "Moduli personalizzati: Whops error quando si imposta un campo calcolato"
+description: Quando un utente crea o modifica un campo calcolato in un modulo personalizzato e include un campo personalizzato nell’espressione del campo calcolato, l’espressione viene considerata non valida. Il pulsante Salva è disattivato e l’utente non può spostarsi dal campo personalizzato. Inoltre, l’utente visualizza un messaggio Whoops sotto il campo .
 hidefromtoc: true
-source-git-commit: 58b95fb905fc12cc459fbdd021fee3c92536d203
-workflow-type: ht
-source-wordcount: '170'
-ht-degree: 100%
+exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
+workflow-type: tm+mt
+source-wordcount: '176'
+ht-degree: 84%
 
 ---
 
-
 # “Moduli personalizzati: errore “[!UICONTROL Ops]” durante la configurazione di un campo calcolato”
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 12 gennaio 2023.
 
 Quando un utente crea o modifica un campo calcolato in un modulo personalizzato e include un campo personalizzato nell’espressione del campo calcolato, l’espressione viene considerata non valida. Il pulsante [!UICONTROL Salva] è disattivato e l’utente non può spostarsi dal campo personalizzato. Inoltre, l’utente visualizza il seguente messaggio sotto il campo.
 
@@ -19,4 +23,3 @@ Quando un utente crea o modifica un campo calcolato in un modulo personalizzato 
 La rimozione del campo personalizzato dall’espressione consente all’utente di salvare e spostarsi dal campo.
 
 _Segnalato per la prima volta il 11 ottobre 2022._
-

@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
+source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '662'
+ht-degree: 63%
 
 ---
 
@@ -20,6 +20,40 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di gennaio 2023
+
++++**[!DNL Adobe Workfront Fusion]Aggiornamento della manutenzione (Hotfix) il 12 gennaio 2023**
+
+**errori 404 nei moduli[!DNL Workfront]**
+
+_Workfront Fusion_
+
+Quando è in esecuzione uno scenario, un modulo [!DNL Workfront] restituisce un errore 404.
+
+Questo problema è stato segnalato nei seguenti moduli:
+
+* [!UICONTROL Leggi un record]
+
++++
+
++++**Aggiornamento della manutenzione (Hotfix) il 12 gennaio 2023**
+
+**&quot;[!UICONTROL Whops]&quot; errore durante l&#39;impostazione di un campo calcolato**
+
+_Moduli personalizzati_
+
+Quando un utente crea o modifica un campo calcolato in un modulo personalizzato e include un campo personalizzato nell’espressione del campo calcolato, l’espressione viene considerata non valida. Il pulsante [!UICONTROL Salva] è disattivato e l’utente non può spostarsi dal campo personalizzato. Inoltre, l’utente visualizza il seguente messaggio sotto il campo.
+
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+
+La rimozione del campo personalizzato dall’espressione consente all’utente di salvare e spostarsi dal campo.
+
+**Impossibile impostare i livelli di accesso**
+
+_Utenti_
+
+Quando un utente tenta di modificare il livello di accesso di un altro utente, i livelli di accesso sono disattivati e l’utente non può modificarli. Ciò si verifica anche quando l&#39;utente che tenta di apportare la modifica è un amministratore di sistema.
+
++++
 
 +++**Aggiornamento di manutenzione del 12 gennaio 2023**
 
