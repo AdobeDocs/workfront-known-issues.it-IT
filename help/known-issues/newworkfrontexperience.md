@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7b0382f7c254795048dd015c4410dc6c25242101
+source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Configurazione: Impossibile salvare i modelli e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md) | 18 gennaio 2023 |
 | [Documenti: Impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 gennaio 2023 |
 | [Documenti: Errore durante il caricamento di file di grandi dimensioni](known-issues-workfront/wf-documents-large-uploads-fail.md) | 18 gennaio 2023 |
 | [Bozze: le bozze vengono visualizzate nel Visualizzatore bozze in modo meno chiaro rispetto all’immagine originale](known-issues-workfront/wf-proofs-are-blurry.md) | 18 novembre 2022 |
@@ -39,6 +40,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Utenti: L&#39;utente non può modificare le proprie impostazioni utente](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 18 gennaio 2023 |
 | [Documenti: le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto](known-issues-workfront/wf-documents-permissions-not-inherited.md) | 16 dicembre 2022 |
 | [Bozze: non è possibile annullare l’archiviazione delle bozze](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 dicembre 2022 |
 | [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 2 dicembre 2022 |
