@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b6182d9693b48e4b3bdacb783d202522d23583f6
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '770'
 ht-degree: 55%
 
 ---
@@ -21,13 +21,13 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di gennaio 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 19 gennaio 2023**
++++**Aggiornamento di manutenzione del 18 gennaio 2023**
 
 **Espressioni con caratteri jolly non valide nei campi personalizzati**
 
 _Moduli personalizzati_
 
-Quando un utente utilizza un carattere jolly come $$TODAY o $$NOW insieme a un modificatore (ad esempio &quot;-30d&quot;) in un campo personalizzato, la convalida non accetta il carattere jolly come valido. I caratteri jolly senza modificatori sono considerati validi.
+Quando un utente utilizza un carattere jolly come \$$TODAY o $$NOW insieme a un modificatore (ad esempio &quot;-30d&quot;) in un campo personalizzato, la convalida non accetta il carattere jolly come valido. I caratteri jolly senza modificatori sono considerati validi.
 
 **[!UICONTROL Bilanciamento del carico di lavoro] mostra ore non associate a un progetto/task/problema**
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 3f6f821e8452e2306175ff524dc6126ff14f2eab
+source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
 workflow-type: tm+mt
-source-wordcount: '1292'
-ht-degree: 98%
+source-wordcount: '1303'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenti: Impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [Documenti: Errore durante il caricamento di file di grandi dimensioni](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Attività: Le attività rientrate non rimangono rientrate](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Aggiornamenti: Lo schermo viene temporaneamente lasciato vuoto quando la risposta viene inviata](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Moduli personalizzati: Ctrl+F o Comando+F non funziona come previsto nei campi a discesa](known-issues-workfront/wf-custom-forms-dropdown-search.md)
