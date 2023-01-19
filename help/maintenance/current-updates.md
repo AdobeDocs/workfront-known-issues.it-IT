@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
+source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 55%
+source-wordcount: '879'
+ht-degree: 49%
 
 ---
 
@@ -20,6 +20,26 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di gennaio 2023
+
++++**Aggiornamento di manutenzione del 19 gennaio 2023**
+
+**È ora possibile condividere i filtri della colonna di input**
+
+_Bacheche_
+
+Quando la funzione della colonna di aspirazione è stata rilasciata a Bacheche, i filtri per la configurazione della colonna di assunzione potevano essere visti solo dalla persona che ha creato tali filtri. Ora il creatore può condividere i filtri con altri utenti o team.
+
+**Funzionalità pin disponibile in [!UICONTROL Altro] menu**
+
+_Navigazione_
+
+Le seguenti funzioni sono ora disponibili nel [!UICONTROL Altro] nell’ambiente Produzione:
+
+* Ridenominazione dei pin
+* Riordinamento dei pin all’interno di [!UICONTROL Altro] menu
+* Spostamento di un perno [!UICONTROL Altro] in questo modo, l&#39;ultimo pin della barra di navigazione superiore viene spostato nella [!UICONTROL Altro] menu)
+
++++
 
 +++**Aggiornamento di manutenzione del 18 gennaio 2023**
 
