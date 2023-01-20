@@ -2,15 +2,19 @@
 title: '“Documenti: le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto”'
 description: “Quando i documenti sono allegati a un problema e un utente converte il problema in un progetto, i documenti del nuovo progetto non dispongono delle autorizzazioni ereditate necessarie”.
 hidefromtoc: true
-source-git-commit: 5501b8fc544643d98de923b7b80d504bcf9164ce
-workflow-type: ht
-source-wordcount: '96'
-ht-degree: 100%
+source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Documenti: le autorizzazioni dei documenti non vengono ereditate quando il problema principale viene convertito in un progetto
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso perché il sistema funziona come previsto.
 
 <!--This issue is on both WF and WFP TOCs-->
 
