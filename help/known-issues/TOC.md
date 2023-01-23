@@ -3,8 +3,8 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1316'
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 0%
       + [Utenti: L&#39;utente non può modificare le proprie impostazioni utente](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documenti: Impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md)
       + [Documenti: Errore durante il caricamento di file di grandi dimensioni](known-issues-workfront/wf-documents-large-uploads-fail.md)
-      + [Attività: Le attività rientrate non rimangono rientrate](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
-      + [Aggiornamenti: Lo schermo viene temporaneamente lasciato vuoto quando la risposta viene inviata](known-issues-workfront/wf-updates-reply-goes-blank.md)
+      + [Attività: le attività con rientro non mantengono il rientro](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
+      + [Aggiornamenti: la schermata rimane temporaneamente vuota quando la risposta viene inviata](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Moduli personalizzati: Ctrl+F o Comando+F non funziona come previsto nei campi a discesa](known-issues-workfront/wf-custom-forms-dropdown-search.md)
       + [Bozze: non è possibile annullare l’archiviazione delle bozze](known-issues-workfront/wf-proofs-do-not-unarchive.md)
       + [Documenti: impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
@@ -142,12 +142,12 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof] API: &quot;[!UICONTROL Corpo non valido]&quot; Errore](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
+      + [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [[!DNL Workfront Proof]: impossibile aprire una bozza interattiva](known-issues-workfront-proof/proof-cannot-open-interactive-proof.md)
       + [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
-      + [Bozze: errore durante l’aggiunta della bozza a  [!DNL Workfront]  da  [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [Bozze: errore durante l’aggiunta della bozza a  [!DNL Workfront]  da  [!DNL Workfront]  Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: le notifiche e-mail subiscono ritardi](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
       + [[!DNL Workfront Proof]: richiedenti e revisori vengono conteggiati nel numero di licenze di un’organizzazione](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
       + [[!DNL Workfront Proof]: le e-mail di riepilogo giornaliero non includono un pulsante “Visualizza dettagli”](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)

@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
 workflow-type: tm+mt
 source-wordcount: '879'
-ht-degree: 49%
+ht-degree: 74%
 
 ---
 
@@ -29,15 +29,15 @@ _Bacheche_
 
 Quando la funzione della colonna di aspirazione è stata rilasciata a Bacheche, i filtri per la configurazione della colonna di assunzione potevano essere visti solo dalla persona che ha creato tali filtri. Ora il creatore può condividere i filtri con altri utenti o team.
 
-**Funzionalità pin disponibile in [!UICONTROL Altro] menu**
+**Funzionalità pin disponibile nel menu [!UICONTROL Altro]**
 
 _Navigazione_
 
 Le seguenti funzioni sono ora disponibili nel [!UICONTROL Altro] nell’ambiente Produzione:
 
-* Ridenominazione dei pin
-* Riordinamento dei pin all’interno di [!UICONTROL Altro] menu
-* Spostamento di un perno [!UICONTROL Altro] in questo modo, l&#39;ultimo pin della barra di navigazione superiore viene spostato nella [!UICONTROL Altro] menu)
+* Rinominazione dei pin
+* Riordinamento dei pin all’interno del menu [!UICONTROL Altro]
+* Spostamento di un pin dal menu [!UICONTROL Altro] (in questo modo, l’ultimo pin della barra di navigazione superiore viene spostato nel menu [!UICONTROL Altro])
 
 +++
 
@@ -99,43 +99,43 @@ _Moduli personalizzati_
 
 Quando si compila un modulo personalizzato e si cerca in un elenco a discesa utilizzando la scelta rapida Ctrl+F o Comando+F, quindi si tenta di passare all’istanza successiva della ricerca, l’elenco a discesa non passa a tale istanza ma ritorna all’inizio. Questo si verifica se il menu a discesa è impostato per consentire selezioni multiple.
 
-**[!UICONTROL Modifica rapporto] schermo vuoto**
+La schermata **[!UICONTROL Edit Report] (Modifica report) è vuota**
 
 _Report_
 
 Quando un utente visualizza un report e tenta di modificarlo, viene visualizzata una schermata vuota e non può modificarlo.
 
-**Le attività rientrate non rimangono rientrate**
+**Le attività con rientro non mantengono il rientro**
 
 _Attività_
 
-Quando un utente visualizza un elenco di attività e fa rientrare un&#39;attività, torna immediatamente al suo stato originale (non rientrato).
+Quando un utente visualizza un elenco di attività e fa rientrare un’attività, questa torna immediatamente al suo stato originale (non rientrato).
 
 +++
 
 +++**Aggiornamento di manutenzione del 5 gennaio 2023**
 
-**Funzionalità pin disponibile in [!UICONTROL Altro] menu**
+**Funzionalità pin disponibile nel menu [!UICONTROL Altro]**
 
 _Navigazione_
 
-Le seguenti funzioni sono ora disponibili nel [!UICONTROL Altro] per i pin, solo nell’ambiente Anteprima:
+Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin, solo nell’ambiente Anteprima:
 
-* Ridenominazione dei pin
-* Riordinamento dei pin all’interno di [!UICONTROL Altro] menu
-* Spostamento di un perno [!UICONTROL Altro] in questo modo, l&#39;ultimo pin della barra di navigazione superiore viene spostato nella [!UICONTROL Altro] menu)
+* Rinominazione dei pin
+* Riordinamento dei pin all’interno del menu [!UICONTROL Altro]
+* Spostamento di un pin dal menu [!UICONTROL Altro] (in questo modo, l’ultimo pin della barra di navigazione superiore viene spostato nel menu [!UICONTROL Altro])
 
-**È stata rimossa la limitazione del gruppo di progetti per l’aggiunta di utenti al team di progetto**
+**È stata rimossa la limitazione del Gruppo di progetti per l’aggiunta di utenti al team di progetto**
 
 _Team_
 
-Abbiamo rimosso il limite che richiedeva che gli utenti da aggiungere a un team di progetto fossero nel gruppo associato al progetto. Ora puoi aggiungere qualsiasi utente attivo a un team di progetto, indipendentemente dai gruppi a cui appartengono.
+Abbiamo rimosso la limitazione che richiedeva che gli utenti da aggiungere a un team di progetto fossero nel Gruppo associato al progetto. Ora puoi aggiungere qualsiasi utente attivo a un team di progetto, indipendentemente dai gruppi di appartenenza.
 
 **Icone nuove informazioni per schede orario, profili delle schede orario e preferenze della scheda orario**
 
 >[!NOTE]
 >
->Questo aggiornamento è stato rilasciato nell’ambiente Preview il 3 novembre 2022 ed è ora disponibile in Produzione
+>Questo aggiornamento è stato rilasciato nell’ambiente Anteprima il 3 novembre 2022 ed è ora disponibile in Produzione
 
 _Workfront_
 
