@@ -3,9 +3,9 @@ title: 'Report: errore durante l’aggiunta di un nuovo problema a un report sui
 description: “Quando un utente visualizza un report sui problemi aggiunto a un’attività e tenta di aggiungere un nuovo problema, il problema non viene aggiunto e l’utente visualizza un errore.”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '128'
+ht-degree: 100%
 
 ---
 
