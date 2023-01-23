@@ -3,7 +3,7 @@ title: '“Documenti: impossibile aggiungere documenti da Google Drive”'
 description: “Quando si tenta di aggiungere un documento a Workfront da Google Drive, il selettore di file non visualizza alcun file e non è possibile selezionare il file desiderato.”
 hidefromtoc: true
 source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
