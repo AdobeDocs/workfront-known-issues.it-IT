@@ -4,9 +4,9 @@ description: '“Quando un utente aggiunge un campo calcolato a un modulo person
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '157'
+ht-degree: 100%
 
 ---
 
