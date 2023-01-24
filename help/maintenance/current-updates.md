@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 244d9f48b2f63bf2b0b30259e42ca9317f5ad933
+source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 74%
+source-wordcount: '951'
+ht-degree: 75%
 
 ---
 
@@ -20,6 +20,20 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di gennaio 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 26 gennaio 2023**
+
+**Errore durante l’invio della richiesta da[!DNL Outlook]**
+
+_Integrazioni_
+
+Quando un utente cerca di inviare una richiesta con allegati da un indirizzo e-mail di [!DNL Outlook], uno o più allegati non vengono caricati e l’utente visualizza il seguente errore:
+
+“[!UICONTROL Si è verificato il seguente errore: il file con handle xxxx non esiste.]”
+
+Ciò si verifica solo quando viene eseguita un’assegnazione per la nuova richiesta, sia attraverso la coda di richieste che sia manualmente durante la creazione della richiesta.
+
++++
 
 +++**Aggiornamento di manutenzione del 19 gennaio 2023**
 
