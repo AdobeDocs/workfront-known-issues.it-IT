@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: efa58e381aba8aaba59f0c19362f3da0cc81154f
+source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 75%
+source-wordcount: '1000'
+ht-degree: 72%
 
 ---
 
@@ -32,6 +32,12 @@ Quando un utente cerca di inviare una richiesta con allegati da un indirizzo e-m
 “[!UICONTROL Si è verificato il seguente errore: il file con handle xxxx non esiste.]”
 
 Ciò si verifica solo quando viene eseguita un’assegnazione per la nuova richiesta, sia attraverso la coda di richieste che sia manualmente durante la creazione della richiesta.
+
+**L&#39;utente non può modificare le proprie impostazioni utente**
+
+_Utenti_
+
+Quando un utente con una licenza di Work, Review o Request tenta di modificare le proprie impostazioni utente, la finestra a comparsa che si apre è vuota e l&#39;utente non può apportare alcuna modifica. Per uscire dalla finestra a comparsa, l’utente deve aggiornare la pagina.
 
 +++
 
