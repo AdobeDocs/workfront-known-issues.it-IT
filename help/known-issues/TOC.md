@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 682d0c0beafcb71a412afb1cad71f20ad3a50d82
+source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
 workflow-type: tm+mt
-source-wordcount: '1316'
-ht-degree: 98%
+source-wordcount: '1323'
+ht-degree: 97%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Utenti: La disattivazione pianificata non disattiva l&#39;utente](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configurazione: Impossibile salvare i modelli e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Utenti: L&#39;utente non può modificare le proprie impostazioni utente](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documenti: Impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md)

@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 72%
+source-wordcount: '1071'
+ht-degree: 67%
 
 ---
 
@@ -32,6 +32,17 @@ Quando un utente cerca di inviare una richiesta con allegati da un indirizzo e-m
 “[!UICONTROL Si è verificato il seguente errore: il file con handle xxxx non esiste.]”
 
 Ciò si verifica solo quando viene eseguita un’assegnazione per la nuova richiesta, sia attraverso la coda di richieste che sia manualmente durante la creazione della richiesta.
+
+**Nuova versione del visualizzatore di correzione desktop**
+
+_Verifica_
+
+Per risolvere un problema di blocco nel visualizzatore per correzione desktop, è stata implementata una nuova versione del visualizzatore per correzione desktop. Gli utenti che hanno già installato il visualizzatore di correzione desktop riceveranno automaticamente questo aggiornamento.
+
+Gli utenti possono anche disattivare manualmente la versione più recente. Per ulteriori informazioni, consulta [Installare il visualizzatore di correzione del desktop](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+
+* Versione precedente: 2.1.19
+* Nuova versione: 2.1.20
 
 **L&#39;utente non può modificare le proprie impostazioni utente**
 
