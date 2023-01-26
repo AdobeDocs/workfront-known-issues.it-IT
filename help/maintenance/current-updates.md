@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 9d19a853dbd123107d55eb362d383f5080ff1b8a
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '1000'
+source-wordcount: '999'
 ht-degree: 72%
 
 ---
@@ -21,7 +21,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di gennaio 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 26 gennaio 2023**
++++**Aggiornamento di manutenzione del 26 gennaio 2023**
 
 **Errore durante l’invio della richiesta da[!DNL Outlook]**
 

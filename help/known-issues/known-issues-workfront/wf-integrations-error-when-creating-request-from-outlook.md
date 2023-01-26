@@ -2,15 +2,19 @@
 title: '“Integrazioni: errore durante l’invio della richiesta da Outlook ”'
 description: “Quando un utente cerca di inviare una richiesta con allegati da un indirizzo e-mail di  [!DNL Outlook] , uno o più allegati non vengono caricati e l’utente visualizza il seguente errore:”
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 94%
 
 ---
 
 
 # Integrazioni: errore durante l’invio della richiesta da [!DNL Outlook]
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 26 gennaio 2023.
 
 Quando un utente cerca di inviare una richiesta con allegati da un indirizzo e-mail di [!DNL Outlook], uno o più allegati non vengono caricati e l’utente visualizza il seguente errore:
 

@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
+source-git-commit: baeb2b783dcf75bc889096cd02035ecb9bd17ef6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '569'
+ht-degree: 97%
 
 ---
 
@@ -39,10 +39,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | -----------------------------------------------------------------| ----------------- |
 | [Configurazione: Impossibile salvare i modelli e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md) | 20 gennaio 2023 |
 | [Documenti: Impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 gennaio 2023 |
-| [Utenti: L&#39;utente non può modificare le proprie impostazioni utente](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md) | 18 gennaio 2023 |
 | [Bozze: non è possibile annullare l’archiviazione delle bozze](known-issues-workfront/wf-proofs-do-not-unarchive.md) | 20 dicembre 2022 |
 | [Report: errore durante l’aggiunta di un nuovo problema a un report sui problemi](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
-| [Integrazioni: errore durante l’invio della richiesta da [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md) | 30 agosto 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
 {style=&quot;table-layout:auto&quot;}
