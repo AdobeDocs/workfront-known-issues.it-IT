@@ -1,16 +1,16 @@
 ---
-title: "Moduli personalizzati: Whops error quando si imposta un campo calcolato"
-description: Quando un utente crea o modifica un campo calcolato in un modulo personalizzato e include un campo personalizzato nell’espressione del campo calcolato, l’espressione viene considerata non valida. Il pulsante Salva è disattivato e l’utente non può spostarsi dal campo personalizzato. Inoltre, l’utente visualizza un messaggio Whoops sotto il campo .
+title: '“Moduli personalizzati: errore quando si configura un campo calcolato”'
+description: Quando un utente crea o modifica un campo calcolato in un modulo personalizzato e include un campo personalizzato nell’espressione del campo calcolato, l’espressione viene considerata non valida. Il pulsante Salva è disattivato e l’utente non può spostarsi dal campo personalizzato. Inoltre, l’utente visualizza un messaggio di errore sotto il campo.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
 source-git-commit: 62d6d8659079211804d2a270b181272ac7b0eede
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# “Moduli personalizzati: errore “[!UICONTROL Ops]” durante la configurazione di un campo calcolato”
+# “Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato”
 
 >[!NOTE]
 >
