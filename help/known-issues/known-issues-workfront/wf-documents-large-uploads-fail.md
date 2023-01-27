@@ -1,16 +1,16 @@
 ---
-title: "Documenti: Errore durante il caricamento di file di grandi dimensioni"
-description: "Quando un utente tenta di caricare un file di grandi dimensioni (oltre 25 MB), il file non viene caricato e l'utente visualizza l'errore Impossibile caricare il file."
+title: '“Documenti: errore durante il caricamento di file di grandi dimensioni”'
+description: “Quando un utente tenta di caricare un file di grandi dimensioni (superiore a 25 MB), il file non viene caricato e l’utente visualizza l’errore Impossibile caricare il file.”
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 
-# Documenti: Errore durante il caricamento di file di grandi dimensioni
+# Documenti: errore durante il caricamento di file di grandi dimensioni
 
 <!--This article is on WF and WFP TOCs-->
 
@@ -18,11 +18,11 @@ ht-degree: 18%
 >
 >Questa segnalazione è stata chiusa perché il problema non sussiste.
 
-Quando un utente tenta di caricare un file di grandi dimensioni (oltre 25 MB), il file non viene caricato e l&#39;utente visualizza l&#39;errore &quot;[!UICONTROL Impossibile caricare il file].&quot;
+Quando un utente tenta di caricare un file di grandi dimensioni (superiore a 25 MB), il file non viene caricato e l’utente visualizza l’errore “[!UICONTROL Impossibile caricare il file].”
 
 **Soluzione alternativa**
 
-Carica il documento come bozza.
+Caricare il documento come bozza.
 
 _Segnalato per la prima volta il 14 novembre 2022._
 
