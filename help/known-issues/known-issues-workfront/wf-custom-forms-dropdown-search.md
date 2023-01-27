@@ -3,9 +3,9 @@ title: '“Moduli personalizzati: Ctrl+F o Comando+F non funziona come previsto 
 description: “Quando si compila un modulo personalizzato e si cerca in un elenco a discesa utilizzando la scelta rapida Ctrl+F o Comando+F, quindi si tenta di passare all’istanza successiva della ricerca, l’elenco a discesa non passa a tale istanza ma ritorna all’inizio. Questo si verifica se il menu a discesa è impostato per consentire selezioni multiple.
 hidefromtoc: true
 source-git-commit: 5f4d8813a43166db6491464dff26938fc4f545ef
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '164'
+ht-degree: 100%
 
 ---
 
