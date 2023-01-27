@@ -4,9 +4,9 @@ description: Quando un utente tenta di creare una connessione in uno dei connett
 hidefromtoc: true
 exl-id: 068793be-63e5-40b5-bf10-c01d76c1b6e7
 source-git-commit: dd093aff6103901898c561c9f6f544c1648682a3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '109'
+ht-degree: 100%
 
 ---
 
