@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
 workflow-type: tm+mt
 source-wordcount: '1071'
-ht-degree: 67%
+ht-degree: 92%
 
 ---
 
@@ -48,23 +48,23 @@ Gli utenti possono anche disattivare manualmente la versione più recente. Per u
 
 _Utenti_
 
-Quando un utente con una licenza di Work, Review o Request tenta di modificare le proprie impostazioni utente, la finestra a comparsa che si apre è vuota e l&#39;utente non può apportare alcuna modifica. Per uscire dalla finestra a comparsa, l’utente deve aggiornare la pagina.
+Quando un utente con una licenza Lavoro, Revisione oppure Richiesta tenta di modificare le proprie impostazioni, la finestra a comparsa visualizzata è vuota e l’utente non può apportare alcuna modifica. Per uscire dalla finestra a comparsa, l’utente deve aggiornare la pagina.
 
 +++
 
 +++**Aggiornamento di manutenzione del 19 gennaio 2023**
 
-**È ora possibile condividere i filtri della colonna di input**
+**È ora possibile condividere i filtri della colonna di acquisizione**
 
 _Bacheche_
 
-Quando la funzione della colonna di aspirazione è stata rilasciata a Bacheche, i filtri per la configurazione della colonna di assunzione potevano essere visti solo dalla persona che ha creato tali filtri. Ora il creatore può condividere i filtri con altri utenti o team.
+Quando la funzione della colonna di acquisizione è stata rilasciata in Bacheche, i filtri per la configurazione di tale colonna potevano essere visualizzati solo dall’utente che li aveva creati. Ora i filtri creati dall’utente possono essere condivisi con altri utenti o team.
 
 **Funzionalità pin disponibile nel menu [!UICONTROL Altro]**
 
 _Navigazione_
 
-Le seguenti funzioni sono ora disponibili nel [!UICONTROL Altro] nell’ambiente Produzione:
+Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin, nell’ambiente Produzione:
 
 * Rinominazione dei pin
 * Riordinamento dei pin all’interno del menu [!UICONTROL Altro]
@@ -74,23 +74,23 @@ Le seguenti funzioni sono ora disponibili nel [!UICONTROL Altro] nell’ambiente
 
 +++**Aggiornamento di manutenzione del 18 gennaio 2023**
 
-**Espressioni con caratteri jolly non valide nei campi personalizzati**
+**Espressioni con caratteri jolly non sono valide nei campi personalizzati**
 
 _Moduli personalizzati_
 
-Quando un utente utilizza un carattere jolly come \$$TODAY o $$NOW insieme a un modificatore (ad esempio &quot;-30d&quot;) in un campo personalizzato, la convalida non accetta il carattere jolly come valido. I caratteri jolly senza modificatori sono considerati validi.
+Quando un utente utilizza un carattere jolly come \$$TODAY o $$NOW insieme a un modificatore (ad esempio “-30d”) in un campo personalizzato, la convalida non lo accetta come valido. I caratteri jolly senza modificatori sono considerati validi.
 
-**[!UICONTROL Bilanciamento del carico di lavoro] mostra ore non associate a un progetto/task/problema**
+**[!UICONTROL Bilanciamento del carico di lavoro] mostra ore non associate a un/una progetto/attività/problema**
 
-_[!UICONTROL Bilanciatore dei carichi di lavoro]_
+_[!UICONTROL Bilanciamento del carico di lavoro]_
 
-Quando un utente visualizza il [!UICONTROL Bilanciamento del carico di lavoro], visualizzano ore registrate per un utente che non sono associate ad alcun progetto, attività o problema, né vengono registrate come [!UICONTROL Generale] ore. Queste ore possono essere visualizzate solo nella visualizzazione a 4 settimane o a 6 settimane.
+Quando un utente visualizza il [!UICONTROL Bilanciamento del carico di lavoro], visualizza le ore registrate per un utente che non sono associate ad alcun progetto, alcuna attività o alcun problema, né vengono registrate come ore [!UICONTROL Generali]. Queste ore possono essere visualizzate solo nella visualizzazione a 4 settimane o a 6 settimane.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Aggiornamento della manutenzione (Hotfix) il 12 gennaio 2023**
++++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione (Hot Fix) del 12 gennaio 2023**
 
-**errori 404 nei moduli[!DNL Workfront]**
+**errori 404 nei moduli [!DNL Workfront]**
 
 _Workfront Fusion_
 
@@ -102,9 +102,9 @@ Questo problema è stato segnalato nei seguenti moduli:
 
 +++
 
-+++**Aggiornamento della manutenzione (Hotfix) il 12 gennaio 2023**
++++**Aggiornamento di manutenzione (Hot Fix) del 12 gennaio 2023**
 
-**&quot;[!UICONTROL Whops]&quot; errore durante l&#39;impostazione di un campo calcolato**
+**“[!UICONTROL Ops]”, si è verificato un errore durante la configurazione di un campo calcolato**
 
 _Moduli personalizzati_
 
@@ -118,7 +118,7 @@ La rimozione del campo personalizzato dall’espressione consente all’utente d
 
 _Utenti_
 
-Quando un utente tenta di modificare il livello di accesso di un altro utente, i livelli di accesso sono disattivati e l’utente non può modificarli. Ciò si verifica anche quando l&#39;utente che tenta di apportare la modifica è un amministratore di sistema.
+Quando un utente tenta di modificare il livello di accesso di un altro utente, i livelli di accesso sono disattivati e non possono essere modificati. Ciò si verifica anche quando l’utente che tenta di apportare la modifica è un amministratore di sistema.
 
 +++
 
