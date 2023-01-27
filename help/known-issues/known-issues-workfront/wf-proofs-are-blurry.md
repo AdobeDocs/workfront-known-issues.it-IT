@@ -3,9 +3,9 @@ title: “Le bozze vengono visualizzate in modo meno chiaro rispetto all’immag
 description: “Quando un utente crea una bozza e la visualizza nel Visualizzatore bozze, la bozza ha un aspetto meno chiaro (più sfocato) dell’immagine originale.”
 hidefromtoc: true
 source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '87'
+ht-degree: 100%
 
 ---
 
