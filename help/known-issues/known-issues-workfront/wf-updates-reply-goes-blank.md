@@ -3,9 +3,9 @@ title: '“Aggiornamenti: la schermata rimane temporaneamente vuota quando la ri
 description: “Quando un utente risponde a un aggiornamento e invia la risposta, la schermata rimane temporaneamente vuota. La schermata rimane vuota per 7 secondi, ovvero il tempo di annullamento della risposta da parte dell’utente. Dopo 7 secondi, l’opzione Annulla non è più disponibile e la schermata viene visualizzata come previsto.”
 hidefromtoc: true
 source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
