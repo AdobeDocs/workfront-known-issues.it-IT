@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 1b49b3fdcd78dc0ceef76f2a0c7492d2ae151296
+source-git-commit: 1ab3d654c933d21a1ec7f91e04a454c96622aa64
 workflow-type: tm+mt
-source-wordcount: '1323'
-ht-degree: 97%
+source-wordcount: '1361'
+ht-degree: 96%
 
 ---
 
@@ -16,11 +16,15 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Progetti: Il progetto convertito dal problema non eredita le autorizzazioni dal portfolio o dal programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Configurazione]: I log di controllo non vengono esportati](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Riepilogo]: Impossibile scorrere [!UICONTROL Riepilogo] pannello](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Documenti: Errore &quot;Risposta non valida&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Utenti: La disattivazione pianificata non disattiva l&#39;utente](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
-      + [Configurazione: Impossibile salvare i modelli e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md)
-      + [Utenti: L&#39;utente non può modificare le proprie impostazioni utente](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
-      + [Documenti: Impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md)
-      + [Documenti: Errore durante il caricamento di file di grandi dimensioni](known-issues-workfront/wf-documents-large-uploads-fail.md)
+      + [Configurazione: impossibile salvare i modelli e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md)
+      + [Utenti: l’utente non può modificare le proprie impostazioni](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
+      + [Documenti: impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md)
+      + [Documenti: errore durante il caricamento di file di grandi dimensioni](known-issues-workfront/wf-documents-large-uploads-fail.md)
       + [Attività: le attività con rientro non mantengono il rientro](known-issues-workfront/wf-tasks-task-does-not-remain-indented.md)
       + [Aggiornamenti: la schermata rimane temporaneamente vuota quando la risposta viene inviata](known-issues-workfront/wf-updates-reply-goes-blank.md)
       + [Moduli personalizzati: Ctrl+F o Comando+F non funziona come previsto nei campi a discesa](known-issues-workfront/wf-custom-forms-dropdown-search.md)
@@ -167,6 +171,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Adobe Workfront Fusion]: 404 errori nei moduli Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: impossibile creare la connessione a [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: gli elementi array nel modulo [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
