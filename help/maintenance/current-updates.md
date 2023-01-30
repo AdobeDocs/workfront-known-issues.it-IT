@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 441062239d07963454e1cc57e4dff54e0c5a06bb
+source-git-commit: f3dbb947d2c3d9d36677c6c3c2cb41db2ce47685
 workflow-type: tm+mt
-source-wordcount: '1071'
-ht-degree: 92%
+source-wordcount: '1319'
+ht-degree: 78%
 
 ---
 
@@ -20,6 +20,41 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di gennaio 2023
+
++++**Aggiornamento di manutenzione del 30 gennaio 2023**
+
+**Sono state aggiunte scelte rapide da tastiera per le azioni comuni della scheda attività**
+
+_Schede orario_
+
+Sono state introdotte le seguenti scelte rapide da tastiera per le seguenti azioni eseguite di frequente all’interno di una scheda attività:
+
+* Aggiungi riga (Comando+Opzione++ / Ctrl+Opzione++)
+* Elimina riga (Comando+Opzione+- / Ctrl+Opzione+-)
+* Fissare o sbloccare un elemento di lavoro (Opzione+P / Opzione+P)
+* Commento aperto (Maiusc+F2 / Maiusc+F2)
+* Salva commento (Comando+Invio / Ctrl+Invio)
+* Espandi (Maiusc+Opzione+Freccia su/Maiusc+Alt+Freccia su)
+* Comprimi (Maiusc+Opzione+Freccia giù/ Maiusc+Alt+Freccia giù)
+
+L’area in cui vengono eseguite queste azioni deve essere evidenziata per poterle applicare.
+
+**Icone nuove informazioni per schede orario, profili delle schede orario e preferenze della scheda orario**
+
+_Schede orario_
+
+>[!NOTE]
+>
+>Questo aggiornamento è stato rilasciato solo nell’ambiente Preview il 3 novembre 2022 ed è ora disponibile in Produzione.
+
+Sono state aggiunte diverse icone di informazioni alle seguenti impostazioni:
+
+* &quot;[!UICONTROL Può modificare il tempo]&quot; casella di controllo quando si crea o si modifica una scheda attività o un profilo di una scheda attività per indicare che, se attivato, gli approvatori possono anche inviare, riaprire o modificare la scheda attività, a meno che l&#39;amministratore non limiti queste azioni nel [!UICONTROL Preferenze foglio presenze] area [!UICONTROL Configurazione].
+* &quot;[!UICONTROL Limita la modifica della scheda attività a proprietari e amministratori]&quot; nel [!UICONTROL Scheda attività e preferenze ora] area [!UICONTROL Configurazione] per indicare che, se disattivato, anche i seguenti utenti possono modificare i fogli presenze: utenti con accesso amministrativo a schede attività e ore, approvatori di schede attività autorizzati a modificare il tempo e responsabili dei proprietari delle schede attività.
+
+La funzionalità di queste impostazioni non è stata modificata e sono state aggiunte solo le icone delle informazioni per chiarire l’ambito delle impostazioni.
+
++++
 
 +++**Aggiornamento di manutenzione del 26 gennaio 2023**
 
