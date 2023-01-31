@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 93%
+source-wordcount: '633'
+ht-degree: 90%
 
 ---
 
@@ -24,6 +24,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: Il pannello di riepilogo torna in alto quando si fa clic sul menu a tre punti](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 gennaio 2023 |
+| [Documenti: Errore &quot;La pagina non esiste&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 gennaio 2023 |
 | [Progetti: Il progetto convertito dal problema non eredita le autorizzazioni dal portfolio o dal programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 gennaio 2023 |
 | [Documenti: Errore &quot;Risposta non valida&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 gennaio 2023 |
 | [Documenti: impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 gennaio 2023 |

@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: e8358a00e3cfa9a62f86056752801f030ced296f
+source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 95%
+source-wordcount: '251'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: Il pannello di riepilogo torna in alto quando si fa clic sul menu a tre punti](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 gennaio 2023 |
+| [Documenti: Errore &quot;La pagina non esiste&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 gennaio 2023 |
 | [Documenti: Errore &quot;Risposta non valida&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 gennaio 2023 |
 | [Documenti: impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 dicembre 2022 |
 
