@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 89%
+source-wordcount: '640'
+ht-degree: 88%
 
 ---
 
@@ -40,6 +40,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Gruppi: I sottogruppi non visualizzano le notifiche in base alle impostazioni di notifica degli eventi del gruppo](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md) | 2 febbraio 2023 |
 | [[!UICONTROL Configurazione]: I log di controllo non vengono esportati](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 gennaio 2023 |
 | [[!UICONTROL Riepilogo]: Impossibile scorrere [!UICONTROL Riepilogo] pannello](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md) | 30 gennaio 2023 |
 | [Utenti: La disattivazione pianificata non disattiva l&#39;utente](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 gennaio 2023 |

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 6183d1c028c93ee2eba2e9c4452879bc8813289f
+source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
 workflow-type: tm+mt
-source-wordcount: '1383'
-ht-degree: 95%
+source-wordcount: '1395'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Gruppi: I sottogruppi non visualizzano le notifiche in base alle impostazioni di notifica degli eventi del gruppo](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
       + [Documenti: Il pannello di riepilogo torna in alto quando si fa clic sul menu a tre punti](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
       + [Documenti: Errore &quot;La pagina non esiste&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
       + [Progetti: Il progetto convertito dal problema non eredita le autorizzazioni dal portfolio o dal programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
