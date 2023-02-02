@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ee85cc89d8803afa3a239e51c468fe3ed372ea49
+source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
 workflow-type: tm+mt
-source-wordcount: '1351'
-ht-degree: 79%
+source-wordcount: '1402'
+ht-degree: 76%
 
 ---
 
@@ -23,7 +23,11 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 +++**Aggiornamento di manutenzione del 2 febbraio 2023**
 
-**Impossibile salvare i modelli e-mail**
+**Per impostazione predefinita, nel menu principale viene visualizzata l&#39;icona delle bacheche**
+
+_Bacheche_
+
+L’icona Bacheche ora viene visualizzata nel menu principale per gli utenti che non dispongono di un modello di layout. Per impostazione predefinita, le schede sono incluse anche nel menu principale per tutti i nuovi modelli di layout creati. I modelli di layout esistenti non sono stati modificati.**Impossibile salvare i modelli e-mail**
 
 _Configura_
 
