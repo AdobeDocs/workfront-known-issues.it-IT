@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 202602937d0734716871d78d0863a46cf646ced5
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 87%
+source-wordcount: '247'
+ht-degree: 90%
 
 ---
 
@@ -26,7 +26,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | -----------------------------------------------------------------| ----------------- |
 | [Documenti: Il pannello di riepilogo torna in alto quando si fa clic sul menu a tre punti](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 gennaio 2023 |
 | [Documenti: Errore &quot;La pagina non esiste&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 gennaio 2023 |
-| [Documenti: Errore &quot;Risposta non valida&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 gennaio 2023 |
 | [Documenti: impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md) | 20 dicembre 2022 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -38,7 +37,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 gennaio 2023 |
-| [Documenti: impossibile ripristinare un documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 gennaio 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 

@@ -2,15 +2,19 @@
 title: '“Documenti: impossibile ripristinare un documento eliminato”'
 description: “Quando un utente tenta di ripristinare un documento precedentemente eliminato, non può ripristinare il documento e viene visualizzato un errore.”
 hidefromtoc: true
-source-git-commit: f85f2ffac82c14c3ad3d6b1d6e8155c61586d767
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
+workflow-type: tm+mt
+source-wordcount: '84'
+ht-degree: 92%
 
 ---
 
 
 # Documenti: impossibile ripristinare il documento eliminato
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 2 febbraio 2023.
 
 <!-- On WF and WFP TOCs-->
 

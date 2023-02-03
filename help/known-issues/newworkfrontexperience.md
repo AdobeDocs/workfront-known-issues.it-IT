@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: e13d003b2771683ecd7cc1701f3d94c958b8b9e2
+source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 88%
+source-wordcount: '623'
+ht-degree: 89%
 
 ---
 
@@ -27,8 +27,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Documenti: Il pannello di riepilogo torna in alto quando si fa clic sul menu a tre punti](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md) | 31 gennaio 2023 |
 | [Documenti: Errore &quot;La pagina non esiste&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md) | 31 gennaio 2023 |
 | [Progetti: Il progetto convertito dal problema non eredita le autorizzazioni dal portfolio o dal programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 30 gennaio 2023 |
-| [Documenti: Errore &quot;Risposta non valida&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md) | 30 gennaio 2023 |
-| [Documenti: impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md) | 18 gennaio 2023 |
 | [Bozze: la generazione di bozze è estremamente lenta](known-issues-workfront/wf-proofs-slow-proof-generation.md) | 27 ottobre 2022 |
 | [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md) | 19 ottobre 2022 |
 
