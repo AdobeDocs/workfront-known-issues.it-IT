@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c85772aa45bce70beb6f0f52fec926abcf8d5843
+source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
 workflow-type: tm+mt
-source-wordcount: '1428'
-ht-degree: 75%
+source-wordcount: '1482'
+ht-degree: 73%
 
 ---
 
@@ -24,6 +24,16 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 +++**Aggiornamento della manutenzione (pianificato) il 9 febbraio 2023**
 
 Questo aggiornamento include solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+
++++
+
++++**Aggiornamento di manutenzione del 8 febbraio 2023**
+
+**Pulsante Filtro nella colonna di aspirazione**
+
+_Bacheche_
+
+La colonna di assunzione su una bacheca ora include un **Aggiungere un filtro** quando la colonna è vuota e non sono stati creati filtri. Il pulsante apre l’area di configurazione, in cui puoi aggiungere filtri per inserire attività e problemi nella colonna di assunzione.
 
 +++
 
