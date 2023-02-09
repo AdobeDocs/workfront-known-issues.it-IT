@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f60d2cab1983c7486ca611050de5ee53596c9e05
+source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 73%
+source-wordcount: '1506'
+ht-degree: 71%
 
 ---
 
@@ -21,9 +21,13 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di febbraio 2023
 
-+++**Aggiornamento della manutenzione (pianificato) il 9 febbraio 2023**
++++**Aggiornamento di manutenzione del 9 febbraio 2023**
 
-Questo aggiornamento include solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+**[!UICONTROL Punti della storia] campo aggiunto a elenchi di attività e di problemi e rapporti**
+
+_Report_
+
+La [!UICONTROL Punti della storia] è ora disponibile per aggiungere a elenchi e rapporti attività o problemi. Si tratta di un campo modulo libero modificabile che non è legato alle ore pianificate o alle assegnazioni del team.
 
 +++
 
@@ -33,17 +37,17 @@ Questo aggiornamento include solo correzioni di bug minori o meno importanti. L�
 
 _Bacheche_
 
-La colonna di assunzione su una bacheca ora include un **Aggiungere un filtro** quando la colonna è vuota e non sono stati creati filtri. Il pulsante apre l’area di configurazione, in cui puoi aggiungere filtri per inserire attività e problemi nella colonna di assunzione.
+La colonna di assunzione su una bacheca ora include un **[!UICONTROL Aggiungere un filtro]** quando la colonna è vuota e non sono stati creati filtri. Il pulsante apre l’area di configurazione, in cui puoi aggiungere filtri per inserire attività e problemi nella colonna di assunzione.
 
 +++
 
 +++**Aggiornamento di manutenzione del 2 febbraio 2023**
 
-**Per impostazione predefinita, nel menu principale viene visualizzata l&#39;icona delle bacheche**
+**[!UICONTROL Schede] viene visualizzata l&#39;icona [!UICONTROL Menu principale] per impostazione predefinita**
 
 _Bacheche_
 
-L’icona Bacheche ora viene visualizzata nel menu principale per gli utenti che non dispongono di un modello di layout. Per impostazione predefinita, le schede sono incluse anche nel menu principale per tutti i nuovi modelli di layout creati. I modelli di layout esistenti non sono stati modificati.
+La [!UICONTROL Schede] l&#39;icona ora appare nella [!UICONTROL Menu principale] per gli utenti che non dispongono di un modello di layout. Per impostazione predefinita, le schede sono incluse anche nel menu principale per tutti i nuovi modelli di layout creati. I modelli di layout esistenti non sono stati modificati.
 
 **Impossibile salvare i modelli e-mail**
 
