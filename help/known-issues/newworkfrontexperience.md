@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: d91c84f60680c78b9e34481bd6435f5dad234358
+source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
-source-wordcount: '625'
-ht-degree: 88%
+source-wordcount: '635'
+ht-degree: 87%
 
 ---
 
@@ -39,6 +39,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Utenti: Il livello di accesso non viene assegnato quando si riattiva l&#39;utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 febbraio 2023 |
 | [Aggiornamenti: Il collegamento a un commento reindirizzerà a [!UICONTROL Dettagli] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10 febbraio 2023 |
 | [[!UICONTROL Configurazione]: I log di controllo non vengono esportati](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 gennaio 2023 |
 | [Utenti: La disattivazione pianificata non disattiva l&#39;utente](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 gennaio 2023 |

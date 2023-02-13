@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: e82b48da068f119a5ab42410b86dd47bf0aa0bc3
+source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 91%
+source-wordcount: '1462'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Utenti: Il livello di accesso non viene assegnato quando si riattiva l&#39;utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Aggiornamenti: Il collegamento a un commento reindirizzerà a [!UICONTROL Dettagli] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Utenti: L&#39;utente non può modificare le proprie impostazioni di notifica](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
       + [Documenti: Le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
