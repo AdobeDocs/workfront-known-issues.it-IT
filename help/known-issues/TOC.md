@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
 source-wordcount: '1462'
-ht-degree: 90%
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 90%
       + [[!UICONTROL Configurazione]: I log di controllo non vengono esportati](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
       + [[!UICONTROL Riepilogo]: Impossibile scorrere [!UICONTROL Riepilogo] pannello](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
       + [Documenti: Errore &quot;Risposta non valida&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
-      + [Utenti: La disattivazione pianificata non disattiva l&#39;utente](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
+      + [Utenti: la disattivazione pianificata non disattiva l’utente](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configurazione: impossibile salvare i modelli e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Utenti: l’utente non può modificare le proprie impostazioni](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
       + [Documenti: impossibile ripristinare il documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md)
@@ -117,7 +117,7 @@ ht-degree: 90%
       + [Moduli personalizzati: i campi di testo descrittivo mostrano una descrizione](known-issues-workfront/wf-custom-forms-descriptive-text-tooltip.md)
       + [Integrazioni: errore 404 durante l’aggiunta di un documento da [!DNL SharePoint] [!UICONTROL (API grafica)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
       + [Integrazioni: il proprietario della cartella  [!DNL SharePoint] non è in grado di visualizzarla](known-issues-workfront/wf-integrations-sharepoint-folder-not-appearing-for-owner.md)
-      + [Integrazioni: errore durante l’invio della richiesta da [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
+      + [Integrazioni: errore durante l’invio della richiesta da  [!DNL Outlook] ](known-issues-workfront/wf-integrations-error-when-creating-request-from-outlook.md)
       + [Schede orario: errore “[!UICONTROL Qualcun altro ha provato a salvare questo progetto]” durante l’immissione delle ore](known-issues-workfront/wf-timesheets-not-autosaving-due-to-error.md)
       + [Dashboard: impossibile accedere al dashboard dal menu di navigazione a sinistra di un oggetto](known-issues-workfront/wf-dashboards-cannot-open-from-left-nav.md)
       + [Attività e problemi: uscita involontaria durante la creazione di attività o problemi](known-issues-workfront/wf-inadvertent-exit-creating-tasks-or-issues.md)
@@ -161,7 +161,7 @@ ht-degree: 90%
       + [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + [[!DNL Workfront Proof]: pagine vuote quando si visualizza una bozza con più pagine](known-issues-workfront-proof/proof-multiple-page-proofs-have-missing-images.md)
-      + [Bozze: errore durante l’aggiunta della bozza a  [!DNL Workfront]  da  [!DNL Workfront]  Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [Bozze: errore durante l’aggiunta della bozza a [!DNL Workfront] da [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: le notifiche e-mail subiscono ritardi](known-issues-workfront-proof/proof-delays-receiving-email-notifications.md)
       + [[!DNL Workfront Proof]: richiedenti e revisori vengono conteggiati nel numero di licenze di un’organizzazione](known-issues-workfront-proof/proof-requestor-reviewer-count-as-licenses.md)
       + [[!DNL Workfront Proof]: le e-mail di riepilogo giornaliero non includono un pulsante “Visualizza dettagli”](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)

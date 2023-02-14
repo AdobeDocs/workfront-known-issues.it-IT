@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
 workflow-type: tm+mt
 source-wordcount: '635'
-ht-degree: 87%
+ht-degree: 88%
 
 ---
 
@@ -42,7 +42,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Utenti: Il livello di accesso non viene assegnato quando si riattiva l&#39;utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 febbraio 2023 |
 | [Aggiornamenti: Il collegamento a un commento reindirizzerà a [!UICONTROL Dettagli] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10 febbraio 2023 |
 | [[!UICONTROL Configurazione]: I log di controllo non vengono esportati](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 gennaio 2023 |
-| [Utenti: La disattivazione pianificata non disattiva l&#39;utente](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 gennaio 2023 |
+| [Utenti: la disattivazione pianificata non disattiva l’utente](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md) | 26 gennaio 2023 |
 | [Documenti: impossibile ripristinare un documento eliminato](known-issues-workfront/wf-documents-cannot-restore-document.md) | 20 gennaio 2023 |
 | [Report: errore durante l’aggiunta di un nuovo problema a un report sui problemi](known-issues-workfront/wf-reports-whoops-error-with-issue-report.md) | 14 novembre 2022 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
