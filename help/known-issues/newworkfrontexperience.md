@@ -3,7 +3,7 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b385fcb16dbcb85397afd22ce730757603f0f6d7
+source-git-commit: a02311dcf01d961cc55e4faa7b26661154055578
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 88%
@@ -39,6 +39,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni: impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 14 febbraio 2023 |
 | [Utenti: Il livello di accesso non viene assegnato quando si riattiva l&#39;utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 febbraio 2023 |
 | [Aggiornamenti: Il collegamento a un commento reindirizzerà a [!UICONTROL Dettagli] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 10 febbraio 2023 |
 | [[!UICONTROL Configurazione]: I log di controllo non vengono esportati](known-issues-workfront/wf-setup-audit-logs-do-not-export.md) | 30 gennaio 2023 |
@@ -56,7 +57,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 gennaio 2023 |
-| [Integrazioni: impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 12 gennaio 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nella sezione [!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
 | [Moduli personalizzati: impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 gennaio 2023 |
 | [Progetti: lo stato del progetto non segue le preferenze di progetto del gruppo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md) | 6 gennaio 2023 |
