@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f31a0b764aa1e734fc2cb997b7f7170b315f3086
+source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
 workflow-type: tm+mt
-source-wordcount: '1506'
-ht-degree: 71%
+source-wordcount: '1538'
+ht-degree: 76%
 
 ---
 
@@ -20,6 +20,16 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di febbraio 2023
+
++++**Aggiornamento della manutenzione (pianificato) il 16 febbraio 2023**
+
+**La disattivazione pianificata non disattiva l&#39;utente**
+
+_Utenti_
+
+Quando è pianificata la disattivazione di un utente e vengono superate la data e l’ora pianificate, l’utente non viene disattivato.
+
++++
 
 +++**Aggiornamento di manutenzione del 9 febbraio 2023**
 
@@ -94,7 +104,7 @@ La funzionalità di queste impostazioni non è stata modificata e sono state agg
 
 +++**Aggiornamento di manutenzione del 26 gennaio 2023**
 
-**Errore durante l’invio della richiesta da[!DNL Outlook]**
+**Errore durante l’invio della richiesta da [!DNL Outlook]**
 
 _Integrazioni_
 
@@ -104,18 +114,18 @@ Quando un utente cerca di inviare una richiesta con allegati da un indirizzo e-m
 
 Ciò si verifica solo quando viene eseguita un’assegnazione per la nuova richiesta, sia attraverso la coda di richieste che sia manualmente durante la creazione della richiesta.
 
-**Nuova versione del visualizzatore di correzione desktop**
+**Nuova versione di Desktop Proofing Viewer**
 
 _Verifica_
 
-Per risolvere un problema di blocco nel visualizzatore per correzione desktop, è stata implementata una nuova versione del visualizzatore per correzione desktop. Gli utenti che hanno già installato il visualizzatore di correzione desktop riceveranno automaticamente questo aggiornamento.
+Per risolvere un problema di blocco in Desktop Proofing Viewer, ne è stata implementata una nuova versione. Gli utenti che hanno già installato Desktop Proofing Viewer riceveranno automaticamente questo aggiornamento.
 
-Gli utenti possono anche disattivare manualmente la versione più recente. Per ulteriori informazioni, consulta [Installare il visualizzatore di correzione del desktop](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=en).
+Gli utenti possono anche scaricare manualmente la versione più recente. Per ulteriori informazioni, consulta [Installare Desktop Proofing Viewer](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=it).
 
 * Versione precedente: 2.1.19
 * Nuova versione: 2.1.20
 
-**L&#39;utente non può modificare le proprie impostazioni utente**
+**Gli utenti non possono modificare le proprie impostazioni**
 
 _Utenti_
 
@@ -159,9 +169,9 @@ Quando un utente visualizza il [!UICONTROL Bilanciamento del carico di lavoro], 
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione (Hot Fix) del 12 gennaio 2023**
++++Aggiornamento di manutenzione per **[!DNL Adobe Workfront Fusion] (Hot Fix) del 12 gennaio 2023**
 
-**errori 404 nei moduli [!DNL Workfront]**
+**Errori 404 nei moduli [!DNL Workfront]**
 
 _Workfront Fusion_
 
