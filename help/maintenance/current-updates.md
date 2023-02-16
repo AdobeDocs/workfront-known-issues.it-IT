@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b931adc190ed492131133cf1ba704a8b8057b6f9
+source-git-commit: c998c35b249f5702ff9676f3eff9da468d5f83e3
 workflow-type: tm+mt
-source-wordcount: '1538'
-ht-degree: 76%
+source-wordcount: '1582'
+ht-degree: 75%
 
 ---
 
@@ -21,7 +21,19 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di febbraio 2023
 
-+++**Aggiornamento della manutenzione (pianificato) il 16 febbraio 2023**
++++**Aggiornamento di manutenzione del 16 febbraio 2023**
+
+**Più assegnazioni di team sulle bacheche**
+
+_Bacheche_
+
+Ora potete assegnare più team a un&#39;attività o a un problema su una bacheca e alla bacheca stessa.
+
+**Aumento del limite di decadenza delle carte**
+
+_Bacheche_
+
+I limiti di tempo per il ritiro della carta sono stati portati a 8 settimane / 60 giorni invece di 4 settimane / 30 giorni.
 
 **La disattivazione pianificata non disattiva l&#39;utente**
 
