@@ -2,15 +2,19 @@
 title: '“Utenti: la disattivazione pianificata non disattiva l’utente”'
 description: “Quando è pianificata la disattivazione di un utente e vengono superate la data e l’ora pianificate, l’utente non viene disattivato.”
 hidefromtoc: true
-source-git-commit: 7e9ce4242d5c738f88d26156137853dd48086ede
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
+workflow-type: tm+mt
+source-wordcount: '64'
+ht-degree: 90%
 
 ---
 
 
 # Utenti: la disattivazione pianificata non disattiva l’utente
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 16 febbraio 2023.
 
 Quando è pianificata la disattivazione di un utente e vengono superate la data e l’ora pianificate, l’utente non viene disattivato.
 
