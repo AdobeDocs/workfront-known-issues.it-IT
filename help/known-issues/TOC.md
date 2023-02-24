@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 72d2cf5620f0ea6ca7f74d2e7e773f93a807af30
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1114'
+ht-degree: 85%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrazioni: Errore durante l&#39;accesso a [!DNL Workfront] da [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Progetti: Errore 504 nell&#39;intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Schede]: Impossibile aggiungere schede quando viene applicato il raggruppamento](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Utenti: Il livello di accesso non viene assegnato quando si riattiva l&#39;utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
@@ -119,6 +120,7 @@ ht-degree: 0%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [Integrazioni: Errore durante l&#39;accesso a [!DNL Workfront] da [!DNL Jira]](known-issues-workfront-proof/proof-print-summary-does-not-load.md)
       + [Prove: L’utente non riceve un messaggio e-mail quando viene applicato il tag in un commento di bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Bozze: viene creata una nuova fase perché la scadenza non può corrispondere a quella della fase esistente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
