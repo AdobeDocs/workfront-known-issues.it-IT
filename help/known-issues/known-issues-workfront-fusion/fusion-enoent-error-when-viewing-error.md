@@ -3,9 +3,9 @@ title: '“Workfront Fusion: errore durante la visualizzazione di un errore nell
 description: Quando un utente visualizza una cronologia di esecuzione di uno scenario e tenta di visualizzare maggiori dettagli su un errore facendo clic sullo stesso, i dettagli non si aprono e viene visualizzato un messaggio di errore.
 hidefromtoc: true
 exl-id: c997469f-b80c-4438-b353-897f9cdb9481
-source-git-commit: 66e3bc22d8aef2d6287161f4a13fbbe0f3ac99c8
-workflow-type: ht
-source-wordcount: '154'
+source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
+workflow-type: tm+mt
+source-wordcount: '132'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
+>Questo problema è stato risolto il 25 gennaio 2023.
 
 Quando un utente visualizza una cronologia di esecuzione di uno scenario e tenta di visualizzare maggiori dettagli su un errore facendo clic sullo stesso, i dettagli non si aprono e l’utente visualizza un messaggio di errore.
 
