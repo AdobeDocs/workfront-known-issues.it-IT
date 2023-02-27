@@ -1,26 +1,26 @@
 ---
-title: "Bilanciatore del carico di lavoro: Risultati imprecisi quando si utilizzano più filtri contemporaneamente"
-description: "Quando un utente visualizza il servizio di bilanciamento del carico di lavoro e utilizza più filtri contemporaneamente, i risultati non sono precisi. Ad esempio, un risultato visualizzato quando si utilizza il Filtro A e il Filtro B non viene visualizzato quando si utilizzano contemporaneamente sia il Filtro A che il Filtro B."
+title: '“Bilanciamento del carico di lavoro: risultati imprecisi quando si utilizzano più filtri contemporaneamente”'
+description: “Quando un utente visualizza il bilanciamento del carico di lavoro e utilizza più filtri contemporaneamente, i risultati non sono precisi. Ad esempio, un risultato visualizzato quando si utilizza il Filtro A e il Filtro B non viene visualizzato quando si utilizzano contemporaneamente sia il Filtro A che il Filtro B”.
 hidefromtoc: true
 source-git-commit: d03db6c677e340e01629a962fec8b2690af8460d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 
-# Bilanciatore del carico di lavoro: Risultati imprecisi quando si utilizzano più filtri contemporaneamente
+# Bilanciamento del carico di lavoro: risultati imprecisi quando si utilizzano più filtri contemporaneamente
 
 >[!NOTE]
 >
 >Questa segnalazione è stata chiusa perché il problema non sussiste.
 
-Quando un utente visualizza il load balancer e utilizza più filtri contemporaneamente, i risultati non sono precisi. Ad esempio, un risultato visualizzato quando si utilizza il filtro A e il filtro B non viene visualizzato quando si utilizzano contemporaneamente i filtri A e B.
+Quando un utente visualizza il bilanciamento del carico di lavoro e utilizza più filtri contemporaneamente, i risultati non sono precisi. Ad esempio, un risultato visualizzato quando si utilizza il Filtro A e il Filtro B non viene visualizzato quando si utilizzano contemporaneamente sia il Filtro A che il Filtro B.
 
 **Soluzione alternativa**
 
-È possibile combinare entrambi i filtri in un nuovo filtro.
+Puoi combinare entrambi i filtri in un nuovo filtro.
 
 _Segnalato per la prima volta il 31 gennaio 2023._
 
