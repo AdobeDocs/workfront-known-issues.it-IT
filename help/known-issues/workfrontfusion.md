@@ -4,9 +4,9 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 source-git-commit: 6290d20892889fb2a31ae2a7a2a844dfe4cc2952
-workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 96%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Adobe Workfront Fusion]: Errori di timeout in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | 3 febbraio 2023 |
+| [[!DNL Adobe Workfront Fusion]: errori di timeout in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | 3 febbraio 2023 |
 
 {style=&quot;table-layout:auto&quot;}
 
