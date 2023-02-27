@@ -3,9 +3,9 @@ title: '“Documenti: impossibile ripristinare un documento eliminato”'
 description: “Quando un utente tenta di ripristinare un documento precedentemente eliminato, non può ripristinare il documento e viene visualizzato un errore.”
 hidefromtoc: true
 source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
