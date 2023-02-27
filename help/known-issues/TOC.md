@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: 3d821318a12bc8cbc47472f9bfc148cb20a0248a
 workflow-type: tm+mt
 source-wordcount: '1115'
-ht-degree: 85%
+ht-degree: 96%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 85%
       + [Integrazioni: Errore durante l&#39;accesso a [!DNL Workfront] da [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Progetti: Errore 504 nell&#39;intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
       + [[!UICONTROL Schede]: Impossibile aggiungere schede quando viene applicato il raggruppamento](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
-      + [Utenti: Il livello di accesso non viene assegnato quando si riattiva l&#39;utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
-      + [Aggiornamenti: Il collegamento a un commento reindirizzerà a [!UICONTROL Dettagli] page](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
-      + [Utenti: L&#39;utente non può modificare le proprie impostazioni di notifica](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
-      + [Documenti: Le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
-      + [Bilanciatore del carico di lavoro: Risultati imprecisi quando si utilizzano più filtri contemporaneamente](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
-      + [Gruppi: I sottogruppi non visualizzano le notifiche in base alle impostazioni di notifica degli eventi del gruppo](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
-      + [Documenti: Il pannello di riepilogo torna in alto quando si fa clic sul menu a tre punti](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
-      + [Documenti: Errore &quot;La pagina non esiste&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
-      + [Progetti: Il progetto convertito dal problema non eredita le autorizzazioni dal portfolio o dal programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
-      + [[!UICONTROL Configurazione]: I log di controllo non vengono esportati](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
-      + [[!UICONTROL Riepilogo]: Impossibile scorrere [!UICONTROL Riepilogo] pannello](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
-      + [Documenti: Errore &quot;Risposta non valida&quot; durante l&#39;apertura o il download di un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
+      + [Utenti: il livello di accesso non viene assegnato quando si riattiva l’utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
+      + [Aggiornamenti: il collegamento a un commento reindirizzerà alla pagina [!UICONTROL Dettagli]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
+      + [Utenti: l’utente non può modificare le proprie impostazioni di notifica](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
+      + [Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md)
+      + [Bilanciamento del carico di lavoro: risultati imprecisi quando si utilizzano più filtri contemporaneamente](known-issues-workfront/wf-workload-balancer-multiple-filters.md)
+      + [Gruppi: i sottogruppi non ricevono le notifiche in base alle impostazioni di notifica degli eventi del gruppo](known-issues-workfront/wf-groups-event-notif-not-applying-to-sub-groups.md)
+      + [Documenti: il pannello di riepilogo torna in alto quando si fa clic sul menu a tre punti](known-issues-workfront/wf-documents-summary-panel-returns-to-top.md)
+      + [Documenti: errore “La pagina non esiste” durante l’apertura o il download di un documento](known-issues-workfront/wf-documents-cannot-open-or-download-document.md)
+      + [Progetti: il progetto convertito dal problema non eredita le autorizzazioni dal portfolio o dal programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md)
+      + [[!UICONTROL Configurazione]: i log di controllo non vengono esportati](known-issues-workfront/wf-setup-audit-logs-do-not-export.md)
+      + [[!UICONTROL Riepilogo]: impossibile scorrere nel pannello [!UICONTROL Riepilogo]](known-issues-workfront/wf-summary-cannot-scroll-summary-panel.md)
+      + [Documenti: errore “Risposta non valida” durante l’apertura o il download di un documento](known-issues-workfront/wf-documents-error-when-opening-or-downloading.md)
       + [Utenti: la disattivazione pianificata non disattiva l’utente](known-issues-workfront/wf-users-scheduled-deactivation-does-not-work.md)
       + [Configurazione: impossibile salvare i modelli e-mail](known-issues-workfront/wf-setup-email-templates-not-working.md)
       + [Utenti: l’utente non può modificare le proprie impostazioni](known-issues-workfront/wf-users-user-cannot-edit-own-profile.md)
@@ -47,7 +47,7 @@ ht-degree: 85%
       + [Report: il report utilizza il creatore di report invece del carattere jolly “$$[!UICONTROL USERID]”](known-issues-workfront/wf-reports-repeat-report-uses-creater-instead-of-wildcard.md)
       + [Integrazioni: impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md)
       + [Attività: impossibile aggiungere l’attività secondaria](known-issues-workfront/wf-tasks-cannot-add-subtask.md)
-      + [Schede orario: impossibile immettere l&#39;ora nella scheda orario](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
+      + [Schede orario: impossibile immettere l’ora nella scheda orario](known-issues-workfront/wf-timesheets-cannot-enter-time-on-timesheet.md)
       + [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md)
       + [Progetti: lo stato del progetto non segue le preferenze di progetto del gruppo](known-issues-workfront/wf-projects-group-statuses-do-not-apply.md)
       + [Progetti: errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-projects-whoops-error-when-creating-project-from-template.md)
@@ -142,8 +142,8 @@ ht-degree: 85%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Adobe Workfront Fusion]: Errori di timeout in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
-      + [[!DNL Adobe Workfront Fusion]: 404 errori nei moduli Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
+      + [[!DNL Adobe Workfront Fusion]: errori di timeout in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
+      + [[!DNL Adobe Workfront Fusion]: errori 404 nei moduli Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: impossibile creare la connessione a [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: gli elementi array nel modulo [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)

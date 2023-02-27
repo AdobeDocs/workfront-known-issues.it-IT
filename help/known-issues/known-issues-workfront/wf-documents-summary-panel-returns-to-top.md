@@ -1,16 +1,16 @@
 ---
-title: "Documenti: Il pannello di riepilogo torna in alto quando si fa clic su menu a tre punti"
+title: '“Documenti: Il pannello di riepilogo torna in alto quando si fa clic su menu a tre punti”'
 description: ""
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Documenti: Il pannello di riepilogo torna in alto quando si fa clic sul menu a tre punti
+# Documenti: il pannello di riepilogo torna in alto quando si fa clic sul menu a tre punti
 
 >[!NOTE]
 >

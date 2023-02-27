@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
 workflow-type: tm+mt
 source-wordcount: '1692'
-ht-degree: 70%
+ht-degree: 96%
 
 ---
 
@@ -27,15 +27,15 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 _Aggiornamenti_
 
-Quando un utente segue un collegamento a un commento su un oggetto in Workfront, il flusso di aggiornamento viene caricato brevemente e l&#39;utente viene reindirizzato al [!UICONTROL Dettagli] area. Questo può verificarsi se l’utente fa clic sul collegamento da un’e-mail o lo incolla nel browser.
+Quando un utente segue un collegamento a un commento su un oggetto in Workfront, il flusso di aggiornamento viene caricato brevemente e l’utente viene reindirizzato all’area [!UICONTROL Dettagli] dell’oggetto. Questo può verificarsi se l’utente fa clic sul collegamento da un’e-mail o lo incolla nel browser.
 
-Attualmente, questa modifica interessa solo gli oggetti Document.
+Attualmente, questa modifica interessa solo gli oggetti Documento.
 
 **L&#39;utente non può modificare le proprie impostazioni di notifica**
 
 _Utenti_
 
-Quando un utente ha un [!UICONTROL Lavoratore] la licenza tenta di modificare le proprie impostazioni di notifica, [!UICONTROL Notifiche] le opzioni non sono visibili nella [!UICONTROL Modifica] e l&#39;utente non può modificare le impostazioni.
+Quando un utente con licenza [!UICONTROL Lavoratore] tenta di modificare le proprie impostazioni di notifica, le opzioni di [!UICONTROL Notifica] non sono visibili nella finestra [!UICONTROL Modifica] e l’utente non può modificare le impostazioni.
 
 +++
 
@@ -53,7 +53,7 @@ _Bacheche_
 
 I limiti di tempo per il ritiro della carta sono stati portati a 8 settimane / 60 giorni invece di 4 settimane / 30 giorni.
 
-**La disattivazione pianificata non disattiva l&#39;utente**
+**La disattivazione pianificata non disattiva l’utente**
 
 _Utenti_
 
@@ -63,33 +63,33 @@ Quando è pianificata la disattivazione di un utente e vengono superate la data 
 
 +++**Aggiornamento di manutenzione del 9 febbraio 2023**
 
-**[!UICONTROL Punti della storia] campo aggiunto a elenchi di attività e di problemi e rapporti**
+Campo **[!UICONTROL Punti della storia] aggiunto a elenchi di attività e di problemi e rapporti**
 
 _Report_
 
-La [!UICONTROL Punti della storia] è ora disponibile per aggiungere a elenchi e rapporti attività o problemi. Si tratta di un campo modulo libero modificabile che non è legato alle ore pianificate o alle assegnazioni del team.
+Il campo [!UICONTROL Punti della storia] è ora disponibile per essere aggiunto a elenchi e report di attività o problemi. Si tratta di un campo modulo libero modificabile che non è legato alle ore pianificate o alle assegnazioni del team.
 
 +++
 
 +++**Aggiornamento di manutenzione del 8 febbraio 2023**
 
-**Pulsante Filtro nella colonna di aspirazione**
+**Pulsante Filtro nella colonna di acquisizione**
 
 _Bacheche_
 
-La colonna di assunzione su una bacheca ora include un **[!UICONTROL Aggiungere un filtro]** quando la colonna è vuota e non sono stati creati filtri. Il pulsante apre l’area di configurazione, in cui puoi aggiungere filtri per inserire attività e problemi nella colonna di assunzione.
+La colonna di acquisizione su una bacheca ora include un pulsante **[!UICONTROL Aggiungi un filtro]** quando la colonna è vuota e non sono stati creati filtri. Il pulsante apre l’area di configurazione, in cui puoi aggiungere filtri per inserire attività e problemi nella colonna di acquisizione.
 
 +++
 
 +++**Aggiornamento di manutenzione del 2 febbraio 2023**
 
-**[!UICONTROL Schede] viene visualizzata l&#39;icona [!UICONTROL Menu principale] per impostazione predefinita**
+L’icona **[!UICONTROL Schede] viene visualizzata nel [!UICONTROL Menu principale] per impostazione predefinita**
 
 _Bacheche_
 
-La [!UICONTROL Schede] l&#39;icona ora appare nella [!UICONTROL Menu principale] per gli utenti che non dispongono di un modello di layout. Per impostazione predefinita, le schede sono incluse anche nel menu principale per tutti i nuovi modelli di layout creati. I modelli di layout esistenti non sono stati modificati.
+L’icona [!UICONTROL Schede] ora appare nel [!UICONTROL Menu principale] per gli utenti che non dispongono di un modello di layout. Per impostazione predefinita, le schede sono incluse anche nel menu principale per tutti i nuovi modelli di layout creati. I modelli di layout esistenti non sono stati modificati.
 
-**Impossibile salvare i modelli e-mail**
+**Impossibile salvare i modelli di e-mail**
 
 _Configura_
 
@@ -105,12 +105,12 @@ Quando un utente tenta di creare o modificare un modello e-mail, il pulsante [!U
 
 _Schede orario_
 
-Sono state introdotte le seguenti scelte rapide da tastiera per le seguenti azioni eseguite di frequente all’interno di una scheda attività:
+Sono state introdotte le seguenti scelte rapide da tastiera per le seguenti azioni frequenti all’interno di una scheda attività:
 
 * Aggiungi riga (Comando+Opzione++ / Ctrl+Opzione++)
 * Elimina riga (Comando+Opzione+- / Ctrl+Opzione+-)
-* Fissare o sbloccare un elemento di lavoro (Opzione+P / Opzione+P)
-* Commento aperto (Maiusc+F2 / Maiusc+F2)
+* Fissa o sblocca un elemento di lavoro (Opzione+P / Opzione+P)
+* Apri commento (Maiusc+F2 / Maiusc+F2)
 * Salva commento (Comando+Invio / Ctrl+Invio)
 * Espandi (Maiusc+Opzione+Freccia su/Maiusc+Alt+Freccia su)
 * Comprimi (Maiusc+Opzione+Freccia giù/ Maiusc+Alt+Freccia giù)
@@ -123,12 +123,12 @@ _Schede orario_
 
 >[!NOTE]
 >
->Questo aggiornamento è stato rilasciato solo nell’ambiente Preview il 3 novembre 2022 ed è ora disponibile in Produzione.
+>Questo aggiornamento è stato rilasciato solo nell’ambiente Anteprima il 3 novembre 2022 ed è ora disponibile in Produzione.
 
 Sono state aggiunte diverse icone di informazioni alle seguenti impostazioni:
 
-* &quot;[!UICONTROL Può modificare il tempo]&quot; casella di controllo quando si crea o si modifica una scheda attività o un profilo di una scheda attività per indicare che, se attivato, gli approvatori possono anche inviare, riaprire o modificare la scheda attività, a meno che l&#39;amministratore non limiti queste azioni nel [!UICONTROL Preferenze foglio presenze] area [!UICONTROL Configurazione].
-* &quot;[!UICONTROL Limita la modifica della scheda attività a proprietari e amministratori]&quot; nel [!UICONTROL Scheda attività e preferenze ora] area [!UICONTROL Configurazione] per indicare che, se disattivato, anche i seguenti utenti possono modificare i fogli presenze: utenti con accesso amministrativo a schede attività e ore, approvatori di schede attività autorizzati a modificare il tempo e responsabili dei proprietari delle schede attività.
+* La casella di controllo “[!UICONTROL Can edit time]” (Può modificare l’ora) durante la creazione o la modifica di una scheda orario o di un profilo della scheda orario per indicare, se abilitata, che gli approvatori possono anche inviare, riaprire o modificare la scheda orario, a meno che l’amministratore non limiti queste azioni nell’area di [!UICONTROL Setup] (Configurazione) di [!UICONTROL Timesheet Preferences] (Preferenze della scheda orario).
+* “[!UICONTROL Restrict timesheet editing to owners and admins]” (Limita la modifica della scheda orario a proprietari e amministratori) nell’area di [!UICONTROL Setup] (Configurazione) [!UICONTROL Timesheet &amp; Hour Preferences] (Preferenze scheda orario e ora) per indicare che, se disabilitata, i seguenti utenti possono anche modificare le schede orario: utenti con accesso amministrativo a schede orario e ore, approvatori di schede orario autorizzati a modificare l’ora e responsabili dei proprietari delle schede orario.
 
 La funzionalità di queste impostazioni non è stata modificata e sono state aggiunte solo le icone delle informazioni per chiarire l’ambito delle impostazioni.
 
