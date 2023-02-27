@@ -3,9 +3,9 @@ title: '“Configurazione: impossibile salvare i modelli e-mail”'
 description: “Quando un utente tenta di creare o modificare un modello e-mail, il pulsante Salva non risponde e l’utente non può salvare il modello.”
 hidefromtoc: true
 source-git-commit: 4f1ddf2ac7e5b6b463d421ba3356dfd0815e43f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
