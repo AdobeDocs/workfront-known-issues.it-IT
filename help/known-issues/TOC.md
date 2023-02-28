@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
-source-wordcount: '1124'
+source-wordcount: '1129'
 ht-degree: 95%
 
 ---
@@ -122,6 +122,7 @@ ht-degree: 95%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: [!UICONTROL Riepilogo stampa] non viene caricato](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Prove: L’utente non riceve un messaggio e-mail quando viene applicato il tag in un commento di bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Bozze: viene creata una nuova fase perché la scadenza non può corrispondere a quella della fase esistente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)

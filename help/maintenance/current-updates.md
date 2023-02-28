@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: a21275163de2c7de2201971b125703f40b9983b8
+source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
 workflow-type: tm+mt
-source-wordcount: '1692'
-ht-degree: 96%
+source-wordcount: '1870'
+ht-degree: 90%
 
 ---
 
@@ -18,6 +18,34 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 >Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
+
+## Aggiornamenti di marzo 2023
+
++++**Aggiornamento della manutenzione (pianificato) il 2 marzo 2023**
+
+**Impossibile aggiungere schede quando viene applicato il raggruppamento**
+
+_Bacheche_
+
+Quando un utente visualizza una bacheca con un raggruppamento applicato e tenta di aggiungere una scheda, può immettere solo il nome della scheda. Gli altri campi della scheda sono disabilitati, tra cui [!UICONTROL Salva] pulsante .
+
+Se l’utente modifica il raggruppamento in [!UICONTROL Nessuno], la questione rimane. L’utente deve modificare il raggruppamento in [!UICONTROL Nessuno] e quindi aggiorna la pagina per ripristinare la possibilità di aggiungere una scheda.
+
+**Il collegamento a un commento reindirizzerà a [!UICONTROL Dettagli] page**
+
+_Aggiornamenti_
+
+Quando un utente segue un collegamento a un commento su un oggetto in Workfront, il flusso di aggiornamento viene caricato brevemente e l’utente viene reindirizzato all’area [!UICONTROL Dettagli] dell’oggetto. Questo può verificarsi se l’utente fa clic sul collegamento da un’e-mail o lo incolla nel browser.
+
+Attualmente, questa modifica interessa solo gli oggetti Documento.
+
+**Stampa riepilogo non caricato**
+
+_[!UICONTROL Bozza Workfront]_
+
+Quando un utente tenta di caricare la pagina Riepilogo di stampa, la pagina sembra essere in fase di caricamento, ma non viene mai caricata.
+
++++
 
 ## Aggiornamenti di febbraio 2023
 
