@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Prove: Impossibile aggiungere l&#39;utente o il gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
-      + [Prove: I ruoli di bozza vengono modificati in [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
-      + [Integrazioni: Errore durante l&#39;accesso a [!DNL Workfront] da [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
-      + [Progetti: Errore 504 nell&#39;intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
-      + [[!UICONTROL Schede]: Impossibile aggiungere schede quando viene applicato il raggruppamento](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [Bozze: impossibile aggiungere un utente o un gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [Bozze: i ruoli della bozza vengono modificati in [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
+      + [Integrazioni: errore durante l’accesso a [!DNL Workfront] da [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
+      + [Progetti: errore 504 nell’intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
+      + [[!UICONTROL Schede]: impossibile aggiungere schede quando viene applicato il raggruppamento](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Utenti: il livello di accesso non viene assegnato quando si riattiva l’utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Aggiornamenti: il collegamento a un commento reindirizzerà alla pagina [!UICONTROL Dettagli]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Utenti: l’utente non può modificare le proprie impostazioni di notifica](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
@@ -122,8 +122,9 @@ ht-degree: 95%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: [!UICONTROL Riepilogo stampa] non viene caricato](known-issues-workfront-proof/proof-print-summary-not-loading.md)
-      + [Prove: L’utente non riceve un messaggio e-mail quando viene applicato il tag in un commento di bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
+      + [[!DNL Workfront Proof]: [!UICONTROL Rapporti] area non più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof]: [!UICONTROL Stampa riepilogo] non si carica](known-issues-workfront-proof/proof-print-summary-not-loading.md)
+      + [Bozze: l’utente non riceve e-mail quando viene taggato in un commento della bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Bozze: viene creata una nuova fase perché la scadenza non può corrispondere a quella della fase esistente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)

@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: 5b925d35b32ebdb1e74dd2e5b23962905788a8cc
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 89%
+source-wordcount: '285'
+ht-degree: 87%
 
 ---
 
@@ -25,8 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 |  | 24 febbraio 2023 |
-| [Prove: Impossibile aggiungere l&#39;utente o il gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 febbraio 2023 |
-| [Prove: I ruoli di bozza vengono modificati in [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 febbraio 2023 |
+| [Bozze: impossibile aggiungere un utente o un gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 febbraio 2023 |
+| [Bozze: i ruoli della bozza vengono modificati in [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 febbraio 2023 |
 | [Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 febbraio 2023 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -49,7 +49,8 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Prove: L’utente non riceve un messaggio e-mail quando viene applicato il tag in un commento di bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 febbraio 2023 |
+| [[!DNL Workfront Proof]: [!UICONTROL Reports] area non più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 marzo 2023 |
+| [Bozze: l’utente non riceve e-mail quando viene taggato in un commento della bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 febbraio 2023 |
 | [Bozze: viene creata una nuova fase perché la scadenza non può corrispondere a quella della fase esistente](known-issues-workfront-proof/proof-new-stage-created.md) | 2 febbraio 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nella sezione [!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
 | [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
