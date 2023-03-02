@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50e30f70083284302eccb04fb056cd4725650419
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '1870'
-ht-degree: 90%
+source-wordcount: '1905'
+ht-degree: 89%
 
 ---
 
@@ -21,17 +21,24 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di marzo 2023
 
-+++**Aggiornamento della manutenzione (pianificato) il 2 marzo 2023**
++++**Aggiornamento di manutenzione del 2 marzo 2023**
 
 **Impossibile aggiungere schede quando viene applicato il raggruppamento**
 
 _Bacheche_
 
-Quando un utente visualizza una bacheca con un raggruppamento applicato e tenta di aggiungere una scheda, può immettere solo il nome della scheda. Gli altri campi della scheda sono disabilitati, tra cui [!UICONTROL Salva] pulsante .
+Quando un utente visualizza una bacheca con un raggruppamento e tenta di aggiungere una scheda, può solo immettere il nome della scheda. Gli altri campi della scheda sono disabilitati, incluso [!UICONTROL Salva] pulsante.
 
-Se l’utente modifica il raggruppamento in [!UICONTROL Nessuno], la questione rimane. L’utente deve modificare il raggruppamento in [!UICONTROL Nessuno] e quindi aggiorna la pagina per ripristinare la possibilità di aggiungere una scheda.
+Se l’utente modifica il raggruppamento in [!UICONTROL Nessuno], il problema rimane. L’utente deve modificare il raggruppamento in [!UICONTROL Nessuno] quindi aggiorna la pagina per ripristinare la possibilità di aggiungere una scheda.
 
-**Il collegamento a un commento reindirizzerà a [!UICONTROL Dettagli] page**
+**Schede collegate non aggiunte alle colonne in base allo stato**
+
+_Bacheche_
+
+Anche se i criteri di colonna vengono applicati per lo stato, le nuove schede collegate vengono visualizzate nella colonna più a sinistra e non nella colonna che corrisponde al relativo stato.
+
+
+**Il collegamento a un commento reindirizza a [!UICONTROL Dettagli] pagina**
 
 _Aggiornamenti_
 
@@ -39,11 +46,11 @@ Quando un utente segue un collegamento a un commento su un oggetto in Workfront,
 
 Attualmente, questa modifica interessa solo gli oggetti Documento.
 
-**Stampa riepilogo non caricato**
+**Stampa riepilogo non viene caricato**
 
 _[!UICONTROL Bozza Workfront]_
 
-Quando un utente tenta di caricare la pagina Riepilogo di stampa, la pagina sembra essere in fase di caricamento, ma non viene mai caricata.
+Quando un utente cerca di caricare la pagina Stampa riepilogo sembra che la pagina sia in fase di caricamento, ma non si carica mai.
 
 +++
 
@@ -51,7 +58,7 @@ Quando un utente tenta di caricare la pagina Riepilogo di stampa, la pagina semb
 
 +++**Aggiornamento di manutenzione del 23 febbraio 2023**
 
-**Il collegamento a un commento reindirizzerà a [!UICONTROL Dettagli] page**
+**Il collegamento a un commento reindirizza a [!UICONTROL Dettagli] pagina**
 
 _Aggiornamenti_
 
@@ -59,7 +66,7 @@ Quando un utente segue un collegamento a un commento su un oggetto in Workfront,
 
 Attualmente, questa modifica interessa solo gli oggetti Documento.
 
-**L&#39;utente non può modificare le proprie impostazioni di notifica**
+**L’utente non può modificare le proprie impostazioni di notifica**
 
 _Utenti_
 
@@ -69,17 +76,17 @@ Quando un utente con licenza [!UICONTROL Lavoratore] tenta di modificare le prop
 
 +++**Aggiornamento di manutenzione del 16 febbraio 2023**
 
-**Più assegnazioni di team sulle bacheche**
+**Assegnazioni di più team sulle bacheche**
 
 _Bacheche_
 
-Ora potete assegnare più team a un&#39;attività o a un problema su una bacheca e alla bacheca stessa.
+Ora puoi assegnare più team a un’attività o a un problema su una bacheca e alla bacheca stessa.
 
-**Aumento del limite di decadenza delle carte**
+**Limite di abbandono carta aumentato**
 
 _Bacheche_
 
-I limiti di tempo per il ritiro della carta sono stati portati a 8 settimane / 60 giorni invece di 4 settimane / 30 giorni.
+I limiti di tempo per la riduzione delle carte sono stati aumentati a 8 settimane / 60 giorni invece di 4 settimane / 30 giorni.
 
 **La disattivazione pianificata non disattiva l’utente**
 
@@ -125,7 +132,7 @@ Quando un utente tenta di creare o modificare un modello e-mail, il pulsante [!U
 
 +++
 
-## Aggiornamenti A Gennaio 2023
+## Aggiornamenti Di Gennaio 2023
 
 +++**Aggiornamento di manutenzione del 30 gennaio 2023**
 

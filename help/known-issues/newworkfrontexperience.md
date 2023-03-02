@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 6f884b3539710a24aa5f389b0372e5a0de0a20c4
+source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
 workflow-type: tm+mt
-source-wordcount: '583'
-ht-degree: 91%
+source-wordcount: '576'
+ht-degree: 90%
 
 ---
 
@@ -24,11 +24,10 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Prove: Impossibile aggiungere l&#39;utente o il gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 febbraio 2023 |
-| [Prove: I ruoli di bozza vengono modificati in [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 febbraio 2023 |
-| [Integrazioni: Errore durante l&#39;accesso a [!DNL Workfront] da [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 24 febbraio 2023 |
-| [Progetti: Errore 504 nell&#39;intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 febbraio 2023 |
-| [[!UICONTROL Schede]: Impossibile aggiungere schede quando viene applicato il raggruppamento](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md) | 16 febbraio 2023 |
+| [Bozze: impossibile aggiungere un utente o un gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 febbraio 2023 |
+| [Bozze: i ruoli della bozza vengono modificati in [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 febbraio 2023 |
+| [Integrazioni: errore durante l’accesso a [!DNL Workfront] da [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md) | 24 febbraio 2023 |
+| [Progetti: errore 504 nell’intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 febbraio 2023 |
 | [Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 febbraio 2023 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -39,7 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aggiornamenti: il collegamento a un commento reindirizzerà alla pagina [!UICONTROL Dettagli]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md) | 24 febbraio 2023 |
+| [Progetti: campo personalizzato mancante quando il problema viene convertito in progetto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md) | 23 marzo 2023 |
 | [Progetti: il progetto convertito dal problema non eredita le autorizzazioni dal portfolio o dal programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 febbraio 2023 |
 | [Utenti: il livello di accesso non viene assegnato quando si riattiva l’utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md) | 13 febbraio 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
@@ -53,7 +52,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Integrazioni: impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 febbraio 2023 |
-| [Prove: L’utente non riceve un messaggio e-mail quando viene applicato il tag in un commento di bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 febbraio 2023 |
+| [Bozze: l’utente non riceve e-mail quando viene taggato in un commento della bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 febbraio 2023 |
 | [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 gennaio 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nella sezione [!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
 | [Moduli personalizzati: impossibile utilizzare il campo nel calcolo se il nome del campo contiene apostrofi o virgolette](known-issues-workfront/wf-custom-forms-special-character-in-field-name.md) | 6 gennaio 2023 |
