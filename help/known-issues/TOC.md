@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 4ea83d5a5f0466a50c09fd1b5b8e020b46e2132c
 workflow-type: tm+mt
-source-wordcount: '1154'
-ht-degree: 93%
+source-wordcount: '1167'
+ht-degree: 92%
 
 ---
 
@@ -123,6 +123,7 @@ ht-degree: 93%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [[!DNL Workfront Proof]: la bozza non viene caricata quando si utilizza &quot;[!UICONTROL Vai alla bozza]Pulsante &quot; nella notifica e-mail](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Rapporti] area non più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Stampa riepilogo] non si carica](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Bozze: l’utente non riceve e-mail quando viene taggato in un commento della bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
