@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 4ea83d5a5f0466a50c09fd1b5b8e020b46e2132c
+source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 82%
+source-wordcount: '271'
+ht-degree: 87%
 
 ---
 
@@ -37,7 +37,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Proof]: la bozza non viene caricata quando si utilizza &quot;[!UICONTROL Vai alla bozza]Pulsante &quot; nella notifica e-mail](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md) | 2 marzo 2023 |
 | [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 gennaio 2023 |
 
 {style=&quot;table-layout:auto&quot;}
