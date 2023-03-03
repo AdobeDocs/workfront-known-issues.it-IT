@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 4ea83d5a5f0466a50c09fd1b5b8e020b46e2132c
+source-git-commit: 10b71f5db302070b8fb851f40e01db7b234c5863
 workflow-type: tm+mt
-source-wordcount: '1167'
-ht-degree: 92%
+source-wordcount: '1175'
+ht-degree: 91%
 
 ---
 
@@ -123,6 +123,7 @@ ht-degree: 92%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [Bozze: i messaggi personalizzati non vengono visualizzati nelle notifiche e-mail](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: la bozza non viene caricata quando si utilizza &quot;[!UICONTROL Vai alla bozza]Pulsante &quot; nella notifica e-mail](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Rapporti] area non più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Stampa riepilogo] non si carica](known-issues-workfront-proof/proof-print-summary-not-loading.md)
