@@ -3,14 +3,16 @@ title: '“Notifiche e-mail: viene visualizzata l’impostazione Sono assegnato 
 description: Nell’area [!UICONTROL Setup] (Configura), viene visualizzata l’impostazione Notifiche e-mail con “Sono assegnato a un problema” per gli utenti con licenze di revisione e richiesta. Questa impostazione non è disponibile per questi tipi di licenza e l’attivazione dell’impostazione non attiva le notifiche e-mail per questo evento.
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%
 
 ---
 
 # Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL I’m assigned to an issue]” (Sono assegnato a un problema)
+
+<!--Article created by request-->
 
 >[!NOTE]
 >

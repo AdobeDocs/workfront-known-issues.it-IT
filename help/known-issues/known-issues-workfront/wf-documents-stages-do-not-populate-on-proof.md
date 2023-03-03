@@ -2,8 +2,8 @@
 title: '“Bozze: il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto”'
 description: “Quando un utente crea una bozza e la visualizza in un rapporto come [!UICONTROL Versione del documento] o [!UICONTROL Proof Approval] (Approvazione della bozza), può notare che il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto”. Ciò si verifica quando la bozza viene creata dopo il caricamento del documento, come [!UICONTROL Simple Proof] (Bozza semplice) o [!UICONTROL Advanced Proof] (Bozza avanzata) con un [!UICONTROL Basic Workflow] (Flusso di lavoro di base).
 hidefromtoc: true
-source-git-commit: 40763737feab664840a600224cff2f2889cbef72
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # Bozze: il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto
 
-<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof-->
+<!-- This Known Issue is on the TOC for both Workfront and Workfront Proof. Article created by request.-->
 
 >[!NOTE]
 >

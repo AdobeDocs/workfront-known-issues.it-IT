@@ -3,14 +3,16 @@ title: '“Notifiche e-mail: l’utente non indirizzato al thread di commenti”
 description: Quando un utente fa clic sul collegamento Commento in una notifica via e-mail, viene indirizzato alla parte superiore dell’area [!UICONTROL Aggiornamenti] invece che al thread di commenti a cui sta cercando di rispondere.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
 ---
 
 # Notifiche e-mail: l’utente non è diretto al thread di commenti
+
+<!--Article created by request-->
 
 >[!NOTE]
 >
