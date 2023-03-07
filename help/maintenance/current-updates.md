@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
-source-wordcount: '1905'
-ht-degree: 89%
+source-wordcount: '1979'
+ht-degree: 88%
 
 ---
 
@@ -20,6 +20,16 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di marzo 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 9 marzo 2023**
+
+**Il livello di accesso non viene assegnato durante la riattivazione dell&#39;utente**
+
+_Utenti_
+
+Quando un utente riattiva un utente disattivato e tenta di assegnargli un livello di accesso nella finestra [!UICONTROL Riattiva utente], il menu a discesa del livello di accesso non viene compilato quando l’utente digita e l’utente non può selezionare un livello di accesso. Se l’utente digita il livello di accesso e lo salva, tale livello di accesso non viene assegnato all’utente riattivato.
+
++++
 
 +++**Aggiornamento di manutenzione del 2 marzo 2023**
 

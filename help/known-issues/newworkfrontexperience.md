@@ -3,7 +3,7 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3307a9be28555d0b9561e8ae96e3667cb1fee711
+source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
 workflow-type: tm+mt
 source-wordcount: '579'
 ht-degree: 85%
@@ -27,7 +27,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Bozze: impossibile aggiungere un utente o un gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 febbraio 2023 |
 | [Bozze: i ruoli della bozza vengono modificati in [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 febbraio 2023 |
 | [Progetti: errore 504 nell’intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 febbraio 2023 |
-| [Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 3 febbraio 2023 |
 
 {style="table-layout:auto"}
 
@@ -54,6 +53,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 marzo 2023 |
 | [Integrazioni: impossibile aprire [!DNL Workfront for G Suite]](known-issues-workfront/wf-integrations-error-when-opening-wf-for-gsuite.md) | 24 febbraio 2023 |
 | [Bozze: l’utente non riceve e-mail quando viene taggato in un commento della bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 febbraio 2023 |
 | [Moduli personalizzati: messaggio di “[!UICONTROL espressione personalizzata non valida]” quando si fa riferimento al “[!UICONTROL proprietario]” in un campo calcolato](known-issues-workfront/wf-custom-form-error-when-referencing-owner.md) | 20 gennaio 2023 |
