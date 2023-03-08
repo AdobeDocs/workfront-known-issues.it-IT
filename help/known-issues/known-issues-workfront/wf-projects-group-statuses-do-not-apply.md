@@ -3,9 +3,9 @@ title: '“Progetti: lo stato del progetto non segue le preferenze di progetto d
 description: “Quando un utente crea un progetto da un modello, il nuovo progetto non assume lo stato impostato nelle preferenze di progetto del gruppo. Se un progetto viene creato senza un modello, lo stato riflette le preferenze di progetto del gruppo come previsto.”
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
