@@ -3,9 +3,9 @@ title: '“Utenti: la disattivazione pianificata non disattiva l’utente”'
 description: “Quando è pianificata la disattivazione di un utente e vengono superate la data e l’ora pianificate, l’utente non viene disattivato.”
 hidefromtoc: true
 source-git-commit: 32d55cddc6d3489e3f3f2b87c46fc682199b6247
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
