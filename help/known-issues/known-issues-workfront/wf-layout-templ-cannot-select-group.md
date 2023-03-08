@@ -4,7 +4,7 @@ description: Quando un utente che è un amministratore gruppo tenta di creare un
 exl-id: 7ff07a66-2dd2-41c6-ba1c-0c4aa7c5bd39
 hidefromtoc: true
 source-git-commit: 1b7cb91844bbf9b49f0b0d5e44921bf33d809ddd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 6 giugno 2022.
+>Questo problema è stato risolto il 6 giugno 2022.
 
 Quando un utente che è un amministratore gruppo tenta di creare un modello layout nell’area [!UICONTROL Interfaces] (Interfacce) di [!UICONTROL Setup] (Configura), gli viene richiesto di selezionare un gruppo nel campo [!UICONTROL Administrative access] (Accesso amministrativo). L’utente digita un nome per il gruppo, ma il gruppo non viene visualizzato in un menu a discesa e non può essere selezionato. Pertanto, l’utente non può salvare il modello layout.
 
