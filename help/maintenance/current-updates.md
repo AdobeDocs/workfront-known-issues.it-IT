@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 1b1627e2f4448c5e4fd3791354cd17e5dda327b3
+source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
 workflow-type: tm+mt
-source-wordcount: '1979'
-ht-degree: 88%
+source-wordcount: '2025'
+ht-degree: 94%
 
 ---
 
@@ -21,13 +21,19 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di marzo 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 9 marzo 2023**
++++**Aggiornamento di manutenzione del 9 marzo 2023**
 
 **Il livello di accesso non viene assegnato durante la riattivazione dell&#39;utente**
 
 _Utenti_
 
 Quando un utente riattiva un utente disattivato e tenta di assegnargli un livello di accesso nella finestra [!UICONTROL Riattiva utente], il menu a discesa del livello di accesso non viene compilato quando l’utente digita e l’utente non può selezionare un livello di accesso. Se l’utente digita il livello di accesso e lo salva, tale livello di accesso non viene assegnato all’utente riattivato.
+
+**Salvare la bozza di un commento in [!DNL Goals] area**
+
+_[!DNL Workfront Goals]_
+
+Ora, quando ci si allontana dal [!UICONTROL Aggiornamenti] pagina di un obiettivo durante la composizione di un messaggio, il messaggio viene mantenuto quando si torna indietro. Prima di questo aggiornamento, il commento non inviato sarebbe stato eliminato.
 
 +++
 
@@ -37,9 +43,9 @@ Quando un utente riattiva un utente disattivato e tenta di assegnargli un livell
 
 _Bacheche_
 
-Quando un utente visualizza una bacheca con un raggruppamento e tenta di aggiungere una scheda, può solo immettere il nome della scheda. Gli altri campi della scheda sono disabilitati, incluso [!UICONTROL Salva] pulsante.
+Quando un utente visualizza una bacheca a cui si applica il raggruppamento e tenta di aggiungere una scheda, può inserire solo il nome della scheda. Gli altri campi della scheda sono disabilitati, compreso il pulsante [!UICONTROL Salva].
 
-Se l’utente modifica il raggruppamento in [!UICONTROL Nessuno], il problema rimane. L’utente deve modificare il raggruppamento in [!UICONTROL Nessuno] quindi aggiorna la pagina per ripristinare la possibilità di aggiungere una scheda.
+Se si cambia il raggruppamento in [!UICONTROL Nessuno], il problema rimane. Per ripristinare la possibilità di aggiungere una scheda, l’utente deve cambiare il raggruppamento in [!UICONTROL Nessuno] e quindi aggiornare la pagina.
 
 **Schede collegate non aggiunte alle colonne in base allo stato**
 
@@ -48,7 +54,7 @@ _Bacheche_
 Anche se i criteri di colonna vengono applicati per lo stato, le nuove schede collegate vengono visualizzate nella colonna più a sinistra e non nella colonna che corrisponde al relativo stato.
 
 
-**Il collegamento a un commento reindirizza a [!UICONTROL Dettagli] pagina**
+**Il collegamento a un commento reindirizzerà alla pagina [!UICONTROL Dettagli]**
 
 _Aggiornamenti_
 
@@ -68,7 +74,7 @@ Quando un utente cerca di caricare la pagina Stampa riepilogo sembra che la pagi
 
 +++**Aggiornamento di manutenzione del 23 febbraio 2023**
 
-**Il collegamento a un commento reindirizza a [!UICONTROL Dettagli] pagina**
+**Il collegamento a un commento reindirizzerà alla pagina [!UICONTROL Dettagli]**
 
 _Aggiornamenti_
 
@@ -86,17 +92,17 @@ Quando un utente con licenza [!UICONTROL Lavoratore] tenta di modificare le prop
 
 +++**Aggiornamento di manutenzione del 16 febbraio 2023**
 
-**Assegnazioni di più team sulle bacheche**
+**Più assegnazioni di team sulle bacheche**
 
 _Bacheche_
 
-Ora puoi assegnare più team a un’attività o a un problema su una bacheca e alla bacheca stessa.
+Ora si possono assegnare più team a un’attività o a un problema su una bacheca e alla bacheca stessa.
 
-**Limite di abbandono carta aumentato**
+**Aumento del limite di decadenza della scheda**
 
 _Bacheche_
 
-I limiti di tempo per la riduzione delle carte sono stati aumentati a 8 settimane / 60 giorni invece di 4 settimane / 30 giorni.
+I limiti di tempo per la decadenza della scheda sono stati portati a 8 settimane / 60 giorni invece di 4 settimane / 30 giorni.
 
 **La disattivazione pianificata non disattiva l’utente**
 
@@ -142,7 +148,7 @@ Quando un utente tenta di creare o modificare un modello e-mail, il pulsante [!U
 
 +++
 
-## Aggiornamenti Di Gennaio 2023
+## Aggiornamenti di gennaio 2023
 
 +++**Aggiornamento di manutenzione del 30 gennaio 2023**
 

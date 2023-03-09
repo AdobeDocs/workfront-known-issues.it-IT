@@ -3,9 +3,9 @@ title: '‘Moduli personalizzati: messaggio di espressione personalizzata non va
 description: '“Quando un utente aggiunge un campo calcolato a un modulo personalizzato a livello di problema e tenta di aggiungere qualunque riferimento a un proprietario (ad esempio, “ownerID”), il campo non viene salvato e l’utente visualizza il seguente messaggio: Questa è un’espressione personalizzata non valida. Riprovare.”'
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: ht
-source-wordcount: '157'
+source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
+workflow-type: tm+mt
+source-wordcount: '135'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
+>Questo problema è stato risolto il martedì 9 marzo 2023.
 
 <!--
 >[!NOTE]
