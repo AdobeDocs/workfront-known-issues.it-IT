@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 94fb9fc57614aa914031d1fa0039650a7478201e
+source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1213'
+ht-degree: 91%
 
 ---
 
@@ -16,14 +16,16 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Report: l’ordinamento in base all’intestazione della colonna torna all’ordinamento precedente](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL Aggiornamenti]: impossibile registrare l’ora per il giorno corrente in [!UICONTROL Aggiornamenti] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Schede orario: [!UICONTROL Tipo di Ora] menu a discesa non si apre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [Documenti: [!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Progetti: campo personalizzato mancante quando il problema viene convertito in progetto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
       + [Bozze: impossibile aggiungere un utente o un gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
-      + [Bozze: i ruoli della bozza vengono modificati in [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
+      + [Bozze: i ruoli Bozza sono diventati [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integrazioni: errore durante l’accesso a [!DNL Workfront] da [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Progetti: errore 504 nell’intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
-      + [[!UICONTROL Schede]: impossibile aggiungere schede quando viene applicato il raggruppamento](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
+      + [[!UICONTROL Bacheche]: impossibile aggiungere schede quando viene applicato il raggruppamento](known-issues-workfront/wf-boards-cannot-add-card-when-grouping-is-selected.md)
       + [Utenti: il livello di accesso non viene assegnato quando si riattiva l’utente](known-issues-workfront/wf-users-access-level-does-not-assign-when-reactivating-user.md)
       + [Aggiornamenti: il collegamento a un commento reindirizzerà alla pagina [!UICONTROL Dettagli]](known-issues-workfront/wf-updates-link-to-comment-goes-to-details.md)
       + [Utenti: l’utente non può modificare le proprie impostazioni di notifica](known-issues-workfront/wf-user-cannot-edit-notification-settings.md)
@@ -84,10 +86,10 @@ ht-degree: 0%
       + [[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Navigazione: impossibile fissare gli oggetti](known-issues-workfront/wf-navigation-cannot-pin-objects.md)
       + [Documenti: il collegamento per la richiesta di documenti esterni porta alla pagina di accesso](known-issues-workfront/wf-documents-external-request-leads-to-login.md)
-      + [Report: opzione “Copia in” non disponibile nei report sui problemi](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
-      + [Moduli personalizzati: Errore “Ops” durante la configurazione di un campo calcolato](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
+      + [Report: opzione “Sposta in” non disponibile nei report sui problemi](known-issues-workfront/wf-reports-move-to-not-available-on-issue-report.md)
+      + [Moduli personalizzati: Errore durante la configurazione di un campo calcolato](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Bozze: l’aggiunta di un gruppo a una bozza non aggiunge tutti i membri del gruppo](known-issues-workfront/wf-proofs-group-members-not-added.md)
-      + [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
+      + [Notifiche: gli utenti menzionati o inclusi in un commento non vengono notificati](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md)
       + [Attività: le ore immesse nel [!UICONTROL pannello Riepilogo] dell’attività non vengono salvate](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
       + [Integrazioni: errore 404 durante l’aggiunta di un documento da [!DNL SharePoint] [!UICONTROL (API grafica)]](known-issues-workfront/wf-integrations-sharepoint-graph-api-returns-404.md)
@@ -129,15 +131,15 @@ ht-degree: 0%
       + [[!DNL Workfront Proof]: la bozza non viene caricata quando si utilizza &quot;[!UICONTROL Vai alla bozza]Pulsante &quot; nella notifica e-mail](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Rapporti] area non più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [[!DNL Workfront Proof]: [!UICONTROL Stampa riepilogo] non si carica](known-issues-workfront-proof/proof-print-summary-not-loading.md)
-      + [Bozze: l’utente non riceve e-mail quando viene taggato in un commento della bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
+      + [Bozze: la persona taggata in un commento di bozza non riceve un’e-mail](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Bozze: viene creata una nuova fase perché la scadenza non può corrispondere a quella della fase esistente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + [Bozze: riepilogo Stampa non visualizza tutte le pagine della bozza](known-issues-workfront-proof/proof-print-summary-not-showing-all-pages.md)
       + [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
-      + [Bozze: errore durante l’aggiunta della bozza a [!DNL Workfront] da [!DNL Workfront] Proof](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
+      + [Bozze: errore durante l’aggiunta della bozza a [!DNL Workfront] con “Da bozza [!DNL Workfront] ”](known-issues-workfront-proof/proof-error-when-linking-proof-to-wf-from-phq.md)
       + [[!DNL Workfront Proof]: le e-mail di riepilogo giornaliero non includono un pulsante “Visualizza dettagli”](known-issues-workfront-proof/proof-daily-summary-email-no-view-details-button.md)
       + [[!DNL Workfront Proof]: l’amministratore di Proof dispone di autorizzazioni limitate](known-issues-workfront-proof/proof-admin-has-limited-permissions.md)
-      + [Impossibile aggiungere un utente alla bozza assegnandogli un tag in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md)
+      + [Impossibile aggiungere alla bozza una persona taggata in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md)
       + [Il pulsante [!UICONTROL Rispondi in bozza] non si comporta come previsto](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md)
       + [L’accesso automatico alle bozze subisce ritardi](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md)
       + [Il report [!UICONTROL Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
@@ -156,9 +158,9 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]: impossibile creare la connessione a [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)
       + [[!DNL Workfront Fusion]: gli elementi array nel modulo [!UICONTROL Iterator] vengono visualizzati come “[!UICONTROL oggetti Oggetto]”](known-issues-workfront-fusion/fusion-iterator-shows-object-object.md)
       + [[!DNL Workfront Fusion]: errore durante la visualizzazione di un errore nella cronologia di esecuzione di uno scenario](known-issues-workfront-fusion/fusion-enoent-error-when-viewing-error.md)
-      + [Il modulo [!DNL Workfront Fusion]:  [!DNL Workfront]  > [!UICONTROL Chiamata API personalizzata] che restituisce errori 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + [[!DNL Workfront Fusion]: il modulo  [!DNL Workfront]  > [!UICONTROL Chiamata API personalizzata] restituisce errori 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + [[!DNL Workfront Fusion]: errore “Impossibile verificare la connessione”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
-      + [[!DNL Workfront Fusion]: il modulo di  [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
+      + [[!DNL Workfront Fusion]: il modulo  [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [I collegamenti di aiuto in-app [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + [!UICONTROL Adobe Workfront Goals] {#goals}

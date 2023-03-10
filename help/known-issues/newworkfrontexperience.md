@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
+source-git-commit: 5e967c740d4facb3cb2f401aecb057d78f074da0
 workflow-type: tm+mt
-source-wordcount: '547'
-ht-degree: 90%
+source-wordcount: '570'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Report: l’ordinamento in base all’intestazione della colonna torna all’ordinamento precedente](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 10 marzo 2023 |
+| [[!UICONTROL Aggiornamenti]: impossibile registrare l’ora per il giorno corrente in [!UICONTROL Aggiornamenti] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 marzo 2023 |
 | [Bozze: impossibile aggiungere un utente o un gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 febbraio 2023 |
 | [Bozze: i ruoli Bozza sono diventati [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 febbraio 2023 |
 | [Progetti: errore 504 nell’intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 febbraio 2023 |
