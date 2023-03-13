@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
+source-git-commit: a91992049d298aaa47dc5510d0bb6af850cf314e
 workflow-type: tm+mt
-source-wordcount: '1213'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bilanciatore dei carichi di lavoro: le ore non vengono regolate per tenere conto del tempo libero dell’utente](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Report: l’ordinamento in base all’intestazione della colonna torna all’ordinamento precedente](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL Aggiornamenti]: impossibile registrare l’ora per il giorno corrente in [!UICONTROL Aggiornamenti] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Schede orario: [!UICONTROL Tipo di Ora] menu a discesa non si apre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
