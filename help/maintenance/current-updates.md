@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3c0a34c118c8a3b900890a7126a7502b7556b0d4
+source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
 workflow-type: tm+mt
-source-wordcount: '2025'
-ht-degree: 94%
+source-wordcount: '2193'
+ht-degree: 87%
 
 ---
 
@@ -20,6 +20,28 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di marzo 2023
+
++++**Aggiornamento di manutenzione del 16 marzo 2023**
+
+**[!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio**
+
+_Documenti_
+
+Quando un utente visualizza [!UICONTROL Riepilogo] per un documento, il contenuto è troppo largo per essere visualizzato nel pannello. Il pannello ora dispone di una barra di scorrimento orizzontale e l’utente deve scorrere in orizzontale per visualizzare [!UICONTROL Riepilogo] contenuti del pannello. Ciò si verifica perché il nome del file del documento non viene racchiuso. Questo problema è limitato al file il cui nome file ha estensione HTML.
+
+**Campo personalizzato mancante quando il problema viene convertito in progetto**
+
+_Progetti_
+
+Quando un utente converte un problema in un progetto utilizzando un modello, nel progetto non viene visualizzato un campo personalizzato corrispondente al problema. Questo problema riguarda solo i non amministratori.
+
+**I messaggi personalizzati non vengono visualizzati nelle notifiche e-mail**
+
+_Bozze_
+
+Quando un utente condivide una bozza e aggiunge un messaggio personalizzato, questo non viene visualizzato nell’e-mail di notifica al destinatario. L’oggetto è il nome della bozza e il messaggio non viene visualizzato nell’e-mail.
+
++++
 
 +++**Aggiornamento di manutenzione del 9 marzo 2023**
 
