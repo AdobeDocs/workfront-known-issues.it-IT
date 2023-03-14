@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7f4d16ac984134af0f16122ea0aa79a6bcc4cd3c
+source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
 workflow-type: tm+mt
-source-wordcount: '2193'
-ht-degree: 87%
+source-wordcount: '2194'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +21,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di marzo 2023
 
-+++**Aggiornamento di manutenzione del 16 marzo 2023**
++++**(Pianificato) Aggiornamento di manutenzione del 16 marzo 2023**
 
 **[!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio**
 
