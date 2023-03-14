@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 7738ac9b68dd48817105171d7f9ae2cf97e742fe
+source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
 workflow-type: tm+mt
-source-wordcount: '2194'
-ht-degree: 86%
+source-wordcount: '2223'
+ht-degree: 85%
 
 ---
 
@@ -22,6 +22,12 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 ## Aggiornamenti di marzo 2023
 
 +++**(Pianificato) Aggiornamento di manutenzione del 16 marzo 2023**
+
+**Elementi dell’elenco di controllo non copiati durante la copia di una scheda**
+
+_Bacheche_
+
+Quando si copia una scheda ad hoc (le schede collegate non possono essere copiate), le voci dell’elenco di controllo non vengono copiate nella nuova scheda.
 
 **[!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio**
 
