@@ -3,9 +3,9 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '555'
 ht-degree: 86%
 
 ---
@@ -24,12 +24,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Fogli orari: [!UICONTROL Tipo ora] il menu a discesa non si apre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 marzo 2023 |
 | [[!UICONTROL Bilanciamento del carico di lavoro]: Le ore non si adattano al conto per il tempo di inattività dell&#39;utente](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 marzo 2023 |
-| [Rapporti: L’ordinamento per intestazione di colonna torna all’ordinamento precedente](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 10 marzo 2023 |
 | [[!UICONTROL Aggiornamenti]: Impossibile registrare l&#39;ora del giorno corrente nel [!UICONTROL Aggiornamenti] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 marzo 2023 |
-| [Prove: Impossibile aggiungere l&#39;utente o il gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md) | 27 febbraio 2023 |
-| [Bozze: i ruoli Bozza sono diventati [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md) | 27 febbraio 2023 |
-| [Progetti: errore 504 nell’intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md) | 17 febbraio 2023 |
 
 {style="table-layout:auto"}
 
@@ -39,6 +36,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporti: L’ordinamento per intestazione di colonna torna all’ordinamento precedente](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 marzo 2023 |
 | [Filtri: Il filtro non viene applicato quando la pagina viene aggiornata](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 marzo 2023 |
 | [Documenti: [!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio per il pannello](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 marzo 2023 |
 | [Progetti: il progetto convertito dal problema non eredita le autorizzazioni dal portfolio o dal programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 febbraio 2023 |

@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Fusion]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
+source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 94%
+source-wordcount: '144'
+ht-degree: 100%
 
 ---
 
@@ -24,10 +24,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: la cronologia di esecuzione dello scenario non visualizza l’intera cronologia](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md) | 3 marzo 2023 |
 | [[!DNL Adobe Workfront Fusion]: errori di timeout in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md) | 3 febbraio 2023 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 
 ## In corso
@@ -39,7 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 gennaio 2023 |
 | I collegamenti di aiuto in-app [[!DNL Workfront Fusion]: [!DNL Fusion]  non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 agosto 2022 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Nessuna correzione
 
@@ -50,4 +49,4 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [[!DNL Workfront Fusion]: Errore “Impossibile verificare la connessione”](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md) | 29 settembre 2022 |
 | Il modulo [[!DNL Workfront Fusion]: [!DNL Fusion]  restituisce l’errore 404 senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md) | 9 settembre 2022 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
