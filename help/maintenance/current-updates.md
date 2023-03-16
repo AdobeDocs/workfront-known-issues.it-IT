@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f27dfd8dbe3e0c862f84edfe5b2deab5f139eb50
+source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
-source-wordcount: '2223'
-ht-degree: 85%
+source-wordcount: '2148'
+ht-degree: 88%
 
 ---
 
@@ -21,27 +21,21 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di marzo 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 16 marzo 2023**
++++**Aggiornamento della manutenzione (pianificato) il 16 marzo 2023**
 
-**Elementi dell’elenco di controllo non copiati durante la copia di una scheda**
+**Elementi della lista di controllo non copiati durante la copia di una scheda**
 
 _Bacheche_
 
-Quando si copia una scheda ad hoc (le schede collegate non possono essere copiate), le voci dell’elenco di controllo non vengono copiate nella nuova scheda.
-
-**[!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio**
-
-_Documenti_
-
-Quando un utente visualizza [!UICONTROL Riepilogo] per un documento, il contenuto è troppo largo per essere visualizzato nel pannello. Il pannello ora dispone di una barra di scorrimento orizzontale e l’utente deve scorrere in orizzontale per visualizzare [!UICONTROL Riepilogo] contenuti del pannello. Ciò si verifica perché il nome del file del documento non viene racchiuso. Questo problema è limitato al file il cui nome file ha estensione HTML.
+Quando si copia una scheda ad hoc (le schede collegate non possono essere copiate), gli elementi della lista di controllo non vengono copiati nella nuova scheda.
 
 **Campo personalizzato mancante quando il problema viene convertito in progetto**
 
 _Progetti_
 
-Quando un utente converte un problema in un progetto utilizzando un modello, nel progetto non viene visualizzato un campo personalizzato corrispondente al problema. Questo problema riguarda solo i non amministratori.
+Quando un utente converte un problema in un progetto utilizzando un modello, un campo personalizzato relativo al problema non viene visualizzato nel progetto. Questo problema riguarda solo i non amministratori.
 
-**I messaggi personalizzati non vengono visualizzati nelle notifiche e-mail**
+**Messaggi personalizzati non visualizzati nelle notifiche e-mail**
 
 _Bozze_
 
@@ -51,17 +45,17 @@ Quando un utente condivide una bozza e aggiunge un messaggio personalizzato, que
 
 +++**Aggiornamento di manutenzione del 9 marzo 2023**
 
-**Il livello di accesso non viene assegnato durante la riattivazione dell&#39;utente**
+**Il livello di accesso non viene assegnato quando si riattiva l&#39;utente**
 
 _Utenti_
 
 Quando un utente riattiva un utente disattivato e tenta di assegnargli un livello di accesso nella finestra [!UICONTROL Riattiva utente], il menu a discesa del livello di accesso non viene compilato quando l’utente digita e l’utente non può selezionare un livello di accesso. Se l’utente digita il livello di accesso e lo salva, tale livello di accesso non viene assegnato all’utente riattivato.
 
-**Salvare la bozza di un commento in [!DNL Goals] area**
+**Salva la bozza di un commento nella [!DNL Goals] area**
 
 _[!DNL Workfront Goals]_
 
-Ora, quando ci si allontana dal [!UICONTROL Aggiornamenti] pagina di un obiettivo durante la composizione di un messaggio, il messaggio viene mantenuto quando si torna indietro. Prima di questo aggiornamento, il commento non inviato sarebbe stato eliminato.
+Ora, quando ti allontani dal [!UICONTROL Aggiornamenti] pagina di un obiettivo mentre ti trovi al centro della composizione di un messaggio, il messaggio viene mantenuto quando torni indietro. Prima di questo aggiornamento, il commento non inviato sarebbe stato eliminato.
 
 +++
 
@@ -75,11 +69,11 @@ Quando un utente visualizza una bacheca a cui si applica il raggruppamento e ten
 
 Se si cambia il raggruppamento in [!UICONTROL Nessuno], il problema rimane. Per ripristinare la possibilità di aggiungere una scheda, l’utente deve cambiare il raggruppamento in [!UICONTROL Nessuno] e quindi aggiornare la pagina.
 
-**Schede collegate non aggiunte alle colonne in base allo stato**
+**Le schede collegate non vengono aggiunte alle colonne in base allo stato**
 
 _Bacheche_
 
-Anche se i criteri di colonna vengono applicati per lo stato, le nuove schede collegate vengono visualizzate nella colonna più a sinistra e non nella colonna che corrisponde al relativo stato.
+Anche se i criteri colonna vengono applicati per lo stato, le nuove schede collegate vengono visualizzate nella colonna più a sinistra e non nella colonna che corrisponde al loro stato.
 
 
 **Il collegamento a un commento reindirizzerà alla pagina [!UICONTROL Dettagli]**
@@ -90,11 +84,11 @@ Quando un utente segue un collegamento a un commento su un oggetto in Workfront,
 
 Attualmente, questa modifica interessa solo gli oggetti Documento.
 
-**Stampa riepilogo non viene caricato**
+**Stampa riepilogo non caricato**
 
 _[!UICONTROL Bozza Workfront]_
 
-Quando un utente cerca di caricare la pagina Stampa riepilogo sembra che la pagina sia in fase di caricamento, ma non si carica mai.
+Quando un utente tenta di caricare la pagina Riepilogo di stampa, la pagina sembra essere in fase di caricamento, ma non viene mai caricata.
 
 +++
 
