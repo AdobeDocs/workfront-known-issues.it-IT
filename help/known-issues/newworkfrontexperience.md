@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
+source-git-commit: c95d478b78e26e4f0243e9b9ae69ecfbc016d696
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 92%
+source-wordcount: '587'
+ht-degree: 87%
 
 ---
 
@@ -24,6 +24,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: Errore 404 durante l&#39;accesso al documento collegato da [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17 marzo 2023 |
+| [Documenti: [!UICONTROL Attività di correzione] opzioni che portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 marzo 2023 |
+| [Aggiornamenti: L&#39;aggiornamento effettuato per conto di un utente viene visualizzato come direttamente dall&#39;utente](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md) | 17 marzo 2023 |
 | [Schede orario: il menu a discesa [!UICONTROL Tipo di Ore] non si apre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 16 marzo 2023 |
 | [[!UICONTROL Bilanciamento del carico di lavoro]: Le ore non si adattano al conto per il tempo di inattività dell&#39;utente](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md) | 13 marzo 2023 |
 | [[!UICONTROL Aggiornamenti]: Impossibile registrare l&#39;ora del giorno corrente nel [!UICONTROL Aggiornamenti] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md) | 10 marzo 2023 |
