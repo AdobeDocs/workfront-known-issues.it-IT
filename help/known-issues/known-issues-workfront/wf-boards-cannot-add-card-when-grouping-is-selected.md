@@ -3,7 +3,7 @@ title: '“Bacheche: impossibile aggiungere schede quando viene applicato il rag
 description: “Quando un utente visualizza una bacheca a cui si applica il raggruppamento e tenta di aggiungere una scheda, può inserire solo il nome della scheda. Gli altri campi della scheda sono disabilitati, incluso il pulsante Salva.”
 hidefromtoc: true
 source-git-commit: e1902c037af4b501d4ba836361562f69ed57d193
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il martedì 2 marzo 2023.
+>Questo problema è stato risolto il 2 marzo 2023.
 
 Quando un utente visualizza una bacheca a cui si applica il raggruppamento e tenta di aggiungere una scheda, può inserire solo il nome della scheda. Gli altri campi della scheda sono disabilitati, compreso il pulsante [!UICONTROL Salva].
 
