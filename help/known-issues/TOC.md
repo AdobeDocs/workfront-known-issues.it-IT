@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
 source-wordcount: '1239'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 89%
       + [[!UICONTROL Bilanciamento del carico di lavoro]: Le ore non si adattano al conto per il tempo di inattività dell&#39;utente](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
       + [Rapporti: L’ordinamento per intestazione di colonna torna all’ordinamento precedente](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
       + [[!UICONTROL Aggiornamenti]: Impossibile registrare l&#39;ora del giorno corrente nel [!UICONTROL Aggiornamenti] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
-      + [Fogli orari: [!UICONTROL Tipo ora] il menu a discesa non si apre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
-      + [Documenti: [!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio per il pannello](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
-      + [Progetti: Campo personalizzato mancante quando il problema viene convertito in progetto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
-      + [Prove: Impossibile aggiungere l&#39;utente o il gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
+      + [Schede orario: il menu a discesa [!UICONTROL Tipo di Ore] non si apre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
+      + [Documenti: i contenuti del pannello [!UICONTROL Riepilogo] sono troppo ampi per il pannello](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
+      + [Progetti: campo personalizzato mancante quando il problema viene convertito in progetto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
+      + [Bozze: impossibile aggiungere un utente o un gruppo al flusso di lavoro della bozza](known-issues-workfront/wf-proofs-cannot-add-user-or-group-to-workflow.md)
       + [Bozze: i ruoli Bozza sono diventati [!UICONTROL Sola lettura]](known-issues-workfront/wf-proof-roles-set-to-read-only.md)
       + [Integrazioni: errore durante l’accesso a [!DNL Workfront] da [!DNL Jira]](known-issues-workfront/wf-integrations-error-when-logging-in-from-jira.md)
       + [Progetti: errore 504 nell’intestazione del progetto](known-issues-workfront/wf-projects-504-error-in-project-header.md)
@@ -130,10 +130,10 @@ ht-degree: 89%
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
       + [[!DNL Workfront Proof]: Gli elenchi non sono ordinati correttamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
-      + [Prove: Messaggi personalizzati non visualizzati nelle notifiche e-mail](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
-      + [[!DNL Workfront Proof]: La bozza non viene caricata quando si utilizza &quot;[!UICONTROL Vai alla bozza]&quot; pulsante nella notifica via e-mail](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL Rapporti] area non più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
-      + [[!DNL Workfront Proof]: [!UICONTROL Riepilogo stampa] non viene caricato](known-issues-workfront-proof/proof-print-summary-not-loading.md)
+      + [Bozze: i messaggi personalizzati non vengono visualizzati nelle notifiche e-mail](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
+      + [[!DNL Workfront Proof]: la bozza non viene caricata quando si utilizza il pulsante “[!UICONTROL Vai alla bozza]” nella notifica e-mail](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
+      + [[!DNL Workfront Proof]: l’area [!UICONTROL Rapporti] non è più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
+      + [[!DNL Workfront Proof]: [!UICONTROL Stampa riepilogo] non si carica](known-issues-workfront-proof/proof-print-summary-not-loading.md)
       + [Bozze: la persona taggata in un commento di bozza non riceve un’e-mail](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
       + [Bozze: viene creata una nuova fase perché la scadenza non può corrispondere a quella della fase esistente](known-issues-workfront-proof/proof-new-stage-created.md)
       + [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
@@ -155,7 +155,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: La cronologia di esecuzione dello scenario non visualizza l&#39;intera cronologia](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
+      + [[!DNL Workfront Fusion]: la cronologia di esecuzione dello scenario non visualizza l’intera cronologia](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: errori di timeout in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: errori 404 nei moduli Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
       + [[!DNL Workfront Fusion]: impossibile creare la connessione a [!DNL Google]](known-issues-workfront-fusion/fusion-google-connection-fails.md)

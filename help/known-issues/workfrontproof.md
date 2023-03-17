@@ -6,7 +6,7 @@ exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 90%
+ht-degree: 98%
 
 ---
 
@@ -34,7 +34,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenti: [!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio per il pannello](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 marzo 2023 |
+| [Documenti: i contenuti del pannello [!UICONTROL Riepilogo] sono troppo ampi per il pannello](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md) | 3 marzo 2023 |
 | [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 gennaio 2023 |
 
 {style="table-layout:auto"}
@@ -46,7 +46,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 marzo 2023 |
-| [[!DNL Workfront Proof]: [!UICONTROL Reports] area non più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 marzo 2023 |
+| [[!DNL Workfront Proof]: [!UICONTROL Reports] l’area non è più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 marzo 2023 |
 | [Bozze: l’utente non riceve un messaggio e-mail quando viene taggato in un commento di bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md) | 23 febbraio 2023 |
 | [Bozze: viene creata una nuova fase perché la scadenza non può corrispondere a quella della fase esistente](known-issues-workfront-proof/proof-new-stage-created.md) | 2 febbraio 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nella sezione [!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |

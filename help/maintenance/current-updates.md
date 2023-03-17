@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
 workflow-type: tm+mt
 source-wordcount: '2148'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -21,7 +21,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di marzo 2023
 
-+++**Aggiornamento della manutenzione (pianificato) il 16 marzo 2023**
++++**(Pianificato) Aggiornamento di manutenzione del 16 marzo 2023**
 
 **Elementi della lista di controllo non copiati durante la copia di una scheda**
 
@@ -33,7 +33,7 @@ Quando si copia una scheda ad hoc (le schede collegate non possono essere copiat
 
 _Progetti_
 
-Quando un utente converte un problema in un progetto utilizzando un modello, un campo personalizzato relativo al problema non viene visualizzato nel progetto. Questo problema riguarda solo i non amministratori.
+Quando un utente converte un problema in un progetto utilizzando un modello, nel progetto non viene visualizzato un campo personalizzato presente nel problema. Questo problema riguarda solo gli utenti non amministratori.
 
 **Messaggi personalizzati non visualizzati nelle notifiche e-mail**
 
@@ -45,7 +45,7 @@ Quando un utente condivide una bozza e aggiunge un messaggio personalizzato, que
 
 +++**Aggiornamento di manutenzione del 9 marzo 2023**
 
-**Il livello di accesso non viene assegnato quando si riattiva l&#39;utente**
+**Il livello di accesso non viene assegnato quando si riattiva l’utente**
 
 _Utenti_
 
@@ -69,11 +69,11 @@ Quando un utente visualizza una bacheca a cui si applica il raggruppamento e ten
 
 Se si cambia il raggruppamento in [!UICONTROL Nessuno], il problema rimane. Per ripristinare la possibilità di aggiungere una scheda, l’utente deve cambiare il raggruppamento in [!UICONTROL Nessuno] e quindi aggiornare la pagina.
 
-**Le schede collegate non vengono aggiunte alle colonne in base allo stato**
+**Schede collegate non aggiunte alle colonne in base allo stato**
 
 _Bacheche_
 
-Anche se i criteri colonna vengono applicati per lo stato, le nuove schede collegate vengono visualizzate nella colonna più a sinistra e non nella colonna che corrisponde al loro stato.
+Anche se vengono applicati i criteri di colonna per lo stato, le nuove schede collegate vengono visualizzate nella colonna più a sinistra e non in quella corrispondente allo stato.
 
 
 **Il collegamento a un commento reindirizzerà alla pagina [!UICONTROL Dettagli]**
@@ -84,11 +84,11 @@ Quando un utente segue un collegamento a un commento su un oggetto in Workfront,
 
 Attualmente, questa modifica interessa solo gli oggetti Documento.
 
-**Stampa riepilogo non caricato**
+**Stampa riepilogo non si carica**
 
-_[!UICONTROL Bozza Workfront]_
+_[!UICONTROL Workfront Proof]_
 
-Quando un utente tenta di caricare la pagina Riepilogo di stampa, la pagina sembra essere in fase di caricamento, ma non viene mai caricata.
+Quando un utente cerca di caricare la pagina Stampa riepilogo, questa risulta sempre in caricamento, senza essere mai caricata.
 
 +++
 
