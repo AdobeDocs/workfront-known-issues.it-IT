@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 86168f5bdcf81904d9fd943685e2ab38ba4f8f1e
+source-git-commit: b2270697c3d01883a6680a67cd20d34db85db2a4
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 86%
+source-wordcount: '612'
+ht-degree: 84%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Prove: La fase di prova non si attiva quando la scadenza della fase precedente viene superata](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 21 marzo 2023 |
 | [Utenti: Livello di accesso modificato dal sistema senza record della modifica](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 marzo 2023 |
 | [Documenti: Errore 404 durante l&#39;accesso al documento collegato da [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 17 marzo 2023 |
 | [Documenti: [!UICONTROL Attività di correzione] opzioni che portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 marzo 2023 |
