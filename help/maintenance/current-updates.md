@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: f736d2d5eef0e77c56f1993ea32c92a4c6f17cb1
+source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
 workflow-type: tm+mt
-source-wordcount: '2227'
-ht-degree: 94%
+source-wordcount: '2297'
+ht-degree: 92%
 
 ---
 
@@ -21,13 +21,26 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di marzo 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 23 marzo 2023**
++++**Aggiornamento di manutenzione del 23 marzo 2023**
 
 **[!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio per il pannello**
 
 _Documenti_
 
 Quando un utente visualizza il pannello [!UICONTROL Riepilogo] per un documento, i contenuti sono troppo ampi per essere visualizzati nel pannello. Il pannello dispone ora di una barra di scorrimento orizzontale e l’utente deve scorrere in orizzontale per visualizzare il [!UICONTROL Riepilogo] contenuto del pannello. Ciò si verifica perché il nome del file del documento non va a capo. Questo problema è limitato ai file con estensione HTML nel nome.
+
+**Nuova versione di Desktop Proofing Viewer**
+
+_Verifica_
+
+Per risolvere un problema di commento in [!UICONTROL Vista per correzione desktop]r, abbiamo implementato una nuova versione del visualizzatore per correzione desktop.
+
+Utenti che hanno già [!UICONTROL Visualizzatore di correzione del desktop] l&#39;aggiornamento verrà ottenuto automaticamente.
+
+Gli utenti possono anche scaricare manualmente la versione più recente. Per ulteriori informazioni, consulta [[!UICONTROL Installare Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+
+* Versione precedente: 2.1.22
+* Nuova versione: 2.1.23
 
 +++
 
