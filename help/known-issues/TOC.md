@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '1312'
-ht-degree: 90%
+source-wordcount: '1337'
+ht-degree: 89%
 
 ---
 
@@ -16,6 +16,9 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Ricerca: [!DNL Workfront] Timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md)
+      + [Prove: Impossibile cambiare la versione della bozza quando si visualizza la bozza](known-issues-workfront/wf-proofs-cannot-switch-version.md)
+      + [Prove: Gli elenchi a discesa non si aprono quando un utente viene aggiunto a una bozza](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Prove: L’utente è disattivato dal flusso di lavoro di prova e ottiene &quot;[!UICONTROL Accesso non consentito]&quot; all&#39;accesso alla bozza](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
       + [Documenti: Problemi relativi all’elenco dei documenti](known-issues-workfront/wf-documents-list-missing-elements.md)
       + [Prove: La fase di prova non si attiva quando la scadenza della fase precedente viene superata](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md)

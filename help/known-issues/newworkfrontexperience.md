@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '624'
-ht-degree: 81%
+source-wordcount: '652'
+ht-degree: 78%
 
 ---
 
@@ -38,6 +38,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Ricerca: [!DNL Workfront] Timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md) | 27 marzo 2023 |
+| [Prove: Impossibile cambiare la versione della bozza quando si visualizza la bozza](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 27 marzo 2023 |
+| [Prove: Gli elenchi a discesa non si aprono quando un utente viene aggiunto a una bozza](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 marzo 2023 |
 | [Schede orario: il menu a discesa [!UICONTROL Tipo di Ore] non si apre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 marzo 2023 |
 | [Prove: La fase di prova non si attiva quando la scadenza della fase precedente viene superata](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 marzo 2023 |
 | [Prove: L’utente è disattivato dal flusso di lavoro di prova e ottiene &quot;[!UICONTROL Accesso non consentito]&quot; all&#39;accesso alla bozza](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 marzo 2023 |

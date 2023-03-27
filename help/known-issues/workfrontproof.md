@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: dc40136eb4343745d7e43b372c444df2022bb406
+source-git-commit: 3d16be4546c171afb0cc9485a7b2d62ca8cba9d2
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 86%
+source-wordcount: '307'
+ht-degree: 81%
 
 ---
 
@@ -34,6 +34,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Prove: Impossibile cambiare la versione della bozza quando si visualizza la bozza](known-issues-workfront/wf-proofs-cannot-switch-version.md) | 27 marzo 2023 |
+| [Prove: Gli elenchi a discesa non si aprono quando un utente viene aggiunto a una bozza](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md) | 27 marzo 2023 |
 | [Prove: La fase di prova non si attiva quando la scadenza della fase precedente viene superata](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 marzo 2023 |
 | [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 gennaio 2023 |
 
