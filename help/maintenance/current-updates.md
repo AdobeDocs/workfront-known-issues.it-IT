@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3299691cd869897ca0049e11e79e5b6fc7675411
+source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
 workflow-type: tm+mt
-source-wordcount: '2297'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,22 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di marzo 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 23 marzo 2023**
+
+**Impossibile cambiare la versione della bozza quando si visualizza la bozza**
+
+_Bozze_
+
+Quando un utente visualizza una bozza in [!UICONTROL Visualizzatore di correzione]e passa a un&#39;altra versione, il menu a discesa della versione diventa disattivato e l&#39;utente non può tornare alla versione originale visualizzata o a un&#39;altra versione della bozza.
+
+**Errore 504 durante l&#39;esportazione dei report**
+
+_Report_
+
+Quando un utente tenta di esportare un rapporto con un numero elevato di elementi, viene visualizzato un errore 504 e non può esportare il rapporto.
+
++++
 
 +++**Aggiornamento di manutenzione del 23 marzo 2023**
 
