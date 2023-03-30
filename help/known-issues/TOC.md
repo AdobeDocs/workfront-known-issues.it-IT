@@ -1,7 +1,7 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: c3a4e85589744be4d1b40a1074835dc6bd7a48a1
+source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -16,6 +16,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Progetti: [!UICONTROL Gruppo Home] gli stati personalizzati non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Prove: Impossibile utilizzare lo strumento Polilinea quando si crea un commento su una bozza](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Prove: Lo strumento di misura non accetta i punti decimali](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
       + [Ricerca: [!DNL Workfront] Timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md)
