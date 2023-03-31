@@ -3,7 +3,7 @@ title: '“Bozze: i messaggi personalizzati non vengono visualizzati nelle notif
 description: “Quando un utente condivide una bozza e aggiunge un messaggio personalizzato, questo non viene visualizzato nell’e-mail di notifica al destinatario. L’oggetto è il nome della bozza e il messaggio non viene visualizzato nell’e-mail.”
 hidefromtoc: true
 source-git-commit: f7c00386eefe78b26e8a354a12b78cec3795cc06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
