@@ -1,22 +1,22 @@
 ---
-title: "Aggiornamenti: impossibile registrare l’ora per il giorno corrente nell’area Aggiornamenti"
-description: "Quando un utente tenta di registrare l’ora per il giorno corrente nella sezione Aggiornamenti, il giorno corrente è disattivato e l’utente non può immettere ore."
+title: '“Aggiornamenti: impossibile registrare l’ora del giorno corrente nell’area Aggiornamenti”'
+description: “Quando un utente tenta di registrare l’ora del giorno corrente nell’area Aggiornamenti, il giorno corrente è disattivato e l’utente non può immettere alcuna ora.”
 hidefromtoc: true
 source-git-commit: 88ccfcb9b94d60d9ec843f83eaca54ffbec41ca6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Aggiornamenti]: impossibile registrare l’ora per il giorno corrente in [!UICONTROL Aggiornamenti] area
+# [!UICONTROL Aggiornamenti]: impossibile registrare l’ora del giorno corrente nell’area [!UICONTROL Aggiornamenti]
 
-Quando un utente tenta di registrare l’ora del giorno corrente in [!UICONTROL Aggiornamenti] , il giorno corrente è disattivato e l&#39;utente non può immettere ore.
+Quando un utente tenta di registrare l’ora del giorno corrente nell’area [!UICONTROL Aggiornamenti], il giorno corrente è disattivato e l’utente non può immettere a alcuna ora.
 
 **Soluzione alternativa**
 
-Cancellare la cache del browser o utilizzare una finestra in incognito può risolvere temporaneamente il problema.
+Cancella la cache del browser o utilizza una finestra in incognito per risolvere temporaneamente il problema.
 
 _Segnalato per la prima volta il 7 marzo 2023._
 
