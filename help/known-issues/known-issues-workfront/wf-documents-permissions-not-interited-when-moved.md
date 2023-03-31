@@ -3,9 +3,9 @@ title: '“Documenti: le autorizzazioni non vengono ereditate quando un document
 description: “Quando un utente sposta un documento in un progetto diverso, il documento non eredita le autorizzazioni di condivisione dal nuovo progetto. Il documento non viene condiviso con gli utenti a cui è condiviso il progetto. ”
 hidefromtoc: true
 source-git-commit: ca969341423e373a94faa677729fc2dccd9453d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Quando un utente sposta un documento in un progetto diverso, il documento non er
 
 1. Aggiungi nuovamente le autorizzazioni ereditate tornando all’elenco di condivisione dell’oggetto principale e facendo clic su **[!UICONTROL Annulla]** accanto alle autorizzazioni ereditate, quindi fai clic su **[!UICONTROL Salva]**.
 
-In alternativa, puoi prendere nota dell’ID del documento (che si trova nell’URL del [!UICONTROL Dettagli documento] pagina) e contattare [!DNL Workfront] assistenza clienti.
+In alternativa, puoi annotare l’ID del documento (che si trova nell’URL della pagina [!UICONTROL Dettagli documento]) e contattare l’Assistenza clienti di [!DNL Workfront].
 
 _Segnalato per la prima volta il 6 gennaio 2023._
 
