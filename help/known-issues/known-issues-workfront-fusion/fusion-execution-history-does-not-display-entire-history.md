@@ -3,7 +3,7 @@ title: '“Workfront Fusion: la cronologia di esecuzione dello scenario non most
 description: “Quando un utente visualizza una cronologia di esecuzione di uno scenario, l’intera esecuzione non viene inclusa nella cronologia. Lo scenario viene eseguito correttamente, ma la cronologia di esecuzione non include informazioni su tutti i moduli eseguiti durante l’esecuzione”
 hidefromtoc: true
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
