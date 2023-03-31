@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: aad3b2765a83b265b6b356d44f1be6b4c21bcdba
 workflow-type: tm+mt
 source-wordcount: '1377'
-ht-degree: 86%
+ht-degree: 89%
 
 ---
 
@@ -29,10 +29,10 @@ ht-degree: 86%
       + [Documenti: Errore 404 durante l&#39;accesso al documento collegato da [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md)
       + [Documenti: [!UICONTROL Attività di correzione] opzioni che portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md)
       + [Aggiornamenti: L&#39;aggiornamento effettuato per conto di un utente viene visualizzato come direttamente dall&#39;utente](known-issues-workfront/wf-updates-update-made-in-behalf-shows-as-from-user.md)
-      + [Filtri: Il filtro non viene applicato quando la pagina viene aggiornata](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
-      + [[!UICONTROL Bilanciamento del carico di lavoro]: Le ore non si adattano al conto per il tempo di inattività dell&#39;utente](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
-      + [Rapporti: L’ordinamento per intestazione di colonna torna all’ordinamento precedente](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
-      + [[!UICONTROL Aggiornamenti]: Impossibile registrare l&#39;ora del giorno corrente nel [!UICONTROL Aggiornamenti] area](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
+      + [Filtri: il filtro non viene applicato quando la pagina viene aggiornata](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md)
+      + [[!UICONTROL Bilanciamento del carico di lavoro]: le ore non si adattano per tenere conto delle assenze degli utenti](known-issues-workfront/wf-workload-balancer-assigned-hours-not-adjusting-for-pto.md)
+      + [Rapporti: se si ordina per intestazione di colonna viene ripristinato l’ordinamento precedente](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md)
+      + [[!UICONTROL Aggiornamenti]: impossibile registrare l&#39;ora del giorno corrente nell&#39;area [!UICONTROL Aggiornamenti]](known-issues-workfront/wf-updates-cannot-log-time-for-today-in-updates.md)
       + [Schede orario: il menu a discesa [!UICONTROL Tipo di Ore] non si apre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md)
       + [Documenti: i contenuti del pannello [!UICONTROL Riepilogo] sono troppo ampi per il pannello](known-issues-workfront/wf-documents-summary-panel-must-scroll-horizontally.md)
       + [Progetti: campo personalizzato mancante quando il problema viene convertito in progetto](known-issues-workfront/wf-projects-field-missing-when-converting-issue-to-project.md)
@@ -143,7 +143,7 @@ ht-degree: 86%
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
       + [Prove: La casella delle opzioni di testo mostra &quot;textAnnotations&quot; (Annotazioni testo)](known-issues-workfront-proof/proof-text-shows-textannotation.md)
-      + [[!DNL Workfront Proof]: Gli elenchi non sono ordinati correttamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
+      + [[!DNL Workfront Proof]: gli elenchi non sono ordinati correttamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Bozze: i messaggi personalizzati non vengono visualizzati nelle notifiche e-mail](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)
       + [[!DNL Workfront Proof]: la bozza non viene caricata quando si utilizza il pulsante “[!UICONTROL Vai alla bozza]” nella notifica e-mail](known-issues-workfront-proof/proof-cannot-access-proof-through-email-notification.md)
       + [[!DNL Workfront Proof]: l’area [!UICONTROL Rapporti] non è più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md)

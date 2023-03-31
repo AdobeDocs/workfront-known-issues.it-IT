@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
 workflow-type: tm+mt
 source-wordcount: '2423'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -49,7 +49,7 @@ Quando un amministratore ha effettuato l’accesso come utente ed effettua un co
 
 _Documenti_
 
-Quando un utente visualizza il pannello [!UICONTROL Riepilogo] per un documento, i contenuti sono troppo ampi per essere visualizzati nel pannello. Il pannello dispone ora di una barra di scorrimento orizzontale e l’utente deve scorrere in orizzontale per visualizzare il [!UICONTROL Riepilogo] contenuto del pannello. Ciò si verifica perché il nome del file del documento non va a capo. Questo problema è limitato ai file con estensione HTML nel nome.
+Quando un utente visualizza il pannello [!UICONTROL Riepilogo] per un documento, i contenuti sono troppo ampi per essere visualizzati nel pannello. Il pannello ora dispone di una barra di scorrimento orizzontale che l’utente deve utilizzare per visualizzare i contenuti del pannello [!UICONTROL Riepilogo]. Ciò si verifica perché il nome del file del documento non va a capo. Questo problema è limitato ai file con estensione HTML nel nome.
 
 **Nuova versione di Desktop Proofing Viewer**
 
@@ -68,19 +68,19 @@ Gli utenti possono anche scaricare manualmente la versione più recente. Per ult
 
 +++**Aggiornamento di manutenzione del 16 marzo 2023**
 
-**Elementi della lista di controllo non copiati durante la copia di una scheda**
+**Gli elementi di un elenco di controllo non vengono copiati quando si copia una scheda**
 
 _Bacheche_
 
-Quando si copia una scheda ad hoc (le schede collegate non possono essere copiate), gli elementi della lista di controllo non vengono copiati nella nuova scheda.
+Quando si copia una scheda ad hoc (le schede collegate non possono essere copiate), gli elementi di un elenco di controllo non vengono copiati nella nuova scheda.
 
-**Campo personalizzato mancante quando il problema viene convertito in progetto**
+**Campo personalizzato mancante quando un problema viene convertito in progetto**
 
 _Progetti_
 
 Quando un utente converte un problema in un progetto utilizzando un modello, nel progetto non viene visualizzato un campo personalizzato presente nel problema. Questo problema riguarda solo gli utenti non amministratori.
 
-**Messaggi personalizzati non visualizzati nelle notifiche e-mail**
+**I messaggi personalizzati non vengono visualizzati nelle notifiche e-mail**
 
 _Bozze_
 
@@ -96,11 +96,11 @@ _Utenti_
 
 Quando un utente riattiva un utente disattivato e tenta di assegnargli un livello di accesso nella finestra [!UICONTROL Riattiva utente], il menu a discesa del livello di accesso non viene compilato quando l’utente digita e l’utente non può selezionare un livello di accesso. Se l’utente digita il livello di accesso e lo salva, tale livello di accesso non viene assegnato all’utente riattivato.
 
-**Salva la bozza di un commento nella [!DNL Goals] area**
+**Salvare la bozza di un commento nell’area [!DNL Goals]**
 
 _[!DNL Workfront Goals]_
 
-Ora, quando ti allontani dal [!UICONTROL Aggiornamenti] pagina di un obiettivo mentre ti trovi al centro della composizione di un messaggio, il messaggio viene mantenuto quando torni indietro. Prima di questo aggiornamento, il commento non inviato sarebbe stato eliminato.
+Ora, se esci dalla pagina [!UICONTROL Aggiornamenti] di un obiettivo mentre stai componendo un messaggio e quindi torni indietro, il messaggio viene mantenuto. Prima di questo aggiornamento, i commenti non inviati venivano eliminati.
 
 +++
 
@@ -181,11 +181,11 @@ Quando è pianificata la disattivazione di un utente e vengono superate la data 
 
 +++**Aggiornamento di manutenzione del 9 febbraio 2023**
 
-Campo **[!UICONTROL Punti della storia] aggiunto a elenchi di attività e di problemi e rapporti**
+Campo **[!UICONTROL Punti storia] aggiunto a rapporti ed elenchi di attività e problemi**
 
 _Report_
 
-Il campo [!UICONTROL Punti della storia] è ora disponibile per essere aggiunto a elenchi e report di attività o problemi. Si tratta di un campo modulo libero modificabile che non è legato alle ore pianificate o alle assegnazioni del team.
+Il campo [!UICONTROL Punti storia] è ora disponibile per essere aggiunto a rapporti ed elenchi di attività o problemi. Si tratta di un campo modulo libero modificabile che non è legato alle ore pianificate o alle assegnazioni del team.
 
 +++
 
