@@ -1,18 +1,18 @@
 ---
-title: "Bilanciatore dei carichi di lavoro: le ore non vengono regolate per tenere conto del tempo libero dell’utente"
-description: '"Se un utente pianifica il proprio periodo di inattività e gli vengono assegnate delle attività, il Bilanciatore dei carichi di lavoro non aggiorna la timeline in modo da tenere conto di tale periodo. Il Bilanciatore dei carichi di lavoro mostra invece che l’utente è sovrassegnato per i giorni pianificati. Per regolare le ore, l’amministratore deve accedere al progetto e ricalcolare la timeline.'
+title: "Bilanciamento del carico di lavoro: le ore non si adattano per tenere conto delle assenze degli utenti"
+description: '"Se un utente a cui sono sono state assegnate delle attività pianifica un periodo di assenza, il servizio di bilanciamento del carico di lavoro non aggiorna la timeline per tenere conto di tali assenze. Per i giorni di assenza pianificati, Bilanciamento del carico di lavoro mostra invece un’assegnazione eccessiva a tale utente. Per regolare le ore, l’amministratore deve accedere al progetto e ricalcolare la timeline.'
 hidefromtoc: true
 source-git-commit: 506874e3b4503db3390a09f44b4be204b4ead2b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!UICONTROL Bilanciatore dei carichi di lavoro]: le ore non vengono regolate per tenere conto del tempo libero dell’utente
+# [!UICONTROL Bilanciamento del carico di lavoro]: le ore non si adattano per tenere conto delle assenze degli utenti
 
-Se un utente pianifica il proprio periodo di inattività e gli vengono assegnate delle attività, il Bilanciatore dei carichi di lavoro non aggiorna la timeline in modo da tenere conto di tale periodo. Al contrario, [!UICONTROL Bilanciatore dei carichi di lavoro] mostra che l’utente è sovrassegnato per i giorni pianificati come spenti. Per regolare le ore, l’amministratore deve accedere al progetto e ricalcolare la timeline.
+Se un utente a cui sono sono state assegnate delle attività pianifica un periodo di assenza, il servizio di bilanciamento del carico di lavoro non aggiorna la timeline per tenere conto di tali assenze. Per i giorni di assenza pianificati, [!UICONTROL Bilanciamento del carico di lavoro] mostra invece un’assegnazione eccessiva a tale utente. Per regolare le ore, l’amministratore deve accedere al progetto e ricalcolare la timeline.
 
-_Segnalato per la prima volta il martedì 6 marzo 2023._
+_Segnalato per la prima volta il 6 marzo 2023._
 
