@@ -4,7 +4,7 @@ description: '“Quando un utente aggiunge un campo calcolato a un modulo person
 hidefromtoc: true
 exl-id: 254f1fae-0784-4332-99a1-cc1895c50896
 source-git-commit: d6935a9ad66633d64083f227def3b027349645b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il martedì 9 marzo 2023.
+>Questo problema è stato risolto il 9 marzo 2023.
 
 <!--
 >[!NOTE]
