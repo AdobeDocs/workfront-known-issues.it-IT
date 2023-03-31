@@ -2,7 +2,7 @@
 title: '“Progetti: errore 504 nell’intestazione del progetto”'
 description: “Quando un utente visualizza un progetto, nell’intestazione del progetto non è presente alcun nome o dato. Invece, l’utente visualizza un errore.”
 source-git-commit: 48d4f681fcae589b2c39de9a73d29c1f6f851f8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
 ht-degree: 100%
 
