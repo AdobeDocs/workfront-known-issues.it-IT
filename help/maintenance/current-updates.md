@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
+source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
 workflow-type: tm+mt
-source-wordcount: '2423'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,9 +19,21 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
+## Aggiornamenti di aprile 2023
+
++++**Aggiornamento di manutenzione del 4 aprile 2023**
+
+**Gli elenchi a discesa non si aprono quando un utente viene aggiunto a una bozza**
+
+_Bozze_
+
+Quando un utente aggiunge un altro utente a una bozza nel [!UICONTROL Visualizzatore di correzione], il &quot;[!UICONTROL Ruolo di prova]&quot; e &quot;[!UICONTROL Avvisi e-mail]&quot; i menu a discesa non possono essere aperti. L&#39;utente non può assegnare un ruolo di bozza o un avviso e-mail. Questo può verificarsi quando si aggiunge un utente tramite un commento o quando si condivide la bozza con l’utente.
+
++++
+
 ## Aggiornamenti di marzo 2023
 
-+++**Aggiornamento di manutenzione del 23 marzo 2023**
++++**Aggiornamento di manutenzione del 30 marzo 2023**
 
 **Impossibile cambiare la versione della bozza quando si visualizza la bozza**
 
