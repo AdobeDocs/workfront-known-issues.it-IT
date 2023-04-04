@@ -2,7 +2,7 @@
 title: "Prove: Gli elenchi a discesa non si aprono quando un utente viene aggiunto a una bozza"
 description: "Quando un utente aggiunge un altro utente a una bozza nel Visualizzatore di bozze, i menu a discesa Ruolo di bozza e Avvisi e-mail non possono essere aperti. L'utente non può assegnare un ruolo di bozza o un avviso e-mail. Questo può verificarsi quando si aggiunge un utente tramite un commento o quando si condivide la bozza con l’utente."
 hidefromtoc: true
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: 0f3a4dd2201c8e612db50fe8f15342801192af3b
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
