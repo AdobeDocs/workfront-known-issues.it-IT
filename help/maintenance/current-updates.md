@@ -2,7 +2,7 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
+source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
 ht-degree: 88%
@@ -34,6 +34,7 @@ Quando un utente visualizza un elenco di richieste a cui è stato applicato un f
 _Utenti_
 
 Quando un amministratore sta modificando un utente e tenta di selezionare un [!UICONTROL Tipo orario predefinito] o [!UICONTROL Tipo ora disponibile], i menu a discesa per tali campi sono disattivati e non possono selezionare tipi di ora.
+
 +++
 
 +++**Aggiornamento di manutenzione del 6 aprile 2023**
