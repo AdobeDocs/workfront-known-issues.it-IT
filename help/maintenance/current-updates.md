@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: c914b0f7d3b0f3fea1f73baf16b29cfe3e09ea96
+source-git-commit: ff0a984c4f9f2041f1e3f3d8da6432f6b1a6d499
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2573'
+ht-degree: 88%
 
 ---
 
@@ -21,7 +21,22 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di aprile 2023
 
-+++**Aggiornamento di manutenzione del 4 aprile 2023**
++++**Aggiornamento di manutenzione del 13 aprile 2023**
+
+**I filtri non vengono applicati all’elenco delle richieste**
+
+_Richieste_
+
+Quando un utente visualizza un elenco di richieste a cui è stato applicato un filtro, l’elenco include richieste da escludere dal filtro.
+
+**Impossibile selezionare [!UICONTROL Tipo orario predefinito] o [!UICONTROL Tipi di ora disponibili]**
+
+_Utenti_
+
+Quando un amministratore sta modificando un utente e tenta di selezionare un [!UICONTROL Tipo orario predefinito] o [!UICONTROL Tipo ora disponibile], i menu a discesa per tali campi sono disattivati e non possono selezionare tipi di ora.
++++
+
++++**Aggiornamento di manutenzione del 6 aprile 2023**
 
 **Gli elenchi a discesa non si aprono quando un utente viene aggiunto a una bozza**
 
