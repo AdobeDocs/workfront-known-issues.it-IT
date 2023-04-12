@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 78%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,6 +35,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Modelli: Impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 aprile 2023 |
 | [[!UICONTROL Pagina principale]: Fai clic sulla miniatura vicino in [!UICONTROL Elenco lavori] porta a una pagina vuota](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 10 aprile 2023 |
 | [Utenti: Impossibile selezionare [!UICONTROL Tipo orario predefinito] o [!UICONTROL Tipi di ora disponibili]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 6 aprile 2023 |
 | [Prove: Impossibile utilizzare lo strumento Polilinea quando si crea un commento su una bozza](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 aprile 2023 |
@@ -59,6 +60,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filtri: Impossibile condividere un filtro da un report su un dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 aprile 2023 |
 | [Prove: Lo strumento di misura non accetta i punti decimali](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 marzo 2023 |
 | [Documenti: Errore 404 durante l&#39;accesso al documento collegato da [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 marzo 2023 |
 | [Documenti: Problemi relativi all’elenco dei documenti](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 marzo 2023 |

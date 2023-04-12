@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
 workflow-type: tm+mt
-source-wordcount: '1413'
-ht-degree: 87%
+source-wordcount: '1431'
+ht-degree: 86%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Modelli: Impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Filtri: Impossibile condividere un filtro da un report su un dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL Pagina principale]: Fai clic sulla miniatura vicino in [!UICONTROL Elenco lavori] porta a una pagina vuota](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
       + [Moduli personalizzati: Problemi nei campi a discesa personalizzati](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
       + [Prove: Impossibile passare tra le bozze in [!UICONTROL Visualizzatore di prove]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
