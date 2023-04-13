@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ddce44ac49df4795b17195a8672e4240945398be
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '664'
+ht-degree: 77%
 
 ---
 
@@ -24,7 +24,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Utenti: Livello di accesso modificato dal sistema senza record della modifica](known-issues-workfront/wf-users-access-level-is-changed.md) | 20 marzo 2023 |
 | [Documenti: [!UICONTROL Attività di correzione] opzioni che portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 marzo 2023 |
 
 {style="table-layout:auto"}
@@ -35,9 +34,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Utenti: Livello di accesso modificato dal sistema senza record della modifica](known-issues-workfront/wf-users-access-level-is-changed.md) | 13 aprile 2023 |
 | [Modelli: Impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 aprile 2023 |
-| [[!UICONTROL Pagina principale]: Fai clic sulla miniatura vicino in [!UICONTROL Elenco lavori] porta a una pagina vuota](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md) | 10 aprile 2023 |
-| [Utenti: Impossibile selezionare [!UICONTROL Tipo orario predefinito] o [!UICONTROL Tipi di ora disponibili]](known-issues-workfront/wf-user-cannot-select-hour-type.md) | 6 aprile 2023 |
 | [Prove: Impossibile utilizzare lo strumento Polilinea quando si crea un commento su una bozza](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 aprile 2023 |
 | [Prove: La casella delle opzioni di testo mostra &quot;textAnnotations&quot; (Annotazioni testo)](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 aprile 2023 |
 | [Moduli personalizzati: Problemi nei campi a discesa personalizzati](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md) | 5 aprile 2023 |
@@ -47,7 +45,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Schede orario: il menu a discesa [!UICONTROL Tipo di Ore] non si apre](known-issues-workfront/wf-timesheets-cannot-use-hour-type-dropdown.md) | 23 marzo 2023 |
 | [Prove: La fase di prova non si attiva quando la scadenza della fase precedente viene superata](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 marzo 2023 |
 | [Prove: L’utente è disattivato dal flusso di lavoro di prova e ottiene &quot;[!UICONTROL Accesso non consentito]&quot; all&#39;accesso alla bozza](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md) | 23 marzo 2023 |
-| [Rapporti: se si ordina per intestazione di colonna viene ripristinato l’ordinamento precedente](known-issues-workfront/wf-reports-sorting-report-by-header-does-not-stick.md) | 16 marzo 2023 |
 | [Filtri: il filtro non viene applicato quando la pagina viene aggiornata](known-issues-workfront/wf-filters-filter-not-applied-when-page-is-refreshed.md) | 16 marzo 2023 |
 | [Progetti: il progetto convertito dal problema non eredita le autorizzazioni dal portfolio o dal programma](known-issues-workfront/wf-projects-converted-issue-not-receiving-inherited-permissions.md) | 23 febbraio 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
@@ -60,6 +57,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Ricerca: [!DNL Workfront] Timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md) | 13 aprile 2023 |
 | [Filtri: Impossibile condividere un filtro da un report su un dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 aprile 2023 |
 | [Prove: Lo strumento di misura non accetta i punti decimali](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 marzo 2023 |
 | [Documenti: Errore 404 durante l&#39;accesso al documento collegato da [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 marzo 2023 |

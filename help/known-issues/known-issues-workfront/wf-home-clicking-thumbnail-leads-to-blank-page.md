@@ -2,15 +2,19 @@
 title: "Home: Facendo clic vicino alla miniatura nell’Elenco lavori si arriva alla pagina vuota"
 description: "Quando un utente tenta di visualizzare un documento o una bozza facendo clic sulla miniatura nell'Elenco lavori principali, viene indirizzato a una pagina vuota. Questo perché un URL invisibile si trova appena sotto la miniatura dell’immagine e se l’utente fa clic su questo URL, questo li porta a una pagina vuota."
 hidefromtoc: true
-source-git-commit: 7ff96f21e2438743a7273b7ba0015cef4e4e47ee
+source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 3%
+source-wordcount: '148'
+ht-degree: 10%
 
 ---
 
 
 # [!UICONTROL Pagina principale]: Fai clic sulla miniatura vicino in [!UICONTROL Elenco lavori] porta a una pagina vuota
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso perché non è stato possibile riprodurlo.
 
 Quando un utente tenta di visualizzare un documento o una bozza facendo clic sulla miniatura nel [!UICONTROL Elenco dei lavori domestici], vengono indirizzati a una pagina vuota. Questo perché un URL invisibile si trova appena sotto la miniatura dell’immagine e se l’utente fa clic su questo URL, viene visualizzato in una pagina vuota.
 
