@@ -1,20 +1,20 @@
 ---
-title: "Prove: La fase di prova non si attiva quando la scadenza della fase precedente passa"
-description: "Quando una bozza ha più fasi e l'impostazione di uno stadio successivo Attiva è impostata su Quando passa la scadenza dello stadio precedente, lo stadio successivo non si attiva quando la scadenza passa."
+title: '“Bozze: la fase di bozza non si attiva quando viene superata la scadenza della fase precedente”'
+description: “Quando una bozza dispone di più fasi e l’impostazione “Attiva fase” di una fase successiva è impostata su “Quando viene superata la scadenza della fase precedente”, tale fase successiva non si attiva quando la scadenza viene superata.”
 hidefromtoc: true
 source-git-commit: 6ba26f7b8bd836e5a63214137c06116dcdb1d58d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Prove: La fase di prova non si attiva quando la scadenza della fase precedente viene superata
+# Bozze: la fase di bozza non si attiva quando viene superata la scadenza della fase precedente
 
 <!--This article is on the WF and WFP TOC-->
 
-Quando una bozza ha più fasi e l’impostazione &quot;Attiva fase&quot; di un passaggio successivo è impostata su &quot;Quando la scadenza della fase precedente passa&quot;, quella fase successiva non si attiva quando la scadenza viene passata.
+Quando una bozza dispone di più fasi e l’impostazione “Attiva fase” di una fase successiva è impostata su “Quando viene superata la scadenza della fase precedente”, tale fase successiva non si attiva quando la scadenza viene superata.
 
 _Segnalato per la prima volta il 14 marzo 2023._
 
