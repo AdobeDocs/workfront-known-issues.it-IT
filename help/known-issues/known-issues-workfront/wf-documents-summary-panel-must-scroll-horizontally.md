@@ -3,7 +3,7 @@ title: '“Documenti: i contenuti del pannello [!UICONTROL Riepilogo] sono tropp
 description: “Quando un utente visualizza il pannello [!UICONTROL Riepilogo] per un documento, i contenuti sono troppo ampi per essere visualizzati nel pannello. Il pannello ora dispone di una barra di scorrimento orizzontale che l’utente deve utilizzare per visualizzare i contenuti del pannello [!UICONTROL Riepilogo]. Ciò si verifica perché il nome del file del documento non va a capo. Questo problema è limitato ai file con estensione HTML nel nome.”
 hidefromtoc: true
 source-git-commit: 223ef5c3573b85981a91fabddc7c591116beb94e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '160'
 ht-degree: 100%
 
