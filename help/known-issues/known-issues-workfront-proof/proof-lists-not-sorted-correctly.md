@@ -3,9 +3,9 @@ title: "Workfront Proof: gli elenchi non sono ordinati correttamente"
 description: “Quando un utente visualizza in Workfront Proof un elenco che era stato ordinato (ad esempio per Nome), l’ordinamento non è accurato.”
 hidefromtoc: true
 source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
