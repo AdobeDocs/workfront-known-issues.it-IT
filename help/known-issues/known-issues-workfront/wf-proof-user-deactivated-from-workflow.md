@@ -1,22 +1,22 @@
 ---
-title: "Prove: L'utente è disattivato dal flusso di lavoro di prova e ottiene l'accesso non consentito quando si accede alla bozza"
-description: "Quando un utente tenta di accedere a una bozza di cui è stato assegnato a un flusso di lavoro in, visualizza un messaggio Accesso non consentito."
+title: '“Bozze: l’utente è disattivato dal flusso di lavoro della bozza e riceve il messaggio “Accesso non consentito” durante l’accesso alla bozza'
+description: “Quando un utente tenta di accedere a una bozza in cui è stato assegnato a un flusso di lavoro, visualizza un messaggio di accesso non consentito.”
 hidefromtoc: true
 source-git-commit: ff00c5295967aa0e06f26678286ec2cfafbc0356
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Prove: L’utente è disattivato dal flusso di lavoro di prova e ottiene &quot;[!UICONTROL Accesso non consentito]&quot; all&#39;accesso alla bozza
+# Bozze: l’utente è disattivato dal flusso di lavoro della bozza e riceve il messaggio “[!UICONTROL Accesso non consentito]” durante l’accesso alla bozza
 
 <!--This is on both the WF and WFP TOCs-->
 
-Quando un utente tenta di accedere a una bozza di cui è stato assegnato a un flusso di lavoro, visualizza il seguente messaggio:
+Quando un utente tenta di accedere a una bozza in cui è stato assegnato a un flusso di lavoro, visualizza il seguente messaggio:
 
-&quot;[!UICONTROL Accesso non consentito. Non si dispone delle autorizzazioni corrette per visualizzare la pagina. Per ulteriori informazioni, contattare l&#39;amministratore.]&quot;
+“[!UICONTROL Accesso non consentito. Non disponi delle autorizzazioni corrette per visualizzare la pagina. Per ulteriori informazioni, contatta l’amministratore.]”
 
 Ciò si verifica perché l’utente è stato disattivato automaticamente nel flusso di lavoro della bozza.
 
