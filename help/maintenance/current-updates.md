@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: bce9d44c3f96d260ebdeec8665d095e8963bc5d0
 workflow-type: tm+mt
 source-wordcount: '2573'
-ht-degree: 88%
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,7 @@ Quando un amministratore sta modificando un utente e tenta di selezionare un [!U
 
 _Bozze_
 
-Quando un utente aggiunge un altro utente a una bozza nel [!UICONTROL Visualizzatore di correzione], il &quot;[!UICONTROL Ruolo di prova]&quot; e &quot;[!UICONTROL Avvisi e-mail]&quot; i menu a discesa non possono essere aperti. L&#39;utente non può assegnare un ruolo di bozza o un avviso e-mail. Questo può verificarsi quando si aggiunge un utente tramite un commento o quando si condivide la bozza con l’utente.
+Quando un utente aggiunge un altro utente a una bozza nel [!UICONTROL Proofing Viewer], è impossibile aprire i menu a discesa “[!UICONTROL Ruolo bozza]” e “[!UICONTROL Avvisi e-mail]”. L’utente non può assegnare un ruolo bozza o un avviso e-mail. Questo può verificarsi quando si aggiunge un utente tramite un commento o quando si condivide la bozza con l’utente.
 
 +++
 
@@ -51,43 +51,43 @@ Quando un utente aggiunge un altro utente a una bozza nel [!UICONTROL Visualizza
 
 +++**Aggiornamento di manutenzione del 30 marzo 2023**
 
-**Impossibile cambiare la versione della bozza quando si visualizza la bozza**
+**Impossibile cambiare versione della bozza durante la visualizzazione della bozza**
 
 _Bozze_
 
-Quando un utente visualizza una bozza in [!UICONTROL Visualizzatore di correzione]e passa a un&#39;altra versione, il menu a discesa della versione viene disattivato e l&#39;utente non può tornare alla versione originale visualizzata o a un&#39;altra versione della bozza.
+Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l&#39;utente non può tornare alla versione originale che stava visualizzando, oppure a un’altra versione della bozza.
 
-**Errore 504 durante l&#39;esportazione dei report**
+**Errore 504 durante l’esportazione dei rapporti**
 
-_Report_
+_Rapporti_
 
-Quando un utente tenta di esportare un rapporto con un numero elevato di elementi, viene visualizzato un errore 504 e non può esportare il rapporto.
+Quando un utente tenta di esportare un rapporto con un numero elevato di elementi, visualizzerà un errore 504 e non potrà esportare il rapporto.
 
-**L&#39;aggiornamento effettuato per conto di un utente viene visualizzato come direttamente dall&#39;utente**
+**L’aggiornamento effettuato per conto di un utente viene visualizzato come effettuato direttamente dall’utente**
 
 _Aggiornamenti_
 
-Quando un amministratore ha effettuato l’accesso come utente ed effettua un commento, questo viene visualizzato come direttamente dall’utente, anziché dall’amministratore per conto dell’utente.
+Quando un amministratore effettua l’accesso come utente e crea un commento, il commento viene visualizzato come creato direttamente dall’utente, anziché dall’amministratore per conto dell’utente.
 
 +++
 
 +++**Aggiornamento di manutenzione del 23 marzo 2023**
 
-**[!UICONTROL Riepilogo] il contenuto del pannello è troppo ampio per il pannello**
+I contenuti del pannello **[!UICONTROL Riepilogo] sono troppo ampi per il pannello**
 
 _Documenti_
 
 Quando un utente visualizza il pannello [!UICONTROL Riepilogo] per un documento, i contenuti sono troppo ampi per essere visualizzati nel pannello. Il pannello ora dispone di una barra di scorrimento orizzontale che l’utente deve utilizzare per visualizzare i contenuti del pannello [!UICONTROL Riepilogo]. Ciò si verifica perché il nome del file del documento non va a capo. Questo problema è limitato ai file con estensione HTML nel nome.
 
-**Nuova versione di Desktop Proofing Viewer**
+**Nuova versione di [!UICONTROL Desktop Proofing Viewer]**
 
-_Verifica_
+_Bozza_
 
-Per risolvere un problema di commento in [!UICONTROL Vista per correzione desktop]r, abbiamo implementato una nuova versione del visualizzatore per correzione desktop.
+Per risolvere un problema relativo ai commenti in [!UICONTROL Desktop Proofing Viewer], ne è stata implementata una nuova versione.
 
-Utenti che hanno già [!UICONTROL Visualizzatore di correzione del desktop] l&#39;aggiornamento verrà ottenuto automaticamente.
+Gli utenti che hanno già installato [!UICONTROL Desktop Proofing Viewer] riceveranno automaticamente questo aggiornamento.
 
-Gli utenti possono anche scaricare manualmente la versione più recente. Per ulteriori informazioni, consulta [[!UICONTROL Installare Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html).
+Gli utenti possono anche scaricare manualmente la versione più recente. Per ulteriori informazioni, consulta [[!UICONTROL Installare Desktop Proofing Viewer]](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/use-the-desktop-proofing-viewer/installing-desktop-proofing-viewer.html?lang=it).
 
 * Versione precedente: 2.1.22
 * Nuova versione: 2.1.23

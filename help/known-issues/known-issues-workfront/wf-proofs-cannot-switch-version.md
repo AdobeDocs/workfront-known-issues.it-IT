@@ -1,16 +1,16 @@
 ---
-title: "Prove: Impossibile cambiare la versione della bozza quando si visualizza la bozza"
-description: "Quando un utente visualizza una bozza nel [!UICONTROL Visualizzatore di correzione]e passa a un'altra versione, il menu a discesa della versione diventa disattivato e l'utente non può tornare alla versione originale visualizzata o a un'altra versione della bozza."
+title: '“Bozze: impossibile cambiare la versione della bozza durante la visualizzazione della bozza”'
+description: “Quando un utente visualizza una bozza nel [!UICONTROL Viewer Proofing] e passa a un’altra versione, il menu a discesa della versione si disattiva e l’utente non può tornare alla versione originale che stava visualizzando o a un’altra versione della bozza.”
 hidefromtoc: true
 source-git-commit: 7b22b27cddb7a7cd21d3570a057a33753b2e0be3
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Prove: Impossibile cambiare la versione della bozza quando si visualizza la bozza
+# Bozze: impossibile cambiare versione della bozza durante la visualizzazione della bozza
 
 
 <!--
@@ -19,14 +19,14 @@ ht-degree: 10%
 >This issue was fixed on March 30, 2023.
 -->
 
-Quando un utente visualizza una bozza in [!UICONTROL Visualizzatore di correzione]e passa a un&#39;altra versione, il menu a discesa della versione viene disattivato e l&#39;utente non può tornare alla versione originale visualizzata o a un&#39;altra versione della bozza.
+Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l&#39;utente non può tornare alla versione originale che stava visualizzando, oppure a un’altra versione della bozza.
 
 **Soluzione alternativa:**
 
 Prova a eseguire una delle operazioni seguenti:
 
 * Aggiorna la pagina.
-* Selezionare la vista Confronto, quindi chiudere la versione che non si desidera visualizzare.
+* Seleziona la vista Confronto, quindi chiudi la versione che non desideri visualizzare.
 
 _Segnalato per la prima volta il 23 marzo 2023._
 
