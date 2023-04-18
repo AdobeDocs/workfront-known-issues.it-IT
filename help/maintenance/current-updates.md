@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 5291904cc6e086d8f943f2141874df944b64a7bd
+source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
 workflow-type: tm+mt
-source-wordcount: '2657'
-ht-degree: 93%
+source-wordcount: '2757'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,25 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di aprile 2023
+
++++**Aggiornamento della manutenzione (pianificato) il 20 aprile 2023**
+
+**Problemi nei campi a discesa personalizzati**
+
+_Moduli personalizzati_
+
+I campi a discesa personalizzati abilitati come campi con selezione multipla possono presentare i seguenti problemi:
+
+* &quot;+[!UICONTROL Aggiungi]&quot; non è presente quando il modulo non è in modalità di modifica.
+* I campi privi di valori presentano un &quot;—[!UICONTROL nessuna etichetta]—&quot; opzione.
+
+**La casella delle opzioni di testo mostra &quot;textAnnotations&quot; (Annotazioni testo)**
+
+_Bozze_
+
+Quando un utente visualizza una bozza, inizia ad aggiungere un commento e apre lo strumento Testo, accanto alle opzioni dello strumento viene visualizzata la dicitura “textAnnotation”. Lo strumento Testo continua a funzionare come previsto e “textAnnotation” scompare dopo la pubblicazione del commento.
+
++++
 
 +++**Aggiornamento di manutenzione del 17 aprile 2023**
 
