@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6cbbb738a49855fb2d0750ca4a8b4b21ba7a2f5b
+source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
 workflow-type: tm+mt
-source-wordcount: '2757'
-ht-degree: 92%
+source-wordcount: '2859'
+ht-degree: 88%
 
 ---
 
@@ -37,6 +37,14 @@ I campi a discesa personalizzati abilitati come campi con selezione multipla pos
 _Bozze_
 
 Quando un utente visualizza una bozza, inizia ad aggiungere un commento e apre lo strumento Testo, accanto alle opzioni dello strumento viene visualizzata la dicitura “textAnnotation”. Lo strumento Testo continua a funzionare come previsto e “textAnnotation” scompare dopo la pubblicazione del commento.
+
+## Mantieni le immagini come bozza quando ti allontani da un aggiornamento per gli obiettivi e i problemi relativi all’esperienza beta dei commenti
+
+>[!NOTE]
+>
+>Questa funzione è stata rilasciata in Anteprima il 19 aprile 2023. Sarà disponibile in produzione il 20 aprile 2023.
+
+Ora, quando ti allontani dalla pagina Aggiornamenti mentre ti trovi al centro della composizione di un messaggio in cui hai allegato un’immagine, il messaggio e l’immagine vengono conservati quando torni indietro. Prima di questo aggiornamento, il commento non inviato veniva mantenuto ma l’immagine veniva eliminata. Questa funzione è disponibile nella sezione Aggiornamenti per obiettivi e problemi relativi all’abilitazione della versione beta dei commenti.
 
 +++
 
