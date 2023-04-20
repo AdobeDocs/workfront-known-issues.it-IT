@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 64c3ac3656a8caf38a224bf092c9e755b04fc179
 workflow-type: tm+mt
-source-wordcount: '2945'
-ht-degree: 88%
+source-wordcount: '3021'
+ht-degree: 86%
 
 ---
 
@@ -44,15 +44,25 @@ _Bozze_
 
 Quando un utente visualizza una bozza, inizia ad aggiungere un commento e apre lo strumento Testo, accanto alle opzioni dello strumento viene visualizzata la dicitura “textAnnotation”. Lo strumento Testo continua a funzionare come previsto e “textAnnotation” scompare dopo la pubblicazione del commento.
 
-## Mantieni le immagini come bozza quando ti allontani da un aggiornamento per gli obiettivi e i problemi relativi all’esperienza beta dei commenti
+**Mantieni le immagini come bozza quando ti allontani da un aggiornamento per gli obiettivi e i problemi relativi all’esperienza beta dei commenti**
 
 >[!NOTE]
 >
->Questa funzione è stata rilasciata in Anteprima il 19 aprile 2023. Sarà disponibile in produzione nel prossimo futuro.
+>Questa funzione è stata rilasciata in Anteprima il 19 aprile 2023 e rilasciata in produzione il 20 aprile 2023.
 
 _Aggiornamenti_
 
 Ora, quando ti allontani dalla pagina Aggiornamenti mentre ti trovi al centro della composizione di un messaggio in cui hai allegato un’immagine, il messaggio e l’immagine vengono conservati quando torni indietro. Prima di questo aggiornamento, il commento non inviato veniva mantenuto ma l’immagine veniva eliminata. Questa funzione è disponibile nella sezione Aggiornamenti per obiettivi e problemi relativi all’abilitazione della versione beta dei commenti.
+
+**Aggiornamenti in tempo reale e commenti eliminati nella sezione Aggiornamenti**
+
+>[!NOTE]
+>
+>Questa funzione è stata rilasciata in Anteprima il 19 aprile 2023 e rilasciata in produzione il 20 aprile 2023.
+
+_Aggiornamenti_
+
+Ora, quando un utente aggiunge un commento o una risposta o elimina un commento dall’area Aggiornamenti, è possibile visualizzare il nuovo commento o un’indicazione che un commento è stato rimosso in tempo reale, senza alcun ritardo. Questa funzione è disponibile nella sezione Aggiornamenti per obiettivi e problemi relativi all’abilitazione della versione beta dei commenti.
 
 **Livello di accesso modificato dal sistema senza record della modifica**
 
