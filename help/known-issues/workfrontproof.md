@@ -3,9 +3,9 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 174dff688f137feecb5f3c7ad6c67e66ab6c2388
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '317'
 ht-degree: 94%
 
 ---
@@ -36,8 +36,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Prove: [!UICONTROL Attività di bozza] aperture a schede [!UICONTROL Dettagli bozza]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 aprile 2023 |
-| [Bozze: impossibile usare lo strumento Polilinea quando si crea un commento in una bozza](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md) | 6 aprile |
-| [Bozze: la casella delle opzioni di testo mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 6 aprile 2023 |
 | [Prove: Impossibile passare tra le bozze in [!UICONTROL Visualizzatore di prove]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 marzo 2023 |
 | [Bozze: la fase di bozza non si attiva quando viene superata la scadenza della fase precedente](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 marzo 2023 |
 | [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 gennaio 2023 |
