@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 92e59572387e45e24569a8b8781e8487ef848718
+source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
 workflow-type: tm+mt
-source-wordcount: '2859'
+source-wordcount: '2945'
 ht-degree: 88%
 
 ---
@@ -32,6 +32,12 @@ I campi a discesa personalizzati abilitati come campi con selezione multipla pos
 * &quot;+[!UICONTROL Aggiungi]&quot; non è presente quando il modulo non è in modalità di modifica.
 * I campi privi di valori presentano un &quot;—[!UICONTROL nessuna etichetta]—&quot; opzione.
 
+**Impossibile utilizzare lo strumento Polilinea quando si crea un commento su una bozza**
+
+_Bozze_
+
+Quando un utente visualizza una bozza nel Proofing Viewer e tenta di creare un commento utilizzando lo strumento Polilinea, lo strumento non contrassegna la bozza.
+
 **La casella delle opzioni di testo mostra &quot;textAnnotations&quot; (Annotazioni testo)**
 
 _Bozze_
@@ -42,9 +48,17 @@ Quando un utente visualizza una bozza, inizia ad aggiungere un commento e apre l
 
 >[!NOTE]
 >
->Questa funzione è stata rilasciata in Anteprima il 19 aprile 2023. Sarà disponibile in produzione il 20 aprile 2023.
+>Questa funzione è stata rilasciata in Anteprima il 19 aprile 2023. Sarà disponibile in produzione nel prossimo futuro.
+
+_Aggiornamenti_
 
 Ora, quando ti allontani dalla pagina Aggiornamenti mentre ti trovi al centro della composizione di un messaggio in cui hai allegato un’immagine, il messaggio e l’immagine vengono conservati quando torni indietro. Prima di questo aggiornamento, il commento non inviato veniva mantenuto ma l’immagine veniva eliminata. Questa funzione è disponibile nella sezione Aggiornamenti per obiettivi e problemi relativi all’abilitazione della versione beta dei commenti.
+
+**Livello di accesso modificato dal sistema senza record della modifica**
+
+_Utenti_
+
+Il livello di accesso di un utente può essere modificato in modo imprevedibile dal sistema. In questo caso, non vi è alcun aggiornamento visibile e la modifica non viene visualizzata nel registro di controllo.
 
 +++
 
