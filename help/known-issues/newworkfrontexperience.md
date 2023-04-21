@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
+source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '641'
+ht-degree: 91%
 
 ---
 
@@ -24,6 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Prove: Le approvazioni a prova bloccata vengono comunque visualizzate nell&#39;elenco di lavoro](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 aprile 2023 |
 | [[!UICONTROL Planner risorse]: Impossibile salvare dopo l&#39;aggiunta di tempo](known-issues-workfront/wf-resource-planner-cannot-save-time.md) | 20 aprile 2023 |
 | [Documenti: le opzioni delle [!UICONTROL Attività di bozza] portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 marzo 2023 |
 

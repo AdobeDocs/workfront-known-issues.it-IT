@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 51db31ccf47c4219f678c1b11f4ef715aed0c1c6
+source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
 workflow-type: tm+mt
-source-wordcount: '1445'
-ht-degree: 95%
+source-wordcount: '1454'
+ht-degree: 94%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Prove: Le approvazioni a prova bloccata vengono comunque visualizzate nell&#39;elenco di lavoro](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Planner risorse]: Impossibile salvare dopo l&#39;aggiunta di tempo](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [Prove: [!UICONTROL Attività di bozza] aperture a schede [!UICONTROL Dettagli bozza]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Modelli: Impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)

@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+source-git-commit: 3022b08896b3bb467210597e0c7bd6c4688fdbe6
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 94%
+source-wordcount: '320'
+ht-degree: 92%
 
 ---
 
@@ -24,7 +24,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: la casella delle opzioni di testo mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md) | 31 marzo 2023 |
+| [Prove: Le approvazioni a prova bloccata vengono comunque visualizzate nell&#39;elenco di lavoro](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 aprile 2023 |
 | [Documenti: le opzioni delle [!UICONTROL Attività di bozza] portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 17 marzo 2023 |
 
 {style="table-layout:auto"}
