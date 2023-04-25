@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3466245b95c2ab8b6206eec7f42f9bed0b68e325
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '3020'
-ht-degree: 86%
+source-wordcount: '3123'
+ht-degree: 83%
 
 ---
 
@@ -20,6 +20,26 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di aprile 2023
+
++++**Aggiornamento della manutenzione (pianificato) il 27 aprile 2023**
+
+**Impossibile passare tra le bozze in [!UICONTROL Visualizzatore di prove]**
+
+_Bozze_
+
+Quando un utente visualizza una bozza in [!UICONTROL Visualizzatore di correzione]e passa a un&#39;altra bozza, il pulsante di protezione da switch non risponde. L’utente non può tornare alla bozza originale visualizzata o a un’altra bozza.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del 25 aprile 2023**
+
+ I collegamenti di aiuto in-app **[!DNL Fusion]non portano a pagine di aiuto specifiche**
+
+_[!DNL Workfront Fusion]_
+
+Quando un utente visualizza una bozza in [!UICONTROL Visualizzatore di correzione]e passa a un&#39;altra bozza, il pulsante di protezione da switch non risponde. L’utente non può tornare alla bozza originale visualizzata o a un’altra bozza.
+
++++
 
 +++**Aggiornamento di manutenzione del 20 aprile 2023**
 

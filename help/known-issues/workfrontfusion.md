@@ -3,9 +3,9 @@ title: Problemi noti in [!DNL Adobe Workfront Fusion]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 893ddaa5154dc7dcb859c45241f85bb08c25d524
+source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '138'
 ht-degree: 99%
 
 ---
@@ -36,7 +36,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 gennaio 2023 |
-| I collegamenti di aiuto in-app [[!DNL Workfront Fusion]: [!DNL Fusion]  non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md) | 2 agosto 2022 |
 
 {style="table-layout:auto"}
 
