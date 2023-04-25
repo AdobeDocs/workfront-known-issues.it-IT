@@ -3,7 +3,7 @@ title: '“Aggiornamenti: impossibile registrare l’ora del giorno corrente nel
 description: “Quando un utente tenta di registrare l’ora del giorno corrente nell’area Aggiornamenti, il giorno corrente è disattivato e l’utente non può immettere alcuna ora.”
 hidefromtoc: true
 source-git-commit: f89ebb0b007f8c0c8fdc678f2b8933c5f4fb585b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
