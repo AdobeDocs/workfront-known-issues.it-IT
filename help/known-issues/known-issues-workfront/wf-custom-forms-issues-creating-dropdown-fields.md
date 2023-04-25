@@ -1,16 +1,16 @@
 ---
-title: "Moduli personalizzati: Problemi nei campi a discesa personalizzati"
-description: "I problemi possono essere visualizzati nei campi a discesa personalizzati abilitati come campi con selezione multipla."
+title: 'Moduli personalizzati: problemi nei campi a discesa personalizzati'
+description: I problemi possono essere visualizzati nei campi a discesa personalizzati abilitati come campi con selezione multipla.
 hidefromtoc: true
-source-git-commit: 6831d5a2fe0b0061e7ea8e81b547a46a97c89584
+exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 10%
+ht-degree: 86%
 
 ---
 
-
-# Moduli personalizzati: Problemi nei campi a discesa personalizzati
+# Moduli personalizzati: problemi nei campi a discesa personalizzati
 
 >[!NOTE]
 >
@@ -18,8 +18,8 @@ ht-degree: 10%
 
 I campi a discesa personalizzati abilitati come campi con selezione multipla possono presentare i seguenti problemi:
 
-* &quot;+[!UICONTROL Aggiungi]&quot; non è presente quando il modulo non è in modalità di modifica.
-* I campi privi di valori presentano un &quot;—[!UICONTROL nessuna etichetta]—&quot; opzione.
+* Il pulsante “+[!UICONTROL Aggiungi]” non è presente quando il modulo non è in modalità di modifica.
+* I campi privi di valori presentano un’opzione “—[!UICONTROL nessuna etichetta]—”.
 
 **Soluzione alternativa**
 
@@ -29,4 +29,3 @@ Prova a eseguire una delle operazioni seguenti:
 * Imposta un valore predefinito.
 
 _Segnalato per la prima volta il 30 marzo 2023._
-

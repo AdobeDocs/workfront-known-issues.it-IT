@@ -6,7 +6,7 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
 source-wordcount: '651'
-ht-degree: 90%
+ht-degree: 95%
 
 ---
 
@@ -37,8 +37,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Prove: [!UICONTROL Attività di bozza] aperture a schede [!UICONTROL Dettagli bozza]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 aprile 2023 |
-| [Modelli: Impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 aprile 2023 |
-| [Prove: Impossibile passare tra le bozze in [!UICONTROL Visualizzatore di prove]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 marzo 2023 |
+| [Modelli: impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 aprile 2023 |
+| [Bozze: impossibile passare da una bozza all’altra in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 marzo 2023 |
 | [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 marzo 2023 |
 | [Ricerca: [!DNL Workfront] Timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md) | 27 marzo 2023 |
 | [Bozze: la fase di bozza non si attiva quando viene superata la scadenza della fase precedente](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 marzo 2023 |
@@ -57,7 +57,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | -----------------------------------------------------------------| ----------------- |
 | [Documenti: le opzioni delle [!UICONTROL Attività di bozza] portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 aprile 2023 |
 | [Ricerca: [!DNL Workfront] Timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md) | 13 aprile 2023 |
-| [Filtri: Impossibile condividere un filtro da un report su un dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 aprile 2023 |
+| [Filtri: impossibile condividere un filtro da un rapporto su una dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 aprile 2023 |
 | [Bozze: lo strumento di misurazione non accetta i punti decimali](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md) | 27 marzo 2023 |
 | [Documenti: errore 404 durante l’accesso al documento collegato da [!DNL SharePoint]](known-issues-workfront/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 marzo 2023 |
 | [Documenti: problemi relativi all’elenco dei documenti](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 marzo 2023 |

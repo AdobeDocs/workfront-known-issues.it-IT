@@ -5,8 +5,8 @@ keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 source-git-commit: 84a36d6747a47a6e0884eb053b16f5e6dbfb9c20
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '320'
+ht-degree: 94%
 
 ---
 
@@ -35,7 +35,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Prove: [!UICONTROL Attività di bozza] aperture a schede [!UICONTROL Dettagli bozza]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 aprile 2023 |
-| [Prove: Impossibile passare tra le bozze in [!UICONTROL Visualizzatore di prove]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 marzo 2023 |
+| [Bozze: impossibile passare da una bozza all’altra in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md) | 31 marzo 2023 |
 | [Bozze: la fase di bozza non si attiva quando viene superata la scadenza della fase precedente](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 marzo 2023 |
 | [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 gennaio 2023 |
 

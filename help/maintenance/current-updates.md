@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
 source-wordcount: '3123'
-ht-degree: 83%
+ht-degree: 90%
 
 ---
 
@@ -27,7 +27,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 _Bozze_
 
-Quando un utente visualizza una bozza in [!UICONTROL Visualizzatore di correzione]e passa a un&#39;altra bozza, il pulsante di protezione da switch non risponde. L’utente non può tornare alla bozza originale visualizzata o a un’altra bozza.
+Quando un utente visualizza una bozza in [!UICONTROL Proofing Viewer] e passa a un’altra bozza, il pulsante Cambia bozza non risponde. L’utente non può tornare alla bozza originariamente visualizzata o a un’altra bozza.
 
 +++
 
@@ -37,7 +37,7 @@ Quando un utente visualizza una bozza in [!UICONTROL Visualizzatore di correzion
 
 _[!DNL Workfront Fusion]_
 
-Quando un utente visualizza una bozza in [!UICONTROL Visualizzatore di correzione]e passa a un&#39;altra bozza, il pulsante di protezione da switch non risponde. L’utente non può tornare alla bozza originale visualizzata o a un’altra bozza.
+Quando un utente visualizza una bozza in [!UICONTROL Proofing Viewer] e passa a un’altra bozza, il pulsante Cambia bozza non risponde. L’utente non può tornare alla bozza originariamente visualizzata o a un’altra bozza.
 
 +++
 
@@ -49,8 +49,8 @@ _Moduli personalizzati_
 
 I campi a discesa personalizzati abilitati come campi con selezione multipla possono presentare i seguenti problemi:
 
-* &quot;+[!UICONTROL Aggiungi]&quot; non è presente quando il modulo non è in modalità di modifica.
-* I campi privi di valori presentano un &quot;—[!UICONTROL nessuna etichetta]—&quot; opzione.
+* Il pulsante “+[!UICONTROL Aggiungi]” non è presente quando il modulo non è in modalità di modifica.
+* I campi privi di valori presentano un’opzione “—[!UICONTROL nessuna etichetta]—”.
 
 **Impossibile utilizzare lo strumento Polilinea quando si crea un commento su una bozza**
 
@@ -108,19 +108,19 @@ _Aggiornamenti_
 
 _Richieste_
 
-Quando un utente visualizza un elenco di richieste a cui è stato applicato un filtro, l’elenco include richieste da escludere dal filtro.
+Quando un utente visualizza un elenco di richieste a cui è stato applicato un filtro, l’elenco include richieste che il filtro dovrebbe escludere.
 
-**Impossibile selezionare [!UICONTROL Tipo orario predefinito] o [!UICONTROL Tipi di ora disponibili]**
+**Impossibile selezionare [!UICONTROL Tipo di ora predefinito] o [!UICONTROL Tipi di ora disponibili]**
 
 _Utenti_
 
-Quando un amministratore sta modificando un utente e tenta di selezionare un [!UICONTROL Tipo orario predefinito] o [!UICONTROL Tipo ora disponibile], i menu a discesa per tali campi sono disattivati e non possono selezionare tipi di ora.
+Quando un amministratore sta modificando un utente e tenta di selezionare un [!UICONTROL Tipo di ora predefinito] o [!UICONTROL Tipo di ora disponibile], i menu a discesa per tali campi sono disattivati e non si possono effettuare selezioni.
 
 +++
 
 +++**Aggiornamento di manutenzione del 6 aprile 2023**
 
-**Gli elenchi a discesa non si aprono quando un utente viene aggiunto a una bozza**
+**I menu a discesa non si aprono quando un utente viene aggiunto a una bozza**
 
 _Bozze_
 

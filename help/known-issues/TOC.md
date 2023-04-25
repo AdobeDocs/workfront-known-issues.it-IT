@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
 workflow-type: tm+mt
 source-wordcount: '1463'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 94%
       + [Prove: Le approvazioni a prova bloccata vengono comunque visualizzate nell&#39;elenco di lavoro](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Planner risorse]: Impossibile salvare dopo l&#39;aggiunta di tempo](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
       + [Prove: [!UICONTROL Attività di bozza] aperture a schede [!UICONTROL Dettagli bozza]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
-      + [Modelli: Impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [Filtri: Impossibile condividere un filtro da un report su un dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
-      + [[!UICONTROL Pagina principale]: Fai clic sulla miniatura vicino in [!UICONTROL Elenco lavori] porta a una pagina vuota](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
-      + [Moduli personalizzati: Problemi nei campi a discesa personalizzati](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
-      + [Prove: Impossibile passare tra le bozze in [!UICONTROL Visualizzatore di prove]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
-      + [Utenti: Impossibile selezionare [!UICONTROL Tipo orario predefinito] o [!UICONTROL Tipi di ora disponibili]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
+      + [Modelli: impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Filtri: impossibile condividere un filtro da un rapporto su una dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
+      + [[!UICONTROL Home]: facendo clic vicino alla miniatura in [!UICONTROL Elenco lavori] porta a una pagina vuota](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)
+      + [Moduli personalizzati: problemi nei campi a discesa personalizzati](known-issues-workfront/wf-custom-forms-issues-creating-dropdown-fields.md)
+      + [Bozze: impossibile passare da una bozza all’altra in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-cannot-switch-between-proofs.md)
+      + [Impossibile selezionare [!UICONTROL Tipo di ora predefinito] o [!UICONTROL Tipi di ora disponibili]](known-issues-workfront/wf-user-cannot-select-hour-type.md)
       + [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Bozze: impossibile usare lo strumento Polilinea quando si crea un commento in una bozza](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Bozze: lo strumento di misurazione non accetta i punti decimali](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
