@@ -3,9 +3,9 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '307'
 ht-degree: 93%
 
 ---
@@ -37,7 +37,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | -----------------------------------------------------------------| ----------------- |
 | [Prove: [!UICONTROL Attività di bozza] aperture a schede [!UICONTROL Dettagli bozza]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 aprile 2023 |
 | [Bozze: la fase di bozza non si attiva quando viene superata la scadenza della fase precedente](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 marzo 2023 |
-| [[!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md) | 20 gennaio 2023 |
 
 {style="table-layout:auto"}
 

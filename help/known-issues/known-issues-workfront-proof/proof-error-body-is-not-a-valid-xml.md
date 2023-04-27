@@ -1,18 +1,22 @@
 ---
-title: '“Workfront Proof API: errore Il corpo non è un XML valido”'
-description: “Una chiamata alla Workfront Proof API restituisce un errore.”
+title: 'API di prova Workfront: Il corpo non è un errore XML valido"'
+description: Una chiamata all'API di Workfront Proof restituisce un errore.
 hidefromtoc: true
-source-git-commit: 7f818ed2fccc7f345e22102605a2cf9c602a3242
-workflow-type: ht
-source-wordcount: '63'
-ht-degree: 100%
+exl-id: f3bf3adb-5760-465d-a42a-dc6919d423d0
+source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+workflow-type: tm+mt
+source-wordcount: '74'
+ht-degree: 72%
 
 ---
-
 
 # [!DNL Workfront Proof] API: errore “[!UICONTROL Il corpo non è un XML valido]”
 
 <!--On WFP and WFF TOCs-->
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso perché non è stato possibile riprodurlo.
 
 Una chiamata alla [!DNL Workfront Proof] API restituisce il seguente errore:
 
@@ -21,4 +25,3 @@ Una chiamata alla [!DNL Workfront Proof] API restituisce il seguente errore:
 Questo può verificarsi quando si accede alla [!DNL Workfront Proof] API direttamente o tramite [!DNL Workfront Fusion].
 
 _Segnalato per la prima volta il venerdì 15 settembre 2022._
-
