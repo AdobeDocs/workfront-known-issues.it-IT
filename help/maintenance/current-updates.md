@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: da2847ffbc56a91ab98253f0d5206bfefe2e589f
+source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
 workflow-type: tm+mt
-source-wordcount: '3123'
-ht-degree: 90%
+source-wordcount: '3167'
+ht-degree: 89%
 
 ---
 
@@ -21,13 +21,19 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di aprile 2023
 
-+++**Aggiornamento della manutenzione (pianificato) il 27 aprile 2023**
++++**Aggiornamento di manutenzione del 27 aprile 2023**
 
 **Impossibile passare tra le bozze in [!UICONTROL Visualizzatore di prove]**
 
 _Bozze_
 
 Quando un utente visualizza una bozza in [!UICONTROL Proofing Viewer] e passa a un’altra bozza, il pulsante Cambia bozza non risponde. L’utente non può tornare alla bozza originariamente visualizzata o a un’altra bozza.
+
+**Modificare le immagini allegate durante la modifica di un commento**
+
+_Aggiornamenti_
+
+È ora possibile modificare l’immagine allegata a un commento mentre lo si modifica. Questo è disponibile nella sezione Aggiornamenti per obiettivi Workfront e in quella dei problemi relativi all’abilitazione dell’esperienza beta di commento.
 
 +++
 
