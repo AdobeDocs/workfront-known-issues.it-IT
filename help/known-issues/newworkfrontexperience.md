@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: b0f3e9f359165f6d0900bbdb4ba5fa57cf43cffb
+source-git-commit: 7fc9e90be94c30dff1c8de17c033407c165b45f2
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 96%
+source-wordcount: '622'
+ht-degree: 95%
 
 ---
 
@@ -67,7 +67,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [Attività: le ore immesse nel [!UICONTROL pannello di Riepilogo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) dell’Attività non vengono salvate | 2 dicembre 2022 |
 | [Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 novembre 2022 |
-| [Notifiche: utenti non notificati quando menzionati o inclusi in un commento](known-issues-workfront/wf-notif-users-not-receiving-email-or-inapp-notif.md) | 11 novembre 2022 |
 | [API: impossibile ordinare per campi dinamici](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 ottobre 2022 |
 | [[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/wf-setup-lists-load-slowly.md) | 28 ottobre 2022 |
 | [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro di una bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 settembre 2022 |
