@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: 0a1b37c657f460ba5d6773e36e69de60f1efdddd
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | -----------------------------------------------------------------| ----------------- |
 | [Attività: Nessun messaggio di errore durante il riordino dell&#39;attività in [!UICONTROL Approvazione in sospeso] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 maggio 2023 |
 | [Prove: [!UICONTROL Attività di bozza] aperture a schede [!UICONTROL Dettagli bozza]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md) | 17 aprile 2023 |
-| [Modelli: impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 12 aprile 2023 |
 | [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 marzo 2023 |
 | [Ricerca: [!DNL Workfront] Timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md) | 27 marzo 2023 |
 | [Bozze: la fase di bozza non si attiva quando viene superata la scadenza della fase precedente](known-issues-workfront/wf-proofs-stage-does-not-activate-from-deadline.md) | 23 marzo 2023 |
