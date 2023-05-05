@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 9947478d3699657386fef218be278fb3ec95e187
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '1136'
+source-wordcount: '1142'
 ht-degree: 95%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Progetti: Errore durante l&#39;utilizzo [!UICONTROL Milestone] visualizzare](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Attività: Nessun messaggio di errore durante il riordino dell&#39;attività in [!UICONTROL Approvazione in sospeso] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Fogli orari: Il filtro non viene applicato quando la pagina viene aggiornata](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Prove: Le approvazioni a prova bloccata vengono comunque visualizzate nell&#39;elenco di lavoro](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)

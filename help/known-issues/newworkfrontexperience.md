@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 58038f681aa3a13d307bf9318368b7d99696b12b
+source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 96%
+source-wordcount: '571'
+ht-degree: 95%
 
 ---
 
@@ -34,6 +34,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Progetti: Errore durante l&#39;utilizzo [!UICONTROL Milestone] visualizzare](known-issues-workfront/wf-projects-error-in-milestone-view.md) | 5 maggio 2023 |
 | [Prove: Le approvazioni a prova bloccata vengono comunque visualizzate nell&#39;elenco di lavoro](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 maggio 2023 |
 | [Attività: Nessun messaggio di errore durante il riordino dell&#39;attività in [!UICONTROL Approvazione in sospeso] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 3 maggio 2023 |
 | [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 marzo 2023 |
