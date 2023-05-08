@@ -1,16 +1,16 @@
 ---
 title: '“Schede orario: il menu a discesa Tipo di ore non si apre”'
-description: “Quando un utente cerca di aprire il menu a discesa Tipo di ore su una scheda orario, lo schermo lampeggia ma il menu a discesa non si apre. Ciò si verifica quando il monitor è impostato su una risoluzione insolita o quando lo zoom della finestra del browser non è impostato su 100%.”
+description: Quando un utente cerca di aprire il menu a discesa Tipo di ore in una scheda orario, lo schermo lampeggia ma il menu a discesa non si apre. Ciò si verifica quando il monitor è impostato su una risoluzione insolita o quando lo zoom della finestra del browser non è impostato su 100%.
 hidefromtoc: true
-source-git-commit: 3943ffe8a6dc392e8604dbd2f1a410d2ed11aaf6
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 50660f78-b963-4eb9-b95f-3fdc129d9ecb
+source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
+workflow-type: ht
+source-wordcount: '136'
+ht-degree: 100%
 
 ---
 
-
-# Schede orario: il menu a discesa [!UICONTROL Tipo di Ore] non si apre
+# Schede orario: il menu a discesa [!UICONTROL Tipo di ore] non si apre
 
 >[!NOTE]
 >
@@ -26,4 +26,3 @@ Prova a eseguire una delle operazioni seguenti:
 * Regola la risoluzione del monitor
 
 _Segnalato per la prima volta il 30 gennaio 2023._
-
