@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: b52c358bc47dbfa9c3f4bb31998651614b88f76a
 workflow-type: tm+mt
 source-wordcount: '1142'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,10 +18,10 @@ ht-degree: 95%
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Progetti: Errore durante l&#39;utilizzo [!UICONTROL Milestone] visualizzare](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Attività: Nessun messaggio di errore durante il riordino dell&#39;attività in [!UICONTROL Approvazione in sospeso] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
-      + [Fogli orari: Il filtro non viene applicato quando la pagina viene aggiornata](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
-      + [Prove: Le approvazioni a prova bloccata vengono comunque visualizzate nell&#39;elenco di lavoro](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
-      + [[!UICONTROL Planner risorse]: Impossibile salvare dopo l&#39;aggiunta di tempo](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
-      + [Prove: [!UICONTROL Attività di bozza] aperture a schede [!UICONTROL Dettagli bozza]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
+      + [Schede orario: il filtro non viene applicato quando la pagina viene aggiornata](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
+      + [Bozze: le approvazioni delle bozze bloccate vengono ancora visualizzate nell’Elenco lavori](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
+      + [[!UICONTROL Pianificazione risorse]: impossibile salvare dopo aver aggiunto l’orario](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
+      + [Bozze: la scheda [!UICONTROL Attività di bozza] apre i [!UICONTROL Dettagli della bozza]](known-issues-workfront/wf-proofs-proofing-activity-redirects-to-details.md)
       + [Modelli: impossibile selezionare il modello da [!UICONTROL Modelli preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [Filtri: impossibile condividere un filtro da un rapporto su una dashboard](known-issues-workfront/wf-filters-cannot-share-from-report-on-dashboard.md)
       + [[!UICONTROL Home]: facendo clic vicino alla miniatura in [!UICONTROL Elenco lavori] porta a una pagina vuota](known-issues-workfront/wf-home-clicking-thumbnail-leads-to-blank-page.md)

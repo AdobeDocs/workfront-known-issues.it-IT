@@ -4,8 +4,8 @@ description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3245'
+ht-degree: 98%
 
 ---
 
@@ -35,7 +35,7 @@ Quando un utente tenta di selezionare un modello dal menu Azioni (tre punti), l�
 
 +++**Aggiornamento di manutenzione del 27 aprile 2023**
 
-**Impossibile passare tra le bozze in [!UICONTROL Visualizzatore di prove]**
+**Impossibile passare da una bozza all’altra in [!UICONTROL Proofing Viewer]**
 
 _Bozze_
 
@@ -51,7 +51,7 @@ _Aggiornamenti_
 
 +++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del 25 aprile 2023**
 
- I collegamenti di aiuto in-app **[!DNL Fusion]non portano a pagine di aiuto specifiche**
+I collegamenti della Guida in-app **[!DNL Fusion]non conducono a pagine di aiuto specifiche**
 
 _[!DNL Workfront Fusion]_
 
@@ -76,31 +76,31 @@ _Bozze_
 
 Quando un utente visualizza una bozza nel Proofing Viewer e tenta di creare un commento utilizzando lo strumento Polilinea, lo strumento non contrassegna la bozza.
 
-**La casella delle opzioni di testo mostra &quot;textAnnotations&quot; (Annotazioni testo)**
+**La casella delle opzioni di testo mostra “textAnnotations”**
 
 _Bozze_
 
 Quando un utente visualizza una bozza, inizia ad aggiungere un commento e apre lo strumento Testo, accanto alle opzioni dello strumento viene visualizzata la dicitura “textAnnotation”. Lo strumento Testo continua a funzionare come previsto e “textAnnotation” scompare dopo la pubblicazione del commento.
 
-**Mantieni le immagini come bozza quando ti allontani da un aggiornamento per gli obiettivi e i problemi relativi all’esperienza beta dei commenti**
+**Mantieni le immagini come bozza quando ti sposti da un aggiornamento per gli obiettivi e per i problemi nell’esperienza beta dei commenti**
 
 >[!NOTE]
 >
->Questa funzione è stata rilasciata in Anteprima il 19 aprile 2023 e rilasciata in produzione il 20 aprile 2023.
+>Questa funzione è stata rilasciata in anteprima il 19 aprile 2023 e in produzione il 20 aprile 2023.
 
 _Aggiornamenti_
 
-Ora, quando ti allontani dalla pagina Aggiornamenti mentre ti trovi al centro della composizione di un messaggio in cui hai allegato un’immagine, il messaggio e l’immagine vengono conservati quando torni indietro. Prima di questo aggiornamento, il commento non inviato veniva mantenuto ma l’immagine veniva eliminata. Questa funzione è disponibile nella sezione Aggiornamenti per obiettivi e problemi relativi all’abilitazione della versione beta dei commenti.
+Ora, quando ti sposti dalla pagina Aggiornamenti mentre stai componendo un messaggio a cui è stata allegata un’immagine, il messaggio e l’immagine vengono conservati quando torni indietro. Prima di questo aggiornamento, il commento non inviato veniva mantenuto mentre l’immagine veniva eliminata. Questa funzione è disponibile nella sezione Aggiornamenti per gli obiettivi e in quella dei problemi quando si abilita l’esperienza beta dei commenti.
 
 **Aggiornamenti in tempo reale e commenti eliminati nella sezione Aggiornamenti**
 
 >[!NOTE]
 >
->Questa funzione è stata rilasciata in Anteprima il 19 aprile 2023 e rilasciata in produzione il 20 aprile 2023.
+>Questa funzione è stata rilasciata in anteprima il 19 aprile 2023 e in produzione il 20 aprile 2023.
 
 _Aggiornamenti_
 
-Ora, quando un utente aggiunge un commento o una risposta o elimina un commento dall’area Aggiornamenti, è possibile visualizzare il nuovo commento o un’indicazione che un commento è stato rimosso in tempo reale, senza alcun ritardo. Questa funzione è disponibile nella sezione Aggiornamenti per obiettivi e problemi relativi all’abilitazione della versione beta dei commenti.
+Ora, quando un utente aggiunge un commento o una risposta oppure elimina un commento dall’area Aggiornamenti, è possibile visualizzare il nuovo commento o un’indicazione che un commento è stato rimosso in tempo reale, senza alcun ritardo. Questa funzione è disponibile nella sezione Aggiornamenti per gli obiettivi e in quella dei problemi quando si abilita l’esperienza beta dei commenti.
 
 **Livello di accesso modificato dal sistema senza record della modifica**
 
@@ -112,11 +112,11 @@ Il livello di accesso di un utente può essere modificato in modo imprevedibile 
 
 +++**Aggiornamento di manutenzione del 17 aprile 2023**
 
-**Mostra nuovi commenti al di fuori dell&#39;area visibile della schermata nella [!UICONTROL Aggiornamenti] sezione dei problemi (nuova esperienza beta per i commenti) e [!UICONTROL Obiettivi]**
+**Mostra nuovi commenti al di fuori dell’area visibile della schermata nella sezione [!UICONTROL Aggiornamenti] dei problemi (nuova esperienza beta dei commenti) e degli [!UICONTROL obiettivi]**
 
 _Aggiornamenti_
 
-È stato aggiunto un banner di notifica per [!UICONTROL Aggiornamenti] per informare gli utenti in caso di nuovi commenti su un elemento che potrebbe essere al di fuori dell’area visibile sullo schermo. Questo aggiornamento è attualmente disponibile nella [!UICONTROL Aggiornamenti] sezione degli obiettivi e dei problemi in cui la nuova esperienza beta per i commenti è stata abilitata per i problemi.
+È stato aggiunto un banner di notifica per la sezione [!UICONTROL Aggiornamenti] per informare gli utenti in caso di commenti più recenti su un elemento che potrebbe essere al di fuori dell’area visibile sulla schermata. Questo aggiornamento è attualmente disponibile nella sezione [!UICONTROL Aggiornamenti] degli obiettivi e in quella dei problemi quando la nuova esperienza beta dei commenti è stata abilitata per i problemi.
 
 +++
 
