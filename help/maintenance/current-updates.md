@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 64a21b5ac15ffb068ae2e45a13cab91977d1608d
+source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
 workflow-type: tm+mt
-source-wordcount: '3245'
-ht-degree: 98%
+source-wordcount: '3456'
+ht-degree: 96%
 
 ---
 
@@ -20,6 +20,52 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di maggio 2023
+
++++**Aggiornamento della manutenzione (pianificato) l’11 maggio 2023**
+
+**[!DNL Workfront]Timeout della ricerca**
+
+_Ricerca_
+
+Timeout della ricerca [!DNL Workfront]. La ricerca può restituire alcuni risultati o nessuno.
+
+Questo problema influisce anche sulla funzionalità del modulo [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Ricerca].
+
+**Impossibile cambiare versione della bozza durante la visualizzazione della bozza**
+
+_Bozze_
+
+Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l&#39;utente non può tornare alla versione originale che stava visualizzando, oppure a un’altra versione della bozza.
+
++++
+
++++**(Pianificato) [!DNL Adobe Workfront Fusion] Aggiornamento della manutenzione l’11 maggio 2023**
+
+**Errori di timeout in[!DNL Workfront Fusion]**
+
+_Adobe Workfront Fusion_
+
+Quando uno scenario è in esecuzione, potrebbe presentare un errore di timeout. Le informazioni del modulo con l’errore non raggiungono la relativa destinazione.
+
+**[!DNL Workfront]Timeout della ricerca**
+
+_Ricerca_
+
+Timeout della ricerca [!DNL Workfront]. La ricerca può restituire alcuni risultati o nessuno.
+
+Questo problema influisce anche sulla funzionalità del modulo [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Ricerca].
+
++++
+
++++**Aggiornamento di manutenzione del 9 maggio 2023**
+
+**Filtri salvati disponibili nella colonna di alimentazione della scheda**
+
+_Bacheche_
+
+Potete ora utilizzare l&#39;attività Workfront esistente e emettere filtri durante la configurazione della colonna di assunzione per una bacheca. Tuttavia, i filtri a colonne di assunzione esistenti ora sono di sola lettura nel pannello di configurazione. I filtri esistenti vengono comunque applicati alla colonna di immissione, ma è necessario ricrearli se si desidera modificarli.
+
++++
 
 +++**Aggiornamento di manutenzione del 4 maggio 2023**
 
