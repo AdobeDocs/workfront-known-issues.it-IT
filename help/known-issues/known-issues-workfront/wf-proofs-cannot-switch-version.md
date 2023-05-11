@@ -1,23 +1,21 @@
 ---
-title: '“Bozze: impossibile cambiare la versione della bozza durante la visualizzazione della bozza”'
-description: “Quando un utente visualizza una bozza nel [!UICONTROL Viewer Proofing] e passa a un’altra versione, il menu a discesa della versione si disattiva e l’utente non può tornare alla versione originale che stava visualizzando o a un’altra versione della bozza.”
+title: 'Bozze: impossibile cambiare versione della bozza durante la visualizzazione della bozza'
+description: Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l’utente non può tornare alla versione originale che stava visualizzando o a un’altra versione della bozza.
 hidefromtoc: true
-source-git-commit: 7b22b27cddb7a7cd21d3570a057a33753b2e0be3
-workflow-type: ht
-source-wordcount: '124'
-ht-degree: 100%
+exl-id: 2ee55109-47c0-4e85-8b91-a56d677303ef
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 95%
 
 ---
-
 
 # Bozze: impossibile cambiare versione della bozza durante la visualizzazione della bozza
 
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on March 30, 2023.
--->
+>Questo problema è stato risolto l’11 maggio 2023.
 
 Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l’utente non può tornare alla versione originale che stava visualizzando, oppure a un’altra versione della bozza.
 
@@ -29,4 +27,3 @@ Prova a eseguire una delle operazioni seguenti:
 * Seleziona la vista Confronto, quindi chiudi la versione che non desideri visualizzare.
 
 _Segnalato per la prima volta il 23 marzo 2023._
-

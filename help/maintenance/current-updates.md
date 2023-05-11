@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
-source-wordcount: '3456'
+source-wordcount: '3454'
 ht-degree: 96%
 
 ---
@@ -21,7 +21,13 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di maggio 2023
 
-+++**Aggiornamento della manutenzione (pianificato) l’11 maggio 2023**
++++**Aggiornamento di manutenzione del 11 maggio 2023**
+
+**Impossibile cambiare versione della bozza durante la visualizzazione della bozza**
+
+_Bozze_
+
+Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l&#39;utente non può tornare alla versione originale che stava visualizzando, oppure a un’altra versione della bozza.
 
 **[!DNL Workfront]Timeout della ricerca**
 
@@ -31,15 +37,9 @@ Timeout della ricerca [!DNL Workfront]. La ricerca può restituire alcuni risult
 
 Questo problema influisce anche sulla funzionalità del modulo [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Ricerca].
 
-**Impossibile cambiare versione della bozza durante la visualizzazione della bozza**
-
-_Bozze_
-
-Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l&#39;utente non può tornare alla versione originale che stava visualizzando, oppure a un’altra versione della bozza.
-
 +++
 
-+++**(Pianificato) [!DNL Adobe Workfront Fusion] Aggiornamento della manutenzione l’11 maggio 2023**
++++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del 11 maggio 2023**
 
 **Errori di timeout in[!DNL Workfront Fusion]**
 
