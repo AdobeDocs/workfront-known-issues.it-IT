@@ -1,18 +1,22 @@
 ---
-title: '“Bozze: l’utente è disattivato dal flusso di lavoro della bozza e riceve il messaggio “Accesso non consentito” durante l’accesso alla bozza'
-description: “Quando un utente tenta di accedere a una bozza in cui è stato assegnato a un flusso di lavoro, visualizza un messaggio di accesso non consentito.”
+title: "Prove: L'utente è disattivato dal flusso di lavoro della bozza e ottiene l'accesso non consentito quando si accede alla bozza"
+description: Quando un utente tenta di accedere a una bozza di cui è stato assegnato a un flusso di lavoro, visualizza un messaggio Accesso non consentito.
 hidefromtoc: true
-source-git-commit: ff00c5295967aa0e06f26678286ec2cfafbc0356
-workflow-type: ht
-source-wordcount: '119'
-ht-degree: 100%
+exl-id: af7d70af-3d4c-40a8-a8c4-429f38e62d34
+source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 65%
 
 ---
-
 
 # Bozze: l’utente è disattivato dal flusso di lavoro della bozza e riceve il messaggio “[!UICONTROL Accesso non consentito]” durante l’accesso alla bozza
 
 <!--This is on both the WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 4 maggio. 2023.
 
 Quando un utente tenta di accedere a una bozza in cui è stato assegnato a un flusso di lavoro, visualizza il seguente messaggio:
 
@@ -25,4 +29,3 @@ Ciò si verifica perché l’utente è stato disattivato automaticamente nel flu
 La riattivazione dell’utente consentirà temporaneamente l’accesso.
 
 _Segnalato per la prima volta il 22 febbraio 2023._
-
