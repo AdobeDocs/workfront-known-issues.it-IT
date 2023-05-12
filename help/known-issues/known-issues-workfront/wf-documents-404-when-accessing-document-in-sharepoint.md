@@ -3,7 +3,7 @@ title: '"Documenti: Errore 404 durante l''accesso al documento collegato da Shar
 description: Quando un utente tenta di accedere a un documento collegato tramite SharePoint, viene portato a una pagina con un errore 404.
 hidefromtoc: true
 exl-id: b86ec92b-a27f-4ec3-acc2-0f0118014760
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 73%
@@ -12,7 +12,7 @@ ht-degree: 73%
 
 # Documenti: errore 404 durante l’accesso al documento collegato da [!DNL SharePoint]
 
-<!--This issue is on the WF and WFP TOCs. By request.-->
+<!--Requested article. This issue is on the WF and WFP TOCs.-->
 
 Quando un utente tenta di accedere a un documento collegato tramite [!DNL SharePoint], viene reindirizzato a una pagina con il seguente errore:
 

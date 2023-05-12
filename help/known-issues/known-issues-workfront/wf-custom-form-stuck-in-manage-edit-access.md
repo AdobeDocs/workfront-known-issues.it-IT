@@ -3,14 +3,16 @@ title: '“Moduli personalizzati: i moduli personalizzati con più oggetti richi
 description: Quando un utente crea un modulo con più oggetti che consentono solo l’accesso Gestisci o Modifica e in seguito rimuove quel tipo di oggetto, il modulo personalizzato continua a richiedere l’accesso Gestisci o Modifica per la modifica dei campi. Non esiste alcuna indicazione visiva che i campi richiedano l’accesso Gestione o Modifica e non è possibile reimpostare il modulo in alcun modo.
 hidefromtoc: true
 exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
-source-git-commit: d8285b98fc4cabf099994de64c466e829061611c
-workflow-type: ht
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%
 
 ---
 
 # Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi
+
+<!--Won't fix, live for workaround-->
 
 >[!NOTE]
 >

@@ -3,7 +3,7 @@ title: '“Moduli personalizzati: errore quando si configura un campo calcolato�
 description: Quando un utente crea o modifica un campo calcolato in un modulo personalizzato e include un campo personalizzato nell’espressione del campo calcolato, l’espressione viene considerata non valida. Il pulsante Salva è disattivato e l’utente non può spostarsi dal campo personalizzato. Inoltre, l’utente visualizza un messaggio di errore sotto il campo.
 hidefromtoc: true
 exl-id: e499c680-2fdf-40cb-a1fa-b0d4ae799ad2
-source-git-commit: 4cc779627205b6b66876e6e7323cdf0ce94477b6
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 100%
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # “Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato”
 
-<!--Do not delete without approval from Alex Beach-->
+<!--Requested: Do not delete without approval from Alex Beach-->
 
 >[!NOTE]
 >

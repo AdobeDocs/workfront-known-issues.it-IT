@@ -3,14 +3,16 @@ title: '“Proof: impossibile aggiungere un utente alla bozza assegnandogli un t
 description: Quando un utente assegna un tag a un altro utente che al momento non si trova all’interno della bozza del commento, non ha la possibilità di selezionare una mansione o un’e-mail per tale utente e di conseguenza non può aggiungerlo alla bozza.
 exl-id: 0ed7af8f-b177-4839-8045-24a5be2c764f
 hidefromtoc: true
-source-git-commit: d122c128b926167a00c7149cb88392b618486876
-workflow-type: ht
+source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Proof]: impossibile aggiungere un utente alla bozza assegnandogli un tag in un commento
+
+<!--Converted to story-->
 
 >[!NOTE]
 >

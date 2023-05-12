@@ -3,16 +3,16 @@ title: 'Filtri: impossibile condividere un filtro da un rapporto su una dashboar
 description: Quando un utente visualizza un rapporto su una dashboard e tenta di condividere un filtro da tale rapporto, non è in grado di condividere il filtro. Facendo clic sui tre punti la dashboard passa al rapporto successivo e quando l’utente torna al rapporto desiderato, vede che l’opzione Condividi non è stata aperta.
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
-source-git-commit: 17906db6aadc416c8be01e60d1b796143c97c061
+source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '187'
+ht-degree: 100%
 
 ---
 
 # Filtri: impossibile condividere un filtro da un rapporto su una dashboard
 
-<!--Valid issue, won't fix-->
+<!--Requested article: Valid issue, won't fix:-->
 
 Quando un utente visualizza un rapporto su una dashboard e tenta di condividere un filtro da tale rapporto, non è in grado di condividere il filtro. Facendo clic sui tre punti la dashboard passa al rapporto successivo e quando l’utente torna al rapporto desiderato, vede che l’opzione [!UICONTROL Condividi] non è stata aperta.
 
