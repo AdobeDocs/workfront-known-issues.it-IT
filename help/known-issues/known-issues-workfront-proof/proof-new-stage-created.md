@@ -4,8 +4,8 @@ description: Durante la creazione di una bozza è possibile impostare la scadenz
 hidefromtoc: true
 exl-id: dc0725f4-d31b-4f55-a3ea-24486ce73ebf
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
-source-wordcount: '192'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
