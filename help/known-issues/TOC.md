@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
 source-wordcount: '1176'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 96%
       + [Bilanciatore del carico di lavoro: Ridistribuzione inaspettata delle ore](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [“Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato”](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Rapporti: se si ordina per intestazione di colonna viene ripristinato l’ordinamento precedente](known-issues-workfront/wf-reports-sorting-not-applied.md)
-      + [Progetti: Errore durante l&#39;utilizzo [!UICONTROL Milestone] visualizzare](known-issues-workfront/wf-projects-error-in-milestone-view.md)
-      + [Attività: Nessun messaggio di errore durante il riordino dell&#39;attività in [!UICONTROL Approvazione in sospeso] status](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
+      + [Progetti: errore durante l’utilizzo della vista [!UICONTROL Milestone]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
+      + [Attività: nessun messaggio di errore durante il riordino delle attività nello stato [!UICONTROL Approvazione in sospeso]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
       + [Schede orario: il filtro non viene applicato quando la pagina viene aggiornata](known-issues-workfront/wf-timesheets-filter-not-applied-after-refresh.md)
       + [Bozze: le approvazioni delle bozze bloccate vengono ancora visualizzate nell’Elenco lavori](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md)
       + [[!UICONTROL Pianificazione risorse]: impossibile salvare dopo aver aggiunto l’orario](known-issues-workfront/wf-resource-planner-cannot-save-time.md)
@@ -89,7 +89,7 @@ ht-degree: 96%
       + [Attività: impossibile modificare la [!UICONTROL Data di completamento pianificata] di un’attività](known-issues-workfront/wf-tasks-cannot-change-planned-completion-date.md)
       + [API: impossibile ordinare per campi dinamici](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md)
       + [Progetti: problemi di prestazioni e messaggio di errore durante la creazione di un progetto da un modello](known-issues-workfront/wf-issues-when-creating-project-from-template.md)
-      + [Problemi: quando sono presenti dei problemi, nella barra di navigazione a sinistra vengono visualizzati “0” problemi](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
+      + [Problemi: quando sono presenti dei problemi, nella barra di navigazione a sinistra vengono visualizzati “(0)” problemi](known-issues-workfront/wf-tasks-0-issues-when-issues-exist.md)
       + [[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Attività: le ore immesse nel [!UICONTROL pannello Riepilogo] dell’attività non vengono salvate](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
@@ -123,7 +123,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: La ricerca non restituisce risultati](known-issues-workfront-proof/proof-search-returns-no-results.md)
+      + [[!DNL Workfront Proof]: la ricerca non restituisce risultati](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Bozze: la casella delle opzioni di testo mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: gli elenchi non sono ordinati correttamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [Bozze: i messaggi personalizzati non vengono visualizzati nelle notifiche e-mail](known-issues-workfront/wf-proofs-custom-messages-not-in-email.md)

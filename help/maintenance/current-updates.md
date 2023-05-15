@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
 workflow-type: tm+mt
 source-wordcount: '3454'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -91,7 +91,7 @@ Quando un utente visualizza una bozza in [!UICONTROL Proofing Viewer] e passa a 
 
 _Aggiornamenti_
 
-È ora possibile modificare l’immagine allegata a un commento mentre lo si modifica. Questo è disponibile nella sezione Aggiornamenti per obiettivi Workfront e in quella dei problemi relativi all’abilitazione dell’esperienza beta di commento.
+È ora possibile modificare l’immagine allegata a un commento mentre lo si modifica. Questa funzione è disponibile nella sezione Aggiornamenti per gli obiettivi Workfront e in quella dei problemi quando si abilita l’esperienza dei commenti in Beta.
 
 +++
 
