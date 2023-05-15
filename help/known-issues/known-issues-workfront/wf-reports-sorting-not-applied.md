@@ -1,16 +1,16 @@
 ---
-title: "Rapporti: Il rapporto non viene ordinato correttamente"
-description: ""
+title: '"Rapporti: I rapporti non vengono ordinati correttamente quando si ordinano per campo personalizzato'
+description: '"Quando un utente esegue un report attività, il report viene visualizzato in modo corretto durante il caricamento, ma al termine del caricamento l''utente vede che il report non è ordinato correttamente. '
 hidefromtoc: true
-source-git-commit: 50664b35f7edcd9064f0055ea3988a41b00621d0
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 5%
+source-wordcount: '121'
+ht-degree: 3%
 
 ---
 
 
-# Rapporti: Il rapporto non viene ordinato correttamente
+# Rapporti: I rapporti non vengono ordinati correttamente quando si ordinano per campo personalizzato
 
 Quando un utente esegue un report attività, il report viene visualizzato in modo corretto durante il caricamento, ma al termine del caricamento l&#39;utente vede che il report non è ordinato correttamente.
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: c9876398ffdec456113d3343c8fb19ae8ca8ae83
+source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
 workflow-type: tm+mt
-source-wordcount: '1166'
-ht-degree: 97%
+source-wordcount: '1176'
+ht-degree: 96%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporti: I rapporti non vengono ordinati correttamente quando si selezionano i campi](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Bilanciatore del carico di lavoro: Ridistribuzione inaspettata delle ore](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [“Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato”](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Rapporti: se si ordina per intestazione di colonna viene ripristinato l’ordinamento precedente](known-issues-workfront/wf-reports-sorting-not-applied.md)
