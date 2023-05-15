@@ -4,8 +4,8 @@ description: “Quando un utente sposta un documento in un progetto diverso, il 
 hidefromtoc: true
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
 source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '179'
 ht-degree: 100%
 
 ---
