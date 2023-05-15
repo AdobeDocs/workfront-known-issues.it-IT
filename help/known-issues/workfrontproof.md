@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Proof]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
-source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
+source-git-commit: da7467950481dc880a88c2cc78df73bc7ded3a74
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 100%
+source-wordcount: '274'
+ht-degree: 98%
 
 ---
 
@@ -34,6 +34,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof] tramite API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 15 maggio 2023 |
 | [Bozze: le approvazioni delle bozze bloccate vengono ancora visualizzate nell’Elenco lavori](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 maggio 2023 |
 
 {style="table-layout:auto"}
