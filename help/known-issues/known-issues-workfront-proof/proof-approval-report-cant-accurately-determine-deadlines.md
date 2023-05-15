@@ -4,8 +4,8 @@ description: Le date di scadenza della bozza mostrate nel rapporto [!UICONTROL P
 exl-id: 1f636a74-9522-4f2b-8e91-4f0facf1cdbc
 hidefromtoc: true
 source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: tm+mt
-source-wordcount: '115'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
