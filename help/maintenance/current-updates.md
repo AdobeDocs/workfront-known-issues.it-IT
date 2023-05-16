@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
+source-git-commit: cc698b048b0e13e52fa5b0739a7354097018f011
 workflow-type: tm+mt
-source-wordcount: '3454'
-ht-degree: 97%
+source-wordcount: '3533'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di maggio 2023
+
++++**Aggiornamento della manutenzione (pianificato) il 18 maggio 2023**
+
+
+**I rapporti non vengono ordinati correttamente quando si ordinano per campo personalizzato**
+
+_Rapporti_
+Quando un utente esegue un report attività, il report viene visualizzato in modo corretto durante il caricamento, ma al termine del caricamento l&#39;utente vede che il report non è ordinato correttamente.
+
+Questo sembra accadere se sono soddisfatte tutte le seguenti circostanze:
+
+* Il rapporto è un rapporto delle attività
+* Il rapporto è ordinato in base a un campo personalizzato
+* Al rapporto è applicato un raggruppamento
+
++++
 
 +++**Aggiornamento di manutenzione del 11 maggio 2023**
 
