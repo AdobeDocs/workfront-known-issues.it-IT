@@ -1,10 +1,10 @@
 ---
 title: "Agile: La scheda Kanban diventa vuota quando si modificano le schede"
-description: "Quando un utente modifica una scheda sulla bacheca Kanban e poi fa clic lontano dalla scheda, la bacheca Kanban diventa vuota invece di aggiornarla con la modifica. Se l'utente aggiorna la pagina manualmente, viene restituita la bacheca Kanban, mostrando la modifica corretta."
+description: "Quando un utente cambia qualcosa su una scheda [!UICONTROL Kanban] la commissione [!UICONTROL Kanban] la tavola diventa vuota invece di rinfrescarsi con il cambiamento. Se l’utente aggiorna la pagina manualmente, la [!UICONTROL Kanban] torna la scheda, mostrando il cambiamento corretto."
 hidefromtoc: true
-source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
+source-git-commit: 0463aa5cf7f786af9464ad3efb1d3d3929bcb1af
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '114'
 ht-degree: 7%
 
 ---
@@ -12,7 +12,12 @@ ht-degree: 7%
 
 # Agile: [!UICONTROL Kanban] la scheda appare vuota durante la modifica delle schede
 
-Quando un utente modifica una scheda nel [!UICONTROL Kanban] e poi si allontana dalla scheda, [!UICONTROL Kanban] la bacheca diventa vuota invece di aggiornarla con la modifica. Se l’utente aggiorna la pagina manualmente, la [!UICONTROL Kanban] viene restituita la bacheca, mostrando la modifica corretta.
+Quando un utente cambia qualcosa su una scheda [!UICONTROL Kanban] la commissione [!UICONTROL Kanban] la tavola diventa vuota invece di rinfrescarsi con il cambiamento. Se l’utente aggiorna la pagina manualmente, la [!UICONTROL Kanban] viene restituita la scheda, mostrando la modifica corretta.
+
+Ciò è stato segnalato nelle seguenti circostanze:
+
+* Modifica di una scheda
+* Spostamento di una scheda
 
 **Soluzione alternativa**
 
