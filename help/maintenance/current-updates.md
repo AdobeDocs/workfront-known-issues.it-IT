@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
+source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
 workflow-type: tm+mt
-source-wordcount: '3532'
-ht-degree: 95%
+source-wordcount: '3581'
+ht-degree: 94%
 
 ---
 
@@ -21,18 +21,28 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di maggio 2023
 
++++**Aggiornamento di manutenzione del 22 maggio 2023**
+
+**Impossibile regolare la dimensione del testo descrittivo**
+
+_Moduli personalizzati_
+
+Quando il designer del modulo personalizzato è stato rilasciato in versione beta, non era disponibile la funzionalità per regolare le dimensioni del testo descrittivo. Questo problema è stato risolto e gli utenti possono ora regolare le dimensioni del testo descrittivo.
+
++++
+
 +++**Aggiornamento di manutenzione del 18 maggio 2023**
 
-**I rapporti non vengono ordinati correttamente quando si ordinano per campo personalizzato**
+**Il rapporto non viene ordinato correttamente per campo personalizzato**
 
 _Rapporti_
-Quando un utente esegue un report attività, il report viene visualizzato in modo corretto durante il caricamento, ma al termine del caricamento l&#39;utente vede che il report non è ordinato correttamente.
+Quando un utente esegue un report attività, il report sembra essere ordinato correttamente durante il caricamento, ma al termine del caricamento l’utente vede che il report non è ordinato correttamente.
 
-Questo sembra accadere se sono soddisfatte tutte le seguenti circostanze:
+Ciò sembra verificarsi se sono soddisfatte tutte le seguenti circostanze:
 
-* Il rapporto è un rapporto delle attività
-* Il rapporto è ordinato in base a un campo personalizzato
-* Al rapporto è applicato un raggruppamento
+* Il rapporto è un rapporto di attività
+* Il rapporto è ordinato per campo personalizzato
+* Al report è applicato un raggruppamento
 
 +++
 
@@ -74,11 +84,11 @@ Questo problema influisce anche sulla funzionalità del modulo [!DNL Workfront F
 
 +++**Aggiornamento di manutenzione del 9 maggio 2023**
 
-**Filtri salvati disponibili nella colonna di alimentazione della scheda**
+**Filtri salvati disponibili nella colonna Acquisizione bacheca**
 
 _Bacheche_
 
-Potete ora utilizzare l&#39;attività Workfront esistente e emettere filtri durante la configurazione della colonna di assunzione per una bacheca. Tuttavia, i filtri a colonne di assunzione esistenti ora sono di sola lettura nel pannello di configurazione. I filtri esistenti vengono comunque applicati alla colonna di immissione, ma è necessario ricrearli se si desidera modificarli.
+È ora possibile utilizzare i filtri attività e problemi Workfront esistenti durante la configurazione della colonna Acquisizione per una bacheca. Tuttavia, i filtri delle colonne di acquisizione esistenti sono ora di sola lettura nel pannello di configurazione. I filtri esistenti vengono ancora applicati alla colonna Acquisizione, ma per modificarli è necessario ricrearli.
 
 +++
 
