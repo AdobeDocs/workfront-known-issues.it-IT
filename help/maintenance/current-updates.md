@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: d0c6f72269cb94bbe309b1bd3f323af83b79353d
+source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
-source-wordcount: '3581'
-ht-degree: 94%
+source-wordcount: '3646'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,22 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di maggio 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 25 maggio 2023**
+
+**[!UICONTROL Kanban] la bacheca diventa vuota quando si modificano le schede**
+
+_Agile_
+
+Quando un utente modifica un elemento di una scheda su [!UICONTROL Kanban] scheda, il [!UICONTROL Kanban] La bacheca diventa vuota invece di aggiornarsi con la modifica. Se l’utente aggiorna la pagina manualmente, il [!UICONTROL Kanban] restituisce la bacheca, mostrando la modifica corretta.
+
+Questo problema è stato segnalato nelle seguenti circostanze:
+
+* Modifica di una scheda
+* Spostamento di una scheda
+
+
++++
 
 +++**Aggiornamento di manutenzione del 22 maggio 2023**
 
@@ -38,15 +54,15 @@ Quando il designer del modulo personalizzato è stato rilasciato in versione bet
 _Rapporti_
 Quando un utente esegue un report attività, il report sembra essere ordinato correttamente durante il caricamento, ma al termine del caricamento l’utente vede che il report non è ordinato correttamente.
 
-Ciò sembra verificarsi se sono soddisfatte tutte le seguenti circostanze:
+Questo sembra accadere se sono soddisfatte tutte le seguenti circostanze:
 
 * Il rapporto è un rapporto di attività
-* Il rapporto è ordinato per campo personalizzato
-* Al report è applicato un raggruppamento
+* Il rapporto è ordinato in base a un campo personalizzato
+* Al rapporto è applicato un raggruppamento
 
 +++
 
-+++**Aggiornamento di manutenzione del 11 maggio 2023**
++++**Aggiornamento di manutenzione dell’11 maggio 2023**
 
 **Impossibile cambiare versione della bozza durante la visualizzazione della bozza**
 
@@ -64,7 +80,7 @@ Questo problema influisce anche sulla funzionalità del modulo [!DNL Workfront F
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del 11 maggio 2023**
++++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione dell’11 maggio 2023**
 
 **Errori di timeout in[!DNL Workfront Fusion]**
 
@@ -84,11 +100,11 @@ Questo problema influisce anche sulla funzionalità del modulo [!DNL Workfront F
 
 +++**Aggiornamento di manutenzione del 9 maggio 2023**
 
-**Filtri salvati disponibili nella colonna Acquisizione bacheca**
+**Filtri salvati disponibili nella colonna di acquisizione della bacheca**
 
 _Bacheche_
 
-È ora possibile utilizzare i filtri attività e problemi Workfront esistenti durante la configurazione della colonna Acquisizione per una bacheca. Tuttavia, i filtri delle colonne di acquisizione esistenti sono ora di sola lettura nel pannello di configurazione. I filtri esistenti vengono ancora applicati alla colonna Acquisizione, ma per modificarli è necessario ricrearli.
+Ora si può utilizzare l’attività Workfront esistente e distribuire filtri durante la configurazione della colonna di acquisizione per una bacheca. Tuttavia, i filtri delle colonne di acquisizione esistenti ora sono di sola lettura nel pannello di configurazione. I filtri esistenti vengono comunque applicati alla colonna di acquisizione, ma, se si desidera modificarli, è necessario ricrearli.
 
 +++
 
