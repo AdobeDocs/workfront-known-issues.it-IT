@@ -3,7 +3,7 @@ title: '“Progetti: errore durante l’utilizzo della vista Milestone”'
 description: “Quando un utente visualizza un elenco di progetti e tenta di utilizzare la vista Milestone, questa non viene caricata e l’utente visualizza un errore.”
 hidefromtoc: true
 source-git-commit: f95db2a6954809c25c819d99ea3240f48d56d0e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 
