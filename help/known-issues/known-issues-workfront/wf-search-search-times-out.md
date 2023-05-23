@@ -4,19 +4,19 @@ description: Timeout della ricerca Workfront. La ricerca può restituire alcuni 
 hidefromtoc: true
 exl-id: cbae251b-605c-4062-9627-34347da70ee5
 source-git-commit: 94dd70f476ea62a644bad32d8b0627a5ead737c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
-# Ricerca: timeout della ricerca [!DNL Workfront]
+# Ricerca: [!DNL Workfront] Timeout della ricerca
 
 <!--this issue is on WF and WFF TOCs. Valid issue, won't fix-->
 
 >[!NOTE]
 >
->Il problema è stato risolto il 11 maggio 2023.
+>Il problema è stato risolto l’11 maggio 2023.
 
 Timeout della ricerca [!DNL Workfront]. La ricerca può restituire alcuni risultati o nessuno.
 
