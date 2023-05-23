@@ -1,26 +1,26 @@
 ---
-title: '"Rapporti: I rapporti non vengono ordinati correttamente quando si ordinano per campo personalizzato'
-description: '"Quando un utente esegue un report attività, il report viene visualizzato in modo corretto durante il caricamento, ma al termine del caricamento l''utente vede che il report non è ordinato correttamente. '
+title: '“Rapporti: se si ordina per un campo personalizzato, il rapporto non viene ordinato correttamente'
+description: “Quando un utente esegue un rapporto di attività, il rapporto sembra venire ordinato in modo corretto durante il caricamento, ma al termine dell’operazione l’utente visualizza che il rapporto non è ordinato correttamente.
 hidefromtoc: true
 source-git-commit: d781ab9f0204cf65f67583a90d9aaaa3bc9db303
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# Rapporti: I rapporti non vengono ordinati correttamente quando si ordinano per campo personalizzato
+# Rapporti: se si ordina per un campo personalizzato, il rapporto non viene ordinato correttamente
 
 >[!NOTE]
 >
->Il problema è stato risolto il 18 maggio 2023.
+>Il problema è stato risolto l’18 maggio 2023.
 
-Quando un utente esegue un report attività, il report viene visualizzato in modo corretto durante il caricamento, ma al termine del caricamento l&#39;utente vede che il report non è ordinato correttamente.
+Quando un utente esegue un rapporto di attività, il rapporto sembra venire ordinato in modo corretto durante il caricamento, ma al termine dell’operazione l’utente visualizza che il rapporto non è ordinato correttamente.
 
 Questo sembra accadere se sono soddisfatte tutte le seguenti circostanze:
 
-* Il rapporto è un rapporto delle attività
+* Il rapporto è un rapporto di attività
 * Il rapporto è ordinato in base a un campo personalizzato
 * Al rapporto è applicato un raggruppamento
 

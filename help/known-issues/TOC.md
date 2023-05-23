@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: 22feb4a17cd2e371c752dc89ecd09cf63e8c7790
 workflow-type: tm+mt
 source-wordcount: '1195'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -16,10 +16,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Agile: [!UICONTROL Kanban] la scheda appare vuota durante la modifica delle schede](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
-      + [Rapporti: I rapporti non vengono ordinati correttamente quando si selezionano i campi](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
-      + [Bilanciatore del carico di lavoro: Ridistribuzione inaspettata delle ore](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
-      + [“Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato”](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
+      + [Agile: [!UICONTROL Kanban] la bacheca diventa vuota quando si modificano le schede](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [Rapporti: se si ordina per un campo qualsiasi, il rapporto non viene ordinato correttamente](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
+      + [Bilanciamento del carico di lavoro: ridistribuzione imprevista delle ore](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
+      + [Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
       + [Rapporti: se si ordina per intestazione di colonna viene ripristinato l’ordinamento precedente](known-issues-workfront/wf-reports-sorting-not-applied.md)
       + [Progetti: errore durante l’utilizzo della vista [!UICONTROL Milestone]](known-issues-workfront/wf-projects-error-in-milestone-view.md)
       + [Attività: nessun messaggio di errore durante il riordino delle attività nello stato [!UICONTROL Approvazione in sospeso]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md)
@@ -36,7 +36,7 @@ ht-degree: 97%
       + [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Bozze: impossibile usare lo strumento Polilinea quando si crea un commento in una bozza](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Bozze: lo strumento di misurazione non accetta i punti decimali](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Ricerca: [!DNL Workfront] timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md)
+      + [Ricerca: [!DNL Workfront]  timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md)
       + [Bozze: impossibile cambiare versione della bozza durante la visualizzazione della bozza](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [Bozze: i menu a discesa non si aprono quando un utente viene aggiunto a una bozza](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Bozze: l’utente è disattivato dal flusso di lavoro della bozza e riceve il messaggio “[!UICONTROL Accesso non consentito]” durante l’accesso alla bozza](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
@@ -124,7 +124,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: Errore 500 durante l&#39;accesso [!DNL Workfront Proof] tramite API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]: errore 500 durante l’accesso [!DNL Workfront Proof] tramite API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: la ricerca non restituisce risultati](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Bozze: la casella delle opzioni di testo mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: gli elenchi non sono ordinati correttamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
@@ -149,7 +149,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: Le esecuzioni sono bloccate o ritardate](known-issues-workfront-fusion/fusion-stuck-executions.md)
+      + [[!DNL Workfront Fusion]: le esecuzioni sono bloccate o ritardate](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: la cronologia di esecuzione dello scenario non visualizza l’intera cronologia](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)
       + [[!DNL Adobe Workfront Fusion]: errori di timeout in Workfront Fusion](known-issues-workfront-fusion/fusion-timeout-errors.md)
       + [[!DNL Adobe Workfront Fusion]: errori 404 nei moduli Workfront](known-issues-workfront-fusion/fusion-404-in-workfront-modules.md)
