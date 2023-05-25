@@ -2,9 +2,9 @@
 title: '“Rapporti: se si ordina per un campo qualsiasi, il rapporto non viene ordinato correttamente”'
 description: “”
 hidefromtoc: true
-source-git-commit: be51df85283523e609766601f9f9a5b1b012ece1
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+workflow-type: tm+mt
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -12,6 +12,9 @@ ht-degree: 100%
 
 # Rapporti: se si ordina per un campo qualsiasi, il rapporto non viene ordinato correttamente
 
+>[!NOTE]
+>
+>Questa segnalazione è stata chiusa perché il problema non sussiste.
 
 Quando un utente esegue un rapporto di attività, il rapporto sembra venire ordinato in modo corretto durante il caricamento, ma al termine dell’operazione l’utente visualizza che il rapporto non è ordinato correttamente.
 
