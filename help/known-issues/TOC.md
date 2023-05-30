@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: 003db8164485be5a7542ca1f0814619121b5b8cb
 workflow-type: tm+mt
 source-wordcount: '1217'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Moduli personalizzati: la logica di visualizzazione viene persa quando un modulo personalizzato viene modificato in un nuovo designer di moduli (versione beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
-      + [Agile: [!UICONTROL Kanban] la bacheca diventa vuota quando si modificano le schede](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
+      + [Agile: la bacheca [!UICONTROL Kanban] rimane vuota durante la modifica delle schede](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Rapporti: se si ordina per un campo qualsiasi, il rapporto non viene ordinato correttamente](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
       + [Bilanciamento del carico di lavoro: ridistribuzione imprevista delle ore](known-issues-workfront/wf-workload-balancer-hours-redistribute.md)
       + [Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md)
@@ -37,7 +37,7 @@ ht-degree: 96%
       + [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md)
       + [Bozze: impossibile usare lo strumento Polilinea quando si crea un commento in una bozza](known-issues-workfront/wf-proof-polyline-tool-does-not-work.md)
       + [Bozze: lo strumento di misurazione non accetta i punti decimali](known-issues-workfront/wf-proofs-measure-not-not-accepting-decimals.md)
-      + [Ricerca: [!DNL Workfront]  timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md)
+      + [Ricerca: [!DNL Workfront] timeout della ricerca](known-issues-workfront/wf-search-search-times-out.md)
       + [Bozze: impossibile cambiare versione della bozza durante la visualizzazione della bozza](known-issues-workfront/wf-proofs-cannot-switch-version.md)
       + [Bozze: i menu a discesa non si aprono quando un utente viene aggiunto a una bozza](known-issues-workfront/wf-proofs-dropdowns-disabled-when-adding-user.md)
       + [Bozze: l’utente è disattivato dal flusso di lavoro della bozza e riceve il messaggio “[!UICONTROL Accesso non consentito]” durante l’accesso alla bozza](known-issues-workfront/wf-proof-user-deactivated-from-workflow.md)
@@ -95,7 +95,7 @@ ht-degree: 96%
       + [[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/wf-setup-lists-load-slowly.md)
       + [Attività: le ore immesse nel [!UICONTROL pannello Riepilogo] dell’attività non vengono salvate](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + [Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/wf-documents-stages-do-not-populate-on-proof.md)
-      + [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto [!DNL Workfront]  su Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
+      + [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto [!DNL Workfront] su Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md)
       + [Dashboard: i colori dei grafici del report mostrati in un dashboard sono diversi rispetto a quelli presenti nel report](known-issues-workfront/wf-dashboard-reports-wrong-color.md)
       + [Agile: problemi durante lo spostamento delle schede sulla bacheca Agile](known-issues-workfront/wf-agile-issues-moving-cards.md)
       + [Home: la terminologia personalizzata non viene applicata all’area Home](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md)
@@ -125,7 +125,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: errore 500 durante l’accesso [!DNL Workfront Proof] tramite API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]: errore 500 durante l’accesso a  [!DNL Workfront Proof]  tramite API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: la ricerca non restituisce risultati](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Bozze: la casella delle opzioni di testo mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
       + [[!DNL Workfront Proof]: gli elenchi non sono ordinati correttamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)

@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
 workflow-type: tm+mt
 source-wordcount: '3646'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -23,13 +23,13 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 +++**(Pianificato) Aggiornamento di manutenzione del 25 maggio 2023**
 
-**[!UICONTROL Kanban] la bacheca diventa vuota quando si modificano le schede**
+la bacheca **[!UICONTROL Kanban] rimane vuota durante la modifica delle schede**
 
 _Agile_
 
-Quando un utente modifica un elemento di una scheda su [!UICONTROL Kanban] scheda, il [!UICONTROL Kanban] La bacheca diventa vuota invece di aggiornarsi con la modifica. Se l’utente aggiorna la pagina manualmente, il [!UICONTROL Kanban] restituisce la bacheca, mostrando la modifica corretta.
+Quando un utente cambia qualcosa in una scheda nella bacheca [!UICONTROL Kanban], la bacheca [!UICONTROL Kanban] diventa vuota invece di aggiornarsi con la modifica. Se l’utente ricarica la pagina manualmente, la bacheca [!UICONTROL Kanban] viene visualizzata con la modifica corretta.
 
-Questo problema è stato segnalato nelle seguenti circostanze:
+Questo problema è stato segnalato nelle seguenti situazioni:
 
 * Modifica di una scheda
 * Spostamento di una scheda
@@ -39,20 +39,20 @@ Questo problema è stato segnalato nelle seguenti circostanze:
 
 +++**Aggiornamento di manutenzione del 22 maggio 2023**
 
-**Impossibile regolare la dimensione del testo descrittivo**
+**Impossibile regolare la dimensione di un testo descrittivo**
 
 _Moduli personalizzati_
 
-Quando il designer del modulo personalizzato è stato rilasciato in versione beta, non era disponibile la funzionalità per regolare le dimensioni del testo descrittivo. Questo problema è stato risolto e gli utenti possono ora regolare le dimensioni del testo descrittivo.
+Quando il Designer dei moduli personalizzati è stato rilasciato in versione beta, la la funzionalità per regolare le dimensioni del testo descrittivo non era disponibile. Questo problema è stato risolto e gli utenti possono ora regolare le dimensioni del testo descrittivo.
 
 +++
 
 +++**Aggiornamento di manutenzione del 18 maggio 2023**
 
-**Il rapporto non viene ordinato correttamente per campo personalizzato**
+**Se si ordina per un campo personalizzato, il rapporto non viene ordinato correttamente**
 
 _Rapporti_
-Quando un utente esegue un report attività, il report sembra essere ordinato correttamente durante il caricamento, ma al termine del caricamento l’utente vede che il report non è ordinato correttamente.
+Quando un utente esegue un rapporto di attività, il rapporto sembra venire ordinato in modo corretto durante il caricamento, ma al termine dell’operazione l’utente visualizza che il rapporto non è ordinato correttamente.
 
 Questo sembra accadere se sono soddisfatte tutte le seguenti circostanze:
 

@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Il problema è stato risolto l’18 maggio 2023.
+>Il problema è stato risolto il 18 maggio 2023.
 
 Quando un utente esegue un rapporto di attività, il rapporto sembra venire ordinato in modo corretto durante il caricamento, ma al termine dell’operazione l’utente visualizza che il rapporto non è ordinato correttamente.
 
