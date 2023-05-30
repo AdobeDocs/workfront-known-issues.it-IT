@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 844b6e4f47084992fd690ed2ea716b46a4e259dd
+source-git-commit: 2919ae11be238227242de8a5863f19ebd6099f92
 workflow-type: tm+mt
-source-wordcount: '3646'
-ht-degree: 99%
+source-wordcount: '3821'
+ht-degree: 98%
 
 ---
 
@@ -19,9 +19,27 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
+## Aggiornamenti di giugno 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 1° giugno 2023**
+
+**Nessun messaggio di errore durante il riordinamento dell’attività in [!UICONTROL In attesa di approvazione] stato**
+
+_Attività_
+
+Quando un utente tenta di riordinare, in un elenco di attività, un’attività in stato [!UICONTROL Approvazione in sospeso], questa sembra venire spostata nell’elenco delle attività. Dopo l’aggiornamento, l’utente vede che l’elemento non è stato spostato. L’elemento non può essere spostato perché è in stato [!UICONTROL Approvazione in sospeso], ma non è presente alcun messaggio che dà tale informazione all’utente e questo potrebbe causare confusione.
+
+**Nessun messaggio di errore durante lo spostamento di un&#39;attività predecessore in un&#39;attività dipendente**
+
+_Attività_
+
+Quando un utente tenta di riordinare, in un elenco di attività, un’attività in stato [!UICONTROL Approvazione in sospeso], questa sembra venire spostata nell’elenco delle attività. Dopo l’aggiornamento, l’utente vede che l’elemento non è stato spostato. Impossibile spostare l&#39;elemento perché un&#39;attività predecessore non può essere spostata sotto un&#39;attività di cui è predecessore, ma non è presente alcun messaggio che indichi all&#39;utente che l&#39;elemento non può essere spostato, il che può creare confusione.
+
++++
+
 ## Aggiornamenti di maggio 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 25 maggio 2023**
++++**Aggiornamento di manutenzione del 25 maggio 2023**
 
 la bacheca **[!UICONTROL Kanban] rimane vuota durante la modifica delle schede**
 
