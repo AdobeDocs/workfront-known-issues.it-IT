@@ -3,9 +3,9 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
+source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '548'
 ht-degree: 97%
 
 ---
@@ -35,7 +35,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Moduli personalizzati: la logica di visualizzazione viene persa quando un modulo personalizzato viene modificato in un nuovo designer di moduli (versione beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md) | 24 maggio 2023 |
-| [Attività: nessun messaggio di errore durante il riordino dell’attività in stato [!UICONTROL Approvazione in sospeso]](known-issues-workfront/wf-tasks-no-error-when-moving-task-pending-approval.md) | 11 maggio 2023 |
 | [Bilanciamento del carico di lavoro: ridistribuzione imprevista delle ore](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 maggio 2023 |
 | [Bozze: le approvazioni delle bozze bloccate vengono ancora visualizzate nell’Elenco lavori](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 maggio 2023 |
 | [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 marzo 2023 |
