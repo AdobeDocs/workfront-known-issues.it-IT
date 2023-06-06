@@ -3,7 +3,7 @@ title: '“Rapporti: se si ordina per un campo qualsiasi, il rapporto non viene 
 description: “”
 hidefromtoc: true
 source-git-commit: ef82f9a12925f2fc70a20f91f9278240fcee92fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
