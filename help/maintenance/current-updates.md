@@ -41,7 +41,7 @@ Quando un utente tenta di riordinare, in un elenco di attività, un’attività 
 
 +++**Aggiornamento di manutenzione del 25 maggio 2023**
 
-la bacheca **[!UICONTROL Kanban] rimane vuota durante la modifica delle schede**
+La bacheca **[!UICONTROL Kanban] rimane vuota durante la modifica delle schede**
 
 _Agile_
 
