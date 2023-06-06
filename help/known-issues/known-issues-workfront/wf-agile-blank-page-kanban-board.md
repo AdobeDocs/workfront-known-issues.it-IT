@@ -3,7 +3,7 @@ title: '“Agile: la bacheca Kanban diventa vuota quando si modificano le schede
 description: “Quando un utente cambia qualcosa in una scheda nella bacheca [!UICONTROL Kanban], la bacheca [!UICONTROL Kanban] diventa vuota invece di aggiornarsi con la modifica. Se l’utente ricarica la pagina manualmente, la bacheca [!UICONTROL Kanban] viene visualizzata con la modifica corretta.”
 hidefromtoc: true
 source-git-commit: 3fecf0bacca07ba0609e8018421385fff60d7e90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
