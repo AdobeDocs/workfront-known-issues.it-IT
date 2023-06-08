@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
+source-git-commit: 2ef839479364e7692f04ddcc84cbbc40466b2521
 workflow-type: tm+mt
-source-wordcount: '1221'
-ht-degree: 99%
+source-wordcount: '1230'
+ht-degree: 98%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: le bozze vengono create lentamente nell’ambiente di anteprima](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Moduli personalizzati: la logica di visualizzazione viene persa quando un modulo personalizzato viene modificato nel nuovo designer dei moduli (versione Beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: la bacheca [!UICONTROL Kanban] rimane vuota durante la modifica delle schede](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Rapporti: se si ordina per un campo qualsiasi, il rapporto non viene ordinato correttamente](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
