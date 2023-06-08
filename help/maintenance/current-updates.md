@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 042b4dcda4486461b8b95a86a32d5d92b19ae0d4
+source-git-commit: 6723b17ebb88e68ef59957f69ef4840b82229b1d
 workflow-type: tm+mt
-source-wordcount: '3846'
+source-wordcount: '3845'
 ht-degree: 98%
 
 ---
@@ -21,7 +21,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di giugno 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione dell’8 giugno 2023
++++** - Aggiornamento di manutenzione del 8 giugno 2023**
 
 Questo aggiornamento include solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 

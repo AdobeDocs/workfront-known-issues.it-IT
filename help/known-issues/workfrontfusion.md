@@ -3,10 +3,10 @@ title: Problemi noti in [!DNL Adobe Workfront Fusion]
 description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
-source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
+source-git-commit: 22b645ee68e1735e4b3c91d0a88e2e2855c982c4
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 100%
+source-wordcount: '128'
+ht-degree: 96%
 
 ---
 
@@ -35,7 +35,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| Nessuno |  |
+| [[!DNL Workfront Fusion]: &quot;[!UICONTROL impossibile eseguire UPDATE]&quot; errore](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md) | 8 giugno 2023 |
 
 {style="table-layout:auto"}
 
