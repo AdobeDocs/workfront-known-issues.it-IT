@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 6723b17ebb88e68ef59957f69ef4840b82229b1d
+source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
-source-wordcount: '3845'
-ht-degree: 98%
+source-wordcount: '3889'
+ht-degree: 97%
 
 ---
 
@@ -24,6 +24,14 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 +++** - Aggiornamento di manutenzione del 8 giugno 2023**
 
 Questo aggiornamento include solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+
++++
+
++++**[!DNL Adobe Workfront Fusion] - Aggiornamento di manutenzione del 8 giugno 2023**
+
+[!DNL Fusion] ha implementato una correzione che impedisce la rimozione delle connessioni di un utente quando viene rimosso o disattivato in [!UICONTROL Adobe Admin Console].
+
+[!DNL Fusion] gli amministratori del team sono ancora in grado di rimuovere le connessioni non necessarie [!UICONTROL Connessioni] pagina in Fus[!DNL]ion.
 
 +++
 
