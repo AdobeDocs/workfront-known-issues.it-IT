@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: ac52149aa600405065d677c2b1f0e893844b3b46
 workflow-type: tm+mt
 source-wordcount: '3889'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -21,13 +21,13 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di giugno 2023
 
-+++** - Aggiornamento di manutenzione del 8 giugno 2023**
++++**Aggiornamento di manutenzione del 8 giugno 2023**
 
 Questo aggiornamento include solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion] - Aggiornamento di manutenzione del 8 giugno 2023**
++++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del 8 giugno 2023**
 
 [!DNL Fusion] ha implementato una correzione che impedisce la rimozione delle connessioni di un utente quando viene rimosso o disattivato in [!UICONTROL Adobe Admin Console].
 
@@ -35,19 +35,19 @@ Questo aggiornamento include solo correzioni di bug minori o meno importanti. L�
 
 +++
 
-+++** - Aggiornamento di manutenzione del 1 giugno 2023**
++++**Aggiornamento di manutenzione del 1 giugno 2023**
 
-**Nessun messaggio di errore durante il riordinamento dell’attività in [!UICONTROL In attesa di approvazione] stato**
+**Nessun messaggio di errore quando si cambia l’ordine di un’attività nello stato [!UICONTROL Approvazione in sospeso]**
 
 _Attività_
 
 Quando un utente tenta di riordinare, in un elenco di attività, un’attività in stato [!UICONTROL Approvazione in sospeso], questa sembra venire spostata nell’elenco delle attività. Dopo l’aggiornamento, l’utente vede che l’elemento non è stato spostato. L’elemento non può essere spostato perché è in stato [!UICONTROL Approvazione in sospeso], ma non è presente alcun messaggio che dà tale informazione all’utente e questo potrebbe causare confusione.
 
-**Nessun messaggio di errore durante lo spostamento di un&#39;attività predecessore in un&#39;attività dipendente**
+**Nessun messaggio di errore quando si sposta un’attività predecessore sotto un’attività dipendente**
 
 _Attività_
 
-Quando un utente tenta di riordinare, in un elenco di attività, un’attività in stato [!UICONTROL Approvazione in sospeso], questa sembra venire spostata nell’elenco delle attività. Dopo l’aggiornamento, l’utente vede che l’elemento non è stato spostato. Impossibile spostare l&#39;elemento perché un&#39;attività predecessore non può essere spostata sotto un&#39;attività di cui è predecessore, ma non è presente alcun messaggio che indichi all&#39;utente che l&#39;elemento non può essere spostato, il che può creare confusione.
+Quando un utente tenta di riordinare, in un elenco di attività, un’attività in stato [!UICONTROL Approvazione in sospeso], questa sembra venire spostata nell’elenco delle attività. Dopo l’aggiornamento, l’utente vede che l’elemento non è stato spostato. L’elemento non può essere spostato perché un’attività predecessore non può essere spostata sotto un’attività di cui è predecessore; tuttavia l’utente non riceve alcun messaggio in merito e questo potrebbe creare confusione.
 
 +++
 
