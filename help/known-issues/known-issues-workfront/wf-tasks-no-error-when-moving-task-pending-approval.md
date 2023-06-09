@@ -3,7 +3,7 @@ title: '“Attività: nessun messaggio di errore durante il riordino dell’atti
 description: “Quando un utente tenta di riordinare, in un elenco di attività, un’attività in stato [!UICONTROL Approvazione in sospeso], questa sembra venire spostata nell’elenco delle attività. Dopo l’aggiornamento, l’utente vede che l’elemento non è stato spostato. L’elemento non può essere spostato perché è in stato [!UICONTROL Approvazione in sospeso], ma non è presente alcun messaggio che dà tale informazione all’utente e questo potrebbe causare confusione.”
 hidefromtoc: true
 source-git-commit: 3c0433fb5c690346ccd474ec72c27ace056abd03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
 ht-degree: 100%
 
