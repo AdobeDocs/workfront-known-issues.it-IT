@@ -1,9 +1,9 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: c28d7e157d8abb140c79503c91ce2a049fa3c7b6
+source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
-source-wordcount: '1255'
+source-wordcount: '1264'
 ht-degree: 96%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Home]: gli elementi non vengono visualizzati in [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Rapporti: &quot;[!UICONTROL Ops]&quot;errore durante la visualizzazione del rapporto matrice](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Bozze: le bozze vengono create lentamente nell’ambiente di anteprima](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
       + [Bozze: le bozze vengono create lentamente nell’ambiente di anteprima](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
