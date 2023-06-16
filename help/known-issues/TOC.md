@@ -4,7 +4,7 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
 workflow-type: tm+mt
 source-wordcount: '1264'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 96%
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [[!UICONTROL Home]: gli elementi non vengono visualizzati in [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Rapporti: &quot;[!UICONTROL Ops]&quot;errore durante la visualizzazione del rapporto matrice](known-issues-workfront/wf-reports-error-matrix-report.md)
-      + [Bozze: le bozze vengono create lentamente nell’ambiente di anteprima](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
-      + [Bozze: le bozze vengono create lentamente nell’ambiente di anteprima](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
+      + [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
+      + [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/wf-proofs-in-preview-created-slowly.md)
       + [Moduli personalizzati: la logica di visualizzazione viene persa quando un modulo personalizzato viene modificato nel nuovo designer dei moduli (versione Beta)](known-issues-workfront/wf-custom-forms-no-display-logic-in-new-builder.md)
       + [Agile: la bacheca [!UICONTROL Kanban] rimane vuota durante la modifica delle schede](known-issues-workfront/wf-agile-blank-page-kanban-board.md)
       + [Rapporti: se si ordina per un campo qualsiasi, il rapporto non viene ordinato correttamente](known-issues-workfront/wf-reports-not-sorting-correctly-any-field.md)
@@ -129,7 +129,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [Bozze: le bozze vengono create lentamente nell’ambiente di anteprima](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
+      + [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
       + [[!DNL Workfront Proof]: errore 500 durante l’accesso a [!DNL Workfront Proof] tramite API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: la ricerca non restituisce risultati](known-issues-workfront-proof/proof-search-returns-no-results.md)
       + [Bozze: la casella delle opzioni di testo mostra “textAnnotations”](known-issues-workfront-proof/proof-text-shows-textannotation.md)
@@ -155,7 +155,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
-      + [[!DNL Workfront Fusion]: &quot;[!UICONTROL impossibile eseguire UPDATE]&quot; errore](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
+      + [[!DNL Workfront Fusion]: errore “[!UICONTROL impossibile eseguire l’aggiornamento]”](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: le e-mail di notifica non vengono inviate](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: le esecuzioni sono bloccate o ritardate](known-issues-workfront-fusion/fusion-stuck-executions.md)
       + [[!DNL Workfront Fusion]: la cronologia di esecuzione dello scenario non visualizza l’intera cronologia](known-issues-workfront-fusion/fusion-execution-history-does-not-display-entire-history.md)

@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
 workflow-type: tm+mt
 source-wordcount: '3912'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -21,21 +21,21 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di giugno 2023
 
-+++**Aggiornamento di manutenzione del 15 giugno 2023**
++++**Aggiornamento di manutenzione dell’15 giugno 2023**
 
-Questo aggiornamento include solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
-
-+++
-
-+++**Aggiornamento di manutenzione del 8 giugno 2023**
-
-Questo aggiornamento include solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del 8 giugno 2023**
++++**Aggiornamento di manutenzione dell’8 giugno 2023**
 
-[!DNL Fusion] ha implementato una correzione che impedisce la rimozione delle connessioni di un utente quando viene rimosso o disattivato in [!UICONTROL Adobe Admin Console].
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+
++++
+
++++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione dell’8 giugno 2023**
+
+[!DNL Fusion] ha implementato una correzione che impedisce la rimozione delle connessioni di un utente quando questo viene rimosso o disattivato in [!UICONTROL Adobe Admin Console].
 
 [!DNL Fusion] gli amministratori del team sono ancora in grado di rimuovere le connessioni non necessarie [!UICONTROL Connessioni] pagina in [!DNL Fusion].
 
