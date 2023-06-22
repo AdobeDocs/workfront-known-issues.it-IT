@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: e684a574f9db0ec511bbc323676e7b99650abca9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '578'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Home]: gli elementi non vengono visualizzati in [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 giugno 2023 |
-| [Rapporti: &quot;[!UICONTROL Ops]&quot;errore durante la visualizzazione del rapporto matrice](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 giugno 2023 |
+| [[!UICONTROL Home]: gli elementi non vengono visualizzati in [!UICONTROL Elenco lavori della Home]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 giugno 2023 |
+| [Rapporti: errore “[!UICONTROL Ops]” durante la visualizzazione del rapporto matrice](known-issues-workfront/wf-reports-error-matrix-report.md) | 9 giugno 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md) | 9 giugno 2023 |
 
 {style="table-layout:auto"}
