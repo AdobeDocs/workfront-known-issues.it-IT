@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: b8552cb4de3b5372b5b18d5891b490f22b9d803d
-workflow-type: ht
-source-wordcount: '3912'
-ht-degree: 100%
+source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
+workflow-type: tm+mt
+source-wordcount: '4010'
+ht-degree: 99%
 
 ---
 
@@ -20,6 +20,26 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di giugno 2023
+
++++**Aggiornamento di manutenzione il 22 giugno 2023**
+
+**&quot;[!UICONTROL Ops]&quot;errore durante la visualizzazione del rapporto matrice**
+
+_Rapporti_
+
+Quando un utente visualizza un rapporto matrice, compare il seguente errore:
+
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+
+Questo problema è stato segnalato quando il rapporto è ordinato per data e l’opzione “[!UICONTROL Mostra settimane senza risultati]” è abilitata.
+
+**Le date non vengono visualizzate correttamente nei report matrice**
+
+_Rapporti_
+
+Quando un grafico o un rapporto matrice viene raggruppato per data, le date vicine ai limiti del raggruppamento possono essere visualizzate nel raggruppamento corretto, nel raggruppamento precedente/successivo o in entrambi.
+
++++
 
 +++**Aggiornamento di manutenzione il 15 giugno 2023**
 
