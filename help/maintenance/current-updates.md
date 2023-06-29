@@ -29,7 +29,7 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 +++**Aggiornamento di manutenzione il 22 giugno 2023**
 
-**&quot;[!UICONTROL Ops]&quot;errore durante la visualizzazione del rapporto matrice**
+**Errore “[!UICONTROL Ops]” durante la visualizzazione del rapporto matrice**
 
 _Rapporti_
 
@@ -39,7 +39,7 @@ Quando un utente visualizza un rapporto matrice, compare il seguente errore:
 
 Questo problema è stato segnalato quando il rapporto è ordinato per data e l’opzione “[!UICONTROL Mostra settimane senza risultati]” è abilitata.
 
-**Le date non vengono visualizzate correttamente nei report matrice**
+**Le date non vengono visualizzate correttamente nei rapporti matrice**
 
 _Rapporti_
 
