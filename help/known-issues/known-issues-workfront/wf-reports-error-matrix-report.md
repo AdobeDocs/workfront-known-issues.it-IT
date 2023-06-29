@@ -3,9 +3,9 @@ title: '“Rapporti: errore Ops durante la visualizzazione del rapporto matrice�
 description: “Quando un utente visualizza un rapporto matrice, compare l’errore Ops.”
 hidefromtoc: true
 source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
-> Questo articolo è stato corretto il giovedì 22 giugno 2023
+> Questo problema è stato risolto il 22 giugno 2023
 
 Quando un utente visualizza un rapporto matrice, compare il seguente errore:
 
