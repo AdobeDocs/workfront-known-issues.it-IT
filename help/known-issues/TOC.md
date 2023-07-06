@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1309'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 96%
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Bacheche: la barra di scorrimento orizzontale non è presente](known-issues-workfront/wf-board-no-scrollbar.md)
-      + [Progetti/Attività/Problemi: la sequenza temporale non viene ricalcolata](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
+      + [Progetti/Attività/Problemi: la timeline non viene ricalcolata](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [Filtri: &quot;[!UICONTROL Abilita a livello di sistema]&quot; e &quot;[!UICONTROL Visualizza a livello di sistema]&quot; rappresentano funzionalità diverse](known-issues-workfront/wf-filters-enable-system-wide.md)
       + [Rapporti: il rapporto Utilizzo non viene caricato](known-issues-workfront/wf-reports-utilization-report-does-not-load.md)
-      + [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Visualizzatore bozze]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
-      + [Schede orario: errori durante la registrazione delle ore in una scheda orario](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
+      + [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md)
+      + [Schede orario: errori durante la registrazione delle ore sulla scheda orario](known-issues-workfront/wf-timesheets-error-when-saving-hours.md)
       + [[!UICONTROL Home]: gli elementi non vengono visualizzati in [!UICONTROL Elenco lavori della Home]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md)
       + [Rapporti: errore “[!UICONTROL Ops]” durante la visualizzazione del rapporto matrice](known-issues-workfront/wf-reports-error-matrix-report.md)
       + [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/wf-reports-matrix-display-date-incorrectly.md)
