@@ -1,18 +1,18 @@
 ---
 title: "Bacheche: la barra di scorrimento orizzontale non è presente"
-description: "Quando un utente visualizza una bacheca e tenta di scorrere in orizzontale, la barra di scorrimento non è presente e l’utente non può scorrere in orizzontale."
+description: "Quando si visualizza una bacheca e si tenta di scorrere in orizzontale, la barra di scorrimento non è presente e non è possibile scorrere in orizzontale."
 hidefromtoc: true
 source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
 # Bacheche: la barra di scorrimento orizzontale non è presente
 
-Quando un utente visualizza una bacheca e tenta di scorrere in orizzontale, la barra di scorrimento non è presente e l’utente non può scorrere in orizzontale.
+Quando si visualizza una bacheca e si tenta di scorrere in orizzontale, la barra di scorrimento non è presente e non è possibile scorrere in orizzontale.
 
 **Soluzione alternativa**
 
