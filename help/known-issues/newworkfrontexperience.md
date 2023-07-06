@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bacheche: la barra di scorrimento orizzontale non è presente](known-issues-workfront/wf-board-no-scrollbar.md) | 28 giugno 2023 |
-| [Progetti/Attività/Problemi: la sequenza temporale non viene ricalcolata](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 27 giugno 2023 |
+| [Progetti/Attività/Problemi: la timeline non viene ricalcolata](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md) | 27 giugno 2023 |
 | [[!UICONTROL Home]: gli elementi non vengono visualizzati in [!UICONTROL Elenco lavori della Home]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 12 giugno 2023 |
 
 {style="table-layout:auto"}
@@ -36,9 +36,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Filtri: &quot;[!UICONTROL Abilita a livello di sistema]&quot; e &quot;[!UICONTROL Visualizza a livello di sistema]&quot; rappresentano funzionalità diverse](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 giugno 2023 |
+| [Filtri: “[!UICONTROL Abilita a livello di sistema]” e “[!UICONTROL Visualizza a livello di sistema]” rappresentano funzionalità diverse](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 giugno 2023 |
 | [Rapporti: il rapporto Utilizzo non viene caricato](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 giugno 2023 |
-| [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Visualizzatore bozze]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 giugno 2023 |
+| [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 giugno 2023 |
 | [Bilanciamento del carico di lavoro: ridistribuzione imprevista delle ore](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 maggio 2023 |
 | [Bozze: le approvazioni delle bozze bloccate vengono ancora visualizzate nell’Elenco lavori](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 4 maggio 2023 |
 | [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 marzo 2023 |
@@ -61,7 +61,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Documenti: problemi relativi all’elenco dei documenti](known-issues-workfront/wf-documents-list-missing-elements.md) | 23 marzo 2023 |
 | [Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/wf-documents-permissions-not-interited-when-moved.md) | 7 marzo 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nella sezione [!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
-| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento]](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
+| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] ](known-issues-workfront/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [Attività: le ore immesse nel [!UICONTROL pannello di Riepilogo]](known-issues-workfront/wf-hours-do-not-save-when-scrolling-summary-panel.md) dell’Attività non vengono salvate | 2 dicembre 2022 |
 | [Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi](known-issues-workfront/wf-custom-form-stuck-in-manage-edit-access.md) | 21 novembre 2022 |
 | [API: impossibile ordinare per campi dinamici](known-issues-workfront/wf-api-cannot-sort-by-dynamic-fields.md) | 31 ottobre 2022 |
@@ -71,9 +71,9 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Dashboard: i colori dei grafici del report mostrati in un dashboard sono diversi rispetto a quelli presenti nel report](known-issues-workfront/wf-dashboard-reports-wrong-color.md) | 5 agosto 2022 |
 | [[!UICONTROL Home]: la terminologia personalizzata non viene applicata all’area Home](known-issues-workfront/wf-home-custom-term-not-applied-to-home.md) | 3 giugno 2022 |
 | [Agile: impossibile modificare i campi dai moduli personalizzati sulle schede](known-issues-workfront/wf-agile-cannot-edit-fields-custom-cards.md) | 11 maggio 2022 |
-| [Agile: problemi durante lo spostamento delle schede sulla bacheca [!UICONTROL Agile]](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27 aprile 2022 |
+| [Agile: problemi durante lo spostamento delle schede sulla bacheca [!UICONTROL Agile] ](known-issues-workfront/wf-agile-issues-moving-cards.md) | 27 aprile 2022 |
 | [Approvazioni: la delega di approvazione è impostata per un numero di giorni non corretto](known-issues-workfront/wf-approval-delegation-incorrect-number-of-days.md) | 20 aprile 2022 |
-| [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a]](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1 ottobre 2021 |
+| [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] ](known-issues-workfront/wf-home-new-task-option-showing-deactivated-users.md) | 1 ottobre 2021 |
 | [Aggiornamenti: il nome del team non viene visualizzato in @mention](known-issues-workfront/wf-updates-team-name-not-in-mention.md) | 1 ottobre 2021 |
 | [Agile: discrepanza in [!UICONTROL Punti completati] per un’iterazione](known-issues-workfront/wf-agile-discrepancy-in-completed-points.md) | 22 giugno 2021 |
 | [[!UICONTROL Home]: il comportamento del pulsante [!UICONTROL Rispondi nella bozza] è incoerente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 giugno 2021 |
