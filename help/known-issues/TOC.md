@@ -1,10 +1,10 @@
 ---
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
-source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: ht
-source-wordcount: '1309'
-ht-degree: 100%
+source-git-commit: f532612231727185f457a86250e1e80ce519cc63
+workflow-type: tm+mt
+source-wordcount: '1319'
+ht-degree: 99%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Configurazione: impossibile modificare il costo/ora della mansione o la fatturazione/ora](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Bacheche: la barra di scorrimento orizzontale non è presente](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Progetti/Attività/Problemi: la timeline non viene ricalcolata](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
       + [Filtri: &quot;[!UICONTROL Abilita a livello di sistema]&quot; e &quot;[!UICONTROL Visualizza a livello di sistema]&quot; rappresentano funzionalità diverse](known-issues-workfront/wf-filters-enable-system-wide.md)

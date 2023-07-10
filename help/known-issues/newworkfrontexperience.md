@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
+source-git-commit: f532612231727185f457a86250e1e80ce519cc63
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 100%
+source-wordcount: '592'
+ht-degree: 98%
 
 ---
 
@@ -36,6 +36,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Configurazione: impossibile modificare il costo/ora della mansione o la fatturazione/ora](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10 luglio 2023 |
 | [Filtri: “[!UICONTROL Abilita a livello di sistema]” e “[!UICONTROL Visualizza a livello di sistema]” rappresentano funzionalità diverse](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 giugno 2023 |
 | [Rapporti: il rapporto Utilizzo non viene caricato](known-issues-workfront/wf-reports-utilization-report-does-not-load.md) | 26 giugno 2023 |
 | [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 giugno 2023 |
