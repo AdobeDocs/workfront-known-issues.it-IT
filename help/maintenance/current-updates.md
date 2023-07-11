@@ -2,10 +2,10 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: 3d5489cd6a5474d4a53800f7bea1475aa8ddc482
+source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
 workflow-type: tm+mt
-source-wordcount: '4035'
-ht-degree: 100%
+source-wordcount: '4193'
+ht-degree: 98%
 
 ---
 
@@ -18,6 +18,38 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 >Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
+
+## Aggiornamenti di luglio 2023
+
++++**- Aggiornamento di manutenzione del 13° luglio 2023**
+
+**La sequenza temporale non viene ricalcolata**
+
+_Progetti / Attività / Problemi_
+
+Quando si verifica un evento che deve attivare un calcolo della timeline, la timeline non viene ricalcolata. Questo influisce sui ricalcoli che si verificano sulle modifiche e sui ricalcoli pianificati. Può influire sulla precisione del Bilanciamento del carico di lavoro.
+
+**Le approvazioni delle bozze bloccate vengono ancora visualizzate in Elenco lavori**
+
+_Bozze_
+
+Le approvazioni delle bozze che hanno superato la scadenza e sono bloccate vengono ancora visualizzate nell’Elenco lavori della Home dell’approvatore, invece di essere eliminate dall’elenco quando la scadenza viene superata.
+
+**Il rapporto Utilizzo non viene caricato**
+
+_Rapporti_
+
+Quando un cliente tenta di visualizzare un rapporto di utilizzo, l’utente visualizza un indicatore di caricamento che ruota, ma il rapporto non si carica. Il rapporto restituisce un errore 500, ma all’utente non viene presentata alcuna indicazione di errore.
+
+**La pagina Modifica utente è vuota**
+
+<!--no article-->
+
+_Utenti_
+
+Quando un utente cerca di modificare un altro utente, la pagina Modifica utente è vuota e l’utente non può modificare l’altro utente.
+
++++
 
 ## Aggiornamenti di giugno 2023
 
