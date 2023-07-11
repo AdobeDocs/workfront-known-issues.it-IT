@@ -3,7 +3,7 @@ title: '“Workfront Fusion: errore impossibile eseguire l’aggiornamento”'
 description: “Un’esecuzione di uno scenario non riesce con messaggio di errore Impossibile eseguire l’aggiornamento in una transazione di sola lettura.”
 hidefromtoc: true
 source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
