@@ -1,12 +1,12 @@
 ---
-title: 'Bilanciamento del carico di lavoro: risultati imprecisi quando si utilizzano più filtri contemporaneamente'
+title: '“Bilanciamento del carico di lavoro: risultati imprecisi quando si utilizzano più filtri contemporaneamente”'
 description: Quando un utente visualizza il bilanciamento del carico di lavoro e utilizza più filtri contemporaneamente, i risultati non sono precisi. Ad esempio, un risultato visualizzato quando si utilizza il Filtro A e il Filtro B non viene visualizzato quando si utilizzano contemporaneamente sia il Filtro A che il Filtro B.
 hidefromtoc: true
 exl-id: 4e708a5c-c0db-4395-a6ac-e947c7368494
 source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 83%
 >
 >Questa segnalazione è stata chiusa perché il problema non sussiste.
 
-Quando un utente visualizza il Bilanciatore dei carichi di lavoro nell’area Gestione risorse e utilizza più filtri contemporaneamente, i risultati non sono precisi. Ad esempio, un risultato visualizzato quando si utilizza il Filtro A e il Filtro B non viene visualizzato quando si utilizzano contemporaneamente sia il Filtro A che il Filtro B.
+Quando un utente visualizza il bilanciamento del carico di lavoro in Gestione delle risorse e utilizza più filtri contemporaneamente, i risultati non sono precisi. Ad esempio, un risultato visualizzato quando si utilizza il Filtro A e il Filtro B non viene visualizzato quando si utilizzano contemporaneamente sia il Filtro A che il Filtro B.
 
 **Soluzione alternativa**
 
