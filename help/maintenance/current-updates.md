@@ -2,9 +2,9 @@
 title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
-source-git-commit: ddda3e0d0f00d935e8be5789b41f7e05b91299d6
+source-git-commit: 45e4dc8ef13db59dd9f578c63f190d0249bc7def
 workflow-type: tm+mt
-source-wordcount: '4193'
+source-wordcount: '4227'
 ht-degree: 98%
 
 ---
@@ -48,6 +48,12 @@ Quando un cliente tenta di visualizzare un rapporto di utilizzo, l’utente visu
 _Utenti_
 
 Quando un utente cerca di modificare un altro utente, la pagina Modifica utente è vuota e l’utente non può modificare l’altro utente.
+
+**Le ore vengono ridistribuite in modo imprevisto**
+
+_Bilanciamento del carico di lavoro_
+
+Quando vengono assegnate ore per attività specifiche, tali ore possono essere ricalcolate e ridistribuite in modo imprevisto. Questo può verificarsi dopo una tabulazione tra date o pagine oppure dopo l’aggiornamento della pagina.
 
 +++
 
