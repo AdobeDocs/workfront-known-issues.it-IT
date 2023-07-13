@@ -2,15 +2,19 @@
 title: "Progetti/Attività/Problemi: la timeline non viene ricalcolata"
 description: "Quando si verifica un evento che deve attivare un calcolo della timeline, la timeline non viene ricalcolata. Questo influisce sui ricalcoli che si verificano sulle modifiche e sui ricalcoli pianificati. Può influire sulla precisione del Bilanciamento del carico di lavoro."
 hidefromtoc: true
-source-git-commit: cc97204372de395f0367d7e9705decfe2ffadfb8
-workflow-type: ht
-source-wordcount: '88'
+source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 
 # Progetti/Attività/Problemi: la timeline non viene ricalcolata
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il giovedì 13 luglio 2023.
 
 Quando si verifica un evento che deve attivare un calcolo della timeline, la timeline non viene ricalcolata. Questo influisce sui ricalcoli che si verificano sulle modifiche e sui ricalcoli pianificati. Può influire sulla precisione del Bilanciamento del carico di lavoro.
 
