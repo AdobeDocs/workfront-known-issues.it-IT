@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 source-git-commit: 7fd6a2604bf2e5b9e4bb69b1e3f242ebf761f180
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '567'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configurazione: impossibile modificare il costo/ora della mansione o la fatturazione/ora](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10 luglio 2023 |
+| [Configurazione: impossibile modificare i campi Costo/Ora o Fatturazione/Ora della mansione](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 10 luglio 2023 |
 | [Filtri: “[!UICONTROL Abilita a livello di sistema]” e “[!UICONTROL Visualizza a livello di sistema]” rappresentano funzionalità diverse](known-issues-workfront/wf-filters-enable-system-wide.md) | 27 giugno 2023 |
 | [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 giugno 2023 |
 | [Bilanciamento del carico di lavoro: ridistribuzione imprevista delle ore](known-issues-workfront/wf-workload-balancer-hours-redistribute.md) | 11 maggio 2023 |
