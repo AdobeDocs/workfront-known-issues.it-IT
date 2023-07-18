@@ -3,10 +3,10 @@ title: Problemi noti nella nuova esperienza [!DNL Adobe Workfront]
 description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
-source-git-commit: 69a7b0a82ac5a13a851ed7f2b889ff0758d60e17
+source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
 workflow-type: tm+mt
-source-wordcount: '577'
-ht-degree: 98%
+source-wordcount: '585'
+ht-degree: 97%
 
 ---
 
@@ -51,6 +51,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni di documenti: impossibile visualizzare tutte le cartelle in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 luglio 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
 | [Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato”](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 maggio 2023 |
 | [Documenti: le opzioni delle [!UICONTROL Attività di bozza] portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 aprile 2023 |
