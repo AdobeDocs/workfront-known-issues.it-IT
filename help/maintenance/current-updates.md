@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 source-git-commit: 52db6449599843d31e6fcb6e0b664801fbf978a5
 workflow-type: tm+mt
 source-wordcount: '4259'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -31,15 +31,15 @@ Ora, quando si impostano le ore pianificate su una nuova attività padre ricorre
 
 +++
 
-+++**- Aggiornamento di manutenzione del 13° luglio 2023**
++++**Aggiornamento di manutenzione del 13 luglio 2023**
 
-**La sequenza temporale non viene ricalcolata**
+**La timeline non viene ricalcolata**
 
 _Progetti / Attività / Problemi_
 
 Quando si verifica un evento che deve attivare un calcolo della timeline, la timeline non viene ricalcolata. Questo influisce sui ricalcoli che si verificano sulle modifiche e sui ricalcoli pianificati. Può influire sulla precisione del Bilanciamento del carico di lavoro.
 
-**Le approvazioni delle bozze bloccate vengono ancora visualizzate in Elenco lavori**
+**Le approvazioni delle bozze bloccate vengono ancora visualizzate nell’Elenco lavori**
 
 _Bozze_
 
