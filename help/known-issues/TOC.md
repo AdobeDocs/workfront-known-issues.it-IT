@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9020228b1e68a5f40b20b2dcd4f70413a99bba82
+source-git-commit: a4840412420ca7987b68c73a5e876837267cc3ba
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1357'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Configurazione]: impossibile esportare i registri di controllo](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
       + [Bozze: le bozze non vengono visualizzate nei rapporti come approvati](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [Bozze: messaggio &quot;No image&quot; (Nessuna immagine) quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Integrazioni di documenti: impossibile visualizzare tutte le cartelle in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
