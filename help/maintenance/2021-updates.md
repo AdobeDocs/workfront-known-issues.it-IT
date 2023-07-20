@@ -2,8 +2,9 @@
 title: Aggiornamenti di manutenzione di Workfront per il 2021
 description: Cronologia degli aggiornamenti di manutenzione del 2021 per [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
-source-git-commit: 65b26c28f83d32aa44e23ca5820bb9a8d8267935
-workflow-type: ht
+feature: Get Started with Workfront
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '10019'
 ht-degree: 100%
 
@@ -640,7 +641,7 @@ L’icona “[!UICONTROL Comprimi o espandi tutto]” non viene visualizzata nel
 
 _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
-Quando un utente tenta di modificare l’allocazione di un’attività e l’intervallo di tempo di tale attività si estende fino o oltre il bordo della pagina visibile, i pulsanti [!UICONTROL Seleziona] e [!UICONTROL Annulla] non sono visibili, di conseguenza l’utente non può salvare o annullare le modifiche di allocazione.
+Quando un utente tenta di modificare l’allocazione di un’attività e l’arco temporale di tale attività si estende fino o oltre il bordo della pagina visibile, i pulsanti [!UICONTROL Seleziona] e [!UICONTROL Annulla] non sono visibili, di conseguenza l’utente non può salvare o annullare le modifiche di allocazione.
 
 **L’aggiunta di un campo personalizzato alla [!UICONTROL Home] causa la perdita di dati nel campo**
 
@@ -1456,7 +1457,7 @@ _[!DNL Workfront Proof]_
 
 Quando un utente crea una nuova bozza e non abilita manualmente l’opzione “[!UICONTROL Notifica i destinatari relativamente a questa bozza]”, il destinatario non riceve alcuna notifica. Ciò avviene anche quando l’opzione è abilitata nelle impostazioni del flusso di lavoro.
 
-**Impossibile modificare l’intervallo di date**
+**Impossibile modificare l’arco temporale**
 
 _[!UICONTROL Funzionalità di analisi avanzate]_
 

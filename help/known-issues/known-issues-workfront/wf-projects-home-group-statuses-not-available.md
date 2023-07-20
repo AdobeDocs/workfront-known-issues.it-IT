@@ -1,14 +1,15 @@
 ---
-title: '“Progetti: gli stati personalizzati del gruppo Home non sono disponibili quando si crea un progetto da un modello”'
-description: ""
+title: 'Progetti: gli stati personalizzati del Gruppo Home non sono disponibili quando si crea un progetto da un modello'
+description: ''
 hidefromtoc: true
-source-git-commit: b1f0590a6e5beffa41144bfbb04a4020dfe31a24
-workflow-type: ht
+exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
+feature: Projects
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello
 
@@ -19,4 +20,3 @@ Quando un utente crea un progetto da un modello e al modello non è associato al
 Salva il progetto, quindi modifica lo stato. Gli stati personalizzati del [!UICONTROL Gruppo Home] sono visibili dopo il salvataggio del progetto.
 
 _Segnalato per la prima volta il 30 marzo 2023._
-

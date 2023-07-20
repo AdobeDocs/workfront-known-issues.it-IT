@@ -1,14 +1,15 @@
 ---
-title: '“Aggiornamenti: l’aggiornamento effettuato per conto di un utente viene visualizzato come effettuato direttamente dall’utente”'
-description: “Quando un amministratore effettua l’accesso come utente e crea un commento, il commento viene visualizzato come creato direttamente dall’utente, anziché dall’amministratore per conto dell’utente.”
+title: 'Aggiornamenti: l’aggiornamento effettuato per conto di un utente viene visualizzato come effettuato direttamente dall’utente'
+description: Quando un amministratore effettua l’accesso come utente e crea un commento, il commento viene visualizzato come creato direttamente dall’utente, anziché dall’amministratore per conto dell’utente.
 hidefromtoc: true
-source-git-commit: b03ef9d21bfe75bea3a2df6b2420490c6ce22050
-workflow-type: ht
+exl-id: b094dc2d-5cd8-4d48-9793-386256db7b4c
+feature: Updates and Notifications
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
 ---
-
 
 # Aggiornamenti: l’aggiornamento effettuato per conto di un utente viene visualizzato come effettuato direttamente dall’utente
 
@@ -19,4 +20,3 @@ ht-degree: 100%
 Quando un amministratore effettua l’accesso come utente e crea un commento, il commento viene visualizzato come creato direttamente dall’utente, anziché dall’amministratore per conto dell’utente.
 
 _Segnalato per la prima volta il 1° marzo 2023._
-

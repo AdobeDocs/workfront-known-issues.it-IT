@@ -2,8 +2,9 @@
 title: '“Rapporti: le date non vengono visualizzate correttamente nei rapporti matrice”'
 description: “Quando un grafico o un rapporto matrice viene raggruppato per data, le date vicine ai limiti del raggruppamento possono essere visualizzate nel raggruppamento corretto, nel raggruppamento precedente/successivo o in entrambi”.
 hidefromtoc: true
-source-git-commit: 4c62a437106b67c45b3bb0f8adcb41c7c50e5500
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 

@@ -3,9 +3,10 @@ title: '“Documenti: l’icona del flusso di lavoro di una bozza non viene visu
 description: Quando un utente crea una bozza all’interno della nuova esperienza [!DNL Workfront] , a volte l’icona relativa allo stato della bozza “SOCD” non viene visualizzata nell’elenco Documenti fino a quando l’utente non aggiorna la pagina.
 exl-id: ed99c9f3-412d-4e56-9b0a-84a1d53bdcfc
 hidefromtoc: true
-source-git-commit: b6adcbe778d87635b9e3b9aba96b19c75d9bf528
-workflow-type: ht
-source-wordcount: '0'
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---

@@ -3,8 +3,9 @@ title: '“[!DNL Workfront]: problemi relativi all’invio di un caso di support
 description: “Se sei un Contatto di supporto autorizzato di  [!DNL Workfront]  e riscontri problemi nell’invio di un caso di supporto, contattaci ai numeri sottostanti in modo che possiamo aiutarti.”
 hidefromtoc: true
 exl-id: f19b3e67-d31d-48f8-b847-dd4d309e11fc
-source-git-commit: c619bd4970134541e5d9960cd140fdca13d33641
-workflow-type: ht
+feature: System Setup and Administration
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 

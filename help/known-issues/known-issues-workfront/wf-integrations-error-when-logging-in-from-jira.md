@@ -1,14 +1,15 @@
 ---
-title: '“Integrazioni: errore durante l’accesso a Workfront da Jira”'
-description: “Quando un utente tenta di accedere a Workfront da Jira utilizzando l’integrazione Workfront for Jira, la pagina non viene caricata e l’utente visualizza un errore.”
+title: "Integrazioni: errore durante l’accesso a Workfront da Jira"
+description: Quando un utente tenta di accedere a Workfront da Jira utilizzando l’integrazione di Workfront for Jira, la pagina non viene caricata e l’utente visualizza un errore.
 hidefromtoc: true
-source-git-commit: fa782bc69636c0ad4d65f1ce7b7f9493ef155af3
-workflow-type: ht
+feature: Workfront Integrations and Apps
+exl-id: 8d3b2563-8ab8-4136-9ba1-fe7a0c4654f5
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
-
 
 # Integrazioni: errore durante l’accesso a [!DNL Workfront] da [!DNL Jira]
 
@@ -23,4 +24,3 @@ Quando un utente tenta di accedere a [!DNL Workfront] da [!DNL Jira] utilizzando
 L’utente non è in grado di accedere a [!DNL Workfront].
 
 _Segnalato per la prima volta il 24 febbraio 2023._
-

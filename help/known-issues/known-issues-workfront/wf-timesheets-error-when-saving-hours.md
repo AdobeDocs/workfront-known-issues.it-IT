@@ -2,8 +2,9 @@
 title: "Schede orario: errori durante la registrazione delle ore su una scheda orario"
 description: "Quando si tenta di registrare le ore di attività sulla scheda orario, le ore non vengono salvate automaticamente e vengono visualizzati dei messaggi di errore."
 hidefromtoc: true
-source-git-commit: 9a14f4aaeeac02632e63b77451da61c173de6f7b
-workflow-type: ht
+feature: Timesheets
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 

@@ -1,8 +1,10 @@
 ---
 title: Aggiornamenti di manutenzione per Workfront nel 2022
 description: Aggiornamenti di manutenzione 2022 per  [!DNL Adobe Workfront]
-source-git-commit: afd6b707f0d9df2887b66bf09e67d1edcac680b3
-workflow-type: ht
+exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
+feature: Get Started with Workfront
+source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
+workflow-type: tm+mt
 source-wordcount: '16739'
 ht-degree: 100%
 
@@ -247,7 +249,7 @@ Sono stati segnalati i seguenti problemi relativi ad attività aggiunte a un’i
 * Alcune sotto attività di un’attività aggiunta a un’iterazione non vengono visualizzate nella pagina [!UICONTROL Iterazione].
 * Quando un utente tenta di aggiungere un’attività mancante all’iterazione, l’attività non viene aggiunta e l’utente visualizza il seguente messaggio:
 
-   “[!UICONTROL Si è verificato il seguente errore: impossibile spostare gli elementi selezionati perché non sono assegnati a un Team Agile o non sono elementi Agile]”
+  “[!UICONTROL Si è verificato il seguente errore: impossibile spostare gli elementi selezionati perché non sono assegnati a un Team Agile o non sono elementi Agile]”
 
 **Le attività assegnate tramite la modifica in blocco non vengono visualizzate nel backlog del team**
 
@@ -687,7 +689,7 @@ Ora è possibile aggiungere il campo [!UICONTROL Integrazioni] all’intestazion
 
 *Deleghe*
 
-Adesso, solo gli elementi incompleti le cui date corrispondono a quelle di una delega verranno delegati ad altri utenti quando inizia la delega degli elementi di lavoro. Se gli elementi sono stati completati prima dell’avvio della delega, non saranno delegati. Gli elementi che vengono completati durante il periodo di delega rimarranno sull’elenco di lavoro dell’area Home sia per il delegato sia per l’assegnatario per due settimane prima di essere rimossi automaticamente, se la delega non è terminata durante queste settimane.
+Adesso, solo gli elementi incompleti le cui date corrispondono a quelle di una delega verranno delegati ad altri utenti quando inizia la delega degli elementi di lavoro. Se gli elementi sono stati completati prima dell’avvio della delega, non saranno delegati. Gli elementi che vengono completati durante l’arco temporale di delega rimarranno sull’elenco di lavoro dell’area Home sia per il delegato sia per l’assegnatario per due settimane prima di essere rimossi automaticamente, se la delega non è terminata durante queste settimane.
 
 **Aggiornamenti dei metadati per le integrazioni di [!DNL Adobe Workfront] per [!DNL Experience Manager Assets] e [!DNL Assets Essentials]**
 

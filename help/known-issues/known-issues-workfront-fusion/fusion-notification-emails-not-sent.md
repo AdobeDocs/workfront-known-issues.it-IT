@@ -2,8 +2,9 @@
 title: '“Workfront Fusion: le e-mail di notifica non vengono inviate”'
 description: “Quando in Workfront Fusion si verifica un evento che deve attivare un’e-mail di notifica (ad esempio, per scenari in cui viene riscontrato un errore), l’e-mail non viene inviata.”
 hidefromtoc: true
-source-git-commit: 69b4c330df59957b56a79f9e6aa1c02c60f45e23
-workflow-type: ht
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
 

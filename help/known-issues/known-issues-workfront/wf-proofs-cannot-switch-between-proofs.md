@@ -3,8 +3,9 @@ title: '“Bozze: impossibile passare da una bozza all’altra in Proofing Viewe
 description: Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l’utente non può tornare alla versione originale che stava visualizzando o a un’altra versione della bozza.
 hidefromtoc: true
 exl-id: 52e7b55e-4239-4785-9b27-25e91b5eb8bd
-source-git-commit: cbbbe16b8efb3a9b28280db0b201201ab3756c5c
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 

@@ -1,14 +1,15 @@
 ---
-title: “Le bozze vengono visualizzate in modo meno chiaro rispetto all’immagine originale”
-description: “Quando un utente crea una bozza e la visualizza nel Visualizzatore bozze, la bozza ha un aspetto meno chiaro (più sfocato) dell’immagine originale.”
+title: Le bozze vengono visualizzate in modo meno chiaro rispetto all’immagine originale
+description: Quando un utente crea una bozza e la visualizza nel Visualizzatore bozze, questa ha un aspetto meno chiaro (più sfocato) dell’immagine originale.
 hidefromtoc: true
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: ht
+exl-id: b9ab4de1-7e89-4577-8fd5-7c87855dea86
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # Bozze: le bozze vengono visualizzate nel Visualizzatore bozze in modo meno chiaro rispetto all’immagine originale
 
@@ -21,4 +22,3 @@ ht-degree: 100%
 Quando un utente crea una bozza e la visualizza nel Visualizzatore bozze, questa ha un aspetto meno chiaro (più sfocato) dell’immagine originale.
 
 _Segnalato per la prima volta il 1° novembre 2022._
-

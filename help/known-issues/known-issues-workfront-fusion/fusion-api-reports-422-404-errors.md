@@ -1,14 +1,15 @@
 ---
-title: '“Il modulo [!DNL Workfront Fusion]:  [!DNL Workfront]  > [!UICONTROL Chiamata API personalizzata] restituisce errori 404 o 422”'
-description: “Il modulo Workfront > API personalizzata restituisce un errore.”
+title: '''[!DNL Workfront Fusion]: [!DNL Workfront] &gt; [!UICONTROL Chiamata API personalizzata] modulo che restituisce errori 404 o 422"'
+description: Il modulo API personalizzato Workfront &gt; restituisce un errore.
 hidefromtoc: true
-source-git-commit: f5a953dafaa758e941e56595e9b1cabd6dc87f15
-workflow-type: ht
-source-wordcount: '68'
-ht-degree: 100%
+exl-id: 6b9effaa-f35a-4bff-ad9c-750f836c2ef9
+feature: Workfront Fusion
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 73%
 
 ---
-
 
 # Il modulo [!DNL Workfront Fusion]: [!DNL Workfront] > [!UICONTROL Chiamata API personalizzata] restituisce errori 404 o 422
 
@@ -22,4 +23,3 @@ Il modulo [!DNL Workfront] > [!UICONTROL Chiamata API personalizzata] restituisc
 * [!UICONTROL RuntimeError [422] Parametro non valido: Valore dello stato di archiviazione “CMS”]
 
 _Segnalato per la prima volta il 28 settembre 2022._
-

@@ -3,8 +3,9 @@ title: '“Bilanciamento del carico di lavoro: risultati imprecisi quando si uti
 description: Quando un utente visualizza il bilanciamento del carico di lavoro e utilizza più filtri contemporaneamente, i risultati non sono precisi. Ad esempio, un risultato visualizzato quando si utilizza il Filtro A e il Filtro B non viene visualizzato quando si utilizzano contemporaneamente sia il Filtro A che il Filtro B.
 hidefromtoc: true
 exl-id: 4e708a5c-c0db-4395-a6ac-e947c7368494
-source-git-commit: 207dd6e09e40f58ee13f790aa9ddcaf2277c93dc
-workflow-type: ht
+feature: Resource Management
+source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 

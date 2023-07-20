@@ -1,14 +1,15 @@
 ---
-title: 'Report: errore durante l’aggiunta di un nuovo problema a un report sui problemi'
-description: “Quando un utente visualizza un report sui problemi aggiunto a un’attività e tenta di aggiungere un nuovo problema, il problema non viene aggiunto e l’utente visualizza un errore.”
+title: "Rapporti: errore durante l’aggiunta di un nuovo problema a un rapporto sui problemi"
+description: Quando un utente visualizza un report sui problemi aggiunto a un’attività e tenta di aggiungere un nuovo problema, il problema non viene aggiunto e l’utente visualizza un errore.
 hidefromtoc: true
-source-git-commit: 254339d1baa9d8d7825e851aeafc9b27b1a1b669
-workflow-type: ht
+exl-id: e9035706-88a5-4e63-a252-a6478eefcd11
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 100%
+ht-degree: 64%
 
 ---
-
 
 # Report: errore durante l’aggiunta di un nuovo problema a un report sui problemi
 
@@ -21,4 +22,3 @@ Quando un utente visualizza un report sui problemi aggiunto a un’attività e t
 “Riproviamo. Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.”
 
 _Segnalato per la prima volta il 1° novembre 2022._
-

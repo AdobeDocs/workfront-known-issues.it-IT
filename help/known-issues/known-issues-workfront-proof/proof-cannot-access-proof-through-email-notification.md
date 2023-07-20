@@ -1,14 +1,15 @@
 ---
-title: '“Workfront Proof: la bozza non viene caricata quando si utilizza il pulsante Vai alla bozza nella notifica e-mail”'
-description: “Quando un utente tenta di accedere a una bozza utilizzando il pulsante Vai alla bozza in una notifica e-mail, viene visualizzata una pagina grigia vuota. La bozza non viene caricata.”
+title: "Workfront Proof: la bozza non viene caricata quando si utilizza il pulsante Vai alla bozza nella notifica e-mail"
+description: Quando un utente tenta di accedere a una bozza utilizzando il pulsante Vai alla bozza in una notifica e-mail, viene visualizzata una pagina grigia vuota. La bozza non viene caricata.
 hidefromtoc: true
-source-git-commit: 5ac0ab64966824ac533f262ac9cb863b3b79c2ac
-workflow-type: ht
+exl-id: 5d9c78a4-b1c1-4998-aa4b-fa29a831b7cb
+feature: Workfront Proof
+source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 100%
+ht-degree: 60%
 
 ---
-
 
 # [!DNL Workfront Proof]: la bozza non viene caricata quando si utilizza il pulsante “[!UICONTROL Vai alla bozza]” nella notifica e-mail
 
@@ -23,4 +24,3 @@ Quando un utente tenta di accedere a una bozza utilizzando il pulsante “[!UICO
 Accedi alla bozza direttamente in [!DNL Workfront Proof].
 
 _Segnalato per la prima volta il 20 febbraio 2023._
-

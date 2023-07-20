@@ -2,8 +2,9 @@
 title: "Bozze: le opzioni di approvazione non vengono visualizzate in Proofing Viewer"
 description: "Quando si tenta di approvare una bozza in Desktop Proofing Viewer, subito dopo la richiesta di approvazione, le opzioni di approvazione non sono visibili e non è possibile approvare la bozza. Le opzioni di approvazione vengono visualizzate diverse ore dopo la richiesta di approvazione."
 hidefromtoc: true
-source-git-commit: 72b2ac2890d27494949a6892a800d9c7534fc2d1
-workflow-type: ht
+feature: Digital Content and Documents
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 100%
 

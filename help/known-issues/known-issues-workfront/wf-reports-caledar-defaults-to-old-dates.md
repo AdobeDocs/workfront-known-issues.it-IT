@@ -3,8 +3,9 @@ title: '“Rapporti: il calendario utilizza date precedenti per impostazione pre
 description: Quando un utente esplora un calendario, questo carica un intervallo di date casuale nel passato (ad esempio, una settimana dell’anno 1800).
 exl-id: 2897967c-32c3-4ee7-ae9d-608d45f40fa3
 hidefromtoc: true
-source-git-commit: b02ad4aa856642d9b9849a6a8e0d9c94e4748970
-workflow-type: ht
+feature: Reports and Dashboards
+source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
