@@ -2,9 +2,10 @@
 title: '“Moduli personalizzati: problemi nei campi a discesa personalizzati“'
 description: I problemi si possono verificare nei campi a discesa personalizzati che vengono abilitati come campi con selezione multipla.
 hidefromtoc: true
+feature: Custom Forms
 exl-id: 9dbada55-672a-4afa-b4a5-2b9cda9c0e86
-source-git-commit: a9e0c0cc9bd1d69b22fcf9ef755a715d37ba658d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 

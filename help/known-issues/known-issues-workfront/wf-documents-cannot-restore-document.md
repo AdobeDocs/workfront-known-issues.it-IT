@@ -1,14 +1,15 @@
 ---
-title: '“Documenti: impossibile ripristinare un documento eliminato”'
-description: “Quando un utente tenta di ripristinare un documento precedentemente eliminato, non può ripristinare il documento e viene visualizzato un errore.”
+title: 'Documenti: impossibile ripristinare il documento eliminato'
+description: Quando un utente cerca di ripristinare un documento precedentemente eliminato, non può ripristinare il documento e visualizza l’errore Ops.
 hidefromtoc: true
-source-git-commit: 43cc7a54a32f68460118de9d8ad93b472bd77c75
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: ded3b89e-47fd-4145-bd7c-21b48eed8a06
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
-
 
 # Documenti: impossibile ripristinare il documento eliminato
 
@@ -23,4 +24,3 @@ Quando un utente tenta di ripristinare un documento precedentemente eliminato, n
 “[!UICONTROL Errore. Riproviamo. Ops! Si è verificato un errore. Contatta [!DNL Workfront] in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
 _Segnalato per la prima volta il 1° giugno 2023._
-

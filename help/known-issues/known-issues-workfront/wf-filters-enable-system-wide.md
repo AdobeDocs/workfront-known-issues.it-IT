@@ -1,9 +1,10 @@
 ---
 title: "Filtri: Abilita a livello di sistema e Visualizza a livello di sistema rappresentano funzionalità diverse"
 description: "Se un utente condivide un filtro e abilita [!UICONTROL Visualizza a livello di sistema], il filtro viene condiviso con ogni utente del sistema. Tuttavia, se un amministratore visualizza questo filtro in [!UICONTROL Configurazione], il filtro viene visualizzato come [!UICONTROL falso] nella colonna [!UICONTROL Visibile a livello di sistema]. Per impostare questo filtro come predefinito del sistema, l’amministratore deve abilitare [!UICONTROL Abilita a livello di sistema] in Configurazione. Ciò può provocare confusione a causa della formulazione simile di queste due opzioni."
+feature: System Setup and Administration
 hidefromtoc: true
-source-git-commit: 9ac3e334b0f29031bbf81763341c52b73dd762e6
-workflow-type: ht
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 

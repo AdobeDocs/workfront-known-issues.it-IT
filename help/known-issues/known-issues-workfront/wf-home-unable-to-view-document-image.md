@@ -3,8 +3,9 @@ title: '“Home: impossibile visualizzare l’immagine del documento nell’Elen
 description: Quando un utente fa clic sulla miniatura di un .docx per visualizzare un’anteprima del documento, si apre un lettore video e l’utente non può vedere il documento.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
-source-git-commit: 6620357eb577a1a4da9e244a7d880054798f4654
-workflow-type: ht
+feature: Get Started with Workfront, Digital Content and Documents
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
 

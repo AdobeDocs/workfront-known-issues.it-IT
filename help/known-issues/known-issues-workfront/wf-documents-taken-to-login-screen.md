@@ -2,9 +2,10 @@
 title: '“Documenti: le opzioni delle Attività di bozza portano alla pagina di accesso”'
 description: Quando un utente visualizza la pagina Dettagli documento e fa clic su un’opzione nel menu delle Attività di bozza, l’utente viene indirizzato a una pagina di accesso invece che alla pagina di destinazione prevista.
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 637fa798-9d23-497c-a50b-e40deaa4fd61
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 

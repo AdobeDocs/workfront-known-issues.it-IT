@@ -3,8 +3,9 @@ title: '“Home: le date della delega di approvazione cambiano dopo l’aggiorna
 description: Quando un utente delega le approvazioni a un utente che si trova in un fuso orario diverso, la delega sembra essere salvata con successo e l’utente delegato riceve una notifica e-mail con le date corrette. Tuttavia, se aggiorna la pagina, vede che la Data di inizio è stata spostata indietro di 1 giorno e la Data di fine è stata spostata in avanti di 1 giorno e l’utente riceve anche un’altra notifica e-mail con le date spostate.
 exl-id: 0dc3bc4c-b6b3-489f-aa4b-c925009512db
 hidefromtoc: true
-source-git-commit: 7570b2a560505d66e0e83656c9a601226998c11c
-workflow-type: ht
+feature: Approvals
+source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
+workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
 

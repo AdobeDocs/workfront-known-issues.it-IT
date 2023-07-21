@@ -1,8 +1,9 @@
 ---
 title: "Integrazioni di documenti: impossibile visualizzare tutte le cartelle in OneDrive"
 description: "Quando un utente tenta di accedere a un documento tramite l'integrazione di OneDrive in Workfront, non può visualizzare tutte le cartelle di OneDrive e non può accedere ai documenti nelle cartelle mancanti."
+feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: c9922bb751562c56aae4c049732ee18e280026f3
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 27%

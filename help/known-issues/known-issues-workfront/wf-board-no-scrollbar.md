@@ -1,9 +1,10 @@
 ---
 title: "Bacheche: la barra di scorrimento orizzontale non è presente"
 description: "Quando si visualizza una bacheca e si tenta di scorrere in orizzontale, la barra di scorrimento non è presente e non è possibile scorrere in orizzontale."
+feature: Agile
 hidefromtoc: true
-source-git-commit: f15168bdb9a7ae0f3b675cf44cfe4cfbf47fd313
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 

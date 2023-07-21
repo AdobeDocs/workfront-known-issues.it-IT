@@ -1,14 +1,15 @@
 ---
-title: '“Documenti: errore durante il caricamento di file di grandi dimensioni”'
-description: “Quando un utente tenta di caricare un file di grandi dimensioni (superiore a 25 MB), il file non viene caricato e l’utente visualizza l’errore Impossibile caricare il file.”
+title: 'Documenti: errore durante il caricamento di file di grandi dimensioni'
+description: Quando un utente cerca di caricare un file di grandi dimensioni (oltre 25 MB), il file non viene caricato e l’utente visualizza l’errore Impossibile caricare il file.
 hidefromtoc: true
-source-git-commit: db076ee06c75e2d8a185b539ef54779aa0ec0630
-workflow-type: ht
+feature: Digital Content and Documents
+exl-id: 6887a0a1-4f0b-4c91-b20f-664dd5f94470
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 100%
+ht-degree: 69%
 
 ---
-
 
 # Documenti: errore durante il caricamento di file di grandi dimensioni
 
@@ -25,4 +26,3 @@ Quando un utente tenta di caricare un file di grandi dimensioni (superiore a 25 
 Caricare il documento come bozza.
 
 _Segnalato per la prima volta il 14 novembre 2022._
-

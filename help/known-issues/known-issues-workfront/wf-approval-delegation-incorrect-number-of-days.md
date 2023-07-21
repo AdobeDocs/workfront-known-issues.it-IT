@@ -2,9 +2,10 @@
 title: '“Approvazioni: la delega di approvazione è impostata per un numero di giorni non corretto”'
 description: Quando un utente pianifica il proprio periodo di inattività e delega le approvazioni in base a tale momento, la delega di approvazione può includere giorni precedenti o successivi alle ferie programmate.
 exl-id: 8d978983-b663-442b-9935-75ecbd359a43
+feature: Approvals
 hidefromtoc: true
-source-git-commit: de7f66f7acba1a0ac32a1257b2e643a767eae7fb
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 

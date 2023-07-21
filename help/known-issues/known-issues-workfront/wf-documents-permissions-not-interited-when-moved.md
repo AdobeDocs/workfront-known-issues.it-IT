@@ -2,8 +2,9 @@
 title: '“Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto”'
 description: “Quando un utente sposta un documento in un progetto diverso, il documento non eredita le autorizzazioni di condivisione dal nuovo progetto.” Il documento non viene condiviso con gli utenti a cui è condiviso il progetto. ”
 hidefromtoc: true
+feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: 35fb85acf0c4b8675c3b6dad72c373ac6192055d
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%

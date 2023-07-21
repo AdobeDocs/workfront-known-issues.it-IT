@@ -2,9 +2,10 @@
 title: '“Agile: impossibile modificare i campi dai moduli personalizzati sulle schede”'
 description: Quando un campo presente su una scheda della bacheca Kanban effettua l’estrazione da un modulo personalizzato, gli utenti non possono modificare tale campo direttamente dalla scheda.
 exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
+feature: Agile
 hidefromtoc: true
-source-git-commit: c452fe0fe206a741dab40d6a121ebf6bace675fe
-workflow-type: ht
+source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
