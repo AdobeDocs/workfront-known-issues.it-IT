@@ -3,15 +3,19 @@ title: '“Bilanciamento del carico di lavoro: ridistribuzione imprevista delle 
 description: “Quando si eseguono assegnazioni delle ore su attività specifiche, tali ore possono venire ricalcolate e ridistribuite in modo imprevisto. Questo può verificarsi dopo una tabulazione tra date o pagine oppure dopo l’aggiornamento della pagina.”
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 3bb0ced6eeb5e53bcfc4706f4134d40d5d68a3f5
+source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 
 # Bilanciamento del carico di lavoro: ridistribuzione imprevista delle ore
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 17 luglio 2023.
 
 Quando si eseguono assegnazioni delle ore su attività specifiche, tali ore possono venire ricalcolate e ridistribuite in modo imprevisto. Questo può verificarsi dopo una tabulazione tra date o pagine oppure dopo l’aggiornamento della pagina.
 
