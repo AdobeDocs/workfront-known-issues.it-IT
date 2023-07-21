@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
 workflow-type: tm+mt
-source-wordcount: '4258'
-ht-degree: 98%
+source-wordcount: '4218'
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 +++**Aggiornamento di manutenzione del 20 luglio 2023**
 
-**Imposta le ore pianificate per le attività ricorrenti figlio con [!UICONTROL Semplice] tipo di durata senza assegnazioni**
-
-_Attività_
-
-Ora, quando si impostano le ore pianificate su una nuova attività padre ricorrente con un [!UICONTROL Semplice] Tipo di durata e nessuna assegnazione, le ore vengono aggiunte anche alle singole ricorrenze. Prima di questa modifica, le ore non venivano salvate per le ricorrenze in cui le attività padre venivano annullate.
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
