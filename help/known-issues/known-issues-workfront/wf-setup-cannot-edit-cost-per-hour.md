@@ -4,7 +4,7 @@ description: “Quando un utente modifica una mansione e tenta di modificare i c
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
