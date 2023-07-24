@@ -4,7 +4,7 @@ description: "Se un utente condivide un filtro e abilita [!UICONTROL Visualizza 
 feature: System Setup and Administration
 hidefromtoc: true
 source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
 ht-degree: 100%
 
