@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -57,7 +57,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | -----------------------------------------------------------------| ----------------- |
 | [Configurazione: impossibile modificare i campi Costo/Ora o Fatturazione/Ora della mansione](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 luglio 2023 |
 | [[!UICONTROL Configurazione]: impossibile esportare i registri di controllo](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 luglio 2023 |
-| [Integrazioni di documenti: impossibile visualizzare tutte le cartelle in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 luglio 2023 |
+| [Integrazioni di documenti: impossibile visualizzare tutte le cartelle in  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 luglio 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
 | [Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato”](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 maggio 2023 |
 | [Documenti: le opzioni delle [!UICONTROL Attività di bozza] portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 aprile 2023 |

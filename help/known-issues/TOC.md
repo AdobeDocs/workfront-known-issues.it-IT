@@ -5,7 +5,7 @@ role: User
 source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
 workflow-type: tm+mt
 source-wordcount: '1376'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 95%
       + [Bozze: le bozze non vengono visualizzate nei rapporti come approvati](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
       + [Bozze: messaggio &quot;No image&quot; (Nessuna immagine) quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Integrazioni di documenti: impossibile visualizzare tutte le cartelle in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
-      + [[!UICONTROL Home]: [!UICONTROL Elenco lavori dell’area Home] è vuoto/lento da caricare](known-issues-workfront/wf-home-blank-slow-to-load.md)
+      + [[!UICONTROL Home]: l’[!UICONTROL Elenco lavori della Home] è vuoto/è lento da caricare](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configurazione: impossibile modificare i campi Costo/Ora o Fatturazione/Ora della mansione](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)
       + [Bacheche: la barra di scorrimento orizzontale non è presente](known-issues-workfront/wf-board-no-scrollbar.md)
       + [Progetti/Attività/Problemi: la timeline non viene ricalcolata](known-issues-workfront/wf-projects-timeline-does-not-recalculate.md)
