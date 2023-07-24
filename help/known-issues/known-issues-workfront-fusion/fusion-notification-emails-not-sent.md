@@ -4,7 +4,7 @@ description: “Quando in Workfront Fusion si verifica un evento che deve attiva
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
