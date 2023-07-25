@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
+source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 91%
+source-wordcount: '345'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: le approvazioni dei documenti non vengono visualizzate nell’area Approvazioni](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 luglio 2023 |
 | [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 luglio 2023 |
 | [Bozze: le bozze non vengono visualizzate nei rapporti come approvati](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 luglio 2023 |
 | [Bozze: messaggio &quot;No image&quot; (Nessuna immagine) quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 luglio 2023 |
