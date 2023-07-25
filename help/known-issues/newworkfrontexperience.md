@@ -4,7 +4,7 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 92%
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenti: le approvazioni dei documenti non vengono visualizzate nell’area Approvazioni](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 luglio 2023 |
+| [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 luglio 2023 |
 | [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 luglio 2023 |
 | [Progetti/problemi: il progetto non risolve correttamente il problema](known-issues-workfront/wf-projects-resolving-issue.md) | 21 luglio 2023 |
 | [Bozze: le bozze non vengono visualizzate nei rapporti come approvati](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 luglio 2023 |

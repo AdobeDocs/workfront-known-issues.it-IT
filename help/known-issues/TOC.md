@@ -2,7 +2,7 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
 workflow-type: tm+mt
 source-wordcount: '1385'
 ht-degree: 96%
@@ -17,7 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Documenti: le approvazioni dei documenti non vengono visualizzate nell’area Approvazioni](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documenti: file EPS attualmente non supportati](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Progetti/problemi: il progetto non risolve correttamente il problema](known-issues-workfront/wf-projects-resolving-issue.md)
