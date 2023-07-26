@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 96%
+source-wordcount: '1392'
+ht-degree: 95%
 
 ---
 
@@ -172,6 +172,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
+      + [[!DNL Workfront Fusion]: impossibile immettere il valore in [!DNL Workfront] > [!UICONTROL Guarda gli eventi] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: errore “[!UICONTROL impossibile eseguire l’aggiornamento]”](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: le e-mail di notifica non vengono inviate](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: le esecuzioni sono bloccate o ritardate](known-issues-workfront-fusion/fusion-stuck-executions.md)
