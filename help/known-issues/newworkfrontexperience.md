@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8cc9f5313f20b38afc618f2c657995715b4d4f09
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 92%
+source-wordcount: '647'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Attività/problemi: l’utente assegnato non riceve l’accesso all’oggetto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 luglio 2023 |
 | [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 luglio 2023 |
 | [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 21 luglio 2023 |
 | [Progetti/problemi: il progetto non risolve correttamente il problema](known-issues-workfront/wf-projects-resolving-issue.md) | 21 luglio 2023 |

@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 36860fdb7880db3891aab46fbbeb604c54b2aa2c
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1402'
 ht-degree: 95%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività/problemi: l’utente assegnato non riceve l’accesso all’oggetto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documenti: file EPS attualmente non supportati](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md)

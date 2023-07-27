@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eba288c8fdd9e08c29b419e7e76d85719ff732c3
+source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
 workflow-type: tm+mt
-source-wordcount: '4304'
+source-wordcount: '4303'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di luglio 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 27 luglio 2023**
++++**Aggiornamento di manutenzione del 27 luglio 2023**
 
 **&quot;[!UICONTROL Abilita a livello di sistema]&quot; e &quot;[!UICONTROL Visualizza a livello di sistema]&quot; rappresentano funzionalità diverse**
 
