@@ -3,15 +3,19 @@ title: "Filtri: Abilita a livello di sistema e Visualizza a livello di sistema r
 description: "Se un utente condivide un filtro e abilita [!UICONTROL Visualizza a livello di sistema], il filtro viene condiviso con ogni utente del sistema. Tuttavia, se un amministratore visualizza questo filtro in [!UICONTROL Configurazione], il filtro viene visualizzato come [!UICONTROL falso] nella colonna [!UICONTROL Visibile a livello di sistema]. Per impostare questo filtro come predefinito del sistema, l’amministratore deve abilitare [!UICONTROL Abilita a livello di sistema] in Configurazione. Ciò può provocare confusione a causa della formulazione simile di queste due opzioni."
 feature: System Setup and Administration
 hidefromtoc: true
-source-git-commit: 721f2724433364832072695ee274d4abe08e7a8a
-workflow-type: ht
-source-wordcount: '190'
+source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
+workflow-type: tm+mt
+source-wordcount: '196'
 ht-degree: 100%
 
 ---
 
 
 # Filtri: &quot;[!UICONTROL Abilita a livello di sistema]&quot; e &quot;[!UICONTROL Visualizza a livello di sistema]&quot; rappresentano funzionalità diverse
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 27 luglio 2023
 
 Se un utente condivide un filtro e abilita la funzione &quot;[!UICONTROL Visualizza a livello di sistema]&quot;, il filtro viene condiviso con ogni utente del sistema. Tuttavia, se un amministratore visualizza questo filtro in [!UICONTROL Configurazione], il filtro viene visualizzato come &quot;[!UICONTROL falso]&quot; nella colonna &quot;[!UICONTROL Visibile a livello di sistema]&quot;. Per impostare questo filtro come predefinito del sistema, l’amministratore deve abilitare &quot;[!UICONTROL Abilita a livello di sistema]&quot; in [!UICONTROL Configurazione]. Ciò può provocare confusione a causa della formulazione simile di queste due opzioni.&quot;
 
