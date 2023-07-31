@@ -1,11 +1,11 @@
 ---
-title: 'Progetti: gli stati personalizzati del Gruppo Home non sono disponibili quando si crea un progetto da un modello'
+title: '“Progetti: gli stati personalizzati del gruppo Home non sono disponibili quando si crea un progetto da un modello”'
 description: ''
 hidefromtoc: true
 exl-id: 26fa9eea-962f-447c-8811-0c7e36568bc4
 feature: Projects
 source-git-commit: 386528d7b99053a4da6982e2140933c5cd348a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
