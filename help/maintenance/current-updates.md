@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
+source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
 workflow-type: tm+mt
-source-wordcount: '4410'
-ht-degree: 98%
+source-wordcount: '4451'
+ht-degree: 97%
 
 ---
 
@@ -20,9 +20,9 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
-## Aggiornamenti di luglio 2023
+## Aggiornamenti di agosto 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 27 luglio 2023**
++++**(Pianificato) Aggiornamento di manutenzione del 3 agosto 2023**
 
 **Il progetto non risolve correttamente il problema**
 
@@ -45,6 +45,12 @@ Questo problema è stato segnalato per gli utenti dell’EMEA.
 ## Aggiornamenti di luglio 2023
 
 +++**Aggiornamento di manutenzione del 27 luglio 2023**
+
+**I tag e gli elementi dell’elenco di controllo non funzionano correttamente nella vista bacheca del progetto**
+
+_Bacheche_
+
+I tag e gli elementi dell’elenco di controllo sono stati rimossi dalla vista bacheca dei progetti, perché non fanno parte delle attività di Workfront e non possono essere condivisi tra gli utenti.
 
 **&quot;[!UICONTROL Abilita a livello di sistema]&quot; e &quot;[!UICONTROL Visualizza a livello di sistema]&quot; rappresentano funzionalità diverse**
 
