@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: a87ecf052ae1949f636b43c5a84de20df430e0b3
+source-git-commit: e2c846da9bd52f1232b41c81c8876cbfc4060f4d
 workflow-type: tm+mt
-source-wordcount: '4303'
-ht-degree: 99%
+source-wordcount: '4410'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,28 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 >Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
+
+## Aggiornamenti di luglio 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 27 luglio 2023**
+
+**Il progetto non risolve correttamente il problema**
+
+_Progetti/Issues_
+
+Quando un utente modifica lo stato di un progetto che è l’oggetto di risoluzione di un problema, lo stato del problema viene modificato in uno stato che non corrisponde alla stessa chiave dello stato del progetto.
+
+**Errore nei report matrice**
+
+_Rapporti_
+
+Quando un utente cerca di visualizzare un rapporto matrice, il rapporto non viene caricato e l’utente visualizza il seguente errore:
+
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+
+Questo problema è stato segnalato per gli utenti dell’EMEA.
+
++++
 
 ## Aggiornamenti di luglio 2023
 
