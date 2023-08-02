@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 882402acd54423e20d28c2294f5aeeae9fc8fa9a
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 97%
+source-wordcount: '360'
+ht-degree: 90%
 
 ---
 
@@ -25,6 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: la bozza approvata rimane nel ruolo di approvatore [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 agosto 2023 |
+| [Bozze: visualizzazioni di bozze con taglio in alto](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 agosto 2023 |
+| [Bozze: impossibile selezionare il testo in elenchi o punti elenco](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 agosto 2023 |
 | [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 luglio 2023 |
 | [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 luglio 2023 |
 | [Bozze: messaggio “Nessuna immagine” quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 luglio 2023 |

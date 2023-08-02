@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: acb47f82aed4e45286be006d9106278802e38d6d
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1046'
 ht-degree: 93%
 
 ---
@@ -17,14 +17,19 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: la creazione di una nuova versione della bozza comporta l’eliminazione di tutte le versioni](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [Bozze: la bozza approvata rimane nel ruolo di approvatore [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [Bozze: visualizzazioni di bozze con taglio in alto](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [Home: impossibile eliminare [!UICONTROL Da fare] elemento in nuovo [!UICONTROL Home] esperienza](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [Bozze: impossibile selezionare il testo in elenchi o punti elenco](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [Attività/problemi: l’utente assegnato non riceve l’accesso all’oggetto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documenti: file EPS attualmente non supportati](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Progetti/problemi: il progetto non risolve correttamente il problema](known-issues-workfront/wf-projects-resolving-issue.md)
       + [[!UICONTROL Configurazione]: impossibile esportare i registri di controllo](known-issues-workfront/wf-setup-cannot-export-audit-logs.md)
-      + [Bozze: le bozze non vengono visualizzate nei rapporti come approvati](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
-      + [Bozze: messaggio &quot;No image&quot; (Nessuna immagine) quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md)
+      + [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md)
+      + [Bozze: messaggio “Nessuna immagine” quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md)
       + [Integrazioni di documenti: impossibile visualizzare tutte le cartelle in [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md)
       + [[!UICONTROL Home]: l’[!UICONTROL Elenco lavori della Home] è vuoto/è lento da caricare](known-issues-workfront/wf-home-blank-slow-to-load.md)
       + [Configurazione: impossibile modificare i campi Costo/Ora o Fatturazione/Ora della mansione](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md)

@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 188e8a34947a51e62116e2a166aeeedaa5dc71c8
+source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
 workflow-type: tm+mt
-source-wordcount: '4451'
-ht-degree: 97%
+source-wordcount: '4509'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,24 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 ## Aggiornamenti di agosto 2023
 
 +++**(Pianificato) Aggiornamento di manutenzione del 3 agosto 2023**
+
+**Difficoltà a individuare gli elementi nella colonna Acquisizione**
+
+_Bacheche_
+
+La colonna Acquisizione su una bacheca era precedentemente ordinata in base alla priorità definita per attività e problemi, il che rendeva difficile individuare elementi specifici.
+
+L’ordine predefinito è ora il seguente:
+
+Attività:
+
+* Ordine principale: nome progetto
+* Ordine secondario: struttura analisi stratificata lavoro
+
+Problemi
+
+* Ordine principale: nome progetto
+* Ordine secondario: numero di riferimento
 
 **Il progetto non risolve correttamente il problema**
 
