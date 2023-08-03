@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 87%
+source-wordcount: '362'
+ht-degree: 86%
 
 ---
 
@@ -31,7 +31,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Bozze: impossibile selezionare il testo in elenchi o punti elenco](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 agosto 2023 |
 | [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 luglio 2023 |
 | [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 luglio 2023 |
-| [Bozze: messaggio “Nessuna immagine” quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 luglio 2023 |
 
 {style="table-layout:auto"}
 
@@ -41,9 +40,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: messaggio “Nessuna immagine” quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 agosto 2023 |
 | [Bozze: impossibile regolare i markup della bozza](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 agosto 2023 |
-| [Bozze: le approvazioni delle bozze bloccate vengono ancora visualizzate nell’Elenco lavori](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 luglio 2023 |
-| [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 giugno 2023 |
 
 {style="table-layout:auto"}
 
@@ -53,6 +51,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 agosto 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 giugno 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
 | [[!DNL Workfront Proof]: 500 error when accessing [!DNL Workfront Proof]  tramite API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maggio 2023 |

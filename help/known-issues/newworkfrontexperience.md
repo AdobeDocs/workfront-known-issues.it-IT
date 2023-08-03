@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
+source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '650'
 ht-degree: 88%
 
 ---
@@ -31,8 +31,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Bozze: impossibile selezionare il testo in elenchi o punti elenco](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 agosto 2023 |
 | [Attività/problemi: l’utente assegnato non riceve l’accesso all’oggetto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 luglio 2023 |
 | [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 luglio 2023 |
-| s | [Bozze: messaggio “Nessuna immagine” quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 20 luglio 2023 |
-| [Bacheche: la barra di scorrimento orizzontale non è presente](known-issues-workfront/wf-board-no-scrollbar.md) | 28 giugno 2023 |
 
 {style="table-layout:auto"}
 
@@ -42,12 +40,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: messaggio “Nessuna immagine” quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 agosto 2023 |
 | [Bozze: impossibile regolare i markup della bozza](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 agosto 2023 |
 | [Bozze: la creazione di una nuova versione della bozza comporta l’eliminazione di tutte le versioni](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 agosto 2023 |
 | [Home: impossibile eliminare [!UICONTROL Da fare] elemento in nuovo [!UICONTROL Home] esperienza](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 agosto 2023 |
-| [Bozze: le approvazioni delle bozze bloccate vengono ancora visualizzate nell’Elenco lavori](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 luglio 2023 |
 | [[!UICONTROL Home]: gli elementi non vengono visualizzati in [!UICONTROL Elenco lavori della Home]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 luglio 2023 |
-| [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 giugno 2023 |
 | [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 marzo 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
@@ -59,6 +56,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 agosto 2023 |
 | [Configurazione: impossibile modificare i campi Costo/Ora o Fatturazione/Ora della mansione](known-issues-workfront/wf-setup-cannot-edit-cost-per-hour.md) | 21 luglio 2023 |
 | [[!UICONTROL Configurazione]: impossibile esportare i registri di controllo](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 luglio 2023 |
 | [Integrazioni di documenti: impossibile visualizzare tutte le cartelle in  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 luglio 2023 |
