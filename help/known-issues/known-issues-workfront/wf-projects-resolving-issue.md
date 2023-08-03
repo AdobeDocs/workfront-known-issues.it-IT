@@ -3,15 +3,19 @@ title: '“Progetti/problemi: il progetto non risolve correttamente il problema�
 description: “Quando un utente modifica lo stato di un progetto che è l’oggetto di risoluzione di un problema, lo stato del problema viene modificato in uno stato che non corrisponde alla stessa chiave dello stato del progetto.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: 3d2c392fdb9cdf2eb7ea46cd4444895bc45a5b7d
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
 
 
 # Progetti/problemi: il progetto non risolve correttamente il problema
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il lunedì 3 agosto 2023.
 
 Quando un utente modifica lo stato di un progetto che è l’oggetto di risoluzione di un problema, lo stato del problema viene modificato in uno stato che non corrisponde alla stessa chiave dello stato del progetto.
 

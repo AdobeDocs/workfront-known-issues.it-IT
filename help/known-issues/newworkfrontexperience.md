@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
+source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '656'
 ht-degree: 90%
 
 ---
@@ -43,7 +43,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | -----------------------------------------------------------------| ----------------- |
 | [Bozze: la creazione di una nuova versione della bozza comporta l’eliminazione di tutte le versioni](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 agosto 2023 |
 | [Home: impossibile eliminare [!UICONTROL Da fare] elemento in nuovo [!UICONTROL Home] esperienza](known-issues-workfront/wf-home-cannot-delete-todo.md) | 2 agosto 2023 |
-| [Progetti/problemi: il progetto non risolve correttamente il problema](known-issues-workfront/wf-projects-resolving-issue.md) | 27 luglio 2023 |
 | [Bozze: le approvazioni delle bozze bloccate vengono ancora visualizzate nell’Elenco lavori](known-issues-workfront/wf-proofs-locked-proofs-in-worklist.md) | 21 luglio 2023 |
 | [[!UICONTROL Home]: gli elementi non vengono visualizzati in [!UICONTROL Elenco lavori della Home]](known-issues-workfront/wf-home-tasks-not-appearing-in-list.md) | 21 luglio 2023 |
 | [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 26 giugno 2023 |
