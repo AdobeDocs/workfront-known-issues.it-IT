@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2ef5603364a5c5789b1e85f48d065564a361a43a
+source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
-source-wordcount: '1078'
-ht-degree: 90%
+source-wordcount: '1084'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bacheche: problemi durante il caricamento di una scheda](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Progetti: il progetto bloccato non visualizza le informazioni in alcune colonne](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Bozze: impossibile regolare i markup della bozza](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md)
