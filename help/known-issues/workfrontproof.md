@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 86%
+ht-degree: 89%
 
 ---
 
@@ -29,7 +29,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Bozze: la bozza approvata rimane nel ruolo di approvatore [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 2 agosto 2023 |
 | [Bozze: visualizzazioni di bozze con taglio in alto](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 2 agosto 2023 |
 | [Bozze: impossibile selezionare il testo in elenchi o punti elenco](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 2 agosto 2023 |
-| [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 luglio 2023 |
+| [Documenti: le approvazioni del documento non vengono visualizzate nell’area [!UICONTROL Approvazioni] ](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 25 luglio 2023 |
 | [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 20 luglio 2023 |
 
 {style="table-layout:auto"}

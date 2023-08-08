@@ -37,7 +37,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md) | 26 luglio 2023 |
+| [[!DNL Workfront Fusion]: Cannot enter value in [!DNL Workfront] > [!UICONTROL Watch Events] filtro](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md) | 26 luglio 2023 |
 
 {style="table-layout:auto"}
 

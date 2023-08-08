@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1f039e819f8a65af18d2dbc24b95b85607b947be
 workflow-type: tm+mt
 source-wordcount: '1084'
-ht-degree: 89%
+ht-degree: 92%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 89%
       + [Home: impossibile eliminare [!UICONTROL Da fare] elemento in nuovo [!UICONTROL Home] esperienza](known-issues-workfront/wf-home-cannot-delete-todo.md)
       + [Bozze: impossibile selezionare il testo in elenchi o punti elenco](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [Attività/problemi: l’utente assegnato non riceve l’accesso all’oggetto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
-      + [Documenti: le approvazioni dei documenti non vengono visualizzate in [!UICONTROL Approvazioni] area](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
+      + [Documenti: le approvazioni del documento non vengono visualizzate nell’area [!UICONTROL Approvazioni] ](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documenti: file EPS attualmente non supportati](known-issues-workfront/wf-documents-not-supporting-eps.md)
       + [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md)
       + [Progetti/problemi: il progetto non risolve correttamente il problema](known-issues-workfront/wf-projects-resolving-issue.md)
@@ -143,7 +143,7 @@ ht-degree: 89%
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion]: il modulo di sospensione provoca il blocco degli scenari](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: lo scenario non riesce con &quot;[!UICONTROL leggi ECONNRESET]&quot; errore](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
-      + [[!DNL Workfront Fusion]: impossibile immettere il valore in [!DNL Workfront] > [!UICONTROL Guarda gli eventi] filter](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
+      + [[!DNL Workfront Fusion]: impossibile immettere un valore nel [!DNL Workfront] > filtro [!UICONTROL Osserva eventi]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: errore “[!UICONTROL impossibile eseguire l’aggiornamento]”](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: le e-mail di notifica non vengono inviate](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)
       + [[!DNL Workfront Fusion]: le esecuzioni sono bloccate o ritardate](known-issues-workfront-fusion/fusion-stuck-executions.md)

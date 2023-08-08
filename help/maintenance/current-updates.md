@@ -70,7 +70,7 @@ _Bacheche_
 
 I tag e gli elementi dell’elenco di controllo sono stati rimossi dalla vista bacheca dei progetti, perché non fanno parte delle attività di Workfront e non possono essere condivisi tra gli utenti.
 
-**&quot;[!UICONTROL Abilita a livello di sistema]&quot; e &quot;[!UICONTROL Visualizza a livello di sistema]&quot; rappresentano funzionalità diverse**
+**“[!UICONTROL Abilita a livello di sistema]” e “[!UICONTROL Visualizza a livello di sistema]” rappresentano funzionalità diverse**
 
 _Filtri_
 
