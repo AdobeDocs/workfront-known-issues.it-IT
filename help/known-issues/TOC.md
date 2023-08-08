@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
 workflow-type: tm+mt
-source-wordcount: '1095'
-ht-degree: 91%
+source-wordcount: '1115'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporti: problemi durante il caricamento dei rapporti matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
+      + [Bozze: sovrapposizione del testo su una bozza](known-issues-workfront/wf-proofs-overlapping-text.md)
+      + [Bozze: &quot;[!UICONTROL Disattiva notifiche e-mail bozza]L’impostazione &quot; viene visualizzata in modo impreciso](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [Progetti: impossibile passare al progetto con URL che utilizza [!UICONTROL ID riferimento]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
       + [Bacheche: problemi durante il caricamento di una scheda](known-issues-workfront/wf-boards-issues-with-loading.md)
       + [Progetti: il progetto bloccato non visualizza le informazioni in alcune colonne](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
