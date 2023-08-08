@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
+source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4657'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,32 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di agosto 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 10 agosto 2023**
+
+**Impossibile eliminare [!UICONTROL Da fare] elemento in nuovo [!UICONTROL Home] esperienza**
+
+_Home_
+
+Quando un utente accede al nuovo [!UICONTROL Home] l&#39;esperienza tenta di eliminare un elemento da [!UICONTROL Da fare] widget, l’elemento non viene eliminato e l’utente visualizza il seguente errore:
+
+&quot;[!UICONTROL Si è verificato un problema durante la rimozione delle tue cose da fare, riprova a breve.]&quot;
+
+Ciò può verificarsi quando sono presenti ore registrate in [!UICONTROL Da fare] elemento.
+
+**Il progetto aggiunto non visualizza le informazioni in alcune colonne**
+
+_Progetti_
+
+Quando un utente passa a un progetto bloccato utilizzando il pin, gli elenchi di oggetti (come l’elenco delle attività) possono mostrare colonne vuote. Ad esempio, un’ [!UICONTROL Assegnazioni] La colonna potrebbe non visualizzare alcuna assegnazione, anche se sono state effettuate assegnazioni.
+
+**Il modulo di sospensione provoca il blocco degli scenari**
+
+_[!DNL Workfront Fusion]_
+
+Il [!UICONTROL Strumenti] > [!UICONTROL Sospendi] in uno scenario può causare il blocco dell’esecuzione di uno scenario. Queste esecuzioni mostrano lo stato In esecuzione nel [!UICONTROL Cronologia scenario], e non terminare.
+
++++
 
 +++**Aggiornamento di manutenzione del 3 agosto 2023**
 
