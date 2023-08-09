@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 89%
+source-wordcount: '1127'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Bilanciatore dei carichi di lavoro]: [!UICONTROL Ore Totali] non corrisponde alla somma di [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [Rapporti: problemi durante il caricamento dei rapporti matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [Bozze: sovrapposizione del testo su una bozza](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [Bozze: &quot;[!UICONTROL Disattiva notifiche e-mail bozza]L’impostazione &quot; viene visualizzata in modo impreciso](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)

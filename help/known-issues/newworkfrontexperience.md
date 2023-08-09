@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
 workflow-type: tm+mt
-source-wordcount: '703'
-ht-degree: 84%
+source-wordcount: '716'
+ht-degree: 82%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Bilanciatore dei carichi di lavoro]: [!UICONTROL Ore Totali] non corrisponde alla somma di [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9 agosto 2023 |
 | [Rapporti: problemi durante il caricamento dei rapporti matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 agosto 2023 |
 | [Bacheche: problemi durante il caricamento di una scheda](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 agosto 2023 |
 | [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 agosto 2023 |
