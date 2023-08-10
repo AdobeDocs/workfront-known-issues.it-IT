@@ -3,9 +3,9 @@ title: "Bozze: le opzioni di approvazione non vengono visualizzate in Proofing V
 description: "Quando si tenta di approvare una bozza in Desktop Proofing Viewer, subito dopo la richiesta di approvazione, le opzioni di approvazione non sono visibili e non è possibile approvare la bozza. Le opzioni di approvazione vengono visualizzate diverse ore dopo la richiesta di approvazione."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
+source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato chiuso perché non è stato possibile riprodurlo.
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
 Quando si tenta di approvare una bozza in [!UICONTROL Desktop Proofing Viewer], subito dopo la richiesta di approvazione, le opzioni di approvazione non sono visibili e non è possibile approvare la bozza. Le opzioni di approvazione vengono visualizzate diverse ore dopo la richiesta di approvazione.
 
