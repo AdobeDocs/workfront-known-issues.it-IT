@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d5388a80680879a2dbb6ae35625a18baa29c0a62
+source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
-source-wordcount: '1127'
-ht-degree: 88%
+source-wordcount: '1147'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: i colori della bozza vengono visualizzati in modo errato](known-issues-workfront/wf-proof-inaccurate-colors.md)
+      + [[!UICONTROL Home]: &quot;[!UICONTROL Menzioni]&quot; widget in nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente viene taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Bilanciatore dei carichi di lavoro]: [!UICONTROL Ore Totali] non corrisponde alla somma di [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
       + [Rapporti: problemi durante il caricamento dei rapporti matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md)
       + [Bozze: sovrapposizione del testo su una bozza](known-issues-workfront/wf-proofs-overlapping-text.md)
