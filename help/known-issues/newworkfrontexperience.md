@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
 workflow-type: tm+mt
 source-wordcount: '723'
-ht-degree: 80%
+ht-degree: 91%
 
 ---
 
@@ -29,7 +29,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [[!UICONTROL Home]: &quot;[!UICONTROL Menzioni]&quot; widget in nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente viene taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 agosto 2023 |
 | [[!UICONTROL Bilanciatore dei carichi di lavoro]: [!UICONTROL Ore Totali] non corrisponde alla somma di [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9 agosto 2023 |
 | [Rapporti: problemi durante il caricamento dei rapporti matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 agosto 2023 |
-| [Bacheche: problemi durante il caricamento di una scheda](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 agosto 2023 |
+| [Bacheche: problemi durante il caricamento di una bacheca](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 agosto 2023 |
 | [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 agosto 2023 |
 | [Attività/problemi: l’utente assegnato non riceve l’accesso all’oggetto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 luglio 2023 |
 
@@ -41,17 +41,17 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: visualizzazioni di bozze con taglio in alto](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 agosto 2023 |
-| [Bozze: la bozza approvata rimane nel ruolo di approvatore [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) | 10 agosto 2023 |
+| [Bozze: la bozza viene visualizzata con la parte superiore tagliata](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 agosto 2023 |
+| [Bozze: la bozza approvata rimane nell’[!UICONTROL Elenco lavori della Home]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) dell’approvatore | 10 agosto 2023 |
 | [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 agosto 2023 |
-| [Bozze: impossibile selezionare il testo in elenchi o punti elenco](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 agosto 2023 |
+| [Bozze: impossibile selezionare il testo in elenchi o in elenchi puntati](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 agosto 2023 |
 | [Documenti: le approvazioni del documento non vengono visualizzate nell’area [!UICONTROL Approvazioni] ](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 agosto 2023 |
 | [Bozze: sovrapposizione del testo su una bozza](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 agosto 2023 |
 | [Bozze: &quot;[!UICONTROL Disattiva notifiche e-mail bozza]L’impostazione &quot; viene visualizzata in modo impreciso](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 agosto 2023 |
 | [Progetti: impossibile passare al progetto con URL che utilizza [!UICONTROL ID riferimento]](known-issues-workfront/wf-projects-unable-to-construct-url.md) | 8 agosto 2023 |
 | [Bozze: messaggio “Nessuna immagine” quando si fa clic sulla bozza](known-issues-workfront/wf-proofs-no-image-on-comment.md) | 3 agosto 2023 |
 | [Bozze: impossibile regolare i markup della bozza](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 agosto 2023 |
-| [Bozze: la creazione di una nuova versione della bozza comporta l’eliminazione di tutte le versioni](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 agosto 2023 |
+| [Bozze: la creazione di una nuova versione della bozza comporta l’eliminazione di tutte le sue versioni](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md) | 2 agosto 2023 |
 | [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 marzo 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
 workflow-type: tm+mt
 source-wordcount: '1147'
-ht-degree: 87%
+ht-degree: 94%
 
 ---
 
@@ -24,15 +24,15 @@ ht-degree: 87%
       + [Bozze: sovrapposizione del testo su una bozza](known-issues-workfront/wf-proofs-overlapping-text.md)
       + [Bozze: &quot;[!UICONTROL Disattiva notifiche e-mail bozza]L’impostazione &quot; viene visualizzata in modo impreciso](known-issues-workfront/wf-proofs-disable-email-inaccurate.md)
       + [Progetti: impossibile passare al progetto con URL che utilizza [!UICONTROL ID riferimento]](known-issues-workfront/wf-projects-unable-to-construct-url.md)
-      + [Bacheche: problemi durante il caricamento di una scheda](known-issues-workfront/wf-boards-issues-with-loading.md)
-      + [Progetti: il progetto bloccato non visualizza le informazioni in alcune colonne](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
+      + [Bacheche: problemi durante il caricamento di una bacheca](known-issues-workfront/wf-boards-issues-with-loading.md)
+      + [Progetti: il progetto fissato non mostra le informazioni in alcune colonne](known-issues-workfront/wf-projects-pinned-project-does-not-populate-columns.md)
       + [Bozze: impossibile regolare i markup della bozza](known-issues-workfront/wf-proof-markup-tools-not-working.md)
       + [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md)
-      + [Bozze: la creazione di una nuova versione della bozza comporta l’eliminazione di tutte le versioni](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
-      + [Bozze: la bozza approvata rimane nel ruolo di approvatore [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
-      + [Bozze: visualizzazioni di bozze con taglio in alto](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
-      + [Home: impossibile eliminare [!UICONTROL Da fare] elemento in nuovo [!UICONTROL Home] esperienza](known-issues-workfront/wf-home-cannot-delete-todo.md)
-      + [Bozze: impossibile selezionare il testo in elenchi o punti elenco](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
+      + [Bozze: la creazione di una nuova versione della bozza comporta l’eliminazione di tutte le sue versioni](known-issues-workfront/wf-proofs-new-proof-version-causes-proofs-to-go-to-trash.md)
+      + [Bozze: la bozza approvata rimane nell’[!UICONTROL Elenco lavori della Home ]nel ruolo approvatore](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md)
+      + [Bozze: la bozza viene visualizzata con la parte superiore tagliata](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md)
+      + [Home: impossibile eliminare elemento [!UICONTROL Attività] nella nuova esperienza [!UICONTROL Home]](known-issues-workfront/wf-home-cannot-delete-todo.md)
+      + [Bozze: impossibile selezionare il testo in elenchi o in elenchi puntati](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md)
       + [Attività/problemi: l’utente assegnato non riceve l’accesso all’oggetto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md)
       + [Documenti: le approvazioni del documento non vengono visualizzate nell’area [!UICONTROL Approvazioni] ](known-issues-workfront/wf-documents-approvals-not-on-tab.md)
       + [Documenti: file EPS attualmente non supportati](known-issues-workfront/wf-documents-not-supporting-eps.md)
@@ -149,7 +149,7 @@ ht-degree: 87%
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
       + [[!DNL Workfront Fusion]: il modulo di sospensione provoca il blocco degli scenari](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
-      + [[!DNL Workfront Fusion]: lo scenario non riesce con &quot;[!UICONTROL leggi ECONNRESET]&quot; errore](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
+      + [[!DNL Workfront Fusion]: lo scenario produce l’errore “[!UICONTROL lettura ECONNRESET]”](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: impossibile immettere un valore nel [!DNL Workfront] > filtro [!UICONTROL Osserva eventi]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)
       + [[!DNL Workfront Fusion]: errore “[!UICONTROL impossibile eseguire l’aggiornamento]”](/help/known-issues/known-issues-workfront-fusion/fusion-cannot-execute-update.md)
       + [[!DNL Workfront Fusion]: le e-mail di notifica non vengono inviate](known-issues-workfront-fusion/fusion-notification-emails-not-sent.md)

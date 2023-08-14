@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
 workflow-type: tm+mt
 source-wordcount: '4657'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -24,44 +24,44 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 +++**(Pianificato) Aggiornamento di manutenzione del 10 agosto 2023**
 
-**Impossibile eliminare [!UICONTROL Da fare] elemento in nuovo [!UICONTROL Home] esperienza**
+**impossibile eliminare l’elemento [!UICONTROL Attività] nella nuova esperienza [!UICONTROL Home]**
 
 _Home_
 
-Quando un utente accede al nuovo [!UICONTROL Home] l&#39;esperienza tenta di eliminare un elemento da [!UICONTROL Da fare] widget, l’elemento non viene eliminato e l’utente visualizza il seguente errore:
+Quando un utente nella nuova esperienza [!UICONTROL Home] tenta di eliminare un elemento dal widget [!UICONTROL Attività], l’elemento non viene eliminato e l’utente visualizza il seguente errore:
 
-&quot;[!UICONTROL Si è verificato un problema durante la rimozione delle tue cose da fare, riprova a breve.]&quot;
+“[!UICONTROL Si è verificato un problema durante la rimozione delle tue attività, riprova a breve.]”
 
-Ciò può verificarsi quando sono presenti ore registrate in [!UICONTROL Da fare] elemento.
+Ciò può verificarsi quando sono presenti ore registrate in un elemento [!UICONTROL Attività].
 
 **Il progetto aggiunto non visualizza le informazioni in alcune colonne**
 
 _Progetti_
 
-Quando un utente passa a un progetto bloccato utilizzando il pin, gli elenchi di oggetti (come l’elenco delle attività) possono mostrare colonne vuote. Ad esempio, un’ [!UICONTROL Assegnazioni] La colonna potrebbe non visualizzare alcuna assegnazione, anche se sono state effettuate assegnazioni.
+Quando un utente passa a un progetto fissato utilizzando il pin, gli elenchi di oggetti (come l’elenco delle attività) possono mostrare colonne vuote. Ad esempio, una colonna [!UICONTROL Assegnazioni] potrebbe non mostrare alcuna assegnazione, anche se sono state effettuate delle assegnazioni.
 
-**Il modulo di sospensione provoca il blocco degli scenari**
+**il modulo di sospensione provoca il blocco degli scenari**
 
 _[!DNL Workfront Fusion]_
 
-Il [!UICONTROL Strumenti] > [!UICONTROL Sospendi] in uno scenario può causare il blocco dell’esecuzione di uno scenario. Queste esecuzioni mostrano lo stato In esecuzione nel [!UICONTROL Cronologia scenario], e non terminare.
+[!UICONTROL Strumenti] > Modulo di [!UICONTROL sospensione] in uno scenario può causare il blocco dell’esecuzione di uno scenario. Queste esecuzioni mostrano lo stato In esecuzione nella[!UICONTROL Cronologia scenario], e non si concludono.
 
 +++
 
 +++**Aggiornamento di manutenzione del 3 agosto 2023**
 
-**Difficoltà a individuare gli elementi nella colonna Acquisizione**
+**Difficoltà a individuare gli elementi nella colonna acquisizione**
 
 _Bacheche_
 
-La colonna Acquisizione su una bacheca era precedentemente ordinata in base alla priorità definita per attività e problemi, il che rendeva difficile individuare elementi specifici.
+La colonna acquisizione su una bacheca era precedentemente ordinata in base alla priorità definita per attività e problemi, il che rendeva difficile individuare elementi specifici.
 
 L’ordine predefinito è ora il seguente:
 
 Attività:
 
 * Ordine principale: nome progetto
-* Ordine secondario: struttura analisi stratificata lavoro
+* Ordine secondario: struttura dettaglio lavoro
 
 Problemi
 
@@ -70,19 +70,19 @@ Problemi
 
 **Il progetto non risolve correttamente il problema**
 
-_Progetti/Issues_
+_Progetti/Problemi_
 
 Quando un utente modifica lo stato di un progetto che è l’oggetto di risoluzione di un problema, lo stato del problema viene modificato in uno stato che non corrisponde alla stessa chiave dello stato del progetto.
 
-**Errore nei report matrice**
+**Errore “Ops” nei report matrice**
 
 _Rapporti_
 
-Quando un utente cerca di visualizzare un rapporto matrice, il rapporto non viene caricato e l’utente visualizza il seguente errore:
+Quando un utente cerca di aprire un rapporto matrice, questo non viene caricato e l’utente visualizza il seguente errore:
 
 “[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
 
-Questo problema è stato segnalato per gli utenti dell’EMEA.
+Questo problema è stato segnalato per gli utenti dell’area EMEA.
 
 +++
 
@@ -90,11 +90,11 @@ Questo problema è stato segnalato per gli utenti dell’EMEA.
 
 +++**Aggiornamento di manutenzione del 27 luglio 2023**
 
-**I tag e gli elementi dell’elenco di controllo non funzionano correttamente nella vista bacheca del progetto**
+**I tag e gli elementi di un elenco di controllo non funzionano correttamente nella vista bacheca del progetto**
 
 _Bacheche_
 
-I tag e gli elementi dell’elenco di controllo sono stati rimossi dalla vista bacheca dei progetti, perché non fanno parte delle attività di Workfront e non possono essere condivisi tra gli utenti.
+I tag e gli elementi di un elenco di controllo sono stati rimossi dalla vista bacheca dei progetti perché non fanno parte delle attività di Workfront e non possono essere condivisi tra gli utenti.
 
 **“[!UICONTROL Abilita a livello di sistema]” e “[!UICONTROL Visualizza a livello di sistema]” rappresentano funzionalità diverse**
 
