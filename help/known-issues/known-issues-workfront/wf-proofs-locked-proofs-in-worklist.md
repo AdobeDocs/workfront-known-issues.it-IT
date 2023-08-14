@@ -5,7 +5,7 @@ hidefromtoc: true
 exl-id: d2ccfaa4-2a60-4ffb-ac38-7f127aa5cc32
 feature: Digital Content and Documents
 source-git-commit: 30e6cd6459cd070bd4246cccc3af11556d676911
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il lunedì 3 agosto 2023.
+>Questo problema è stato risolto il 3 agosto 2023.
 
 Le approvazioni delle bozze che hanno superato la scadenza e sono bloccate vengono ancora visualizzate nell’Elenco lavori della Home dell’approvatore, invece di essere eliminate dall’elenco quando la scadenza viene superata.
 
