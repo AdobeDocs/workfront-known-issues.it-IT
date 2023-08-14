@@ -4,7 +4,7 @@ description: “Quando un utente modifica lo stato di un progetto che è l’ogg
 hidefromtoc: true
 feature: Projects
 source-git-commit: f2ac5034ba97c996e84b94caac80d7686a924c36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il lunedì 3 agosto 2023.
+>Questo problema è stato risolto il 3 agosto 2023.
 
 Quando un utente modifica lo stato di un progetto che è l’oggetto di risoluzione di un problema, lo stato del problema viene modificato in uno stato che non corrisponde alla stessa chiave dello stato del progetto.
 
