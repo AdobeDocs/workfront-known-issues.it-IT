@@ -1,12 +1,12 @@
 ---
-title: "Bozze: impossibile regolare i markup della bozza"
-description: '"Quando un utente aggiunge un commento nel visualizzatore di bozze e aggiunge un markup alla bozza, quindi fa clic in un altro punto, non può più regolare il markup. ”'
+title: '“Bozze: impossibile regolare i markup della bozza”'
+description: Quando un utente aggiunge un commento nel Proofing Viewer e aggiunge un markup alla bozza, quindi fa clic in un altro punto, non può più regolare il markup. ”
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 13999f5de48f612de2a75d179d2c3af0c6727607
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 <!--WF and WFP TOCs-->
 
-Quando un utente fa un commento nel visualizzatore di bozze e aggiunge un markup alla bozza e poi fa clic, non può più regolare il markup.
+Quando un utente fa un commento nel Proofing Viewer e aggiunge un markup alla bozza, quindi fa clic in un altro punto, non può più regolare il markup.
 
 **Soluzione alternativa**
 
