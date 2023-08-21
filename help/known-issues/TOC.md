@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
+source-git-commit: 1c3330160603619726529e903e917653bda64f93
 workflow-type: tm+mt
-source-wordcount: '1147'
-ht-degree: 100%
+source-wordcount: '1163'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Pianificazione risorse]: il planner non viene caricato quando viene applicato il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [Bozze: impossibile creare una bozza da PDF](known-issues-workfront/wf-proofs-cannot-generate-from-PDF.md)
       + [Bozze: i colori della bozza vengono visualizzati in modo non preciso](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente è taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
