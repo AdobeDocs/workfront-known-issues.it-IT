@@ -3,15 +3,19 @@ title: "Bozze: l’impostazione Disattiva notifiche e-mail bozza viene visualizz
 description: '"Quando un utente visualizza le impostazioni della bozza, la casella di controllo Disattiva notifiche e-mail bozza non mostra con precisione l’impostazione corrente corretta. Quando la casella è selezionata e indica che le notifiche e-mail delle bozze sono disabilitate, le notifiche sono effettivamente abilitate. È vero anche il contrario".'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 60bfb4f3d7183b2e5110d896a3668991718fbb01
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '136'
+ht-degree: 7%
 
 ---
 
 
 # Bozze: &quot;[!UICONTROL Disattiva notifiche e-mail bozza]L’impostazione &quot; viene visualizzata in modo impreciso
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 17 agosto 2023.
 
 Quando un utente visualizza le impostazioni della bozza in [!DNL Workfront], il &quot;[!UICONTROL Disattiva notifiche e-mail bozza]&quot; non visualizza con precisione l’impostazione corrente corretta. Quando la casella è selezionata e indica che le notifiche e-mail delle bozze sono disabilitate, le notifiche sono effettivamente abilitate. E&#39; vero anche il contrario.
 

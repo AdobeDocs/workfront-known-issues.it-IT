@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: db6932ca0c0a9108dfa326a71cb46ecb9af71779
+source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
-source-wordcount: '4657'
-ht-degree: 99%
+source-wordcount: '4799'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,29 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di agosto 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 10 agosto 2023**
++++**Aggiornamento di manutenzione del giovedì 17 agosto 2023**
+
+**Impossibile passare al progetto con URL che utilizza [!UICONTROL ID riferimento]**
+
+_Progetti_
+
+Quando un utente tenta di accedere a un progetto utilizzando un URL che include [!UICONTROL ID riferimento] vengono reindirizzati a una pagina contenente un messaggio di errore. Navigazione a un’attività utilizzando un URL con un [!UICONTROL ID riferimento] funziona come previsto.
+
+**&quot;[!UICONTROL Disattiva notifiche e-mail bozza]L’impostazione &quot; viene visualizzata in modo impreciso**
+
+_Bozze_
+
+Quando un utente visualizza le impostazioni della bozza in [!DNL Workfront], il &quot;[!UICONTROL Disattiva notifiche e-mail bozza]&quot; non visualizza con precisione l’impostazione corrente corretta. Quando la casella è selezionata e indica che le notifiche e-mail delle bozze sono disabilitate, le notifiche sono effettivamente abilitate. E&#39; vero anche il contrario.
+
+**Impossibile regolare i markup della bozza**
+
+_Bozze_
+
+Quando un utente fa un commento nel Proofing Viewer e aggiunge un markup alla bozza, quindi fa clic in un altro punto, non può più regolare il markup.
+
++++
+
++++**Aggiornamento di manutenzione del giovedì 10 agosto 2023**
 
 **impossibile eliminare l’elemento [!UICONTROL Attività] nella nuova esperienza [!UICONTROL Home]**
 
