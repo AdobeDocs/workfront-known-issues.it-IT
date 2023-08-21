@@ -4,7 +4,7 @@ description: “Quando un utente configura un modulo [!DNL Workfront] > [!DNL Wa
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 8a9db3e9d8972497fa979cc8c2fb488d3a33118a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il lunedì 10 agosto 2023.
+>Questo problema è stato risolto il 10 agosto 2023.
 
 Quando un utente configura un modulo [!DNL Workfront] > [!DNL Watch Events] e l&#39;operatore è impostato su “[!UICONTROL Uguale a]”, non è presenta la casella di testo per immettere un valore.
 
