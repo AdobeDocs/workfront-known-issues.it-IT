@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
+source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 100%
+source-wordcount: '387'
+ht-degree: 98%
 
 ---
 
@@ -37,6 +37,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: impossibile creare una bozza da PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 agosto 2023 |
 | [Bozze: la bozza viene visualizzata con la parte superiore tagliata](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 agosto 2023 |
 | [Bozze: la bozza approvata rimane nell’[!UICONTROL Elenco lavori della Home]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) dell’approvatore | 10 agosto 2023 |
 | [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 agosto 2023 |

@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
+source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
 workflow-type: tm+mt
-source-wordcount: '1157'
-ht-degree: 99%
+source-wordcount: '1163'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: impossibile creare una bozza da PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
       + [[!UICONTROL Pianificazione risorse]: il planner non viene caricato quando viene applicato il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [Bozze: i colori della bozza vengono visualizzati in modo non preciso](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente è taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md)

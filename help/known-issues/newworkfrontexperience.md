@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6037b25a9882626499ff8abd5b4975e97c907dcb
+source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 98%
+source-wordcount: '714'
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: impossibile creare una bozza da PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 agosto 2023 |
 | [[!UICONTROL Pianificazione risorse]: il planner non viene caricato quando viene applicato il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 21 agosto 2023 |
 | [Bozze: la bozza viene visualizzata con la parte superiore tagliata](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 agosto 2023 |
 | [Bozze: la bozza approvata rimane nell’[!UICONTROL Elenco lavori della Home]](known-issues-workfront/wf-proofs-proofs-stuck-in-worklist-august.md) dell’approvatore | 10 agosto 2023 |
