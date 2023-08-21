@@ -4,7 +4,7 @@ description: “Strumenti > Modulo di sospensione in uno scenario può causare i
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
