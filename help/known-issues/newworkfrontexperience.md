@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '696'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: i colori della bozza vengono visualizzati in modo errato](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 agosto 2023 |
-| [[!UICONTROL Home]: &quot;[!UICONTROL Menzioni]&quot; widget in nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente viene taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 agosto 2023 |
-| [[!UICONTROL Bilanciatore dei carichi di lavoro]: [!UICONTROL Ore Totali] non corrisponde alla somma di [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9 agosto 2023 |
+| [Bozze: i colori della bozza vengono visualizzati in modo impreciso](known-issues-workfront/wf-proof-inaccurate-colors.md) | 10 agosto 2023 |
+| [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente viene taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 agosto 2023 |
+| [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 9 agosto 2023 |
 | [Rapporti: problemi durante il caricamento dei rapporti matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 agosto 2023 |
 | [Bacheche: problemi durante il caricamento di una bacheca](known-issues-workfront/wf-boards-issues-with-loading.md) | 7 agosto 2023 |
 | [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 agosto 2023 |
