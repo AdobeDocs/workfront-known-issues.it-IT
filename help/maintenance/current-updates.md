@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
 workflow-type: tm+mt
 source-wordcount: '4799'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -28,13 +28,13 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 _Progetti_
 
-Quando un utente tenta di accedere a un progetto utilizzando un URL che include [!UICONTROL ID riferimento] vengono reindirizzati a una pagina contenente un messaggio di errore. Navigazione a un’attività utilizzando un URL con un [!UICONTROL ID riferimento] funziona come previsto.
+Quando un utente tenta di accedere a un progetto utilizzando un URL che include un numero [!UICONTROL ID di riferimento] viene reindirizzato a una pagina contenente un messaggio di errore. L’accesso a un’attività utilizzando un URL con un [!UICONTROL ID di riferimento] funziona come previsto.
 
 **&quot;[!UICONTROL Disattiva notifiche e-mail bozza]L’impostazione &quot; viene visualizzata in modo impreciso**
 
 _Bozze_
 
-Quando un utente visualizza le impostazioni della bozza in [!DNL Workfront], il &quot;[!UICONTROL Disattiva notifiche e-mail bozza]&quot; non visualizza con precisione l’impostazione corrente corretta. Quando la casella è selezionata e indica che le notifiche e-mail delle bozze sono disabilitate, le notifiche sono effettivamente abilitate. E&#39; vero anche il contrario.
+Quando un utente visualizza le impostazioni della bozza in [!DNL Workfront], la casella di controllo “[!UICONTROL Disabilita le notifiche e-mail delle bozze]” non visualizza con precisione l’impostazione corrente corretta. Quando la casella è selezionata e indica che le notifiche e-mail delle bozze sono disabilitate, in realtà le notifiche sono abilitate. Vale anche il contrario.
 
 **Impossibile regolare i markup della bozza**
 
@@ -56,13 +56,13 @@ Quando un utente nella nuova esperienza [!UICONTROL Home] tenta di eliminare un 
 
 Ciò può verificarsi quando sono presenti ore registrate in un elemento [!UICONTROL Attività].
 
-**Il progetto aggiunto non visualizza le informazioni in alcune colonne**
+**Un progetto fissato non presenta informazioni in alcune colonne**
 
 _Progetti_
 
 Quando un utente passa a un progetto fissato utilizzando il pin, gli elenchi di oggetti (come l’elenco delle attività) possono mostrare colonne vuote. Ad esempio, una colonna [!UICONTROL Assegnazioni] potrebbe non mostrare alcuna assegnazione, anche se sono state effettuate delle assegnazioni.
 
-**il modulo di sospensione provoca il blocco degli scenari**
+**Il modulo di sospensione provoca il blocco degli scenari**
 
 _[!DNL Workfront Fusion]_
 

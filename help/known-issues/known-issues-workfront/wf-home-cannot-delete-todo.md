@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il giovedì 10 agosto 2023.
+>Questo problema è stato risolto il 10 agosto 2023.
 
 Quando un utente nella nuova esperienza [!UICONTROL Home] tenta di eliminare un elemento dal widget [!UICONTROL Attività], l’elemento non viene eliminato e l’utente visualizza il seguente errore:
 
