@@ -3,9 +3,9 @@ title: '“Home: impossibile eliminare le attività nella nuova esperienza Home�
 description: “Quando un utente nella nuova esperienza Home tenta di eliminare un elemento dal widget Attività, l’elemento non viene eliminato e l’utente visualizza un errore.”
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 3676106501c4b2a54e1aa2716b8f68bb7977e27b
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,11 @@ ht-degree: 100%
 
 # Home: impossibile eliminare l’elemento [!UICONTROL Attività] nella nuova esperienza [!UICONTROL Home]
 
+<!--
 >[!NOTE]
 >
->Questo problema è stato risolto il 10 agosto 2023.
+>This issue was resolved on August 10, 2023.
+-->
 
 Quando un utente nella nuova esperienza [!UICONTROL Home] tenta di eliminare un elemento dal widget [!UICONTROL Attività], l’elemento non viene eliminato e l’utente visualizza il seguente errore:
 

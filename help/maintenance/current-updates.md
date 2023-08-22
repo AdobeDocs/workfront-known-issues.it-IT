@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735cf7f328ee2205df8dec1f41682a72dba2926a
+source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
 workflow-type: tm+mt
-source-wordcount: '4799'
+source-wordcount: '4918'
 ht-degree: 99%
 
 ---
@@ -21,6 +21,22 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di agosto 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 24 agosto 2023**
+
+**Impossibile selezionare testo in elenchi o punti elenco**
+
+_Bozze_
+
+Quando un utente visualizza una bozza nel visualizzatore di bozze e tenta di selezionare un testo incluso in un elenco o in un elenco puntato, lo strumento di selezione del testo non è efficace e non è possibile selezionare il testo.
+
+**La creazione di una nuova versione della bozza comporta l’eliminazione di tutte le versioni**
+
+_Bozze_
+
+Quando un utente crea una bozza da un documento, la bozza viene creata. Tuttavia, se un utente crea un’altra versione della bozza, vengono eliminate sia la versione precedente che quella nuova. È presente un’opzione [!UICONTROL Crea bozza] nel documento originale e le versioni della bozza sono disponibili nel [!UICONTROL Cestino] dell’area [!UICONTROL Bozza] in [!DNL Workfront].
+
++++
 
 +++**Aggiornamento di manutenzione del giovedì 17 agosto 2023**
 
