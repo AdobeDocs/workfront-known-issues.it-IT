@@ -38,15 +38,15 @@ Quando un utente crea una bozza da un documento, la bozza viene creata. Tuttavia
 
 +++
 
-+++**Aggiornamento di manutenzione del giovedì 17 agosto 2023**
++++**Aggiornamento di manutenzione del 17 agosto 2023**
 
-**Impossibile passare al progetto con URL che utilizza [!UICONTROL ID riferimento]**
+**Impossibile accedere a un progetto con l’URL che utilizza l’[!UICONTROL ID di riferimento]**
 
 _Progetti_
 
 Quando un utente tenta di accedere a un progetto utilizzando un URL che include un numero [!UICONTROL ID di riferimento] viene reindirizzato a una pagina contenente un messaggio di errore. L’accesso a un’attività utilizzando un URL con un [!UICONTROL ID di riferimento] funziona come previsto.
 
-**&quot;[!UICONTROL Disattiva notifiche e-mail bozza]L’impostazione &quot; viene visualizzata in modo impreciso**
+L’impostazione **“[!UICONTROL Disbilita le notifiche e-mail delle bozze]” viene visualizzata in modo impreciso**
 
 _Bozze_
 
@@ -60,7 +60,7 @@ Quando un utente fa un commento nel Proofing Viewer e aggiunge un markup alla bo
 
 +++
 
-+++**Aggiornamento di manutenzione del giovedì 10 agosto 2023**
++++**Aggiornamento di manutenzione del 10 agosto 2023**
 
 **impossibile eliminare l’elemento [!UICONTROL Attività] nella nuova esperienza [!UICONTROL Home]**
 
