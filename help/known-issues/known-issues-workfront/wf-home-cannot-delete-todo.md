@@ -4,7 +4,7 @@ description: “Quando un utente nella nuova esperienza Home tenta di eliminare 
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
