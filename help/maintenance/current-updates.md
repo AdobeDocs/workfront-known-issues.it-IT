@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '4918'
+source-wordcount: '4917'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di agosto 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 24 agosto 2023**
++++**Aggiornamento di manutenzione del 24 agosto 2023**
 
 **Impossibile selezionare testo in elenchi o punti elenco**
 

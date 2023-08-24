@@ -3,9 +3,9 @@ title: '“Bozze: impossibile selezionare il testo in elenchi o in elenchi punta
 description: “Quando un utente visualizza una bozza nel Proofing Viewer e tenta di selezionare un testo incluso in un elenco o in un elenco puntato, lo strumento di selezione del testo non è efficace e non è possibile selezionare il testo.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 276dff76ac5128a49cd0dd9ef9f28f021cec0453
-workflow-type: ht
-source-wordcount: '96'
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # Bozze: impossibile selezionare il testo in elenchi o in elenchi puntati
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 24 agosto 2023.
 
 Quando un utente visualizza una bozza nel visualizzatore di bozze e tenta di selezionare un testo incluso in un elenco o in un elenco puntato, lo strumento di selezione del testo non è efficace e non è possibile selezionare il testo.
 

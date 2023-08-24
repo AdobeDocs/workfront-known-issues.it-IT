@@ -4,9 +4,9 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
+source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '358'
 ht-degree: 98%
 
 ---
@@ -40,7 +40,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Bozze: impossibile creare una bozza da PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md) | 21 agosto 2023 |
 | [Bozze: la bozza viene visualizzata con la parte superiore tagliata](known-issues-workfront/wf-proofs-proof-displays-with-top-cut-off.md) | 10 agosto 2023 |
 | [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 agosto 2023 |
-| [Bozze: impossibile selezionare il testo in elenchi o in elenchi puntati](known-issues-workfront/wf-proofs-cannot-select-text-in-lists.md) | 10 agosto 2023 |
 | [Bozze: sovrapposizione del testo su una bozza](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 agosto 2023 |
 | [Bozze: l’impostazione “[!UICONTROL Disabilita le notifiche e-mail delle bozze]” viene visualizzata in modo impreciso](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 agosto 2023 |
 | [Bozze: impossibile regolare i markup della bozza](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 agosto 2023 |
