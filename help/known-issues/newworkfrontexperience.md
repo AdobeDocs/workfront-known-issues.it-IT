@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: 03ca95f99860333e125ed41a1c6853e48dd741e8
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: '673'
 ht-degree: 94%
 
 ---
@@ -25,11 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Home]: i filtri non si applicano ai widget nella nuova [!UICONTROL Home] esperienza](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 23 agosto 2023 |
 | [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente viene taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 agosto 2023 |
-| [Rapporti: problemi durante il caricamento dei rapporti matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 8 agosto 2023 |
-| [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md) | 3 agosto 2023 |
-| [Attività/problemi: l’utente assegnato non riceve l’accesso all’oggetto](known-issues-workfront/wf-access-assigned-user-not-getting-access.md) | 27 luglio 2023 |
 
 {style="table-layout:auto"}
 
@@ -39,6 +35,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: i filtri non si applicano ai widget nella nuova [!UICONTROL Home] esperienza](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md) | 25 agosto 2023 |
+| [Rapporti: problemi durante il caricamento dei rapporti matrice](known-issues-workfront/wf-reports-matrix-report-not-loading.md) | 25 agosto 2023 |
 | [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 agosto 2023 |
 | [Bozze: i colori della bozza vengono visualizzati in modo impreciso](known-issues-workfront/wf-proof-inaccurate-colors.md) | 23 agosto 2023 |
 | [Home: impossibile eliminare elemento [!UICONTROL Attività] nella nuova esperienza [!UICONTROL Home]](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 agosto 2023 |
@@ -49,7 +47,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Bozze: impossibile generare le bozze](known-issues-workfront/wf-proofs-fail-to-generate.md) | 10 agosto 2023 |
 | [Documenti: le approvazioni del documento non vengono visualizzate nell’area [!UICONTROL Approvazioni] ](known-issues-workfront/wf-documents-approvals-not-on-tab.md) | 10 agosto 2023 |
 | [Bozze: sovrapposizione del testo su una bozza](known-issues-workfront/wf-proofs-overlapping-text.md) | 8 agosto 2023 |
-| [Progetti: gli stati personalizzati del [!UICONTROL Gruppo Home] non sono disponibili quando si crea un progetto da un modello](known-issues-workfront/wf-projects-home-group-statuses-not-available.md) | 30 marzo 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
 {style="table-layout:auto"}
