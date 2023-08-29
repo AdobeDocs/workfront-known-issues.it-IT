@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
+source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
 workflow-type: tm+mt
-source-wordcount: '4917'
-ht-degree: 99%
+source-wordcount: '5068'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,35 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di agosto 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 31 agosto 2023**
+
+**I filtri non si applicano ai widget nella nuova [!UICONTROL Home] esperienza**
+
+_[!UICONTROL Home]_
+
+Quando un utente applica un filtro a un widget nel nuovo [!UICONTROL Home] esperienza, il widget mostra gli elementi che devono essere esclusi dal filtro.
+
+Questo problema è stato segnalato nell’ambiente Sandbox personalizzato. Gli stessi widget negli ambienti Anteprima e Produzione vengono filtrati come previsto.
+
+**Problemi durante il caricamento dei rapporti matrice**
+
+_Rapporti_
+
+Quando si tenta di caricare un rapporto matrice come grafico, può verificarsi una delle seguenti situazioni:
+
+* Alcune informazioni nel rapporto non vengono caricate
+* Il rapporto riporta l’errore “[!UICONTROL Impossibile caricare il contenuto dal server]”
+
+**Il planner non viene caricato quando viene applicato il filtro**
+
+_[!UICONTROL Pianificazione risorse]_
+
+Quando un utente cerca di caricare il [!UICONTROL Pianificazione risorse], il planner non si carica e l’utente visualizza il seguente messaggio di errore:
+
+&quot;[!UICONTROL Si è verificato il seguente errore: si è verificato un errore durante la connessione al servizio WorkPerDay]&quot;
+
++++
 
 +++**Aggiornamento di manutenzione del 24 agosto 2023**
 
