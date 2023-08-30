@@ -4,9 +4,9 @@ description: “Quando un utente fa clic su un commento nel Desktop Proofing Vie
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 4ef7d7b4287ded00084c521f6e1130c3b549f3c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 4 agosto 2023. Il problema può comunque verificarsi per le bozze create prima della correzione.
+>Questo problema è stato risolto il 4 agosto 2023. Il problema può comunque verificarsi nelle bozze create prima della correzione.
 
 Quando un utente fa clic su un commento nel Desktop Proofing Viewer, l’immagine associata al commento non si apre e l’utente visualizza il seguente messaggio:
 
