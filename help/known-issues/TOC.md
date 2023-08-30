@@ -3,9 +3,9 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1183'
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [[!UICONTROL Home]: i filtri non si applicano ai widget nella nuova [!UICONTROL Home] esperienza](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
-      + [Modelli di layout: modelli di layout che causano incoerenze nei rapporti](known-issues-workfront/wf-layout-templates-classic.md)
+      + [[!UICONTROL Home]: i filtri non si applicano ai widget nella nuova esperienza [!UICONTROL Home]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
+      + [Modelli layout: i modelli layout causano incongruenze nei rapporti](known-issues-workfront/wf-layout-templates-classic.md)
       + [Bozze: impossibile creare una bozza da PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
-      + [[!UICONTROL Pianificazione risorse]: il planner non viene caricato quando viene applicato il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md)
+      + [[!UICONTROL Pianificazione risorse]: la pianificazione non viene caricata quando si applica il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md)
       + [Bozze: i colori della bozza vengono visualizzati in modo non preciso](known-issues-workfront/wf-proof-inaccurate-colors.md)
       + [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente è taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md)
