@@ -4,7 +4,7 @@ description: “Quando un utente crea una bozza da un documento, la bozza viene 
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 5edee4bcf02453bdb4e84f24024ab87a6efe2f8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
 ht-degree: 100%
 
