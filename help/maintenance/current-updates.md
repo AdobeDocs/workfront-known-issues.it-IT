@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e229c944f8e428080fb30ff852455d37e5eef56b
-workflow-type: ht
-source-wordcount: '5068'
-ht-degree: 100%
+source-git-commit: ea865862f3e81214f2ab27e0c651f30ceeb1f89f
+workflow-type: tm+mt
+source-wordcount: '5189'
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,35 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
+## Aggiornamenti di settembre 2023
+
++++**Aggiornamento di manutenzione del 11 settembre 2023**&#39;
+
+**Le attività personali non vengono visualizzate nelle schede orario**
+
+_Schede orario_
+
+Per impostazione predefinita, le attività personali non vengono più visualizzate nella scheda attività. Le attività personali vengono visualizzate nella scheda attività quando sono bloccate o quando le ore sono registrate. Prima di questa modifica, le attività personali venivano visualizzate nelle schede orario per impostazione predefinita.
+
++++
+
++++**Aggiornamento di manutenzione del 7 settembre 2023**
+
+**Il progetto è vuoto se caricato da nuovo [!UICONTROL Home] esperienza**
+
+_Progetti_
+
+Quando un utente fa clic su un progetto dal proprio [!UICONTROL Home] nella nuova esperienza Home, la pagina del progetto non viene caricata correttamente.
+
+Ciò si verifica quando l’utente ha effettuato l’accesso come altro utente, ha poi disconnesso come altro utente e ha ripristinato il proprio [!UICONTROL Home] pagina.
+
++++
+
+**i filtri non si applicano ai widget nella nuova esperienza [!UICONTROL Home]**
+
 ## Aggiornamenti di agosto 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 31 agosto 2023**
++++**Aggiornamento di manutenzione del 31 agosto 2023**
 
 **i filtri non si applicano ai widget nella nuova esperienza [!UICONTROL Home]**
 
