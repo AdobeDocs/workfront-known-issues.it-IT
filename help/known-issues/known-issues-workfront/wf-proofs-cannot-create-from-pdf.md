@@ -3,9 +3,9 @@ title: '“Bozze: impossibile creare una bozza da PDF”'
 description: “Quando un utente tenta di creare una bozza da un file PDF, la bozza non viene generata e viene visualizzato un messaggio di errore.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8d14d8195c42a226a454882e20d1ff7fabd91410
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # Bozze: impossibile creare una bozza da PDF
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 24 agosto 2023.
 
 Quando un utente tenta di creare una bozza da un file PDF, la bozza non viene generata e viene visualizzato un messaggio di errore.
 

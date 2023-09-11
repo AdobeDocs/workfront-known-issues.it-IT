@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 97bb61f9fe3e5455e245a377bc805292b7fb6b21
-workflow-type: ht
-source-wordcount: '1183'
-ht-degree: 100%
+source-git-commit: 938d1692208c857b9e7e57666df9f95dd3e44559
+workflow-type: tm+mt
+source-wordcount: '1242'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Home]: Nuovo [!UICONTROL Home] l&#39;anteprima del widget non visualizza il nome corretto dell&#39;oggetto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Home]: [!UICONTROL Richieste] il widget non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [Moduli personalizzati: impossibile eliminare il campo personalizzato](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
+      + [[!UICONTROL Home]: funzionalità di ricerca non funzionante in legacy [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [Bozze: la formattazione del testo nella bozza statica non corrisponde alla formattazione nel sito web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
+      + [Progetti: il progetto è vuoto se caricato da nuovo [!UICONTROL Home] esperienza](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Home]: i filtri non si applicano ai widget nella nuova esperienza [!UICONTROL Home]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Modelli layout: i modelli layout causano incongruenze nei rapporti](known-issues-workfront/wf-layout-templates-classic.md)
       + [Bozze: impossibile creare una bozza da PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)

@@ -3,9 +3,9 @@ title: '“Configurazione: impossibile modificare i campi Costo/Ora o Fatturazio
 description: “Quando un utente modifica una mansione e tenta di modificare i campi Costo/Ora o Fatturazione/Ora, questi sono vuoti e l’utente non può modificarli.”
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: c21b660817890195de853e32a3eefdcf1d473c05
-workflow-type: ht
-source-wordcount: '121'
+source-git-commit: ae8e1dab69ba6ef16ea7dc056345f140b80ebc9e
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
+>Questo problema è stato risolto il 24 agosto 2023
 
 Quando un utente modifica una mansione e tenta di modificare i campi Costo/Ora o Fatturazione/Ora, questi sono vuoti e l’utente non può modificarli.
 
