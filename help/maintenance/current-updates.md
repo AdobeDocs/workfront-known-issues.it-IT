@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 94acc80b555e5e8e3660cde321291686410c002c
+source-git-commit: bbb231090314a54754d43a3956544a9063dfd88a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '5290'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,28 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di settembre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 14 settembre 2023**
+
+**&quot;[!UICONTROL Nessuna fabbrica]Errore &quot;durante l’aggiunta di un documento**
+
+_Documenti_
+
+Quando un utente tenta di aggiungere un documento da un’origine esterna, [!DNL Workfront] non può accedere all’origine e l’utente visualizza il seguente errore:
+
+&quot;[!UICONTROL Si è verificato il seguente errore: Nessuna factory trovata per il tipo di autenticazione null]&quot;
+
+**Errore “Ops” nei report matrice**
+
+_Rapporti_
+
+Quando un utente cerca di aprire un rapporto matrice, questo non viene caricato e l’utente visualizza il seguente errore:
+
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+
+Ciò si verifica quando si raggruppa un rapporto per intervalli di date.
+
++++
 
 +++**Aggiornamento di manutenzione del 11 settembre 2023**
 
