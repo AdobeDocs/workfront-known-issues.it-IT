@@ -3,17 +3,17 @@ title: '“Modelli layout: i modelli layout causano incongruenze nei rapporti”
 description: “I modelli layout dell’esperienza Workfront classica non sono più disponibili nell’interfaccia di Workfront, ma possono comunque influire sui dati di Workfront. Questo può causare incongruenze nei campi interessati dai modelli stessi (ad esempio Condiviso con), nei rapporti o nelle dashboard.”
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 045e2bd200aa2fffaf2e763a73eb8729517be197
-workflow-type: ht
-source-wordcount: '195'
-ht-degree: 100%
+source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
+workflow-type: tm+mt
+source-wordcount: '192'
+ht-degree: 81%
 
 ---
 
 
 # Modelli layout: i modelli layout causano incongruenze nei rapporti
 
-I modelli layout dell’esperienza Workfront classica non sono più disponibili nell’interfaccia di Workfront, ma possono comunque influire sui dati di Workfront. Questo può causare incongruenze nei campi interessati dai modelli stessi (ad esempio Condiviso con), nei rapporti o nelle dashboard.
+Modelli di layout da Classic [!DNL Workfront] non sono più disponibili in [!DNL Workfront] , ma possono comunque influire [!DNL Workfront] dati. Questo può causare incoerenze nei campi interessati dai modelli di layout (come [!UICONTROL Condiviso con]) nei rapporti o nelle dashboard.
 
 **Soluzione alternativa**
 
