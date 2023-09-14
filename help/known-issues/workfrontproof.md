@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
+source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 95%
+source-wordcount: '328'
+ht-degree: 96%
 
 ---
 
@@ -25,8 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 1 settembre 2023 |
-| [Bozze: la formattazione del testo nella bozza statica non corrisponde alla formattazione nel sito web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 1 settembre 2023 |
+| Nessuno |  |
 
 {style="table-layout:auto"}
 
@@ -36,6 +35,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 settembre 2023 |
+| [Bozze: la formattazione del testo nella bozza statica non corrisponde alla formattazione nel sito web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 settembre 2023 |
 | [Bozze: l’impostazione “[!UICONTROL Disabilita le notifiche e-mail delle bozze]” viene visualizzata in modo impreciso](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 agosto 2023 |
 | [Bozze: impossibile regolare i markup della bozza](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 agosto 2023 |
 
