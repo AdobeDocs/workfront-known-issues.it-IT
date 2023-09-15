@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9cc11511730a2088460274def57f5d54defa4579
+source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 91%
+source-wordcount: '709'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filtri: pulsanti etichettati come &quot;[!UICONTROL OBSOLETO]&quot; quando si condivide un filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 settembre 2023 |
 | [[!UICONTROL Home]: [!UICONTROL Richieste] il widget non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 settembre 2023 |
 | [Progetti: il progetto è vuoto se caricato da nuovo [!UICONTROL Home] esperienza](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 settembre 2023 |
 | [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente viene taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 agosto 2023 |
@@ -37,6 +38,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: impossibile spostare il documento in un&#39;altra cartella](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 settembre 2023 |
+| [Bozze: le bozze appaiono sature o ritagliate](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 settembre 2023 |
+| [Aggiornamenti: i commenti aggiunti nella nuova esperienza di commento non sono visibili nell’esperienza precedente](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 settembre 2023 |
+| [Schede: impossibile assegnare l’utente su una scheda in un flusso di lavoro](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 15 settembre 2023 |
+| [Aggiornamenti: il commento viene visualizzato come inviato dall’utente errato](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 settembre 2023 |
 | [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 settembre 2023 |
 | [Bozze: la formattazione del testo nella bozza statica non corrisponde alla formattazione nel sito web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 settembre 2023 |
 | [[!UICONTROL Pianificazione risorse]: la pianificazione non viene caricata quando si applica il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 settembre 2023 |
