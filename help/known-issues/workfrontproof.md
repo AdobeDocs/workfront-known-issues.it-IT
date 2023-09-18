@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: d07a0053faaecd977c5a7a4ea19dc6bfdfaf7792
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 91%
+source-wordcount: '352'
+ht-degree: 90%
 
 ---
 
@@ -35,6 +35,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: la generazione delle bozze richiede troppo tempo](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 settembre 2023 |
 | [Documenti: impossibile spostare il documento in un&#39;altra cartella](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 settembre 2023 |
 | [Bozze: le bozze appaiono sature o ritagliate](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 settembre 2023 |
 | [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 settembre 2023 |
