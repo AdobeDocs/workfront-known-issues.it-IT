@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4adc896e53b46ea6dfcb99f3050c5bfe275de72c
+source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
-source-wordcount: '5289'
-ht-degree: 97%
+source-wordcount: '5601'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,63 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di settembre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 21 settembre 2023**
+
+**Impossibile assegnare l’utente su una bacheca in un flusso di lavoro**
+
+_Bacheche_
+
+Quando un utente cerca di assegnare un altro utente a un’attività da una bacheca che fa parte di un flusso di lavoro e inizia a digitare il nome dell’utente, quest’ultimo non viene visualizzato nell’elenco a discesa degli utenti disponibili. Ciò si verifica anche quando l’utente è attivo e un membro sia della scheda che del flusso di lavoro.
+
+L’utente potrebbe anche notare che gli utenti disattivati vengono visualizzati nel menu a discesa.
+
+**I moduli personalizzati si caricano lentamente**
+
+_Moduli personalizzati_
+
+Quando un utente cerca di caricare un modulo personalizzato, questo viene caricato lentamente.
+
+**Impossibile spostare il documento in un&#39;altra cartella**
+
+_Documenti_
+
+Quando un utente sposta un documento in una cartella di oggetti, non può spostare l’oggetto in un’altra cartella.
+
+**Errore XML durante il download**
+
+_Documenti_
+
+Quando un utente tenta di scaricare un documento, l’operazione ha esito negativo e l’utente visualizza una pagina con il messaggio seguente seguito da testo XML.
+
+“[!UICONTROL Al file XML non sono associate informazioni sullo stile. La struttura del documento è riportata di seguito.]”
+
+**Impossibile scaricare documenti da ambienti di anteprima/sandbox**
+
+_Documenti_
+
+Quando un utente cerca di scaricare un documento da un ambiente diverso da quello di produzione, il documento non viene scaricato e l’utente visualizza il seguente errore:
+
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+
+**Le bozze appaiono sature o ritagliate**
+
+_Bozze_
+
+Sono stati segnalati i seguenti problemi durante la creazione di una bozza da un URL.
+
+* La bozza appare insaturata o sbiadita.
+* La bozza viene ritagliata.
+
+Questo può rendere difficili le decisioni relative alle bozze, in quanto la bozza non viene rappresentata con precisione.
+
+**La generazione delle bozze richiede troppo tempo**
+
+_Bozze_
+
+Quando un utente tenta di generare una bozza, la generazione della bozza richiede un tempo eccessivo. La generazione della bozza può richiedere diversi giorni.
+
++++
 
 +++**Aggiornamento di manutenzione del 14 settembre 2023**
 
