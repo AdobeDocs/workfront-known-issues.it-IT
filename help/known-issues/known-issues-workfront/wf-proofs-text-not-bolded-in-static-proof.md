@@ -3,9 +3,9 @@ title: '“Bozze: la formattazione del testo nella bozza statica non corrisponde
 description: “Quando un utente crea una bozza statica da un sito web, il testo in grassetto sul sito web non viene visualizzato come tale nella bozza.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 84a71f664ead2441ee92118f4f7111e5b7ff8ed1
-workflow-type: ht
-source-wordcount: '78'
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 100%
 # Bozze: la formattazione del testo nella bozza statica non corrisponde alla formattazione nel sito web
 
 <!--WF, WFP TOCs-->
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 21 settembre 2023.
 
 Quando un utente crea una bozza statica da un sito web, il testo in grassetto sul sito web non viene visualizzato come tale nella bozza.
 

@@ -3,9 +3,9 @@ title: '“Pianificazione risorse: la pianificazione non viene caricata quando s
 description: “Quando un utente tenta di caricare la Pianificazione risorse, questa non viene caricata e l’utente visualizza un messaggio di errore.”
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 676171730de5c12a7a19e4311d756529aaa3b73a
-workflow-type: ht
-source-wordcount: '79'
+source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 100%
 
 # [!UICONTROL Pianificazione risorse]: la pianificazione non viene caricata quando si applica il filtro
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on August 31, 2023.
--->
+>Questo problema è stato risolto il 21 settembre 2023.
 
 Quando un utente cerca di caricare la [!UICONTROL Pianificazione risorse], questa non si carica e l’utente visualizza il seguente messaggio di errore:
 
