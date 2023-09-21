@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
 workflow-type: tm+mt
 source-wordcount: '5601'
-ht-degree: 93%
+ht-degree: 94%
 
 ---
 
@@ -113,13 +113,13 @@ Per impostazione predefinita, le attività personali non vengono più visualizza
 
 +++**Aggiornamento di manutenzione del 7 settembre 2023**
 
-**Il progetto è vuoto se caricato da nuovo [!UICONTROL Home] esperienza**
+**Il progetto è vuoto quando viene caricato da nuova esperienza [!UICONTROL Home]**
 
 _Progetti_
 
-Quando un utente fa clic su un progetto dal proprio [!UICONTROL Home] nella nuova esperienza Home, la pagina del progetto non viene caricata correttamente.
+Quando un utente fa clic su un progetto dalla pagina [!UICONTROL Home] nella nuova esperienza Home, la pagina del progetto non viene caricata correttamente.
 
-Ciò si verifica quando l’utente ha effettuato l’accesso come altro utente, ha poi disconnesso come altro utente e ha ripristinato il proprio [!UICONTROL Home] pagina.
+Ciò si verifica quando l’utente ha effettuato l’accesso come altro utente, si è poi disconnesso come altro utente e ha ripristinato la propria pagina [!UICONTROL Home].
 
 +++
 

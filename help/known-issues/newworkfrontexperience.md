@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
 source-wordcount: '744'
-ht-degree: 79%
+ht-degree: 88%
 
 ---
 
@@ -28,8 +28,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Bozza: commento aggiuntivo vuoto quando si crea un commento su una bozza](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 settembre 2023 |
 | [Bacheche: le schede senza titolo vengono visualizzate e visualizzate nel backlog](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 15 settembre 2023 |
 | [Filtri: pulsanti etichettati come &quot;[!UICONTROL OBSOLETO]&quot; quando si condivide un filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md) | 15 settembre 2023 |
-| [[!UICONTROL Home]: [!UICONTROL Richieste] il widget non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 settembre 2023 |
-| [Progetti: il progetto è vuoto se caricato da nuovo [!UICONTROL Home] esperienza](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 settembre 2023 |
+| [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 settembre 2023 |
+| [Progetti: il progetto è vuoto se caricato da nuova esperienza [!UICONTROL Home]](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 settembre 2023 |
 | [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente viene taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 agosto 2023 |
 
 {style="table-layout:auto"}
@@ -63,7 +63,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Home]: Nuovo [!UICONTROL Home] l&#39;anteprima del widget non visualizza il nome corretto dell&#39;oggetto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 settembre 2023 |
+| [[!UICONTROL Home]: la nuova anteprima del widget [!UICONTROL Home] non visualizza il nome dell’oggetto corretto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 settembre 2023 |
 | [Modelli layout: i modelli layout causano incongruenze nei rapporti](known-issues-workfront/wf-layout-templates-classic.md) | 21 agosto 2023 |
 | [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 agosto 2023 |
 | [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 agosto 2023 |

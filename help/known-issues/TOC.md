@@ -5,7 +5,7 @@ role: User
 source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
 workflow-type: tm+mt
 source-wordcount: '1342'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 88%
       + [Aggiornamenti: il commento viene visualizzato come inviato dall’utente errato](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md)
       + [Schede: impossibile assegnare l’utente su una scheda in un flusso di lavoro](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md)
       + [Filtri: pulsanti etichettati come &quot;[!UICONTROL OBSOLETO]&quot; quando si condivide un filtro](known-issues-workfront/wf-filters-buttons-display-as-deprecated.md)
-      + [[!UICONTROL Home]: Nuovo [!UICONTROL Home] l&#39;anteprima del widget non visualizza il nome corretto dell&#39;oggetto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
-      + [[!UICONTROL Home]: [!UICONTROL Richieste] il widget non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md)
+      + [[!UICONTROL Home]: la nuova anteprima del widget [!UICONTROL Home] non visualizza il nome corretto dell’oggetto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
+      + [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md)
       + [Moduli personalizzati: impossibile eliminare il campo personalizzato](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md)
-      + [[!UICONTROL Home]: funzionalità di ricerca non funzionante in legacy [!UICONTROL Elenco lavori dell’area Home]](known-issues-workfront/wf-home-search-not-working-legacy.md)
+      + [[!UICONTROL Home]: la funzionalità di ricerca non è funzionante in [!UICONTROL Elenco lavori della Home] precedente](known-issues-workfront/wf-home-search-not-working-legacy.md)
       + [Bozze: la formattazione del testo nella bozza statica non corrisponde alla formattazione nel sito web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md)
-      + [Progetti: il progetto è vuoto se caricato da nuovo [!UICONTROL Home] esperienza](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
+      + [Progetti: il progetto è vuoto quando viene caricato da nuova esperienza [!UICONTROL Home]](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md)
       + [[!UICONTROL Home]: i filtri non si applicano ai widget nella nuova esperienza [!UICONTROL Home]](known-issues-workfront/wf-home-filters-not-applying-to-widgets.md)
       + [Modelli layout: i modelli layout causano incongruenze nei rapporti](known-issues-workfront/wf-layout-templates-classic.md)
       + [Bozze: impossibile creare una bozza da PDF](known-issues-workfront/wf-proofs-cannot-create-from-pdf.md)
