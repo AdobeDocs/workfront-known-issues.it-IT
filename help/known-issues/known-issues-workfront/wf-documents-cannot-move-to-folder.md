@@ -3,15 +3,19 @@ title: "Documenti: impossibile spostare il documento in un’altra cartella"
 description: "Quando un utente sposta un documento in una cartella di oggetti, non può spostare l’oggetto in un’altra cartella."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 7945b58dc8a0466bc6990883561d4bf11b498a56
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 6%
+source-wordcount: '87'
+ht-degree: 12%
 
 ---
 
 
 # Documenti: impossibile spostare il documento in un&#39;altra cartella
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 30 settembre 2023.
 
 Quando un utente sposta un documento in una cartella di oggetti, non può spostare l’oggetto in un’altra cartella.
 

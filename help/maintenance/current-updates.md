@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2abcb617a2462f5e2a3231b35b0153add23d6969
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '5601'
-ht-degree: 94%
+source-wordcount: '5631'
+ht-degree: 93%
 
 ---
 
@@ -22,7 +22,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di settembre 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 21 settembre 2023**
++++**Aggiornamento di manutenzione del 21 settembre 2023**
 
 **Impossibile assegnare l’utente su una bacheca in un flusso di lavoro**
 
@@ -31,6 +31,12 @@ _Bacheche_
 Quando un utente cerca di assegnare un altro utente a un’attività da una bacheca che fa parte di un flusso di lavoro e inizia a digitare il nome dell’utente, quest’ultimo non viene visualizzato nell’elenco a discesa degli utenti disponibili. Ciò si verifica anche quando l’utente è attivo e un membro sia della scheda che del flusso di lavoro.
 
 L’utente potrebbe anche notare che gli utenti disattivati vengono visualizzati nel menu a discesa.
+
+**Impossibile eliminare la voce dell’elenco di controllo**
+
+_Bacheche_
+
+Quando un utente cerca di eliminare una voce dell’elenco di controllo da una scheda di una bacheca, l’ [!UICONTROL Elimina] il pulsante non risponde e l&#39;elemento non viene eliminato.
 
 **I moduli personalizzati si caricano lentamente**
 

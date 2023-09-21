@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 88%
+source-wordcount: '703'
+ht-degree: 92%
 
 ---
 
@@ -41,13 +41,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!DNL Workfront]: elementi mancanti nella pagina dell’oggetto](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 settembre 2023 |
-| [Bozze: la generazione delle bozze richiede troppo tempo](known-issues-workfront/wf-proofs-proof-takes-days-to-generate.md) | 18 settembre 2023 |
-| [Documenti: impossibile spostare il documento in un&#39;altra cartella](known-issues-workfront/wf-documents-cannot-move-to-folder.md) | 15 settembre 2023 |
-| [Bozze: le bozze appaiono sature o ritagliate](known-issues-workfront/wf-proofs-desaturated-and-cropped.md) | 15 settembre 2023 |
 | [Aggiornamenti: i commenti aggiunti nella nuova esperienza di commento non sono visibili nell’esperienza precedente](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 settembre 2023 |
-| [Schede: impossibile assegnare l’utente su una scheda in un flusso di lavoro](known-issues-workfront/wf-boards-cannot-add-user-to-workstream-board.md) | 15 settembre 2023 |
 | [Aggiornamenti: il commento viene visualizzato come inviato dall’utente errato](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 settembre 2023 |
-| [Documenti: errore XML durante il download](known-issues-workfront/wf-documents-xml-error-when-downloading.md) | 14 settembre 2023 |
 | [Bozze: la formattazione del testo nella bozza statica non corrisponde alla formattazione nel sito web](known-issues-workfront/wf-proofs-text-not-bolded-in-static-proof.md) | 14 settembre 2023 |
 | [[!UICONTROL Pianificazione risorse]: la pianificazione non viene caricata quando si applica il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 7 settembre 2023 |
 | [Moduli personalizzati: impossibile eliminare il campo personalizzato](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 settembre 2023 |
