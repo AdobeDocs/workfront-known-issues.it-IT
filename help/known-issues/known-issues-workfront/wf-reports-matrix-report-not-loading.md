@@ -4,7 +4,7 @@ description: "Quando si tenta di caricare un report matrice come grafico, si pos
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 4f4099aaa7ba74d43f5d6a052bbc35d43ff0bb98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
