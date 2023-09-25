@@ -3,15 +3,21 @@ title: "Home: il widget Menzioni nella nuova pagina Home non è limitato ai mess
 description: "Quando visualizza il widget Menzioni nella nuova esperienza Home, l’utente vede commenti in cui non sono presenti tag o menzioni su di sé."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8e69a8c5339012df5d7f83096476f6d4a45ae4e2
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+workflow-type: tm+mt
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova pagina [!UICONTROL Home] non è limitato ai messaggi in cui l’utente è taggato
+
+<!--Requested article, won't fix-->
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso perché il sistema funziona come previsto.
 
 Quando visualizza il widget “[!UICONTROL Menzioni]” nella nuova esperienza [!UICONTROL Home], l’utente vede commenti in cui non sono presenti tag o menzioni su di sé. Il widget include commenti in cui:
 

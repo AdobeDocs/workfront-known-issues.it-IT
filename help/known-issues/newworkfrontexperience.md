@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 93%
+source-wordcount: '626'
+ht-degree: 95%
 
 ---
 
@@ -26,8 +26,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 settembre 2023 |
-| [Progetti: il progetto è vuoto se caricato da nuova esperienza [!UICONTROL Home]](known-issues-workfront/wf-projects-project-does-not-load-from-new-home.md) | 1 settembre 2023 |
-| [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente viene taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 10 agosto 2023 |
 
 {style="table-layout:auto"}
 
@@ -38,12 +36,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bozza: commento aggiuntivo vuoto quando si crea un commento su una bozza](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 settembre 2023 |
-| [Bacheche: le schede senza titolo vengono visualizzate e visualizzate nel backlog](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md) | 21 settembre 2023 |
 | [[!DNL Workfront]: elementi mancanti nella pagina dell’oggetto](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 settembre 2023 |
 | [Aggiornamenti: i commenti aggiunti nella nuova esperienza di commento non sono visibili nell’esperienza precedente](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 settembre 2023 |
-| [Aggiornamenti: il commento viene visualizzato come inviato dall’utente errato](known-issues-workfront/wf-updates-comment-displays-as-wrong-user.md) | 15 settembre 2023 |
 | [Moduli personalizzati: impossibile eliminare il campo personalizzato](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 settembre 2023 |
-| [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 22 agosto 2023 |
 | [Bacheche: problemi durante il caricamento di una bacheca](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 agosto 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
@@ -55,6 +50,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente viene taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 settembre 2023 |
 | [[!UICONTROL Home]: la nuova anteprima del widget [!UICONTROL Home] non visualizza il nome dell’oggetto corretto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 settembre 2023 |
 | [Modelli layout: i modelli layout causano incongruenze nei rapporti](known-issues-workfront/wf-layout-templates-classic.md) | 21 agosto 2023 |
 | [Bozze: le opzioni di approvazione non vengono visualizzate in [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 agosto 2023 |

@@ -4,9 +4,9 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
+source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '322'
 ht-degree: 92%
 
 ---
@@ -36,8 +36,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bozza: commento aggiuntivo vuoto quando si crea un commento su una bozza](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 settembre 2023 |
-| [Bozze: l’impostazione “[!UICONTROL Disabilita le notifiche e-mail delle bozze]” viene visualizzata in modo impreciso](known-issues-workfront/wf-proofs-disable-email-inaccurate.md) | 8 agosto 2023 |
-| [Bozze: impossibile regolare i markup della bozza](known-issues-workfront/wf-proof-markup-tools-not-working.md) | 3 agosto 2023 |
 
 {style="table-layout:auto"}
 
