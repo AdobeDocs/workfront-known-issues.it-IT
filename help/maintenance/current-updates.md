@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 430a8c7f2ae57a5d0d991f75579e84b1dd01818f
+source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
 workflow-type: tm+mt
-source-wordcount: '5631'
-ht-degree: 93%
+source-wordcount: '5776'
+ht-degree: 91%
 
 ---
 
@@ -21,6 +21,32 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di settembre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 28 settembre 2023**
+
+**Impossibile eliminare il campo personalizzato**
+
+_Moduli personalizzati_
+
+Il tentativo di eliminazione di un campo personalizzato risulta impossibile da parte dell‘utente, che visualizza il messaggio “[!UICONTROL Errore database dovuto alla violazione del vincolo].”
+
+**I commenti aggiunti nella nuova esperienza di commento non sono visibili nell’esperienza precedente**
+
+_Aggiornamenti_
+
+Quando un utente aggiunge un commento nella nuova esperienza di commento e tale commento viene visualizzato nell’area Commenti della nuova esperienza, è possibile che lo stesso commento non venga visualizzato nell’esperienza di commento precedente. Questo potrebbe causare la perdita di commenti da parte degli utenti che utilizzano l’esperienza legacy.
+
+**Nella pagina dell&#39;oggetto mancano elementi**
+
+_Workfront_
+
+Quando un utente passa a una sezione personalizzata di un oggetto in [!DNL Workfront], alcuni elementi potrebbero non essere presenti nella pagina di caricamento. Tali elementi possono includere:
+
+* Pannello di navigazione a sinistra
+* Nome dell&#39;oggetto a cui appartiene la sezione personalizzata
+* Campi e informazioni nell’intestazione
+
++++
 
 +++**Aggiornamento di manutenzione del 21 settembre 2023**
 
