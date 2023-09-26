@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 95%
+source-wordcount: '644'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bacheche: la barra di scorrimento orizzontale non è presente](known-issues-workfront/wf-board-no-scrollbar.md) | 26 settembre 2023 |
 | [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 settembre 2023 |
 
 {style="table-layout:auto"}
@@ -35,6 +36,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bilanciatore dei carichi di lavoro: l’utente viene visualizzato come sovrassegnato a causa di una capacità non accurata](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 settembre 2023 |
 | [Bozza: commento aggiuntivo vuoto quando si crea un commento su una bozza](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 settembre 2023 |
 | [[!DNL Workfront]: elementi mancanti nella pagina dell’oggetto](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 settembre 2023 |
 | [Aggiornamenti: i commenti aggiunti nella nuova esperienza di commento non sono visibili nell’esperienza precedente](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 settembre 2023 |

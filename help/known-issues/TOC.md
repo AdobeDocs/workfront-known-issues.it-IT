@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 98ee543f0a4711a0361bcb4ffe1a664a64e4044d
+source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
 workflow-type: tm+mt
-source-wordcount: '1342'
-ht-degree: 92%
+source-wordcount: '1352'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bilanciatore dei carichi di lavoro: l’utente viene visualizzato come sovrassegnato a causa di una capacità non accurata](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]: elementi mancanti nella pagina dell’oggetto](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
       + [Bozza: commento aggiuntivo vuoto quando si crea un commento su una bozza](known-issues-workfront/wf-proofs-extra-blank-comment.md)
       + [Bacheche: le schede senza titolo vengono visualizzate e visualizzate nel backlog](known-issues-workfront/wf-boards-untitled-cards-displaying-and-saved.md)
