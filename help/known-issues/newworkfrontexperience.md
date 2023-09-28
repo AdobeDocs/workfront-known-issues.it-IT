@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fa52023b015488a05b0f8b2b09bf3e07f1edf1ed
+source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
 workflow-type: tm+mt
-source-wordcount: '651'
-ht-degree: 93%
+source-wordcount: '628'
+ht-degree: 95%
 
 ---
 
@@ -37,12 +37,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Pianificazione risorse]: la pianificazione non viene caricata quando si applica il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28 settembre 2023 |
 | [Bilanciatore dei carichi di lavoro: l’utente viene visualizzato come sovrassegnato a causa di una capacità non accurata](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 settembre 2023 |
 | [Bozza: commento aggiuntivo vuoto quando si crea un commento su una bozza](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 settembre 2023 |
-| [[!DNL Workfront]: elementi mancanti nella pagina dell’oggetto](known-issues-workfront/wf-workfront-work-item-missing-elements.md) | 20 settembre 2023 |
-| [Aggiornamenti: i commenti aggiunti nella nuova esperienza di commento non sono visibili nell’esperienza precedente](known-issues-workfront/wf-updates-comment-not-visible-in-legacy.md) | 15 settembre 2023 |
-| [Moduli personalizzati: impossibile eliminare il campo personalizzato](known-issues-workfront/wf-custom-forms-database-error-constraint-violation.md) | 1 settembre 2023 |
-| [Bacheche: problemi durante il caricamento di una bacheca](known-issues-workfront/wf-boards-issues-with-loading.md) | 22 agosto 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
 {style="table-layout:auto"}
