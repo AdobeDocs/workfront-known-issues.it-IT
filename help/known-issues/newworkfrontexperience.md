@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
+source-git-commit: e1d9736c45250c347965cc52edd43755d5b76809
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 95%
+source-wordcount: '656'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni di documenti: errore durante il trascinamento di una risorsa in una cartella in un’integrazione Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 settembre 2023 |
 | [Condivisione: errore durante la condivisione di un oggetto](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 settembre 2023 |
 | [Bacheche: la barra di scorrimento orizzontale non è presente](known-issues-workfront/wf-board-no-scrollbar.md) | 26 settembre 2023 |
 | [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 settembre 2023 |
@@ -37,6 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Utenti: messaggio di errore visualizzato in modo errato quando si ricorda all’utente di registrarsi](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 settembre 2023 |
 | [[!UICONTROL Pianificazione risorse]: la pianificazione non viene caricata quando si applica il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28 settembre 2023 |
 | [Bilanciatore dei carichi di lavoro: l’utente viene visualizzato come sovrassegnato a causa di una capacità non accurata](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 settembre 2023 |
 | [Bozza: commento aggiuntivo vuoto quando si crea un commento su una bozza](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 settembre 2023 |
