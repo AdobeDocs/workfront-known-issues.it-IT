@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ccf3009d99f381b6c0895bf3a209ab848c09aaa2
+source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
 workflow-type: tm+mt
-source-wordcount: '1392'
-ht-degree: 89%
+source-wordcount: '1402'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bacheche: le schede non mostrano il numero corretto di voci dell’elenco di controllo](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [Notifiche: le e-mail di promemoria automatici non vengono inviate](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Integrazioni di documenti: errore durante il trascinamento di una risorsa in una cartella in un’integrazione Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
       + [Utenti: messaggio di errore visualizzato in modo errato quando si ricorda all’utente di registrarsi](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
