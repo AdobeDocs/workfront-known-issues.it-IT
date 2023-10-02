@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6facca06aba9eeb16ecb2a79142c22265dbafea2
+source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1410'
 ht-degree: 88%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bacheche: la bacheca si carica lentamente](known-issues-workfront/wf-boards-board-loads-slowly.md)
+      + [Bacheche: impossibile spostare le schede](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Bacheche: le schede non mostrano il numero corretto di voci dell’elenco di controllo](known-issues-workfront/wf-boards-checklist-item-count.md)
       + [Notifiche: le e-mail di promemoria automatici non vengono inviate](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Integrazioni di documenti: errore durante il trascinamento di una risorsa in una cartella in un’integrazione Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
