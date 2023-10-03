@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7d0e60769397fbd7e946476f3b84220720bb047
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '5776'
+source-wordcount: '5802'
 ht-degree: 91%
 
 ---
@@ -20,9 +20,21 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
+## Aggiornamenti di ottobre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 5 ottobre 2023**
+
+**Le e-mail di promemoria automatici non vengono inviate**
+
+_Notifiche_
+
+I promemoria e-mail automatici non vengono inviati. È iniziato il 14 settembre 2023.
+
++++
+
 ## Aggiornamenti di settembre 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 28 settembre 2023**
++++**Aggiornamento di manutenzione del 28 settembre 2023**
 
 **Impossibile eliminare il campo personalizzato**
 

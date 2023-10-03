@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: bd007abf526c98f00562e520afc34a17b1df653d
+source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 88%
+source-wordcount: '1452'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bilanciatore dei carichi di lavoro: le modifiche manuali dell’ora non sono accurate dopo l’aggiornamento della pagina](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [Home: le attività delegate non sono condivise e non vengono visualizzate nell’elenco di lavoro dell’area Home](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
+      + [Accesso: viene visualizzato un errore durante il ripristino della password nonostante l’azione sia stata eseguita correttamente](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [Bacheche: la bacheca si carica lentamente](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [Bacheche: impossibile spostare le schede](known-issues-workfront/wf-boards-can-not-move-cards.md)
       + [Bacheche: le schede non mostrano il numero corretto di voci dell’elenco di controllo](known-issues-workfront/wf-boards-checklist-item-count.md)
