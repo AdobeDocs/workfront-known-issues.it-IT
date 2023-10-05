@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '702'
 ht-degree: 84%
 
 ---
@@ -44,7 +44,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Bilanciatore dei carichi di lavoro: le modifiche manuali dell’ora non sono accurate dopo l’aggiornamento della pagina](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 ottobre 2023 |
 | [Home: le attività delegate non sono condivise e non vengono visualizzate nell’elenco di lavoro dell’area Home](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 ottobre 2023 |
 | [Utenti: messaggio di errore visualizzato in modo errato quando si ricorda all’utente di registrarsi](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 settembre 2023 |
-| [[!UICONTROL Pianificazione risorse]: la pianificazione non viene caricata quando si applica il filtro](known-issues-workfront/wf-resource-planning-cannot-load.md) | 28 settembre 2023 |
 | [Bilanciatore dei carichi di lavoro: l’utente viene visualizzato come sovrassegnato a causa di una capacità non accurata](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md) | 26 settembre 2023 |
 | [Bozza: commento aggiuntivo vuoto quando si crea un commento su una bozza](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 settembre 2023 |
 | [[!DNL Workfront]: Issues submitting a [!DNL Workfront] caso di supporto in Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
