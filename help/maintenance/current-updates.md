@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bb14df1c2326830d02c7db71b5affeb92651fd19
+source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
 workflow-type: tm+mt
-source-wordcount: '5791'
-ht-degree: 91%
+source-wordcount: '5929'
+ht-degree: 89%
 
 ---
 
@@ -22,7 +22,37 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di
 
 ## Aggiornamenti di ottobre 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 5 ottobre 2023**
++++**Aggiornamento di manutenzione del 5 ottobre 2023**
+
+**La bacheca si carica lentamente**
+
+_Bacheche_
+
+Quando un utente carica una bacheca, questa viene caricata molto lentamente. Ciò può verificarsi anche se la bacheca ha un numero limitato di schede.
+
+Le schede archiviate, anche se non visualizzate, influivano sul tempo di caricamento della bacheca.
+
+**Impossibile spostare le schede tra le colonne**
+
+_Bacheche_
+
+Quando un utente tenta di spostare una scheda su una bacheca, la scheda non si sposta. Ciò si verifica nelle seguenti circostanze:
+
+* Trascina
+* Sposta opzione sulla scheda
+* Modifica della scheda
+
+**Impossibile spostare le schede dalla colonna dell’acquisizione**
+
+_Bacheche_
+
+L’utente può trascinare una scheda fuori dalla colonna dell’acquisizione in un’altra colonna sulla bacheca, ma le schede successive non possono essere spostate fuori dalla colonna dell’acquisizione.
+
+**Raggruppamento influisce sulle prestazioni della bacheca**
+
+_Bacheche_
+
+Quando l’utente tenta di raggruppare le schede per assegnatari o tag, le prestazioni della bacheca diventano molto lente.
 
 **Le e-mail di promemoria automatici non vengono inviate**
 
