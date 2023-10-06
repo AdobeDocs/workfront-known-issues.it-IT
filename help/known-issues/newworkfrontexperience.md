@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3148dfe741ca27262b947e3123fd7fb2df1b3556
+source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 84%
+source-wordcount: '725'
+ht-degree: 83%
 
 ---
 
@@ -25,6 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 6 ottobre 2023 |
+| [Report: gli aggiornamenti privati vengono visualizzati nei campi espressione valore](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6 ottobre 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] modulo](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 ottobre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 ottobre 2023 |
 | [Accesso: viene visualizzato un errore durante il ripristino della password nonostante l’azione sia stata eseguita correttamente](known-issues-workfront/wf-login-whoops-resetting-password.md) | 3 ottobre 2023 |
