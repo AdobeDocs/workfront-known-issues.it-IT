@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ff8e4ea2511374bac1d4f4724de933d76495d579
+source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
 workflow-type: tm+mt
-source-wordcount: '725'
-ht-degree: 83%
+source-wordcount: '749'
+ht-degree: 80%
 
 ---
 
@@ -25,6 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: le bozze completate rimangono attive [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 ottobre 2023 |
+| [Bozze: impossibile creare una nuova versione di una bozza](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 ottobre 2023 |
 | [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 6 ottobre 2023 |
 | [Report: gli aggiornamenti privati vengono visualizzati nei campi espressione valore](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 6 ottobre 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] modulo](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 ottobre 2023 |
@@ -44,6 +46,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9 ottobre 2023 |
 | [Bilanciatore dei carichi di lavoro: le modifiche manuali dell’ora non sono accurate dopo l’aggiornamento della pagina](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 ottobre 2023 |
 | [Home: le attività delegate non sono condivise e non vengono visualizzate nell’elenco di lavoro dell’area Home](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 ottobre 2023 |
 | [Utenti: messaggio di errore visualizzato in modo errato quando si ricorda all’utente di registrarsi](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md) | 28 settembre 2023 |

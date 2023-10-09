@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 85%
+source-wordcount: '371'
+ht-degree: 80%
 
 ---
 
@@ -25,6 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: le bozze completate rimangono attive [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 ottobre 2023 |
+| [Bozze: impossibile creare una nuova versione di una bozza](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 ottobre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 3 ottobre 2023 |
 | [Integrazioni di documenti: errore durante il trascinamento di una risorsa in una cartella in un’integrazione Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md) | 28 settembre 2023 |
 
@@ -36,6 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9 ottobre 2023 |
 | [Bozza: commento aggiuntivo vuoto quando si crea un commento su una bozza](known-issues-workfront/wf-proofs-extra-blank-comment.md) | 19 settembre 2023 |
 
 {style="table-layout:auto"}
