@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f55aca778701e1319eaa7a7eb6ce8f3d0cd2b8c5
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '5929'
-ht-degree: 89%
+source-wordcount: '6044'
+ht-degree: 88%
 
 ---
 
@@ -21,6 +21,26 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di ottobre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 12 ottobre 2023**
+
+**I campi calcolati non mantengono il valore quando il problema viene convertito in attività**
+
+_Moduli personalizzati_
+
+I campi calcolati che fanno riferimento a se stessi non mantengono i propri valori quando un problema viene convertito in un’attività.
+
+Quando si converte il problema in un&#39;attività, il valore desiderato viene visualizzato correttamente nella finestra di modifica. Tuttavia, al termine della conversione, nel campo calcolato viene visualizzato un valore &quot;N/d&quot;.
+
+**Errore durante la modifica dei filtri in [!UICONTROL Home]**
+
+_Home_
+
+Quando un utente modifica i filtri su [!UICONTROL Home], il [!UICONTROL Home] L’area non si carica e l’utente visualizza il seguente errore:
+
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+
++++
 
 +++**Aggiornamento di manutenzione del 5 ottobre 2023**
 

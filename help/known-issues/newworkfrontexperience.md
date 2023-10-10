@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza  [!DNL Adobe Workfr
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '756'
 ht-degree: 80%
 
 ---
@@ -46,6 +46,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima Modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 10 ottobre 2023 |
 | [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 9 ottobre 2023 |
 | [Bilanciatore dei carichi di lavoro: le modifiche manuali dell’ora non sono accurate dopo l’aggiornamento della pagina](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md) | 3 ottobre 2023 |
 | [Home: le attività delegate non sono condivise e non vengono visualizzate nell’elenco di lavoro dell’area Home](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 ottobre 2023 |
