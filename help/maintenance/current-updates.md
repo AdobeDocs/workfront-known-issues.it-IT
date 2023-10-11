@@ -1,12 +1,12 @@
 ---
 title: Aggiornamenti di manutenzione per Workfront
-description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
+description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 6d93e05a72b92c41865f14c0991938685c8d8d58
 workflow-type: tm+mt
 source-wordcount: '6044'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -16,9 +16,9 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 
 >[!NOTE]
 >
->Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+>Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
-Per gli aggiornamenti di manutenzione precedenti al 2023, vedi [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
+Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di ottobre 2023
 
@@ -84,7 +84,7 @@ I promemoria e-mail automatici non vengono inviati. È iniziato il 14 settembre 
 
 ## Aggiornamenti di settembre 2023
 
-+++**Aggiornamento di manutenzione del 28 settembre 2023**
++++**Aggiornamento di manutenzione dell’28 settembre 2023**
 
 **Impossibile eliminare il campo personalizzato**
 
@@ -92,51 +92,51 @@ _Moduli personalizzati_
 
 Il tentativo di eliminazione di un campo personalizzato risulta impossibile da parte dell‘utente, che visualizza il messaggio “[!UICONTROL Errore database dovuto alla violazione del vincolo].”
 
-**I commenti aggiunti nella nuova esperienza di commento non sono visibili nell’esperienza precedente**
+**I commenti creati nella nuova esperienza di commento non sono visibili nell’esperienza precedente**
 
 _Aggiornamenti_
 
-Quando un utente aggiunge un commento nella nuova esperienza di commento e tale commento viene visualizzato nell’area Commenti della nuova esperienza, è possibile che lo stesso commento non venga visualizzato nell’esperienza di commento precedente. Questo potrebbe causare la perdita di commenti da parte degli utenti che utilizzano l’esperienza legacy.
+Quando un utente crea un commento nella nuova esperienza di commento e tale commento viene visualizzato nell’area Commenti della nuova esperienza, è possibile che lo stesso commento non venga visualizzato nell’esperienza precedente. Questo potrebbe causare la perdita di commenti per gli utenti che utilizzano l’esperienza precedente.
 
-**Nella pagina dell&#39;oggetto mancano elementi**
+**La pagina dell’oggetto è priva di elementi**
 
 _Workfront_
 
-Quando un utente passa a una sezione personalizzata di un oggetto in [!DNL Workfront], alcuni elementi potrebbero non essere presenti nella pagina di caricamento. Tali elementi possono includere:
+Quando un utente passa a una sezione personalizzata di un oggetto in [!DNL Workfront], la pagina che viene caricata potrebbe essere priva di alcuni elementi. Tali elementi possono includere:
 
 * Pannello di navigazione a sinistra
-* Nome dell&#39;oggetto a cui appartiene la sezione personalizzata
+* Nome dell’oggetto a cui appartiene la sezione personalizzata
 * Campi e informazioni nell’intestazione
 
 +++
 
 +++**Aggiornamento di manutenzione del 21 settembre 2023**
 
-**Impossibile assegnare l’utente su una bacheca in un flusso di lavoro**
+**Impossibile assegnare l’utente a una bacheca in un flusso di lavoro**
 
 _Bacheche_
 
-Quando un utente cerca di assegnare un altro utente a un’attività da una bacheca che fa parte di un flusso di lavoro e inizia a digitare il nome dell’utente, quest’ultimo non viene visualizzato nell’elenco a discesa degli utenti disponibili. Ciò si verifica anche quando l’utente è attivo e un membro sia della scheda che del flusso di lavoro.
+Quando un utente cerca di assegnare un altro utente a un’attività da una bacheca che fa parte di un flusso di lavoro e inizia a digitare il suo nome, quest’ultimo non viene visualizzato nell’elenco a discesa degli utenti disponibili. Ciò si verifica anche quando l’utente è attivo ed è membro sia della bacheca che del flusso di lavoro.
 
-L’utente potrebbe anche notare che gli utenti disattivati vengono visualizzati nel menu a discesa.
+L’utente può inoltre notare che gli utenti disattivati vengono visualizzati nel menu a discesa.
 
-**Impossibile eliminare la voce dell’elenco di controllo**
+**Impossibile eliminare un elemento dell’elenco di controllo**
 
 _Bacheche_
 
-Quando un utente cerca di eliminare una voce dell’elenco di controllo da una scheda di una bacheca, l’ [!UICONTROL Elimina] il pulsante non risponde e l&#39;elemento non viene eliminato.
+Quando un utente cerca di eliminare un elemento dell’elenco di controllo da una scheda di una bacheca, il pulsante [!UICONTROL Elimina] non risponde e l’elemento non viene eliminato.
 
-**I moduli personalizzati si caricano lentamente**
+**I moduli personalizzati vengono caricati lentamente**
 
 _Moduli personalizzati_
 
-Quando un utente cerca di caricare un modulo personalizzato, questo viene caricato lentamente.
+Quando un utente tenta di caricare un modulo personalizzato, questo viene caricato lentamente.
 
-**Impossibile spostare il documento in un&#39;altra cartella**
+**Impossibile spostare il documento in un’altra cartella**
 
 _Documenti_
 
-Quando un utente sposta un documento in una cartella di oggetti, non può spostare l’oggetto in un’altra cartella.
+Quando un utente sposta un documento nella cartella di un oggetto, non può spostare l’oggetto in un’altra cartella.
 
 **Errore XML durante il download**
 
@@ -150,58 +150,58 @@ Quando un utente tenta di scaricare un documento, l’operazione ha esito negati
 
 _Documenti_
 
-Quando un utente cerca di scaricare un documento da un ambiente diverso da quello di produzione, il documento non viene scaricato e l’utente visualizza il seguente errore:
+Quando un utente tenta di scaricare un documento da un ambiente diverso da quello di produzione, il documento non viene scaricato e l’utente visualizza il seguente errore:
 
-“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
 
-**Le bozze appaiono sature o ritagliate**
+**Le bozze vengono visualizzate desaturate o ritagliate**
 
 _Bozze_
 
-Sono stati segnalati i seguenti problemi durante la creazione di una bozza da un URL.
+I seguenti problemi sono stati segnalati durante la creazione di una bozza da un URL.
 
-* La bozza appare insaturata o sbiadita.
-* La bozza viene ritagliata.
+* La bozza viene visualizzata desaturata o sbiadita.
+* La bozza è ritagliata.
 
 Questo può rendere difficili le decisioni relative alle bozze, in quanto la bozza non viene rappresentata con precisione.
 
-**La generazione delle bozze richiede troppo tempo**
+**La generazione delle bozze richiede un tempo eccessivo**
 
 _Bozze_
 
-Quando un utente tenta di generare una bozza, la generazione della bozza richiede un tempo eccessivo. La generazione della bozza può richiedere diversi giorni.
+Quando un utente tenta di generare una bozza, tale processo richiede un tempo eccessivo. La generazione della bozza può richiedere diversi giorni.
 
 +++
 
 +++**Aggiornamento di manutenzione del 14 settembre 2023**
 
-**&quot;[!UICONTROL Nessuna fabbrica]Errore &quot;durante l’aggiunta di un documento**
+**Errore “[!UICONTROL Nessuna factory]” durante l’aggiunta di un documento**
 
 _Documenti_
 
 Quando un utente tenta di aggiungere un documento da un’origine esterna, [!DNL Workfront] non può accedere all’origine e l’utente visualizza il seguente errore:
 
-&quot;[!UICONTROL Si è verificato il seguente errore: Nessuna factory trovata per il tipo di autenticazione null]&quot;
+“[!UICONTROL Si è verificato il seguente errore: Nessuna factory trovata per il tipo di autenticazione null]”
 
-**Errore “Ops” nei report matrice**
+**Errore “Ops” nei rapporti matrice**
 
 _Rapporti_
 
 Quando un utente cerca di aprire un rapporto matrice, questo non viene caricato e l’utente visualizza il seguente errore:
 
-“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
 
-Ciò si verifica quando si raggruppa un rapporto per intervalli di date.
+Ciò si verifica quando un rapporto viene raggruppato per intervalli di date.
 
 +++
 
-+++**Aggiornamento di manutenzione del 11 settembre 2023**
++++**Aggiornamento di manutenzione dell’11 settembre 2023**
 
 **Le attività personali non vengono visualizzate nelle schede orario**
 
 _Schede orario_
 
-Per impostazione predefinita, le attività personali non vengono più visualizzate nella scheda attività. Le attività personali vengono visualizzate nella scheda attività quando sono bloccate o quando le ore sono registrate. Prima di questa modifica, le attività personali venivano visualizzate nelle schede orario per impostazione predefinita.
+Le attività personali non vengono più visualizzate nella scheda orario per impostazione predefinita. Le attività personali vengono visualizzate nella scheda orario quando sono fissate o hanno ore registrate. Prima di questa modifica, le attività personali venivano visualizzate nelle schede orario per impostazione predefinita.
 
 +++
 
@@ -227,7 +227,7 @@ _[!UICONTROL Home]_
 
 Quando un utente applica un filtro a un widget nella nuova esperienza [!UICONTROL Home], il widget mostra gli elementi che devono essere esclusi dal filtro.
 
-Questo problema è stato segnalato nell’ambiente Sandbox personalizzata. Gli stessi widget negli ambienti Mostra anteprima e Produzione filtrano gli elementi nel modo previsto.
+Questo problema è stato segnalato nell’ambiente Sandbox personalizzata. Gli stessi widget negli ambienti di Anteprima e Produzione filtrano gli elementi nel modo previsto.
 
 **Problemi durante il caricamento dei rapporti matrice**
 
@@ -242,7 +242,7 @@ Quando si tenta di caricare un rapporto matrice come grafico, può verificarsi u
 
 _[!UICONTROL Pianificazione risorse]_
 
-Quando un utente cerca di caricare la [!UICONTROL Pianificazione risorse], questa non si carica e l’utente visualizza il seguente messaggio di errore:
+Quando un utente cerca di caricare la [!UICONTROL Pianificazione risorse], questa non viene caricata e l’utente visualizza il seguente messaggio di errore:
 
 “[!UICONTROL Si è verificato il seguente errore: si è verificato un errore durante la connessione al servizio WorkPerDay]”
 
@@ -272,7 +272,7 @@ _Progetti_
 
 Quando un utente tenta di accedere a un progetto utilizzando un URL che include un numero [!UICONTROL ID di riferimento] viene reindirizzato a una pagina contenente un messaggio di errore. L’accesso a un’attività utilizzando un URL con un [!UICONTROL ID di riferimento] funziona come previsto.
 
-L’impostazione **“[!UICONTROL Disbilita le notifiche e-mail delle bozze]” viene visualizzata in modo impreciso**
+L’impostazione **“[!UICONTROL Disabilita le notifiche e-mail delle bozze]” viene visualizzata in modo impreciso**
 
 _Bozze_
 
@@ -282,13 +282,13 @@ Quando un utente visualizza le impostazioni della bozza in [!DNL Workfront], la 
 
 _Bozze_
 
-Quando un utente fa un commento nel Proofing Viewer e aggiunge un markup alla bozza, quindi fa clic in un altro punto, non può più regolare il markup.
+Quando un utente crea un commento nel Proofing Viewer e aggiunge un markup alla bozza, quindi fa clic in un altro punto, non può più regolare il markup.
 
 +++
 
 +++**Aggiornamento di manutenzione del 10 agosto 2023**
 
-**impossibile eliminare l’elemento [!UICONTROL Attività] nella nuova esperienza [!UICONTROL Home]**
+**Impossibile eliminare l’elemento [!UICONTROL Attività] nella nuova esperienza [!UICONTROL Home]**
 
 _Home_
 
@@ -338,13 +338,13 @@ _Progetti/Problemi_
 
 Quando un utente modifica lo stato di un progetto che è l’oggetto di risoluzione di un problema, lo stato del problema viene modificato in uno stato che non corrisponde alla stessa chiave dello stato del progetto.
 
-**Errore “Ops” nei report matrice**
+**Errore “Ops” nei rapporti matrice**
 
 _Rapporti_
 
 Quando un utente cerca di aprire un rapporto matrice, questo non viene caricato e l’utente visualizza il seguente errore:
 
-“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema]”
 
 Questo problema è stato segnalato per gli utenti dell’area EMEA.
 
@@ -364,13 +364,13 @@ I tag e gli elementi di un elenco di controllo sono stati rimossi dalla vista ba
 
 _Filtri_
 
-Se un utente condivide un filtro e abilita la funzione &quot;[!UICONTROL Visualizza a livello di sistema]&quot;, il filtro viene condiviso con ogni utente del sistema. Tuttavia, se un amministratore visualizza questo filtro in [!UICONTROL Configurazione], il filtro viene visualizzato come &quot;[!UICONTROL falso]&quot; nella colonna &quot;[!UICONTROL Visibile a livello di sistema]&quot;. Per impostare questo filtro come predefinito del sistema, l’amministratore deve abilitare &quot;[!UICONTROL Abilita a livello di sistema]&quot; in [!UICONTROL Configurazione]. Ciò può provocare confusione a causa della formulazione simile di queste due opzioni.&quot;
+Se un utente condivide un filtro e abilita la funzione &quot;[!UICONTROL Visualizza a livello di sistema]&quot;, il filtro viene condiviso con ogni utente del sistema. Tuttavia, se un amministratore visualizza questo filtro in [!UICONTROL Configurazione], il filtro viene visualizzato come &quot;[!UICONTROL falso]&quot; nella colonna &quot;[!UICONTROL Visibile a livello di sistema]&quot;. Per impostare questo filtro come predefinito del sistema, l’amministratore deve abilitare &quot;[!UICONTROL Abilita a livello di sistema]&quot; in [!UICONTROL Configurazione]. Ciò può creare confusione a causa della formulazione simile di queste due opzioni.&quot;
 
 +++
 
 +++**Aggiornamento di manutenzione del 20 luglio 2023**
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
@@ -388,11 +388,11 @@ _Bozze_
 
 Le approvazioni delle bozze che hanno superato la scadenza e sono bloccate vengono ancora visualizzate nell’Elenco lavori della Home dell’approvatore, invece di essere eliminate dall’elenco quando la scadenza viene superata.
 
-**Il rapporto Utilizzo non viene caricato**
+**Il rapporto di utilizzo non viene caricato**
 
 _Rapporti_
 
-Quando un cliente tenta di visualizzare un rapporto di utilizzo, l’utente visualizza un indicatore di caricamento che ruota, ma il rapporto non si carica. Il rapporto restituisce un errore 500, ma all’utente non viene presentata alcuna indicazione di errore.
+Quando si tenta di visualizzare un rapporto di utilizzo, viene visualizzato un indicatore di caricamento che ruota, ma il rapporto non si carica. Il rapporto restituisce un errore 500, ma all’utente non viene presentata alcuna indicazione di errore.
 
 **La pagina Modifica utente è vuota**
 
@@ -408,19 +408,19 @@ Quando un utente cerca di modificare un altro utente, la pagina Modifica utente 
 
 +++**Aggiornamento di manutenzione del 29 giugno 2023**
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**Aggiornamento di manutenzione il 22 giugno 2023**
++++**Aggiornamento di manutenzione del 22 giugno 2023**
 
-**Errore “[!UICONTROL Ops]” durante la visualizzazione del rapporto matrice**
+**Errore “[!UICONTROL Ops]” durante la visualizzazione di un rapporto matrice**
 
 _Rapporti_
 
 Quando un utente visualizza un rapporto matrice, compare il seguente errore:
 
-“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
 
 Questo problema è stato segnalato quando il rapporto è ordinato per data e l’opzione “[!UICONTROL Mostra settimane senza risultati]” è abilitata.
 
@@ -432,15 +432,15 @@ Quando un grafico o un rapporto matrice viene raggruppato per data, le date vici
 
 +++
 
-+++**Aggiornamento di manutenzione il 15 giugno 2023**
++++**Aggiornamento di manutenzione del 15 giugno 2023**
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
 +++**Aggiornamento di manutenzione dell’8 giugno 2023**
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
@@ -448,17 +448,17 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 [!DNL Fusion] ha implementato una correzione che impedisce la rimozione delle connessioni di un utente quando questo viene rimosso o disattivato in [!UICONTROL Adobe Admin Console].
 
-Gli amministratori del team [!DNL Fusion] sono ancora in grado di rimuovere le connessioni non necessarie dalla pagina [!UICONTROL Connessioni] in [!DNL Fusion].
+Gli amministratori del team di [!DNL Fusion] sono ancora in grado di rimuovere le connessioni non necessarie dalla pagina [!UICONTROL Connessioni] in [!DNL Fusion].
 
 +++
 
-+++**Aggiornamento di manutenzione del 1 giugno 2023**
++++**Aggiornamento di manutenzione del 1° giugno 2023**
 
 **Nessun messaggio di errore quando si cambia l’ordine di un’attività nello stato [!UICONTROL Approvazione in sospeso]**
 
 _Attività_
 
-Quando un utente tenta di riordinare, in un elenco di attività, un’attività in stato [!UICONTROL Approvazione in sospeso], questa sembra venire spostata nell’elenco delle attività. Dopo l’aggiornamento, l’utente vede che l’elemento non è stato spostato. L’elemento non può essere spostato perché è in stato [!UICONTROL Approvazione in sospeso], ma non è presente alcun messaggio che dà tale informazione all’utente e questo potrebbe causare confusione.
+Quando un utente tenta di riordinare, in un elenco di attività, un’attività in stato [!UICONTROL Approvazione in sospeso], questa sembra venire spostata nell’elenco delle attività. Dopo l’aggiornamento, l’utente vede che l’elemento non è stato spostato. L’elemento non può essere spostato perché è in stato [!UICONTROL Approvazione in sospeso], ma non è presente alcun messaggio che dà tale informazione all’utente e questo potrebbe creare confusione.
 
 **Nessun messaggio di errore quando si sposta un’attività predecessore sotto un’attività dipendente**
 
@@ -513,17 +513,17 @@ Questo sembra accadere se sono soddisfatte tutte le seguenti circostanze:
 
 +++**Aggiornamento di manutenzione dell’11 maggio 2023**
 
-**Impossibile cambiare versione della bozza durante la visualizzazione della bozza**
+**Impossibile passare da una versione della bozza all’altra durante la visualizzazione della bozza**
 
 _Bozze_
 
-Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l&#39;utente non può tornare alla versione originale che stava visualizzando, oppure a un’altra versione della bozza.
+Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra versione, il menu a discesa della versione viene disattivato e l’utente non può tornare alla versione originale che stava visualizzando, oppure a un’altra versione della bozza.
 
 **[!DNL Workfront]Timeout della ricerca**
 
 _Ricerca_
 
-Timeout della ricerca [!DNL Workfront]. La ricerca può restituire alcuni risultati o nessuno.
+Timeout della ricerca di [!DNL Workfront]. La ricerca può restituire alcuni risultati o nessuno.
 
 Questo problema influisce anche sulla funzionalità del modulo [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Ricerca].
 
@@ -541,7 +541,7 @@ Quando uno scenario è in esecuzione, potrebbe presentare un errore di timeout. 
 
 _Ricerca_
 
-Timeout della ricerca [!DNL Workfront]. La ricerca può restituire alcuni risultati o nessuno.
+Timeout della ricerca di [!DNL Workfront]. La ricerca può restituire alcuni risultati o nessuno.
 
 Questo problema influisce anche sulla funzionalità del modulo [!DNL Workfront Fusion] > [!DNL Workfront] > [!UICONTROL Ricerca].
 
@@ -571,27 +571,27 @@ Quando un utente tenta di selezionare un modello dal menu Azioni (tre punti), l�
 
 +++**Aggiornamento di manutenzione del 27 aprile 2023**
 
-**Impossibile passare da una bozza all’altra in [!UICONTROL Proofing Viewer]**
+**Impossibile passare da una bozza all’altra nel [!UICONTROL Proofing Viewer]**
 
 _Bozze_
 
-Quando un utente visualizza una bozza in [!UICONTROL Proofing Viewer] e passa a un’altra bozza, il pulsante Cambia bozza non risponde. L’utente non può tornare alla bozza originariamente visualizzata o a un’altra bozza.
+Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra bozza, il pulsante Cambia bozza non risponde. L’utente non può tornare alla bozza originariamente visualizzata o a un’altra bozza.
 
 **Modificare le immagini allegate durante la modifica di un commento**
 
 _Aggiornamenti_
 
-È ora possibile modificare l’immagine allegata a un commento mentre lo si modifica. Questa funzione è disponibile nella sezione Aggiornamenti per gli obiettivi Workfront e in quella dei problemi quando si abilita l’esperienza dei commenti in Beta.
+È ora possibile modificare l’immagine allegata a un commento mentre lo si modifica. Questa funzione è disponibile nella sezione Aggiornamenti per gli obiettivi Workfront e in quella dei problemi quando si abilita l’esperienza beta dei commenti.
 
 +++
 
 +++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del 25 aprile 2023**
 
-I collegamenti della Guida in-app **[!DNL Fusion]non conducono a pagine di aiuto specifiche**
+I collegamenti della Guida in-app di **[!DNL Fusion]non portano a pagine di aiuto specifiche**
 
 _[!DNL Workfront Fusion]_
 
-Quando un utente visualizza una bozza in [!UICONTROL Proofing Viewer] e passa a un’altra bozza, il pulsante Cambia bozza non risponde. L’utente non può tornare alla bozza originariamente visualizzata o a un’altra bozza.
+Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a un’altra bozza, il pulsante Cambia bozza non risponde. L’utente non può tornare alla bozza originariamente visualizzata o a un’altra bozza.
 
 +++
 
@@ -626,7 +626,7 @@ Quando un utente visualizza una bozza, inizia ad aggiungere un commento e apre l
 
 _Aggiornamenti_
 
-Ora, quando ti sposti dalla pagina Aggiornamenti mentre stai componendo un messaggio a cui è stata allegata un’immagine, il messaggio e l’immagine vengono conservati quando torni indietro. Prima di questo aggiornamento, il commento non inviato veniva mantenuto mentre l’immagine veniva eliminata. Questa funzione è disponibile nella sezione Aggiornamenti per gli obiettivi e in quella dei problemi quando si abilita l’esperienza beta dei commenti.
+Ora, se esci dalla pagina Aggiornamenti mentre stai componendo un messaggio a cui è stata allegata un’immagine e quindi torni indietro, il messaggio e l’immagine vengono mantenuti. Prima di questo aggiornamento, il commento non inviato veniva mantenuto mentre l’immagine veniva eliminata. Questa funzione è disponibile nella sezione Aggiornamenti per gli obiettivi e in quella dei problemi quando si abilita l’esperienza beta dei commenti.
 
 **Aggiornamenti in tempo reale e commenti eliminati nella sezione Aggiornamenti**
 
@@ -686,7 +686,7 @@ Quando un utente aggiunge un altro utente a una bozza nel [!UICONTROL Proofing V
 
 +++**Aggiornamento di manutenzione del 30 marzo 2023**
 
-**Impossibile cambiare versione della bozza durante la visualizzazione della bozza**
+**Impossibile passare da una versione della bozza all’altra durante la visualizzazione della bozza**
 
 _Bozze_
 
@@ -773,7 +773,7 @@ Ora, se esci dalla pagina [!UICONTROL Aggiornamenti] di un obiettivo mentre stai
 
 _Bacheche_
 
-Quando un utente visualizza una bacheca a cui si applica il raggruppamento e tenta di aggiungere una scheda, può inserire solo il nome della scheda. Gli altri campi della scheda sono disabilitati, compreso il pulsante [!UICONTROL Salva].
+Quando un utente visualizza una bacheca in cui è applicato un raggruppamento e tenta di aggiungere una scheda, può inserire solo il nome della scheda. Gli altri campi della scheda sono disabilitati, compreso il pulsante [!UICONTROL Salva].
 
 Se si cambia il raggruppamento in [!UICONTROL Nessuno], il problema rimane. Per ripristinare la possibilità di aggiungere una scheda, l’utente deve cambiare il raggruppamento in [!UICONTROL Nessuno] e quindi aggiornare la pagina.
 
@@ -846,33 +846,33 @@ Quando è pianificata la disattivazione di un utente e vengono superate la data 
 
 Campo **[!UICONTROL Punti storia] aggiunto a rapporti ed elenchi di attività e problemi**
 
-_Report_
+_Rapporti_
 
 Il campo [!UICONTROL Punti storia] è ora disponibile per essere aggiunto a rapporti ed elenchi di attività o problemi. Si tratta di un campo modulo libero modificabile che non è legato alle ore pianificate o alle assegnazioni del team.
 
 +++
 
-+++**Aggiornamento di manutenzione del 8 febbraio 2023**
++++**Aggiornamento di manutenzione dell’8 febbraio 2023**
 
 **Pulsante Filtro nella colonna di acquisizione**
 
 _Bacheche_
 
-La colonna di acquisizione su una bacheca ora include un pulsante **[!UICONTROL Aggiungi un filtro]** quando la colonna è vuota e non sono stati creati filtri. Il pulsante apre l’area di configurazione, in cui puoi aggiungere filtri per inserire attività e problemi nella colonna di acquisizione.
+La colonna di acquisizione su una bacheca ora include un pulsante **[!UICONTROL Aggiungi un filtro]** quando la colonna è vuota e non sono stati creati filtri. Il pulsante apre l’area di configurazione, in cui è possibile aggiungere filtri per inserire attività e problemi nella colonna di acquisizione.
 
 +++
 
 +++**Aggiornamento di manutenzione del 2 febbraio 2023**
 
-L’icona **[!UICONTROL Schede] viene visualizzata nel [!UICONTROL Menu principale] per impostazione predefinita**
+L’icona **[!UICONTROL Bacheche] viene visualizzata nel [!UICONTROL Menu principale] per impostazione predefinita**
 
 _Bacheche_
 
-L’icona [!UICONTROL Schede] ora appare nel [!UICONTROL Menu principale] per gli utenti che non dispongono di un modello di layout. Per impostazione predefinita, le schede sono incluse anche nel menu principale per tutti i nuovi modelli di layout creati. I modelli di layout esistenti non sono stati modificati.
+L’icona [!UICONTROL Bacheche] ora appare nel [!UICONTROL Menu principale] per gli utenti che non dispongono di un modello layout. Per impostazione predefinita, le bacheche sono incluse anche nel menu principale per tutti i nuovi modelli di layout creati. I modelli di layout esistenti non sono stati modificati.
 
-**Impossibile salvare i modelli di e-mail**
+**Impossibile salvare i modelli e-mail**
 
-_Configura_
+_Configurazione_
 
 Quando un utente tenta di creare o modificare un modello e-mail, il pulsante [!UICONTROL Salva] non risponde e l’utente non può salvare il modello.
 
@@ -882,11 +882,11 @@ Quando un utente tenta di creare o modificare un modello e-mail, il pulsante [!U
 
 +++**Aggiornamento di manutenzione del 30 gennaio 2023**
 
-**Sono state aggiunte scelte rapide da tastiera per le azioni comuni della scheda attività**
+**Sono state aggiunte scelte rapide da tastiera per le azioni comuni della scheda orario**
 
 _Schede orario_
 
-Sono state introdotte le seguenti scelte rapide da tastiera per le seguenti azioni frequenti all’interno di una scheda attività:
+Le seguenti scelte rapide da tastiera sono state introdotte per le seguenti azioni frequenti all’interno di una scheda orario:
 
 * Aggiungi riga (Comando+Opzione++ / Ctrl+Opzione++)
 * Elimina riga (Comando+Opzione+- / Ctrl+Opzione+-)
@@ -898,18 +898,18 @@ Sono state introdotte le seguenti scelte rapide da tastiera per le seguenti azio
 
 L’area in cui vengono eseguite queste azioni deve essere evidenziata per poterle applicare.
 
-**Icone nuove informazioni per schede orario, profili delle schede orario e preferenze della scheda orario**
+**Icone delle informazioni nuove per schede orario, profili e preferenze della scheda orario**
 
 _Schede orario_
 
 >[!NOTE]
 >
->Questo aggiornamento è stato rilasciato solo nell’ambiente Anteprima il 3 novembre 2022 ed è ora disponibile in Produzione.
+>Questo aggiornamento è stato rilasciato solo nell’ambiente di Anteprima il 3 novembre 2022 ed è ora disponibile in Produzione.
 
-Sono state aggiunte diverse icone di informazioni alle seguenti impostazioni:
+Sono state aggiunte diverse icone delle informazioni alle seguenti impostazioni:
 
-* La casella di controllo “[!UICONTROL Can edit time]” (Può modificare l’ora) durante la creazione o la modifica di una scheda orario o di un profilo della scheda orario per indicare, se abilitata, che gli approvatori possono anche inviare, riaprire o modificare la scheda orario, a meno che l’amministratore non limiti queste azioni nell’area di [!UICONTROL Setup] (Configurazione) di [!UICONTROL Timesheet Preferences] (Preferenze della scheda orario).
-* “[!UICONTROL Restrict timesheet editing to owners and admins]” (Limita la modifica della scheda orario a proprietari e amministratori) nell’area di [!UICONTROL Setup] (Configurazione) [!UICONTROL Timesheet &amp; Hour Preferences] (Preferenze scheda orario e ora) per indicare che, se disabilitata, i seguenti utenti possono anche modificare le schede orario: utenti con accesso amministrativo a schede orario e ore, approvatori di schede orario autorizzati a modificare l’ora e responsabili dei proprietari delle schede orario.
+* La casella di controllo “[!UICONTROL Può modificare l’ora]” durante la creazione o la modifica di una scheda orario o di un profilo della scheda orario per indicare, se abilitata, che gli approvatori possono anche inviare, riaprire o modificare la scheda orario, a meno che l’amministratore non limiti queste azioni nell’area [!UICONTROL Configurazione] delle [!UICONTROL Preferenze della scheda orario].
+* “[!UICONTROL Limita la modifica della scheda orario a proprietari e amministratori]” nell’area [!UICONTROL Configurazione] delle [!UICONTROL Preferenze scheda orario e ora] per indicare che, se disabilitata, anche gli utenti seguenti possono modificare le schede orario: utenti con accesso amministrativo a schede orario e ore, approvatori di schede orario autorizzati a modificare l’ora e responsabili dei proprietari delle schede orario.
 
 La funzionalità di queste impostazioni non è stata modificata e sono state aggiunte solo le icone delle informazioni per chiarire l’ambito delle impostazioni.
 
@@ -925,11 +925,11 @@ Quando un utente cerca di inviare una richiesta con allegati da un indirizzo e-m
 
 “[!UICONTROL Si è verificato il seguente errore: il file con handle xxxx non esiste.]”
 
-Ciò si verifica solo quando viene eseguita un’assegnazione per la nuova richiesta, sia attraverso la coda di richieste che sia manualmente durante la creazione della richiesta.
+Ciò si verifica solo quando viene eseguita un’assegnazione per la nuova richiesta, sia attraverso la coda di richieste che manualmente durante la creazione della richiesta.
 
 **Nuova versione di Desktop Proofing Viewer**
 
-_Verifica_
+_Bozza_
 
 Per risolvere un problema di blocco in Desktop Proofing Viewer, ne è stata implementata una nuova versione. Gli utenti che hanno già installato Desktop Proofing Viewer riceveranno automaticamente questo aggiornamento.
 
@@ -958,9 +958,9 @@ Quando la funzione della colonna di acquisizione è stata rilasciata in Bacheche
 
 _Navigazione_
 
-Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin, nell’ambiente Produzione:
+Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin nell’ambiente Produzione:
 
-* Rinominazione dei pin
+* Ridenominazione dei pin
 * Riordinamento dei pin all’interno del menu [!UICONTROL Altro]
 * Spostamento di un pin dal menu [!UICONTROL Altro] (in questo modo, l’ultimo pin della barra di navigazione superiore viene spostato nel menu [!UICONTROL Altro])
 
@@ -978,17 +978,17 @@ Quando un utente utilizza un carattere jolly come \$$TODAY o $$NOW insieme a un 
 
 _[!UICONTROL Bilanciamento del carico di lavoro]_
 
-Quando un utente visualizza il [!UICONTROL Bilanciamento del carico di lavoro], visualizza le ore registrate per un utente che non sono associate ad alcun progetto, alcuna attività o alcun problema, né vengono registrate come ore [!UICONTROL Generali]. Queste ore possono essere visualizzate solo nella visualizzazione a 4 settimane o a 6 settimane.
+Quando un utente visualizza il [!UICONTROL Bilanciamento del carico di lavoro], visualizza le ore registrate per utente che non sono associate ad alcun progetto, alcuna attività o alcun problema, né vengono registrate come ore [!UICONTROL Generali]. Queste ore possono essere visualizzate solo nella visualizzazione a 4 settimane o a 6 settimane.
 
 +++
 
 +++Aggiornamento di manutenzione per **[!DNL Adobe Workfront Fusion] (Hot Fix) del 12 gennaio 2023**
 
-**Errori 404 nei moduli [!DNL Workfront]**
+**Errori 404 nei moduli di [!DNL Workfront]**
 
 _Workfront Fusion_
 
-Quando è in esecuzione uno scenario, un modulo [!DNL Workfront] restituisce un errore 404.
+Quando è in esecuzione uno scenario, un modulo di [!DNL Workfront] restituisce un errore 404.
 
 Questo problema è stato segnalato nei seguenti moduli:
 
@@ -998,13 +998,13 @@ Questo problema è stato segnalato nei seguenti moduli:
 
 +++**Aggiornamento di manutenzione (Hot Fix) del 12 gennaio 2023**
 
-**“[!UICONTROL Ops]”, si è verificato un errore durante la configurazione di un campo calcolato**
+Errore **“[!UICONTROL Ops]” durante la configurazione di un campo calcolato**
 
 _Moduli personalizzati_
 
-Quando un utente crea o modifica un campo calcolato in un modulo personalizzato e include un campo personalizzato nell’espressione del campo calcolato, l’espressione viene considerata non valida. Il pulsante [!UICONTROL Salva] è disattivato e l’utente non può spostarsi dal campo personalizzato. Inoltre, l’utente visualizza il seguente messaggio sotto il campo.
+Quando un utente crea o modifica un campo calcolato in un modulo personalizzato e include un campo personalizzato nell’espressione del campo calcolato, l’espressione viene considerata non valida. Il pulsante [!UICONTROL Salva] è disattivato e l’utente non può spostarsi dal campo personalizzato. Inoltre, l’utente visualizza il seguente messaggio sotto il campo:
 
-“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront in modo che possiamo capire qual è stato il problema e risolverlo.]”
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
 
 La rimozione del campo personalizzato dall’espressione consente all’utente di salvare e spostarsi dal campo.
 
@@ -1022,13 +1022,13 @@ Quando un utente tenta di modificare il livello di accesso di un altro utente, i
 
 _Moduli personalizzati_
 
-Quando si compila un modulo personalizzato e si cerca in un elenco a discesa utilizzando la scelta rapida Ctrl+F o Comando+F, quindi si tenta di passare all’istanza successiva della ricerca, l’elenco a discesa non passa a tale istanza ma ritorna all’inizio. Questo si verifica se il menu a discesa è impostato per consentire selezioni multiple.
+Quando un utente compila un modulo personalizzato ed effettua una ricerca in un elenco a discesa utilizzando la scelta rapida Ctrl+F o Comando+F e poi tenta di passare all’istanza successiva della ricerca, l’elenco a discesa non passa a tale istanza ma ritorna all’inizio. Ciò si verifica se il menu a discesa è impostato per consentire selezioni multiple.
 
-La schermata **[!UICONTROL Edit Report] (Modifica report) è vuota**
+La schermata **[!UICONTROL Modifica rapporto] è vuota**
 
-_Report_
+_Rapporti_
 
-Quando un utente visualizza un report e tenta di modificarlo, viene visualizzata una schermata vuota e non può modificarlo.
+Quando un utente visualizza un rapporto e tenta di modificarlo, viene visualizzata una schermata vuota e non può modificarlo.
 
 **Le attività con rientro non mantengono il rientro**
 
@@ -1044,9 +1044,9 @@ Quando un utente visualizza un elenco di attività e fa rientrare un’attività
 
 _Navigazione_
 
-Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin, solo nell’ambiente Anteprima:
+Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin, solo nell’ambiente di Anteprima:
 
-* Rinominazione dei pin
+* Ridenominazione dei pin
 * Riordinamento dei pin all’interno del menu [!UICONTROL Altro]
 * Spostamento di un pin dal menu [!UICONTROL Altro] (in questo modo, l’ultimo pin della barra di navigazione superiore viene spostato nel menu [!UICONTROL Altro])
 
@@ -1054,20 +1054,20 @@ Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin,
 
 _Team_
 
-Abbiamo rimosso la limitazione che richiedeva che gli utenti da aggiungere a un team di progetto fossero nel Gruppo associato al progetto. Ora puoi aggiungere qualsiasi utente attivo a un team di progetto, indipendentemente dai gruppi di appartenenza.
+È stata rimossa limitazione che richiedeva che gli utenti da aggiungere a un team di progetto fossero nel Gruppo associato al progetto. Ora puoi aggiungere qualsiasi utente attivo a un team di progetto, indipendentemente dai gruppi di appartenenza.
 
-**Icone nuove informazioni per schede orario, profili delle schede orario e preferenze della scheda orario**
+**Icone delle informazioni nuove per schede orario, profili e preferenze della scheda orario**
 
 >[!NOTE]
 >
->Questo aggiornamento è stato rilasciato nell’ambiente Anteprima il 3 novembre 2022 ed è ora disponibile in Produzione
+>Questo aggiornamento è stato rilasciato nell’ambiente di Anteprima il 3 novembre 2022 ed è ora disponibile in Produzione
 
 _Workfront_
 
-Sono state aggiunte diverse icone di informazioni alle seguenti impostazioni:
+Sono state aggiunte diverse icone delle informazioni alle seguenti impostazioni:
 
-* Casella di controllo “Can edit time” (Può modificare l’ora) durante la creazione o la modifica di una scheda orario o di un profilo della scheda orario per indicare che, se abilitata, gli approvatori possono anche inviare, riaprire o modificare la scheda orario, a meno che l’amministratore non limiti queste azioni nell’area Timesheet Preferences (Preferenze della scheda orario) di Setup (Configurazione).
-* “Restrict timesheet editing to owners and admins” (Limita la modifica della scheda orario a proprietari e amministratori) nell’area Timesheet &amp; Hour Preferences (Preferenze scheda orario e ora) di Setup (Configurazione) per indicare che, se disabilitata, anche i seguenti utenti possono modificare le schede orario: utenti con accesso amministrativo a schede orario e ore, approvatori di schede orario autorizzati a modificare l’ora e responsabili dei proprietari delle schede orario.
+* La casella di controllo “Può modificare l’ora” durante la creazione o la modifica di una scheda orario o di un profilo della scheda orario per indicare, se abilitata, che gli approvatori possono anche inviare, riaprire o modificare la scheda orario, a meno che l’amministratore non limiti queste azioni nell’area Configurazione delle Preferenze della scheda orario.
+* Limita la modifica della scheda orario a proprietari e amministratori” nell’area Configurazione delle Preferenze scheda orario e ora per indicare che, se disabilitata, anche gli utenti seguenti possono modificare le schede orario: utenti con accesso amministrativo a schede orario e ore, approvatori di schede orario autorizzati a modificare l’ora e responsabili dei proprietari delle schede orario.
 
 La funzionalità di queste impostazioni non è stata modificata e sono state aggiunte solo le icone delle informazioni per chiarire l’ambito delle impostazioni.
 
@@ -1075,7 +1075,7 @@ La funzionalità di queste impostazioni non è stata modificata e sono state agg
 
 ## Aggiornamenti di manutenzione precedenti
 
-Le informazioni sui precedenti aggiornamenti di manutenzione sono disponibili qui:
+Le informazioni sugli aggiornamenti di manutenzione precedenti sono disponibili qui:
 
 * [Archivio aggiornamenti di manutenzione per [!DNL Workfront] - 2022](2022-updates.md)
 * [Archivio aggiornamenti di manutenzione per [!DNL Workfront] - 2021](2021-updates.md)

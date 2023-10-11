@@ -1,5 +1,5 @@
 ---
-title: '“Bilanciamento del carico di lavoro: le ore totali non corrispondono alla somma delle ore pianificate”'
+title: '“Bilanciamento del carico di lavoro: le Ore totali non corrispondono alla somma delle Ore pianificate”'
 description: “Quando un utente visualizza il bilanciamento del carico di lavoro e somma il numero di Ore pianificate, il totale non corrisponde alle Ore totali nella riga superiore. Il ricalcolo della timeline non risolve il problema”.
 hidefromtoc: true
 feature: Resource Management
