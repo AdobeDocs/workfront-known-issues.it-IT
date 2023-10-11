@@ -1,20 +1,20 @@
 ---
-title: "Bilanciatore dei carichi di lavoro: l’utente risulta sovrassegnato a causa di una capacità inesatta"
+title: '“Bilanciamento del carico di lavoro: l’utente viene visualizzato con un’assegnazione eccessiva a causa di una capacità imprecisa”'
 description: “”
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: 917038bf522f2115c1078a96206ed0a0554cdd6a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Bilanciatore dei carichi di lavoro: l’utente viene visualizzato come sovrassegnato a causa di una capacità non accurata
+# Bilanciamento del carico di lavoro: l’utente viene visualizzato con un’assegnazione eccessiva a causa di una capacità imprecisa
 
-Un utente potrebbe visualizzare nel Bilanciatore dei carichi di lavoro una sovrassegnazione. Se un utente passa il mouse sulla sovrassegnazione, la capacità dell’utente è impostata su 0.
+Nel Bilanciamento del carico di lavoro, un utente potrebbe essere visualizzato con un’assegnazione eccessiva. Passando il puntatore del mouse sull’assegnazione eccessiva, la capacità dell’utente è impostata su 0.
 
-Se l’utente modifica l’intervallo di date, l’allocazione è accurata. Tuttavia, se l’utente aggiorna la pagina, la capacità potrebbe non essere accurata di nuovo.
+Se l’utente modifica l’intervallo di date, l’assegnazione è precisa. Tuttavia, se l’utente aggiorna la pagina, la capacità potrebbe di nuovo essere imprecisa.
 
 _Segnalato per la prima volta il 29 agosto 2023._

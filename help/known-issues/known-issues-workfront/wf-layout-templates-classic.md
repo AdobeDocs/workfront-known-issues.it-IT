@@ -4,16 +4,16 @@ description: “I modelli layout dell’esperienza Workfront classica non sono p
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 
 # Modelli layout: i modelli layout causano incongruenze nei rapporti
 
-Modelli di layout da Classic [!DNL Workfront] non sono più disponibili in [!DNL Workfront] , ma possono comunque influire [!DNL Workfront] dati. Questo può causare incoerenze nei campi interessati dai modelli di layout (come [!UICONTROL Condiviso con]) nei rapporti o nelle dashboard.
+I modelli layout dell’esperienza classica di [!DNL Workfront] non sono più disponibili nell’interfaccia di [!DNL Workfront], ma possono comunque influire sui dati di [!DNL Workfront]. Questo può causare incongruenze nei campi interessati dai modelli stessi (ad esempio [!UICONTROL Condiviso con]) nei rapporti o nelle dashboard.
 
 **Soluzione alternativa**
 

@@ -1,12 +1,12 @@
 ---
-title: "Bacheche: le schede senza titolo vengono visualizzate e visualizzate nel backlog"
-description: "Quando un utente cerca di aprire una scheda, questa viene visualizzata con il nome Campi Senza titolo e vuoti. Dopo un certo periodo di tempo, i dettagli desiderati della carta potrebbero riempirsi, altrimenti la carta potrebbe rimanere vuota. Inoltre, queste schede senza titolo possono essere salvate nel backlog della bacheca, causando confusione."
+title: '“Bacheche: vengono mostrate schede senza titolo e vengono visualizzate nel backlog”'
+description: “Quando un utente tenta di aprire una scheda, questa viene visualizzata con il nome Senza titolo e con i campi vuoti. I dettagli della scheda desiderata potrebbero essere compilati poco dopo, oppure la scheda potrebbe rimanere vuota. Inoltre, queste schede senza titolo potrebbero essere salvate nel backlog della bacheca, creando confusione.”
 hidefromtoc: true
 feature: Agile
 source-git-commit: aed1f7049a3b8e08327888f34c2cf682a9d598ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 8%
 >
 >Questo problema è stato risolto il 21 settembre 2023.
 
-Quando un utente cerca di aprire una scheda, questa viene visualizzata con il nome &quot;Senza titolo&quot; e con i campi vuoti. Dopo un certo periodo di tempo, i dettagli desiderati della carta potrebbero riempirsi, altrimenti la carta potrebbe rimanere vuota.
+Quando un utente tenta di aprire una scheda, questa viene visualizzata con il nome “Senza titolo” e con i campi vuoti. I dettagli della scheda desiderata potrebbero essere compilati poco dopo, oppure la scheda potrebbe rimanere vuota.
 
-Inoltre, queste schede senza titolo possono essere salvate nel backlog della bacheca, causando confusione.
+Inoltre, queste schede senza titolo potrebbero essere salvate nel backlog della bacheca, creando confusione.
 
 **Soluzione alternativa**
 
-Se i dettagli della scheda non vengono visualizzati, chiuderla e riaprirla.
+Se i dettagli della scheda non vengono visualizzati, chiudi la scheda e riaprila.
 
 _Segnalato per la prima volta il 14 settembre 2023._

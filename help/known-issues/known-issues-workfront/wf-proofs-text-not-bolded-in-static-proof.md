@@ -4,7 +4,7 @@ description: “Quando un utente crea una bozza statica da un sito web, il testo
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 534ea87f86e27f0211c8ce12e266dc1310af5501
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
