@@ -1,17 +1,21 @@
 ---
 title: "Bozze: impossibile generare la bozza"
-description: "Quando un utente tenta di generare una bozza, l’operazione ha esito negativo e viene visualizzato un errore."
+description: Quando un utente tenta di generare una bozza, l’operazione ha esito negativo e viene visualizzato un errore.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
+source-git-commit: 392bc185c5549300b05299751af260df1d161009
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 10%
+source-wordcount: '82'
+ht-degree: 17%
 
 ---
 
-
 # Bozze: impossibile generare la bozza
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 12 ottobre 2023.
 
 Quando un utente tenta di generare una bozza, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
