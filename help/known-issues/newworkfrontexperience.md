@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 392bc185c5549300b05299751af260df1d161009
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 84%
+source-wordcount: '768'
+ht-degree: 80%
 
 ---
 
@@ -25,6 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront]: Branding non applicato](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 ottobre 2023 |
+| [Bacheche: visualizzazione Bacheca in [!UICONTROL Attività] l’area del progetto non viene caricata](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md) | 13 ottobre 2023 |
 | [Bozze: le bozze completate rimangono attive [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 9 ottobre 2023 |
 | [Bozze: impossibile creare una nuova versione di una bozza](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 9 ottobre 2023 |
 | [[!DNL Workfront Fusion]: Error when sending invite with [!DNL Workfront] > [!UICONTROL Misc actions] modulo](known-issues-workfront-fusion/fusion-send-invite-error.md) | 5 ottobre 2023 |
@@ -41,6 +43,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifiche: gli utenti non vengono informati delle risposte su un thread di commenti](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 13 ottobre 2023 |
+| [Bozze: [!UICONTROL Attività bozza] la scheda non si apre](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 13 ottobre 2023 |
 | [Attività: [!UICONTROL Ore pianificate] vengono riallocati quando un utente aggiuntivo viene assegnato a un&#39;attività](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12 ottobre 2023 |
 | [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 ottobre 2023 |
 | [Accesso: viene visualizzato un errore durante il ripristino della password nonostante l’azione sia stata eseguita correttamente](known-issues-workfront/wf-login-whoops-resetting-password.md) | 12 ottobre 2023 |

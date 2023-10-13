@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
+source-git-commit: f3b70e2fa79597e9d9c9dea463a7ca19af0a3020
 workflow-type: tm+mt
-source-wordcount: '1335'
-ht-degree: 87%
+source-wordcount: '1361'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Notifiche: gli utenti non vengono informati delle risposte su un thread di commenti](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]: Branding non applicato](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [Bacheche: visualizzazione Bacheca in [!UICONTROL Attività] l’area del progetto non viene caricata](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
       + [Bozze: [!UICONTROL Attività bozza] la scheda non si apre](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Attività: [!UICONTROL Ore pianificate] vengono riallocati quando un utente aggiuntivo viene assegnato a un&#39;attività](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
