@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c4656bcfbaa69fffae814aa83c2212223f032778
+source-git-commit: 7d6e95c610ea991695e553b065f3b0847f4125e0
 workflow-type: tm+mt
-source-wordcount: '1328'
-ht-degree: 88%
+source-wordcount: '1335'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 88%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: [!UICONTROL Attività bozza] la scheda non si apre](known-issues-workfront/wf-proof-activities-tab-not-working.md)
       + [Attività: [!UICONTROL Ore pianificate] vengono riallocati quando un utente aggiuntivo viene assegnato a un&#39;attività](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
