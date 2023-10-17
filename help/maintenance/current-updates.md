@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e15a384697a60f4f6b909ebb44749cf554e6f9c4
+source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
 workflow-type: tm+mt
-source-wordcount: '6083'
-ht-degree: 95%
+source-wordcount: '6211'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,30 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di ottobre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 19 ottobre 2023**
+
+Gli utenti non vengono informati delle risposte su un thread di commenti
+
+_Notifiche_
+
+Quando un utente risponde a un commento, gli altri utenti che dovrebbero ricevere notifiche per la risposta non le ricevono. Alcuni utenti potrebbero ricevere la notifica, mentre altri no.
+
+**Commento aggiuntivo vuoto quando si crea un commento su una bozza**
+
+_Bozze_
+
+Quando un utente crea un commento in una bozza, questa produce anche un altro commento vuoto.
+
+Questo problema è stato segnalato nelle bozze video.
+
+**[!UICONTROL Ore pianificate] vengono riallocati quando un utente aggiuntivo viene assegnato a un&#39;attività**
+
+_Attività_
+
+Quando un utente viene assegnato a un’attività con [!UICONTROL Ore pianificate] assegnati ad altri assegnatari dell&#39;attività, i [!UICONTROL Ore pianificate] sono distribuiti in modo uniforme a tutti gli assegnatari dell’attività.
+
++++
 
 +++**Aggiornamento di manutenzione del 12 ottobre 2023**
 
