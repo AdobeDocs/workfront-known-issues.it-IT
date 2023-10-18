@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
+source-git-commit: c176d4192b0248250cf1afa6e9c09ba88ac12942
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 80%
+source-wordcount: '799'
+ht-degree: 77%
 
 ---
 
@@ -44,6 +44,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Aggiornamenti: &quot;[!UICONTROL Eliminato]&quot; viene visualizzato come nome dell’utente negli aggiornamenti di sistema quando il problema viene convertito nell’attività](known-issues-workfront/wf-updates-deleted-requested-team.md) | 18 ottobre 2023 |
+| [Accesso: la pagina di accesso viene reindirizzata alla pagina di destinazione di disconnessione](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 ottobre 2023 |
 | [Notifiche: gli utenti non vengono informati delle risposte su un thread di commenti](known-issues-workfront/wf-notifications-reply-notif-not-received.md) | 13 ottobre 2023 |
 | [Bozze: [!UICONTROL Attività bozza] la scheda non si apre](known-issues-workfront/wf-proof-activities-tab-not-working.md) | 13 ottobre 2023 |
 | [Attività: [!UICONTROL Ore pianificate] vengono riallocati quando un utente aggiuntivo viene assegnato a un&#39;attività](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md) | 12 ottobre 2023 |
