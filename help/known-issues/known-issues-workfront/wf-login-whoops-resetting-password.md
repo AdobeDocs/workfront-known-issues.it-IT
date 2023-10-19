@@ -1,17 +1,21 @@
 ---
 title: "Accesso: viene visualizzato un errore durante il ripristino della password nonostante l’azione sia stata eseguita correttamente"
-description: "Quando un utente reimposta la propria password, viene inviata l’e-mail Reimposta password, ma viene visualizzato un errore."
+description: Quando un utente reimposta la propria password, viene inviata l’e-mail Reimposta password, ma viene visualizzato un errore.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: db4c3dca360764bd0fe645f453908b195f243a63
+exl-id: f5509725-e63a-4fb0-9366-5a7d568dc0b0
+source-git-commit: aabbd74ae558555e79a3cc1bc96583878cd413b3
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 21%
+source-wordcount: '104'
+ht-degree: 25%
 
 ---
 
-
 # Accesso: viene visualizzato un errore durante il ripristino della password nonostante l’azione sia stata eseguita correttamente
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 12 ottobre 2023.
 
 Quando un utente reimposta la propria password, viene inviata l’e-mail Reimposta password, ma viene visualizzato il seguente errore:
 
