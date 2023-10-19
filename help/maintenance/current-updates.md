@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c4f48d5eee70b0cdcd913466f4ca25b1bc75d5ae
+source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
 workflow-type: tm+mt
-source-wordcount: '6211'
-ht-degree: 93%
+source-wordcount: '6298'
+ht-degree: 92%
 
 ---
 
@@ -38,11 +38,23 @@ Quando un utente crea un commento in una bozza, questa produce anche un altro co
 
 Questo problema è stato segnalato nelle bozze video.
 
+**[!UICONTROL Attività bozza] la scheda non si apre**
+
+_Bozze_
+
+Quando un utente visualizza una bozza e fa clic su [!UICONTROL Attività bozza] , la scheda riporta l&#39;utente al [!UICONTROL Dettagli bozza] scheda.
+
 **[!UICONTROL Ore pianificate] vengono riallocati quando un utente aggiuntivo viene assegnato a un&#39;attività**
 
 _Attività_
 
 Quando un utente viene assegnato a un’attività con [!UICONTROL Ore pianificate] assegnati ad altri assegnatari dell&#39;attività, i [!UICONTROL Ore pianificate] sono distribuiti in modo uniforme a tutti gli assegnatari dell’attività.
+
+**&quot;[!UICONTROL Eliminato]&quot; viene visualizzato come nome dell’utente negli aggiornamenti di sistema quando il problema viene convertito nell’attività**
+
+_Aggiornamenti_
+
+Quando un utente che ha effettuato l’accesso come altro utente converte un problema in un’attività e il problema viene assegnato a un team, gli aggiornamenti del sistema mostrano &quot;[!UICONTROL Eliminato]&quot; come utente che ha richiesto che il team lavori sull’attività.
 
 +++
 
