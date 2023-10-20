@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: bbb284cd791d40f1e98ebd5827d3ee7abce261da
+source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 83%
+source-wordcount: '1421'
+ht-degree: 82%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md)
+      + [Bacheche: le schede previste non vengono visualizzate a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [Home: i progetti e le attività non vengono caricati in Home](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [Documenti: il pulsante Condividi non funziona](known-issues-workfront/wf-documents-share-button-not-working.md)
       + [Documenti: &quot;[!UICONTROL Invia a]L’opzione &quot;causa una pagina vuota e un messaggio di errore&quot;](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
       + [Aggiornamenti: &quot;[!UICONTROL Eliminato]&quot; viene visualizzato come nome dell’utente negli aggiornamenti di sistema quando il problema viene convertito nell’attività](known-issues-workfront/wf-updates-deleted-requested-team.md)
