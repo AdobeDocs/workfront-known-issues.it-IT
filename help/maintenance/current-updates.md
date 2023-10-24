@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
+source-git-commit: 19307601e90dec8fc442051f60b600e8e2f58ba1
 workflow-type: tm+mt
-source-wordcount: '6298'
-ht-degree: 92%
+source-wordcount: '6454'
+ht-degree: 90%
 
 ---
 
@@ -22,7 +22,34 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 ## Aggiornamenti di ottobre 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 19 ottobre 2023**
++++**(Pianificato) Aggiornamento di manutenzione del 26 ottobre 2023**
+
+**Ricerca non funzionante**
+
+_Bacheche_
+
+Quando un utente cerca le bacheche, la ricerca non restituisce tutte le schede che soddisfano i criteri di ricerca.
+
+**Impossibile visualizzare la bozza interattiva nel visualizzatore Web**
+
+_Bozze_
+
+Quando un utente tenta di visualizzare una bozza nel visualizzatore di bozze web, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
+
+&quot;[!UICONTROL Parametro di query o valore cookie mancante per coppia di chiavi]&quot;
+
+
+**L’utente viene duplicato quando condivide una richiesta**
+
+_Richieste_
+
+Quando si condivide una richiesta, se il livello di accesso di un utente con cui viene condivisa la richiesta viene modificato, l’utente appena sopra l’utente nell’elenco diventa tale utente.
+
+Ad esempio, se la richiesta viene condivisa con l&#39;Utente A e l&#39;Utente B e l&#39;accesso dell&#39;Utente B viene modificato, l&#39;Utente A cambia in Utente B e nell&#39;elenco sono ora presenti due User B. Inoltre, è stato modificato solo l’accesso dell’utente B principale.
+
++++
+
++++**Aggiornamento di manutenzione del 19 ottobre 2023**
 
 Gli utenti non vengono informati delle risposte su un thread di commenti
 
