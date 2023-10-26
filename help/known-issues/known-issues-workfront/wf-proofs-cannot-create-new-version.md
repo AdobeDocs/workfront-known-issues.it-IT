@@ -1,17 +1,21 @@
 ---
-title: 'Bozze: impossibile creare una nuova versione di una bozza'
-description: "Quando un utente tenta di creare una nuova versione di una bozza, l’operazione ha esito negativo e viene visualizzato un messaggio di errore."
+title: "Bozze: impossibile creare una nuova versione di una bozza"
+description: Quando un utente tenta di creare una nuova versione di una bozza, l’operazione ha esito negativo e viene visualizzato un messaggio di errore.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 23be4edfa0efdf1fb4f469f762723187f5e4c08d
+exl-id: 23b450da-f0ba-44da-8188-dfd76eb7a402
+source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 9%
+source-wordcount: '91'
+ht-degree: 15%
 
 ---
 
-
 # Bozze: impossibile creare una nuova versione di una bozza
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 26 ottobre 2023.
 
 Quando un utente tenta di creare una nuova versione di una bozza, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
