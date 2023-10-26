@@ -4,7 +4,7 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 81%
@@ -26,13 +26,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 ottobre 2023 |
-| [Bacheche: le schede previste non vengono visualizzate a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 20 ottobre 2023 |
-| [Home: i progetti e le attività non vengono caricati in Home](known-issues-workfront/wf-home-my-projects-tasks-widget.md) | 20 ottobre 2023 |
-| [Documenti: il pulsante Condividi non funziona](known-issues-workfront/wf-documents-share-button-not-working.md) | 19 ottobre 2023 |
+| [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md) | 20 ottobre 2023 |
 | [Documenti: &quot;[!UICONTROL Invia a]L’opzione &quot;causa una pagina vuota e un messaggio di errore&quot;](known-issues-workfront/wf-documents-sent-to-goes-blank.md) | 19 ottobre 2023 |
-| [[!DNL Workfront]: Branding non applicato](known-issues-workfront/wf-workfront-branding-not-applied.md) | 13 ottobre 2023 |
 | [Condivisione: errore durante la condivisione di un oggetto](known-issues-workfront/wf-sharing-user-cannot-share-object.md) | 27 settembre 2023 |
-| [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md) | 7 settembre 2023 |
 
 {style="table-layout:auto"}
 
@@ -42,10 +38,13 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
-| [Accesso: messaggio di errore durante l’accesso](known-issues-workfront/wf-login-error-when-logging-in.md) | 25 ottobre 2023 |
+| [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 ottobre 2023 |
+| [Documenti: il pulsante Condividi non funziona](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 ottobre 2023 |
+| [Bacheche: le schede previste non vengono visualizzate a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 ottobre 2023 |
+| [Attività: &quot;[!UICONTROL Ops]&quot; errore nell’intestazione dell’attività](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 ottobre 2023 |
 | [Bozze: le bozze completate rimangono attive [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 ottobre 2023 |
 | [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 ottobre 2023 |
-| [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 ottobre 2023 |
+| [Bozze: impossibile creare una nuova versione di una bozza](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 ottobre 2023 |
 | [Accesso: la pagina di accesso viene reindirizzata alla pagina di destinazione di disconnessione](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 ottobre 2023 |
 | [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 ottobre 2023 |
 | [Report: gli aggiornamenti privati vengono visualizzati nei campi espressione valore](known-issues-workfront/wf-reports-expression-displays-private-comment.md) | 12 ottobre 2023 |
@@ -63,6 +62,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md) | 26 ottobre 2023 |
 | [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 ottobre 2023 |
 | [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente è taggato](known-issues-workfront/wf-home-mentions-widget-new-home.md) | 25 settembre 2023 |
 | [[!UICONTROL Home]: la nuova anteprima del widget [!UICONTROL Home] non visualizza il nome dell’oggetto corretto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 settembre 2023 |

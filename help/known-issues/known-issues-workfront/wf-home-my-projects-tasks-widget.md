@@ -3,15 +3,19 @@ title: "Home: progetti e attività non vengono caricati nella Home"
 description: "Progetti e attività non caricati in Home"
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: ddbf7c294a044ba84f35cf32bdae6bba09d96600
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 6%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 
 
 # Home: i progetti e le attività non vengono caricati in Home
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 20 ottobre 2023.
 
 Sono stati segnalati i seguenti comportamenti relativi al caricamento di progetti e attività nella Home:
 

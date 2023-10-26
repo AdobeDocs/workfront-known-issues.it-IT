@@ -3,15 +3,19 @@ title: "Accesso: messaggio di errore durante l’accesso"
 description: "Quando un utente tenta di accedere a [!DNL Workfront], viene visualizzato un messaggio di errore."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: e6604e6f3c16a4d1fd5fcc207020c58752a966d3
+source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
 
 # Accesso: messaggio di errore durante l’accesso
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 26 ottobre 2023.
 
 Quando un utente cerca di accedere a [!DNL Workfront], viene visualizzato il seguente messaggio di errore:
 
