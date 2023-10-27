@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e24f394c40d48f2aa5b71c8f00c461a1537e4ebe
+source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 84%
+source-wordcount: '377'
+ht-degree: 83%
 
 ---
 
@@ -37,6 +37,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!DNL Workfront Proof]: timestamp non accurato attivato [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 ottobre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 ottobre 2023 |
 | [Bozze: le bozze completate rimangono attive [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 ottobre 2023 |
 | [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 ottobre 2023 |
