@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '1455'
-ht-degree: 80%
+source-wordcount: '1484'
+ht-degree: 78%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Richieste: nella pagina Nuova richiesta viene visualizzata una valuta personalizzata errata](known-issues-workfront/wf-requests-custom-currency.md)
+      + [Rapporti: le ore preventivate nel rapporto Utilizzo non corrispondono alle ore preventivate riportate tramite API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
+      + [Dashboard: l’utente non può accedere [!UICONTROL Dashboard Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
       + [Attività: &quot;[!UICONTROL Ops]&quot; errore nell’intestazione dell’attività](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [Accesso: messaggio di errore durante l’accesso](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md)

@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
+source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 80%
+source-wordcount: '791'
+ht-degree: 76%
 
 ---
 
@@ -39,6 +39,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Richieste: nella pagina Nuova richiesta viene visualizzata una valuta personalizzata errata](known-issues-workfront/wf-requests-custom-currency.md) | 30 ottobre 2023 |
+| [Rapporti: le ore preventivate nel rapporto Utilizzo non corrispondono alle ore preventivate riportate tramite API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 ottobre 2023 |
+| [Dashboard: l’utente non può accedere [!UICONTROL Dashboard Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md) | 30 ottobre 2023 |
 | [[!DNL Workfront Proof]: timestamp non accurato attivato [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 ottobre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 ottobre 2023 |
 | [Documenti: il pulsante Condividi non funziona](known-issues-workfront/wf-documents-share-button-not-working.md) | 26 ottobre 2023 |
