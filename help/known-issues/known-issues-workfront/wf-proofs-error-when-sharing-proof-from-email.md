@@ -1,21 +1,21 @@
 ---
-title: "Bozze: errore durante la condivisione della bozza dal collegamento e-mail"
-description: "Quando una bozza viene condivisa con un ospite e quest’ultimo tenta di utilizzare l’opzione Condividi la bozza con un altro utente nell’e-mail, riceve un errore quando tenta di inviare un indirizzo e-mail con cui condividere la bozza. Il campo e-mail diventa rosso e l’utente visualizza un errore."
+title: '“Bozze: errore durante la condivisione della bozza dal collegamento e-mail”'
+description: Quando una bozza viene condivisa con un ospite e quest’ultimo tenta di utilizzare l’opzione Condividi la bozza con un altro utente nell’e-mail e di inviare un indirizzo e-mail con cui condividere tale bozza, riceve un errore. Il campo e-mail diventa rosso e l’utente visualizza un errore.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 519f41e821edd68c5997b427046946710d9a7622
-workflow-type: tm+mt
+exl-id: 0ab7a42f-f87e-49d1-b5e5-3d05f7764eab
+source-git-commit: 9eb50a49cbe61f679c3625f413a347286f0b2ea9
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-
 # Bozze: errore durante la condivisione della bozza dal collegamento e-mail
 
-Quando una bozza viene condivisa con un ospite e quest’ultimo tenta di utilizzare l’opzione &quot;Condividi la bozza con qualcun altro&quot; nell’e-mail, riceve un errore quando tenta di inviare un indirizzo e-mail con cui condividere la bozza. Il campo e-mail diventa rosso e l’utente visualizza il seguente errore:
+Quando una bozza viene condivisa con un ospite e quest’ultimo tenta di utilizzare l’opzione “Condividi la bozza con un altro utente” nell’e-mail e di inviare un indirizzo e-mail con cui condividere tale bozza, riceve un errore. Il campo e-mail diventa rosso e l’utente visualizza il seguente errore:
 
-&quot;[!UICONTROL Ci sono alcuni errori. Per favore, correggili qui sopra.]&quot;
+“[!UICONTROL Sono presenti alcuni errori. Correggili qui sopra.]”
 
 Ciò può verificarsi anche quando l’e-mail viene immessa con precisione.
 

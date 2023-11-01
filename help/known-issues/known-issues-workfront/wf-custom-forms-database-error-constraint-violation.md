@@ -1,13 +1,13 @@
 ---
-title: 'Moduli personalizzati: impossibile eliminare il campo personalizzato'
-description: Quando un utente cerca di eliminare un campo personalizzato, non può eliminarlo e visualizza il messaggio Errore del database dovuto alla violazione del vincolo.
+title: '“Moduli personalizzati: impossibile eliminare il campo personalizzato”'
+description: Il tentativo di eliminazione di un campo personalizzato risulta impossibile da parte dell’utente, che visualizza il messaggio “Errore database dovuto alla violazione del vincolo.”
 hidefromtoc: true
 feature: Custom Forms
-exl-id: 3cdd1501-ac22-4e77-a61f-95b2826cc826
-source-git-commit: e39436a5aad5dbfe58386dc770babc2ed39f678b
-workflow-type: tm+mt
+exl-id: 35616468-ba26-47e6-9316-5a50b5e867ba
+source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 

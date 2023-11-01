@@ -1,13 +1,13 @@
 ---
-title: 'Bacheche: problemi durante il caricamento di una bacheca'
-description: Quando un utente cerca di caricare una bacheca, potrebbero verificarsi dei problemi.
+title: '“Bacheche: problemi durante il caricamento di una bacheca”'
+description: Quando un utente tenta di caricare una bacheca, si possono verificare dei problemi.
 hidefromtoc: true
 feature: Agile
 exl-id: 5417ba49-890d-4590-aeae-61a4e8e9fead
 source-git-commit: 4f1175f1139158d310649389f2c99c0335094082
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 

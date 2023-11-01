@@ -1,17 +1,17 @@
 ---
-title: "Workfront Fusion: lo scenario non riesce e viene letto l’errore ECONNRESET"
-description: Uno scenario può fallire a intermittenza. Quando un utente visualizza l’esecuzione dello scenario non riuscito, visualizza messaggi di errore che fanno riferimento a ECONNRESET di lettura
+title: '“Workfront Fusion: uno scenario non riesce con errore lettura ECONNRESET”'
+description: Uno scenario può fallire a intermittenza. Quando un utente visualizza l’esecuzione di uno scenario non riuscito, vede messaggi di errore che fanno riferimento alla lettura ECONNRESET”
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: e1140018-d308-422d-9019-ae5be7e147b2
 source-git-commit: 79ffdc10539219598ce2cc888c319414806c1054
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
-# [!DNL Workfront Fusion]: uno scenario non riesce con errore “[!UICONTROL lettura ECONNRESET]”
+# [!DNL Workfront Fusion]: lo scenario non riesce con errore “[!UICONTROL lettura ECONNRESET]”
 
 >[!NOTE]
 >
