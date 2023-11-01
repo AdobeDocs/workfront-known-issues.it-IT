@@ -1,5 +1,5 @@
 ---
-title: "Bozze: impossibile generare la bozza"
+title: 'Bozze: impossibile generare la bozza'
 description: Quando un utente tenta di generare una bozza, l’operazione ha esito negativo e viene visualizzato un errore.
 hidefromtoc: true
 feature: Digital Content and Documents
@@ -7,7 +7,7 @@ exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 8%
+ht-degree: 62%
 
 ---
 

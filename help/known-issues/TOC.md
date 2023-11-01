@@ -5,7 +5,7 @@ role: User
 source-git-commit: fa4fbd97d128930cce0698f789538854a5f9a866
 workflow-type: tm+mt
 source-wordcount: '1490'
-ht-degree: 78%
+ht-degree: 88%
 
 ---
 
@@ -37,19 +37,19 @@ ht-degree: 78%
       + [Attività: [!UICONTROL Ore pianificate] vengono riallocati quando un utente aggiuntivo viene assegnato a un&#39;attività](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
-      + [Bozze: le bozze completate rimangono attive [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
+      + [Bozze: le bozze completate rimangono nel widget [!UICONTROL In attesa della mia approvazione]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
       + [Bozze: impossibile creare una nuova versione di una bozza](known-issues-workfront/wf-proofs-cannot-create-new-version.md)
-      + [Report: gli aggiornamenti privati vengono visualizzati nei campi espressione valore](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
-      + [Bilanciatore dei carichi di lavoro: le modifiche manuali dell’ora non sono accurate dopo l’aggiornamento della pagina](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
-      + [Home: le attività delegate non sono condivise e non vengono visualizzate nell’elenco di lavoro dell’area Home](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
+      + [Rapporti: gli aggiornamenti privati vengono visualizzati nei campi dell’espressione di valore](known-issues-workfront/wf-reports-expression-displays-private-comment.md)
+      + [Bilanciamento del carico di lavoro: le modifiche manuali dell’ora non sono precise dopo l’aggiornamento della pagina](known-issues-workfront/wf-workload-balancer-hour-changes-not-sticking.md)
+      + [Home: le attività delegate non sono condivise e non vengono visualizzate nell’Elenco lavori della Home](known-issues-workfront/wf-home-delegated-tasks-not-shared.md)
       + [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md)
-      + [Accesso: viene visualizzato un errore durante il ripristino della password nonostante l’azione sia stata eseguita correttamente](known-issues-workfront/wf-login-whoops-resetting-password.md)
+      + [Accesso: viene visualizzato un errore durante il ripristino della password nonostante l’azione sia stata completata correttamente](known-issues-workfront/wf-login-whoops-resetting-password.md)
       + [Bacheche: la bacheca si carica lentamente](known-issues-workfront/wf-boards-board-loads-slowly.md)
       + [Bacheche: impossibile spostare le schede](known-issues-workfront/wf-boards-can-not-move-cards.md)
-      + [Bacheche: le schede non mostrano il numero corretto di voci dell’elenco di controllo](known-issues-workfront/wf-boards-checklist-item-count.md)
-      + [Notifiche: le e-mail di promemoria automatici non vengono inviate](known-issues-workfront/wf-notifications-overdue-error.md)
+      + [Bacheche: le schede non mostrano il numero corretto di elementi dell’elenco di controllo](known-issues-workfront/wf-boards-checklist-item-count.md)
+      + [Notifiche: le e-mail di promemoria automatico non vengono inviate](known-issues-workfront/wf-notifications-overdue-error.md)
       + [Integrazioni di documenti: errore durante il trascinamento di una risorsa in una cartella in un’integrazione Experience Manager Assets](known-issues-workfront/wf-doc-integrations-drag-and-drop-error.md)
-      + [Utenti: messaggio di errore visualizzato in modo errato quando si ricorda all’utente di registrarsi](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
+      + [Utenti: messaggio di errore mostrato erroneamente quando si ricorda all’utente di registrarsi](known-issues-workfront/wf-users-error-shown-when-reminding-user-to-register.md)
       + [Condivisione: errore durante la condivisione di un oggetto](known-issues-workfront/wf-sharing-user-cannot-share-object.md)
       + [Bilanciamento del carico di lavoro: l’utente viene visualizzato con un’assegnazione eccessiva a causa di una capacità imprecisa](known-issues-workfront/wf-workload-balancer-overallocation-due-to-inaccurate-capacity.md)
       + [[!DNL Workfront]: la pagina dell’oggetto è priva di elementi](known-issues-workfront/wf-workfront-work-item-missing-elements.md)
@@ -191,7 +191,7 @@ ht-degree: 78%
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + [[!DNL Workfront Fusion]: errore durante l’invio dell’invito con [!DNL Workfront] > [!UICONTROL Azioni varie] modulo](known-issues-workfront-fusion/fusion-send-invite-error.md)
+      + [[!DNL Workfront Fusion]: errore durante l’invio dell’invito con il modulo [!DNL Workfront] > [!UICONTROL Azioni varie]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: il modulo di sospensione provoca il blocco degli scenari](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
       + [[!DNL Workfront Fusion]: lo scenario non riesce con errore “[!UICONTROL lettura ECONNRESET]”](/help/known-issues/known-issues-workfront-fusion/fusion-read-econnreset-error.md)
       + [[!DNL Workfront Fusion]: impossibile immettere un valore in  [!DNL Workfront] > filtro [!UICONTROL Osserva eventi]](known-issues-workfront-fusion/fusion-wf-watch-events-filter-box.md)

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7f35ea55ec3088bc138da2615ebc61c658e1def7
 workflow-type: tm+mt
 source-wordcount: '6638'
-ht-degree: 89%
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 _Rapporti_
 
-Quando un campo del report include un’espressione di valore che fa riferimento a un aggiornamento privato, gli utenti non inclusi nell’aggiornamento privato possono visualizzarlo nel report.
+Quando un campo del rapporto include un’espressione di valore che fa riferimento a un aggiornamento privato, gli utenti non inclusi nell’aggiornamento privato possono visualizzarlo nel rapporto.
 
 **L&#39;utente viene visualizzato come sovrassegnato a causa di una capacità inesatta**
 
@@ -62,7 +62,7 @@ Quando un utente tenta di visualizzare una bozza nel visualizzatore di bozze web
 
 _Bozze_
 
-Quando un utente tenta di creare una nuova versione di una bozza, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
+Quando un utente tenta di creare una nuova versione di una bozza, l’operazione ha esito negativo viene visualizzato il messaggio di errore seguente:
 
 &quot;[!UICONTROL Errore durante la generazione della bozza]&quot;
 
@@ -134,15 +134,15 @@ _Moduli personalizzati_
 
 I campi calcolati che fanno riferimento a se stessi non mantengono i propri valori quando un problema viene convertito in un’attività.
 
-Quando si converte il problema in un&#39;attività, il valore desiderato viene visualizzato correttamente nella finestra di modifica. Tuttavia, al termine della conversione, nel campo calcolato viene visualizzato un valore &quot;N/d&quot;.
+Quando si converte un problema in un’attività, il valore desiderato viene visualizzato correttamente nella finestra di modifica. Tuttavia, al termine della conversione, nel campo calcolato viene visualizzato “N/d”.
 
-**Errore durante la modifica dei filtri in [!UICONTROL Home]**
+**Errore durante la modifica dei filtri nella [!UICONTROL Home]**
 
 _Home_
 
-Quando un utente modifica i filtri su [!UICONTROL Home], il [!UICONTROL Home] L’area non si carica e l’utente visualizza il seguente errore:
+Quando un utente modifica i filtri nella [!UICONTROL Home], l’area della [!UICONTROL Home] non si carica e viene visualizzato il seguente errore:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aaggiornare la pagina del browser.]”
 
 +++
 
@@ -154,7 +154,7 @@ _Bacheche_
 
 Quando un utente carica una bacheca, questa viene caricata molto lentamente. Ciò può verificarsi anche se la bacheca ha un numero limitato di schede.
 
-Le schede archiviate, anche se non visualizzate, influivano sul tempo di caricamento della bacheca.
+Le schede archiviate, anche se non visualizzate, influiscono sul tempo di caricamento della bacheca.
 
 **Impossibile spostare le schede tra le colonne**
 
@@ -162,33 +162,33 @@ _Bacheche_
 
 Quando un utente tenta di spostare una scheda su una bacheca, la scheda non si sposta. Ciò si verifica nelle seguenti circostanze:
 
-* Trascina
-* Sposta opzione sulla scheda
+* Trascina e rilascia
+* Spostamento opzione sulla scheda
 * Modifica della scheda
 
-**Impossibile spostare le schede dalla colonna dell’acquisizione**
+**Impossibile spostare le schede dalla colonna acquisizione**
 
 _Bacheche_
 
-L’utente può trascinare una scheda fuori dalla colonna dell’acquisizione in un’altra colonna sulla bacheca, ma le schede successive non possono essere spostate fuori dalla colonna dell’acquisizione.
+L’utente può trascinare una scheda fuori dalla colonna acquisizione in un’altra colonna sulla bacheca, ma le schede successive non possono essere spostate al di fuori della colonna acquisizione.
 
-**Raggruppamento influisce sulle prestazioni della bacheca**
+**La funzione di raggruppamento influisce sulle prestazioni della bacheca**
 
 _Bacheche_
 
-Quando l’utente tenta di raggruppare le schede per assegnatari o tag, le prestazioni della bacheca diventano molto lente.
+Quando l’utente tenta di raggruppare le schede per assegnatari o tag, la bacheca diventa molto lenta.
 
-**Le e-mail di promemoria automatici non vengono inviate**
+**Le e-mail di promemoria automatiche non vengono inviate**
 
 _Notifiche_
 
-I promemoria e-mail automatici non vengono inviati. È iniziato il 14 settembre 2023.
+Le e-mail di promemoria automatico non vengono inviate. È iniziato il 14 settembre 2023.
 
 +++
 
 ## Aggiornamenti di settembre 2023
 
-+++**Aggiornamento di manutenzione dell’28 settembre 2023**
++++**Aggiornamento di manutenzione del 28 settembre 2023**
 
 **Impossibile eliminare il campo personalizzato**
 
