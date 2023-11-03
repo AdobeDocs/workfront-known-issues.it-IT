@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 87%
+source-wordcount: '150'
+ht-degree: 84%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Fusion: errore memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md) | 3 novembre 2023 |
 | [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 ottobre 2023 |
 
 {style="table-layout:auto"}

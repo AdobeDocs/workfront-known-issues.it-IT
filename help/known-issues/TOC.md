@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
 workflow-type: tm+mt
-source-wordcount: '1516'
-ht-degree: 86%
+source-wordcount: '1554'
+ht-degree: 84%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Home: approvazione bloccata su [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [Bozze: problemi relativi all’attivazione della fase](known-issues-workfront/wf-proofs-stage-activation-issues.md)
+      + [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
+      + [Richieste: i campi vengono cancellati quando un documento viene aggiunto a una richiesta](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
       + [Aggiornamenti: righe aggiuntive nel commento effettuato tramite API o [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [Aggiornamenti: i commenti allegati agli aggiornamenti del sistema non vengono visualizzati](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [Bacheche: errore nella sezione Commenti di una scheda](known-issues-workfront/wf-boards-comment-section-error.md)
@@ -193,6 +197,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: errore memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: errore durante l’invio dell’invito con il modulo [!DNL Workfront] > [!UICONTROL Azioni varie]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: il modulo di sospensione provoca il blocco degli scenari](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
