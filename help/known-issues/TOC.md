@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '1554'
-ht-degree: 84%
+source-wordcount: '1566'
+ht-degree: 83%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 84%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Modelli: le attività secondarie non vengono ordinate quando vengono spostate nell&#39;attività padre](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [Home: approvazione bloccata su [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [Bozze: problemi relativi all’attivazione della fase](known-issues-workfront/wf-proofs-stage-activation-issues.md)
       + [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md)

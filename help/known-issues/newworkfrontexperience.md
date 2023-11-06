@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
+source-git-commit: 9d06f5922711057d2075bef8653c7241e6464ac7
 workflow-type: tm+mt
-source-wordcount: '805'
-ht-degree: 82%
+source-wordcount: '818'
+ht-degree: 80%
 
 ---
 
@@ -40,6 +40,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Modelli: le attività secondarie non vengono ordinate quando vengono spostate nell&#39;attività padre](known-issues-workfront/wf-templates-children-tasks-out-of-order.md) | 6 novembre 2023 |
 | [Home: approvazione bloccata su [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
 | [Bozze: problemi relativi all’attivazione della fase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
