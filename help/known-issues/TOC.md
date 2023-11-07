@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 54fda0aa30beb0bfcf9e6359e12f58d03dffac1e
+source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
 workflow-type: tm+mt
-source-wordcount: '1585'
+source-wordcount: '1594'
 ht-degree: 82%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Dashboard: margine vuoto grande quando si stampa il dashboard in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [Home: le attività nei progetti con stato Approvato o Pianificazione non sono incluse in Le mie attività o nella sezione Work List (Elenco di lavoro) dell’area Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
       + [Modelli: le attività secondarie non vengono ordinate quando vengono spostate nell&#39;attività padre](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
       + [Home: approvazione bloccata su [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
