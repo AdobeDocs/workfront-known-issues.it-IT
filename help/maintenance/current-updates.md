@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3a6d56930cb2861c68111c9c960963b71ec213d4
+source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
 workflow-type: tm+mt
-source-wordcount: '6637'
-ht-degree: 93%
+source-wordcount: '6830'
+ht-degree: 92%
 
 ---
 
@@ -21,6 +21,38 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di novembre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 9 novembre 2023**
+
+**Oggetti mancanti nel widget Il mio lavoro quando non è nella parte superiore della pagina**
+
+_Home_
+
+Se il widget Il mio lavoro si trova nella parte superiore della nuova home page, vengono recuperati tutti gli oggetti previsti. Tuttavia, se questo widget si trova al di sotto di qualsiasi altro widget sulla pagina, vengono estratti solo 10 oggetti.
+
+**Impossibile generare la bozza**
+
+_Bozze_
+
+Quando un utente tenta di generare una bozza, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
+
+&quot;[!UICONTROL Errore durante la generazione della bozza]&quot;
+
+Ciò si verifica quando l’impostazione del livello di accesso dell’utente[!UICONTROL  Visualizza informazioni di contatto] è impostato su Disabilitato.
+
+**I campi vengono cancellati quando un documento viene aggiunto a una richiesta**
+
+_Richieste_
+
+Quando un utente crea una richiesta, compila i campi in un modulo e poi aggiunge o rimuove un documento, alcuni campi del modulo vengono eliminati dai dati e l’utente deve compilarli nuovamente prima di inviare la richiesta.
+
+**L&#39;attività personale viene visualizzata nella scheda orario**
+
+_Schede orario_
+
+Quando un utente crea un’attività nel widget delle [!UICONTROL Cose da fare] della nuova esperienza [!UICONTROL Home], tale attività viene visualizzata nella scheda orario dell’utente. Ciò si verifica anche se l’attività non ha ore registrate e il progetto personale non è fissato.
+
++++
 
 +++**Aggiornamento di manutenzione del 2 novembre 2023**
 
