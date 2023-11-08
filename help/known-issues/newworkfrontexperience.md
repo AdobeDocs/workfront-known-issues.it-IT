@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
 workflow-type: tm+mt
-source-wordcount: '835'
-ht-degree: 79%
+source-wordcount: '842'
+ht-degree: 78%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bacheche: problemi durante la visualizzazione dello stato delle sottoattività](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 novembre 2023 |
 | [Richieste: i campi vengono cancellati quando un documento viene aggiunto a una richiesta](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md) | 3 novembre 2023 |
 | [Aggiornamenti: i commenti allegati agli aggiornamenti del sistema non vengono visualizzati](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 novembre 2023 |
 | [Bacheche: errore nella sezione Commenti di una scheda](known-issues-workfront/wf-boards-comment-section-error.md) | 1 novembre 2023 |
