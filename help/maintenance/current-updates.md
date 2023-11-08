@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7a783d0c55d368c63e41d58a5343e44e54442e7d
+source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
-source-wordcount: '6830'
-ht-degree: 92%
+source-wordcount: '6904'
+ht-degree: 91%
 
 ---
 
@@ -51,6 +51,16 @@ Quando un utente crea una richiesta, compila i campi in un modulo e poi aggiunge
 _Schede orario_
 
 Quando un utente crea un’attività nel widget delle [!UICONTROL Cose da fare] della nuova esperienza [!UICONTROL Home], tale attività viene visualizzata nella scheda orario dell’utente. Ciò si verifica anche se l’attività non ha ore registrate e il progetto personale non è fissato.
+
++++
+
++++**Aggiornamento di manutenzione (aggiornamento rapido) del 3 novembre 2023**
+
+**Le attività figlio non vengono ordinate quando vengono spostate nell&#39;attività padre**
+
+_Modelli_
+
+Quando un utente crea delle attività su un modello e le sposta sotto un’attività padre, i numeri assegnati alle attività figlio non vengono visualizzati nell’ordine previsto. Pertanto, quando si aggiorna la pagina, le attività figlio vengono ordinate in base ai numeri delle attività impreviste e le attività figlio non sono quindi ordinate.
 
 +++
 
