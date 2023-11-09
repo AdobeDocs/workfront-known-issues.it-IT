@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
 workflow-type: tm+mt
 source-wordcount: '390'
-ht-degree: 90%
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [[!UICONTROL Bozza Workfront]: e-mail e notifiche ritardate](known-issues-workfront-proof/proof-delayed-notification.md) | 26 ottobre 2023 |
+| [[!UICONTROL Workfront Proof]: e-mail e notifiche ritardate](known-issues-workfront-proof/proof-delayed-notification.md) | 26 ottobre 2023 |
 
 {style="table-layout:auto"}
 
@@ -38,7 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Home: approvazione bloccata su [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
 | [Bozze: problemi relativi all’attivazione della fase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
-| [[!DNL Workfront Proof]: timestamp non accurato attivato [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 ottobre 2023 |
+| [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 ottobre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 ottobre 2023 |
 | [Bozze: le bozze completate rimangono nel widget [!UICONTROL In attesa della mia approvazione] ](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 ottobre 2023 |
 | [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 ottobre 2023 |

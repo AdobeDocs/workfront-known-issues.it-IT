@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 84%
+ht-degree: 89%
 
 ---
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
 source-wordcount: '1612'
-ht-degree: 81%
+ht-degree: 92%
 
 ---
 
@@ -29,24 +29,24 @@ ht-degree: 81%
       + [Aggiornamenti: righe aggiuntive nel commento effettuato tramite API o [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md)
       + [Aggiornamenti: i commenti allegati agli aggiornamenti del sistema non vengono visualizzati](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md)
       + [Bacheche: errore nella sezione Commenti di una scheda](known-issues-workfront/wf-boards-comment-section-error.md)
-      + [[!UICONTROL Bilanciatore dei carichi di lavoro]: [!UICONTROL Bilanciatore dei carichi di lavoro] carica lentamente](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
+      + [[!UICONTROL Bilanciamento del carico di lavoro]: il [!UICONTROL bilanciamento del carico di lavoro] viene caricato lentamente](known-issues-workfront/wf-workload-balancer-loads-slowly.md)
       + [Richieste: nella pagina Nuova richiesta viene visualizzata una valuta personalizzata errata](known-issues-workfront/wf-requests-custom-currency.md)
       + [Rapporti: le ore preventivate nel rapporto Utilizzo non corrispondono alle ore preventivate riportate tramite API](known-issues-workfront/wf-reports-incorrect-rpbghr.md)
-      + [Dashboard: l’utente non può accedere [!UICONTROL Dashboard Canvas]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
-      + [Attività: &quot;[!UICONTROL Ops]&quot; errore nell’intestazione dell’attività](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
+      + [Dashboard: l’utente non può accedere alle [!UICONTROL Dashboard dell’area di lavoro]](known-issues-workfront/wf-dashboards-no-access-to-canvas-dasboards.md)
+      + [Attività: errore “[!UICONTROL Ops]” nell’intestazione dell’attività](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md)
       + [Accesso: messaggio di errore durante l’accesso](known-issues-workfront/wf-login-error-when-logging-in.md)
       + [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md)
-      + [Bacheche: le schede previste non vengono visualizzate a bordo](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
-      + [Home: i progetti e le attività non vengono caricati in Home](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
+      + [Bacheche: sulla bacheca non vengono visualizzate le schede previste](known-issues-workfront/wf-boards-expected-cards-not-displaying.md)
+      + [Home: progetti e attività non vengono caricati nella Home](known-issues-workfront/wf-home-my-projects-tasks-widget.md)
       + [Documenti: il pulsante Condividi non funziona](known-issues-workfront/wf-documents-share-button-not-working.md)
-      + [Documenti: &quot;[!UICONTROL Invia a]L’opzione &quot;causa una pagina vuota e un messaggio di errore&quot;](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
-      + [Aggiornamenti: &quot;[!UICONTROL Eliminato]&quot; viene visualizzato come nome dell’utente negli aggiornamenti di sistema quando il problema viene convertito nell’attività](known-issues-workfront/wf-updates-deleted-requested-team.md)
-      + [Accesso: la pagina di accesso viene reindirizzata alla pagina di destinazione di disconnessione](known-issues-workfront/wf-login-redirects-to-logout-page.md)
-      + [Notifiche: gli utenti non vengono informati delle risposte su un thread di commenti](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
-      + [[!DNL Workfront]: Branding non applicato](known-issues-workfront/wf-workfront-branding-not-applied.md)
-      + [Bacheche: visualizzazione Bacheca in [!UICONTROL Attività] l’area del progetto non viene caricata](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
-      + [Bozze: [!UICONTROL Attività bozza] la scheda non si apre](known-issues-workfront/wf-proof-activities-tab-not-working.md)
-      + [Attività: [!UICONTROL Ore pianificate] vengono riallocati quando un utente aggiuntivo viene assegnato a un&#39;attività](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
+      + [Documenti: l’opzione “[!UICONTROL Invia a]” causa una pagina vuota e un messaggio di errore](known-issues-workfront/wf-documents-sent-to-goes-blank.md)
+      + [Aggiornamenti: quando un problema viene convertito in un’attività, come nome dell’utente negli aggiornamenti del sistema viene visualizzato “[!UICONTROL Eliminato]”](known-issues-workfront/wf-updates-deleted-requested-team.md)
+      + [“Accesso: la pagina di accesso reindirizza alla pagina di destinazione per la disconnessione”](known-issues-workfront/wf-login-redirects-to-logout-page.md)
+      + [Notifiche: gli utenti non ricevono notifiche sulle risposte in un thread di commenti](known-issues-workfront/wf-notifications-reply-notif-not-received.md)
+      + [[!DNL Workfront]: il branding non viene applicato](known-issues-workfront/wf-workfront-branding-not-applied.md)
+      + [Bacheche: la vista Bacheca nell’area [!UICONTROL Attività] del progetto non viene caricata](known-issues-workfront/wf-boards-view-on-task-list-does-not-load.md)
+      + [Bozze: la scheda [!UICONTROL Attività bozza] non si apre](known-issues-workfront/wf-proof-activities-tab-not-working.md)
+      + [Attività: quando un utente aggiuntivo viene assegnato a un’attività, le [!UICONTROL Ore pianificate] vengono riallocate](known-issues-workfront/wf-tasks-hours-redistributed-assignee-added.md)
       + [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md)
       + [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md)
       + [Bozze: le bozze completate rimangono nel widget [!UICONTROL In attesa della mia approvazione]](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md)
@@ -176,8 +176,8 @@ ht-degree: 81%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [[!DNL Workfront Proof]: timestamp non accurato attivato [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
-      + [[!UICONTROL Bozza Workfront]: e-mail e notifiche ritardate](known-issues-workfront-proof/proof-delayed-notification.md)
+      + [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
+      + [[!UICONTROL Workfront Proof]: e-mail e notifiche ritardate](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md)
       + [Workfront Proof: i dati della dashboard non sono sempre precisi](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof: i dati di ricerca non sono sempre precisi](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)

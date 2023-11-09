@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
 workflow-type: tm+mt
 source-wordcount: '6904'
-ht-degree: 91%
+ht-degree: 97%
 
 ---
 
@@ -38,7 +38,7 @@ Quando un utente tenta di generare una bozza, l’operazione ha esito negativo e
 
 &quot;[!UICONTROL Errore durante la generazione della bozza]&quot;
 
-Ciò si verifica quando l’impostazione del livello di accesso dell’utente[!UICONTROL  Visualizza informazioni di contatto] è impostato su Disabilitato.
+Ciò si verifica quando l’impostazione del livello di accesso utente [!UICONTROL Visualizza informazioni di contatto] è impostata su Disattivata.
 
 **I campi vengono cancellati quando un documento viene aggiunto a una richiesta**
 
@@ -66,13 +66,13 @@ Quando un utente crea delle attività su un modello e le sposta sotto un’attiv
 
 +++**Aggiornamento di manutenzione del 2 novembre 2023**
 
-**Gli aggiornamenti privati vengono visualizzati nei campi espressione valore**
+**Gli aggiornamenti privati vengono visualizzati nei campi dell’espressione di valore**
 
 _Rapporti_
 
 Quando un campo del rapporto include un’espressione di valore che fa riferimento a un aggiornamento privato, gli utenti non inclusi nell’aggiornamento privato possono visualizzarlo nel rapporto.
 
-**L&#39;utente viene visualizzato come sovrassegnato a causa di una capacità inesatta**
+**L’utente viene visualizzato con un’assegnazione eccessiva a causa di una capacità imprecisa**
 
 _Bilanciamento del carico di lavoro_
 
@@ -86,19 +86,19 @@ Se l’utente modifica l’intervallo di date, l’assegnazione è precisa. Tutt
 
 +++**Aggiornamento di manutenzione del 26 ottobre 2023**
 
-**Ricerca non funzionante**
+**La ricerca non funziona**
 
 _Bacheche_
 
-Quando un utente cerca le bacheche, la ricerca non restituisce tutte le schede che soddisfano i criteri di ricerca.
+Quando un utente esegue una ricerca sulle bacheche, la ricerca non restituisce tutte le schede che soddisfano i criteri di ricerca.
 
 **Impossibile visualizzare la bozza interattiva nel visualizzatore Web**
 
 _Bozze_
 
-Quando un utente tenta di visualizzare una bozza nel visualizzatore di bozze web, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
+Quando un utente tenta di visualizzare una bozza nel proofing viewer basato sul Web, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
-&quot;[!UICONTROL Parametro di query o valore cookie mancante per coppia di chiavi]&quot;
+“[!UICONTROL Parametro di query o valore cookie mancante per coppia di ID chiavi]”
 
 **Impossibile creare una nuova versione di una bozza**
 
@@ -108,19 +108,19 @@ Quando un utente tenta di creare una nuova versione di una bozza, l’operazione
 
 &quot;[!UICONTROL Errore durante la generazione della bozza]&quot;
 
-**L’utente viene duplicato quando condivide una richiesta**
+**L’utente viene duplicato durante la condivisione di una richiesta**
 
 _Richieste_
 
-Quando si condivide una richiesta, se il livello di accesso di un utente con cui viene condivisa la richiesta viene modificato, l’utente appena sopra l’utente nell’elenco diventa tale utente.
+Quando si condivide una richiesta, se il livello di accesso di un utente con cui viene condivisa la richiesta viene modificato, l’utente che si trova appena sopra l’utente nell’elenco diventa tale utente.
 
-Ad esempio, se la richiesta viene condivisa con l&#39;Utente A e l&#39;Utente B e l&#39;accesso dell&#39;Utente B viene modificato, l&#39;Utente A cambia in Utente B e nell&#39;elenco sono ora presenti due User B. Inoltre, è stato modificato solo l’accesso dell’utente B principale.
+Ad esempio, se la richiesta viene condivisa con l’Utente A e l’Utente B e l’accesso dell’Utente B viene modificato, l’Utente A cambia in Utente B e nell’elenco sono ora presenti due Utenti B. Inoltre, è stato modificato solo l’accesso dell’utente B principale.
 
-**&quot;[!UICONTROL Ops]&quot; errore nell’intestazione dell’attività**
+**“[!UICONTROL Errore]” errore nell’intestazione dell’attività**
 
 _Attività_
 
-Quando un utente visualizza un’attività, l’intestazione dell’attività non contiene informazioni. Viene invece visualizzato il seguente messaggio di errore:
+Quando un utente visualizza un’attività, l’intestazione dell’attività non contiene informazioni. Invece, viene visualizzato il seguente messaggio di errore:
 
 “[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
 
@@ -128,13 +128,13 @@ Quando un utente visualizza un’attività, l’intestazione dell’attività no
 
 +++**Aggiornamento di manutenzione del 19 ottobre 2023**
 
-Gli utenti non vengono informati delle risposte su un thread di commenti
+Gli utenti non ricevono notifiche sulle risposte in un thread di commenti
 
 _Notifiche_
 
 Quando un utente risponde a un commento, gli altri utenti che dovrebbero ricevere notifiche per la risposta non le ricevono. Alcuni utenti potrebbero ricevere la notifica, mentre altri no.
 
-**Commento aggiuntivo vuoto quando si crea un commento su una bozza**
+**Commento aggiuntivo vuoto durante la creazione di un commento su una bozza**
 
 _Bozze_
 
@@ -142,23 +142,23 @@ Quando un utente crea un commento in una bozza, questa produce anche un altro co
 
 Questo problema è stato segnalato nelle bozze video.
 
-**[!UICONTROL Attività bozza] la scheda non si apre**
+La scheda **[!UICONTROL Attività bozza] non si apre**
 
 _Bozze_
 
-Quando un utente visualizza una bozza e fa clic su [!UICONTROL Attività bozza] , la scheda riporta l&#39;utente al [!UICONTROL Dettagli bozza] scheda.
+Quando un utente visualizza una bozza e fa clic sulla scheda [!UICONTROL Attività bozza], la scheda lo riporta alla scheda [!UICONTROL Dettagli della bozza] .
 
-**[!UICONTROL Ore pianificate] vengono riallocati quando un utente aggiuntivo viene assegnato a un&#39;attività**
+Quando un utente aggiuntivo viene assegnato a un’attività, le **[!UICONTROL Ore pianificate] vengono riallocate**
 
 _Attività_
 
-Quando un utente viene assegnato a un’attività con [!UICONTROL Ore pianificate] assegnati ad altri assegnatari dell&#39;attività, i [!UICONTROL Ore pianificate] sono distribuiti in modo uniforme a tutti gli assegnatari dell’attività.
+Quando un utente viene assegnato a un’attività con [!UICONTROL Ore pianificate] assegnate ad altri assegnatari dell’attività, tali [!UICONTROL Ore pianificate] vengono distribuite in modo uniforme a tutti gli assegnatari dell’attività.
 
-**&quot;[!UICONTROL Eliminato]&quot; viene visualizzato come nome dell’utente negli aggiornamenti di sistema quando il problema viene convertito nell’attività**
+Quando un problema viene convertito in un’attività, come nome utente negli aggiornamenti di sistema viene visualizzato **“[!UICONTROL Eliminato]”**
 
 _Aggiornamenti_
 
-Quando un utente che ha effettuato l’accesso come altro utente converte un problema in un’attività e il problema viene assegnato a un team, gli aggiornamenti del sistema mostrano &quot;[!UICONTROL Eliminato]&quot; come utente che ha richiesto che il team lavori sull’attività.
+Quando un utente che ha effettuato l’accesso come altro utente converte un problema in un’attività e il problema viene assegnato a un team, gli aggiornamenti di sistema mostrano l’utente che ha richiesto che il team lavori sull’attività come “[!UICONTROL Eliminato]”.
 
 +++
 
@@ -168,7 +168,7 @@ Quando un utente che ha effettuato l’accesso come altro utente converte un pro
 
 _Bacheche_
 
-Per gli account che non hanno mai creato un flusso di lavoro nell’applicazione Schede, l’area Flussi di lavoro è stata rimossa dal dashboard Schede. Gli account che utilizzano flussi di lavoro hanno ancora accesso a tali flussi.
+Per gli account che non hanno mai creato un flusso di lavoro nell’applicazione Bacheche, l’area Flussi di lavoro è stata rimossa dalla dashboard Bacheche. Gli account che utilizzano flussi di lavoro hanno ancora accesso a tali flussi.
 
 **I campi calcolati non mantengono il valore quando il problema viene convertito in attività**
 
