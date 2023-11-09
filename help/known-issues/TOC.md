@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac2775f96a3ea4c69046d4bb29f311b31f85c843
+source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
 workflow-type: tm+mt
-source-wordcount: '1600'
-ht-degree: 82%
+source-wordcount: '1612'
+ht-degree: 81%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 82%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Notifiche: la notifica e-mail non viene ricevuta quando l’utente viene taggato in un commento](known-issues-workfront/wf-notif-email-not-received.md)
       + [Bacheche: problemi durante la visualizzazione dello stato delle sottoattività](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Dashboard: margine vuoto grande quando si stampa il dashboard in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
       + [Home: le attività nei progetti con stato Approvato o Pianificazione non sono incluse in Le mie attività o nella sezione Work List (Elenco di lavoro) dell’area Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
