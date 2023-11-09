@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83c161ac5cc06b67a67464ab75be50903c379118
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '6904'
+source-wordcount: '6903'
 ht-degree: 97%
 
 ---
@@ -22,7 +22,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 ## Aggiornamenti di novembre 2023
 
-+++**(Pianificato) Aggiornamento di manutenzione del 9 novembre 2023**
++++**Aggiornamento di manutenzione del 9 novembre 2023**
 
 **Oggetti mancanti nel widget Il mio lavoro quando non è nella parte superiore della pagina**
 

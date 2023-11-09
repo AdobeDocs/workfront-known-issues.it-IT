@@ -3,15 +3,19 @@ title: "Richieste: i campi vengono cancellati quando un documento viene aggiunto
 description: "Quando un utente crea una richiesta, compila i campi in un modulo e poi aggiunge o rimuove un documento, alcuni campi nel modulo vengono eliminati dai dati e l’utente deve compilarli nuovamente prima di inviare la richiesta."
 hidefromtoc: true
 feature: Requests
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
+source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 3%
+source-wordcount: '114'
+ht-degree: 8%
 
 ---
 
 
 # Richieste: i campi vengono cancellati quando un documento viene aggiunto a una richiesta
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 11 novembre 2023.
 
 Quando un utente crea una richiesta, compila i campi in un modulo e poi aggiunge o rimuove un documento, alcuni campi del modulo vengono eliminati dai dati e l’utente deve compilarli nuovamente prima di inviare la richiesta.
 

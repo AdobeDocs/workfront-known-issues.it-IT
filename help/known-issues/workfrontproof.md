@@ -4,9 +4,9 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 4f656ad6456070d9faa691654386db936ea32362
+source-git-commit: d2d39c5c08d605ebe252eab33b3fae3d9f16ac8f
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '380'
 ht-degree: 93%
 
 ---
@@ -40,7 +40,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 | [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 ottobre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 ottobre 2023 |
-| [Bozze: le bozze completate rimangono nel widget [!UICONTROL In attesa della mia approvazione] ](known-issues-workfront/wf-proofs-completed-proofs-remain-on-approvals-widget.md) | 19 ottobre 2023 |
 | [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 ottobre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 ottobre 2023 |
 
@@ -78,3 +77,4 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Documenti: l’icona del flusso di lavoro della bozza non viene visualizzata](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 marzo 2021 |
 
 {style="table-layout:auto"}
+
