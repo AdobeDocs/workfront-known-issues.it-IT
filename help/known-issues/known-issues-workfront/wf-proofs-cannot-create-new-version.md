@@ -1,13 +1,13 @@
 ---
 title: 'Bozze: impossibile creare una nuova versione di una bozza'
-description: Quando un utente tenta di creare una nuova versione di una bozza, l’operazione ha esito negativo e viene visualizzato un messaggio di errore.
+description: “Quando un utente tenta di creare una nuova versione di una bozza, l’operazione ha esito negativo viene visualizzato un messaggio di errore.”
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 23b450da-f0ba-44da-8188-dfd76eb7a402
 source-git-commit: da113ea4babc7eaeadc80f73aabd45d9482ad620
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 

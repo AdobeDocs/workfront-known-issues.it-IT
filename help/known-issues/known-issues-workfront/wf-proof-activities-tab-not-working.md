@@ -1,23 +1,23 @@
 ---
-title: "Bozze: la scheda Proof activity (Attività bozza) non si apre"
-description: "Quando un utente visualizza una bozza e fa clic su [!UICONTROL Attività bozza] , la scheda riporta l'utente al [!UICONTROL Dettagli bozza] scheda."
+title: '“Bozze: la scheda Attività bozza non si apre”'
+description: Quando un utente visualizza una bozza e fa clic sulla scheda [!UICONTROL Attività bozza], la scheda lo riporta a quella dei [!UICONTROL Dettagli della bozza] .
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+exl-id: 39c30f12-9170-4545-9b80-c040f138ed2a
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-
-# Bozze: [!UICONTROL Attività bozza] la scheda non si apre
+# Bozze: la scheda [!UICONTROL Attività bozza] non si apre
 
 >[!NOTE]
 >
 >Questo problema è stato risolto il 19 ottobre 2023.
 
-Quando un utente visualizza una bozza e fa clic su [!UICONTROL Attività bozza] , la scheda riporta l&#39;utente al [!UICONTROL Dettagli bozza] scheda.
+Quando un utente visualizza una bozza e fa clic sulla scheda [!UICONTROL Attività bozza], la scheda lo riporta a quella dei [!UICONTROL Dettagli della bozza] .
 
 **Soluzione alternativa**
 

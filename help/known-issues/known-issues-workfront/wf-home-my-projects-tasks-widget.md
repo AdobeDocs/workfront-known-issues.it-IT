@@ -1,17 +1,17 @@
 ---
-title: "Home: progetti e attività non vengono caricati nella Home"
-description: "Progetti e attività non caricati in Home"
+title: '“Home: progetti e attività non vengono caricati nella Home”'
+description: I progetti e le attività non vengono caricati nella Home
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
-workflow-type: tm+mt
+exl-id: 01498e80-af59-44c8-990b-69a6332bb72e
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
-
-# Home: i progetti e le attività non vengono caricati in Home
+# Home: progetti e attività non vengono caricati nella Home
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 14%
 
 Sono stati segnalati i seguenti comportamenti relativi al caricamento di progetti e attività nella Home:
 
-* Nuova esperienza Home: i widget Progetti personali e Attività personali non si popolano.
-* Esperienza Home classica: la sezione Work List (Elenco di lavoro) dell’area Home non si popola.
+* Nuova esperienza Home: i widget “I miei progetti” e “Le mie attività” non vengono compilati.
+* Esperienza Home classica: la sezione Elenco lavori della Home non viene compilata.
 
 _Segnalato per la prima volta il 19 ottobre 2023._

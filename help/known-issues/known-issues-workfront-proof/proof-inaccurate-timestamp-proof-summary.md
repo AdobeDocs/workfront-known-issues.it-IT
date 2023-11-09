@@ -1,18 +1,18 @@
 ---
-title: "Workfront Proof: timestamp non accurato nel riepilogo della bozza"
-description: "Quando un utente fa clic sull’opzione Stampa riepilogo per le bozze, la marca temporale visualizzata mostrava 30 minuti aggiunti."
+title: '“Workfront Proof: timestamp non accurato nel riepilogo della bozza”'
+description: Quando un utente fa clic sull’opzione Stampa riepilogo per le bozze, nella marca temporale visualizzata sono stati aggiunti 30 minuti.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9e32c28c4428077057a194a2015ea1613a9656a4
-workflow-type: tm+mt
+exl-id: 089b620b-55ce-4a35-88a7-0cb6fa0dfe82
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# [!DNL Workfront Proof]: timestamp non accurato in [!UICONTROL Riepilogo bozza]
 
-# [!DNL Workfront Proof]: timestamp non accurato attivato [!UICONTROL Riepilogo bozza]
-
-Quando un utente fa clic su [!UICONTROL Stampa riepilogo] per le bozze, la marca temporale visualizzata aveva aggiunto 30 minuti.
+Quando un utente fa clic sull’opzione [!UICONTROL Stampa riepilogo] per le bozze, nella marca temporale visualizzata sono stati aggiunti 30 minuti.
 
 _Segnalato per la prima volta il 14 settembre 2023._

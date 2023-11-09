@@ -1,17 +1,17 @@
 ---
-title: "Workfront: il branding non viene applicato"
-description: "Quando un utente carica i file nell’area Branding della configurazione, questi vengono caricati correttamente. Tuttavia, se un utente visualizza il menu principale, non vede il logo. Invece, viene visualizzato un messaggio di errore."
+title: '“Workfront: il branding non viene applicato”'
+description: Quando un utente carica i file nell’area Branding della configurazione, i file vengono visualizzati come caricati correttamente. Tuttavia, se un utente visualizza il Menu principale, il logo non viene mostrato. Invece, viene visualizzato un messaggio di errore.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 97630935e3291c31114232cdd196ee0041a00609
-workflow-type: tm+mt
+exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
-
-# [!DNL Workfront]: Branding non applicato
+# [!DNL Workfront]: il branding non viene applicato
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 25%
 
 >[!IMPORTANT]
 >
->Il branding non è disponibile se l’organizzazione è stata migrata a Adobe Admin Console o Adobe Unified Shell.
+>Se l’organizzazione è stata migrata ad Adobe Admin Console o Adobe Unified Shell, il branding non è disponibile.
 
-Quando un utente carica i file in [!UICONTROL Marchio] nell&#39;area di configurazione, i file vengono visualizzati correttamente. Tuttavia, se un utente visualizza [!UICONTROL Menu principale], il logo non viene visualizzato. Viene invece visualizzato il seguente messaggio:
+Quando un utente carica file nell’area [!UICONTROL Branding] della configurazione, i file vengono visualizzati come caricati correttamente. Tuttavia, se un utente visualizza il [!UICONTROL Menu principale], il logo non viene mostrato. Invece, viene visualizzato il seguente messaggio di errore:
 
 &quot;[!UICONTROL Logo azienda non disponibile. Impossibile caricare il logo della tua azienda in base all’URL fornito. Contatta l’amministratore di sistema.]&quot;
 

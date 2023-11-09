@@ -1,13 +1,13 @@
 ---
 title: 'Bozze: impossibile generare la bozza'
-description: Quando un utente tenta di generare una bozza, l’operazione ha esito negativo e viene visualizzato un errore.
+description: “Quando un utente tenta di generare una bozza, l’operazione ha esito negativo e viene visualizzato un messaggio di errore.”
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9fcbbd6d-0f63-451f-ac5c-54eb7ce649b3
 source-git-commit: bf9a5b15db59d8b9ed59fedc8233272c7385bb81
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Quando un utente tenta di generare una bozza, l’operazione ha esito negativo e
 
 &quot;[!UICONTROL Errore durante la generazione della bozza]&quot;
 
-Ciò si verifica quando l’impostazione del livello di accesso dell’utente[!UICONTROL  Visualizza informazioni di contatto] è impostato su Disabilitato.
+Ciò si verifica quando l’impostazione del livello di accesso utente [!UICONTROL Visualizza informazioni di contatto] è impostata su Disattivata.
 
 **Soluzione alternativa**
 

@@ -1,23 +1,23 @@
 ---
-title: "Aggiornamenti: quando il problema viene convertito nell’attività, viene visualizzato come nome dell’utente negli aggiornamenti del sistema"
-description: "Quando un utente che ha effettuato l’accesso come altro utente converte un problema in un’attività e il problema viene assegnato a un team, gli aggiornamenti del sistema mostrano Eliminato come l’utente che ha richiesto che il team lavori sull’attività."
+title: '“Aggiornamenti: quando un problema viene convertito in un’attività, come nome dell’utente negli aggiornamenti del sistema viene visualizzato Eliminato”'
+description: Quando un utente che ha effettuato l’accesso come altro utente converte un problema in un’attività e il problema viene assegnato a un team, gli aggiornamenti del sistema mostrano l’utente che ha richiesto che il team lavori sull’attività come Eliminato.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: f7ecc956a3cd22fe2af7b3742b51e6d290871c79
-workflow-type: tm+mt
+exl-id: 4d95563f-8ef8-4885-94a5-110247e1d25f
+source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-
-# Aggiornamenti: &quot;[!UICONTROL Eliminato]&quot; viene visualizzato come nome dell’utente negli aggiornamenti di sistema quando il problema viene convertito nell’attività
+# Aggiornamenti: quando un problema viene convertito in un’attività, come nome dell’utente negli aggiornamenti del sistema viene visualizzato “[!UICONTROL Eliminato]”
 
 >[!NOTE]
 >
 >Questo problema è stato risolto il 19 ottobre 2023.
 
-Quando un utente che ha effettuato l’accesso come altro utente converte un problema in un’attività e il problema viene assegnato a un team, gli aggiornamenti del sistema mostrano &quot;[!UICONTROL Eliminato]&quot; come utente che ha richiesto che il team lavori sull’attività.
+Quando un utente che ha effettuato l’accesso come altro utente converte un problema in un’attività e il problema viene assegnato a un team, gli aggiornamenti del sistema mostrano l’utente che ha richiesto che il team lavori sull’attività come “[!UICONTROL Eliminato]”.
 
 **Soluzione alternativa**
 

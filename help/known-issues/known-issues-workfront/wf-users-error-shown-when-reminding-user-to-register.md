@@ -1,13 +1,13 @@
 ---
 title: 'Utenti: messaggio di errore mostrato erroneamente quando si ricorda all’utente di registrarsi'
-description: Quando un utente ricorda a un altro utente di registrarsi, l’e-mail di promemoria viene inviata come previsto, ma l’utente che invia il promemoria visualizza il messaggio di errore Impossibile inviare l’e-mail di invito. Prova a inviarla di nuovo più tardi o contatta il tuo amministratore Workfront. Questo può causare confusione sul fatto che l’e-mail sia stata inviata.
+description: 'Quando un utente ricorda a un altro utente di registrarsi, l’e-mail di promemoria viene inviata come previsto, ma l’utente che invia il promemoria visualizza il messaggio di errore: Non è stato possibile inviare l’e-mail di invito. Prova a inviarla di nuovo più tardi o contatta il tuo amministratore Workfront. Questo può creare confusione sul corretto invio dell’e-mail.'
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: db356b32-f7b0-4f13-b321-afd8a8eb3466
 source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
