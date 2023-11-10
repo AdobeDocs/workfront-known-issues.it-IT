@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
+source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
-source-wordcount: '1612'
-ht-degree: 92%
+source-wordcount: '1628'
+ht-degree: 91%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: le date delle attività sono disattivate per il tempo esteso durante il ricalcolo della sequenza temporale](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+      + [Bacheche: impossibile modificare il colore del tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [Notifiche: la notifica e-mail non viene ricevuta quando l’utente viene taggato in un commento](known-issues-workfront/wf-notif-email-not-received.md)
       + [Bacheche: problemi durante la visualizzazione dello stato delle sottoattività](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
       + [Dashboard: margine vuoto grande quando si stampa il dashboard in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)

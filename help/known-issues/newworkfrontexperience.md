@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 849127dbab413a1fd7e8a6f85b9dd284f665807e
+source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
 workflow-type: tm+mt
-source-wordcount: '810'
-ht-degree: 88%
+source-wordcount: '828'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bacheche: impossibile modificare il colore del tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 novembre 2023 |
 | [Bacheche: problemi durante la visualizzazione dello stato delle sottoattività](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 novembre 2023 |
 | [Aggiornamenti: i commenti allegati agli aggiornamenti del sistema non vengono visualizzati](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 novembre 2023 |
 | [[!UICONTROL Workfront Proof]: e-mail e notifiche ritardate](known-issues-workfront-proof/proof-delayed-notification.md) | 26 ottobre 2023 |
@@ -38,6 +39,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Attività: le date delle attività sono disattivate per il tempo esteso durante il ricalcolo della sequenza temporale](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 novembre 2023 |
 | [Notifiche: la notifica e-mail non viene ricevuta quando l’utente viene taggato in un commento](known-issues-workfront/wf-notif-email-not-received.md) | 8 novembre 2023 |
 | [Home: le attività nei progetti con stato Approvato o Pianificazione non sono incluse in Le mie attività o nella sezione Work List (Elenco di lavoro) dell’area Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
 | [Home: approvazione bloccata su [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
