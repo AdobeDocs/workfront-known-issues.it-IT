@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
+source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
-source-wordcount: '1628'
+source-wordcount: '1637'
 ht-degree: 91%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Home]: le attività non vengono visualizzate in [!UICONTROL Il mio lavoro] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Attività: le date delle attività sono disattivate per il tempo esteso durante il ricalcolo della sequenza temporale](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Bacheche: impossibile modificare il colore del tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [Notifiche: la notifica e-mail non viene ricevuta quando l’utente viene taggato in un commento](known-issues-workfront/wf-notif-email-not-received.md)
