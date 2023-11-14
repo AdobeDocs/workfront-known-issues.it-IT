@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
 source-wordcount: '7087'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ Quando l’utente invia la richiesta, la valuta viene visualizzata come valuta p
 
 _Aggiornamenti_
 
-Quando un utente invia un commento tramite API o tramite [!DNL Workfront Fusion], il commento visualizzato nell’area Aggiornamenti mostra righe aggiuntive. A volte ci sono così tante righe che l&#39;utente deve scorrere verso il basso per vedere il contenuto del commento.
+Quando un utente invia un commento tramite API o [!DNL Workfront Fusion], il commento visualizzato nell’area Aggiornamenti mostra righe aggiuntive. A volte le righe sono così numerose che l’utente deve scorrere verso il basso per vedere il contenuto del commento.
 
 Questo problema è stato segnalato nella nuova esperienza di commento.
 
@@ -50,11 +50,11 @@ Questo problema è stato segnalato nella nuova esperienza di commento.
 
 +++**Aggiornamento di manutenzione del 9 novembre 2023**
 
-**Oggetti mancanti nel widget Il mio lavoro quando non è nella parte superiore della pagina**
+**Oggetti mancanti nel widget Il mio lavoro quando non si trova nella parte superiore della pagina**
 
 _Home_
 
-Se il widget Il mio lavoro si trova nella parte superiore della nuova home page, vengono recuperati tutti gli oggetti previsti. Tuttavia, se questo widget si trova al di sotto di qualsiasi altro widget sulla pagina, vengono estratti solo 10 oggetti.
+Se il widget Il mio lavoro si trova nella parte superiore della nuova pagina Home, vengono recuperati tutti gli oggetti previsti. Tuttavia, se questo widget si trova al di sotto di qualsiasi altro widget sulla pagina, vengono estratti solo 10 oggetti.
 
 **Impossibile generare la bozza**
 
@@ -70,9 +70,9 @@ Ciò si verifica quando l’impostazione del livello di accesso utente [!UICONTR
 
 _Richieste_
 
-Quando un utente crea una richiesta, compila i campi in un modulo e poi aggiunge o rimuove un documento, alcuni campi del modulo vengono eliminati dai dati e l’utente deve compilarli nuovamente prima di inviare la richiesta.
+Quando un utente crea una richiesta, compila i campi in un modulo e poi aggiunge o rimuove un documento, alcuni campi del modulo vengono cancellati dai dati e l’utente deve compilarli nuovamente prima di inviare la richiesta.
 
-**L&#39;attività personale viene visualizzata nella scheda orario**
+**L’attività personale viene visualizzata nella scheda orario**
 
 _Schede orario_
 
@@ -80,13 +80,13 @@ Quando un utente crea un’attività nel widget delle [!UICONTROL Cose da fare] 
 
 +++
 
-+++**Aggiornamento di manutenzione (aggiornamento rapido) del 3 novembre 2023**
++++**Aggiornamento di manutenzione (Hot Fix) del 3 novembre 2023**
 
-**Le attività figlio non vengono ordinate quando vengono spostate nell&#39;attività padre**
+**Le attività secondarie non vengono ordinate quando vengono spostate nell’attività padre**
 
 _Modelli_
 
-Quando un utente crea delle attività su un modello e le sposta sotto un’attività padre, i numeri assegnati alle attività figlio non vengono visualizzati nell’ordine previsto. Pertanto, quando si aggiorna la pagina, le attività figlio vengono ordinate in base ai numeri delle attività impreviste e le attività figlio non sono quindi ordinate.
+Quando un utente crea delle attività su un modello e le sposta sotto un’attività principale, i numeri assegnati alle attività secondarie non vengono visualizzati nell’ordine previsto. Pertanto, quando la pagina si aggiorna, le attività secondarie vengono ordinate in base ai numeri delle attività impreviste e di conseguenza le attività secondarie non vengono ordinate.
 
 +++
 
@@ -172,7 +172,7 @@ La scheda **[!UICONTROL Attività bozza] non si apre**
 
 _Bozze_
 
-Quando un utente visualizza una bozza e fa clic sulla scheda [!UICONTROL Attività bozza], la scheda lo riporta alla scheda [!UICONTROL Dettagli della bozza] .
+Quando un utente visualizza una bozza e fa clic sulla scheda [!UICONTROL Attività bozza], la scheda lo riporta alla scheda [!UICONTROL Dettagli della bozza].
 
 Quando un utente aggiuntivo viene assegnato a un’attività, le **[!UICONTROL Ore pianificate] vengono riallocate**
 
@@ -480,7 +480,7 @@ Quando un utente passa a un progetto fissato utilizzando il pin, gli elenchi di 
 
 _[!DNL Workfront Fusion]_
 
-[!UICONTROL Strumenti] > Modulo di [!UICONTROL sospensione] in uno scenario può causare il blocco dell’esecuzione di uno scenario. Queste esecuzioni mostrano lo stato In esecuzione nella[!UICONTROL Cronologia scenario], e non si concludono.
+[!UICONTROL Strumenti] > Modulo di [!UICONTROL sospensione] in uno scenario può causare il blocco dell’esecuzione di uno scenario. Queste esecuzioni mostrano lo stato In esecuzione nella [!UICONTROL Cronologia scenario], e non si concludono.
 
 +++
 

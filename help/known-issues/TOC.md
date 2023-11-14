@@ -5,7 +5,7 @@ role: User
 source-git-commit: e9ef61fab8a1c433ead6b9c49a6f60eb81bca628
 workflow-type: tm+mt
 source-wordcount: '1637'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 91%
       + [Attività: le date delle attività sono disattivate per il tempo esteso durante il ricalcolo della sequenza temporale](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Bacheche: impossibile modificare il colore del tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [Notifiche: la notifica e-mail non viene ricevuta quando l’utente viene taggato in un commento](known-issues-workfront/wf-notif-email-not-received.md)
-      + [Bacheche: problemi durante la visualizzazione dello stato delle sottoattività](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
-      + [Dashboard: margine vuoto grande quando si stampa il dashboard in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
-      + [Home: le attività nei progetti con stato Approvato o Pianificazione non sono incluse in Le mie attività o nella sezione Work List (Elenco di lavoro) dell’area Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
-      + [Modelli: le attività secondarie non vengono ordinate quando vengono spostate nell&#39;attività padre](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
-      + [Home: approvazione bloccata su [!UICONTROL In attesa della mia approvazione] widget](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
+      + [Bacheche: problemi durante la visualizzazione dello stato delle attività secondarie](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
+      + [Dashboard: ampio margine vuoto quando la dashboard viene stampata in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md)
+      + [Home: le attività nei progetti con stato Approvato o Pianificazione non sono incluse in Le mie attività o in Elenco di lavori dell’area Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md)
+      + [Modelli: le attività secondarie non vengono ordinate quando vengono spostate nell’attività padre](known-issues-workfront/wf-templates-children-tasks-out-of-order.md)
+      + [Home: approvazione bloccata sul widget [!UICONTROL In attesa della mia approvazione]](known-issues-workfront/wf-home-approvals-stuck-on-widget.md)
       + [Bozze: problemi relativi all’attivazione della fase](known-issues-workfront/wf-proofs-stage-activation-issues.md)
       + [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md)
       + [Richieste: i campi vengono cancellati quando un documento viene aggiunto a una richiesta](known-issues-workfront/wf-requests-fields-blank-when-doc-added.md)
@@ -205,7 +205,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: errore memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md)
+      + [Workfront Fusion: errore di memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
       + [[!DNL Workfront Fusion]: errore durante l’invio dell’invito con il modulo [!DNL Workfront] > [!UICONTROL Azioni varie]](known-issues-workfront-fusion/fusion-send-invite-error.md)
       + [[!DNL Workfront Fusion]: il modulo di sospensione provoca il blocco degli scenari](/help/known-issues/known-issues-workfront-fusion/fusion-sleep-module-stuck.md)
