@@ -1,19 +1,19 @@
 ---
-title: "Workfront Fusion: errore memoria insufficiente"
-description: "L’esecuzione di uno scenario non riesce e viene restituito un errore di memoria insufficiente. Ciò può verificarsi anche se lo scenario è stato precedentemente eseguito correttamente."
+title: '“Workfront Fusion: errore di memoria insufficiente”'
+description: “Un’esecuzione di uno scenario non riesce restituendo un errore di memoria insufficiente. Ciò può verificarsi anche se lo scenario è stato eseguito correttamente in precedenza.”
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Workfront Fusion: errore memoria insufficiente
+# Workfront Fusion: errore di memoria insufficiente
 
-L’esecuzione di uno scenario non riesce e viene restituito un errore di memoria insufficiente. Ciò può verificarsi anche se lo scenario è stato precedentemente eseguito correttamente.
+Un’esecuzione di uno scenario non riesce restituendo un errore di memoria insufficiente. Ciò può verificarsi anche se lo scenario è stato eseguito correttamente in precedenza.
 
 **Soluzione alternativa**
 

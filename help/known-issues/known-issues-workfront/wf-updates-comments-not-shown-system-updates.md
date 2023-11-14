@@ -1,12 +1,12 @@
 ---
-title: "Aggiornamenti: i commenti allegati agli aggiornamenti del sistema non vengono visualizzati"
-description: '"Quando un utente commenta un’azione del sistema (ad esempio la modifica dello stato), tale commento non viene visualizzato nell’area Aggiornamenti. ”'
+title: '“Aggiornamenti: i commenti allegati agli aggiornamenti del sistema non vengono visualizzati”'
+description: “Quando un utente crea un commento su un’azione del sistema (ad esempio la modifica dello stato), tale commento non viene visualizzato nell’area Aggiornamenti. ”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: bf9935f1482712d2835e3e9e4a7a9b68275dcf1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 5%
 
 -->
 
-Quando un utente commenta un’azione del sistema (ad esempio la modifica dello stato), tale commento non viene visualizzato nell’area Aggiornamenti.
+“Quando un utente commenta un’azione del sistema (ad esempio la modifica dello stato), tale commento non viene visualizzato nell’area Aggiornamenti.
 
 Questo problema è stato segnalato nella nuova esperienza di commento.
 

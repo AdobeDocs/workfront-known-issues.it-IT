@@ -1,12 +1,12 @@
 ---
-title: "Notifiche: notifica e-mail non ricevuta quando l’utente viene taggato all’interno di un commento"
-description: "Quando un utente viene taggato all’interno di un commento, non riceve la relativa notifica e-mail."
+title: '“Notifiche: notifica e-mail non ricevuta quando l’utente viene taggato all’interno di un commento”'
+description: “Quando un utente viene taggato all’interno di un commento, non riceve la relativa notifica e-mail.”
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
-title: "Dashboard: margine vuoto grande quando si stampa il dashboard in PDF"
-description: "Quando un utente stampa un dashboard in PDF utilizzando l’orientamento orizzontale, il PDF mostra un ampio margine vuoto a destra."
+title: '“Dashboard: ampio margine vuoto quando la dashboard viene stampata in PDF”'
+description: “Quando un utente stampa una dashboard in PDF utilizzando l’orientamento orizzontale, il PDF mostra un ampio margine vuoto sul lato destro.”
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 359264a4697b783f79ef8df000216d259106d96d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Dashboard: margine vuoto grande quando si stampa il dashboard in PDF
+# Dashboard: ampio margine vuoto quando la dashboard viene stampata in PDF
 
-Quando un utente stampa un dashboard in PDF utilizzando l’orientamento orizzontale, il PDF mostra un ampio margine vuoto sul lato destro.
+Quando un utente stampa una dashboard in PDF utilizzando l’orientamento orizzontale, il PDF mostra un ampio margine vuoto sul lato destro.
 
 **Soluzione alternativa**
 
