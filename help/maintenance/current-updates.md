@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
+source-git-commit: 1aa3bc3a748e6fbde7616dd5a0408dfd5fb1006e
 workflow-type: tm+mt
-source-wordcount: '6903'
-ht-degree: 97%
+source-wordcount: '7087'
+ht-degree: 96%
 
 ---
 
@@ -21,6 +21,32 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di novembre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 16 novembre 2023**
+
+**Le ore preventivate nel rapporto utilizzo non corrispondono alle ore preventivate riportate tramite API**
+
+_Rapporti_
+
+Quando un utente effettua una chiamata API all’oggetto RPBGHR per un determinato progetto e confronta i risultati di tale chiamata con il rapporto sull’utilizzo del progetto, i risultati non corrispondono.
+
+**Nella pagina Nuova richiesta viene visualizzata una valuta personalizzata errata**
+
+_Richieste_
+
+Quando un utente invia una richiesta ed effettua una selezione che cambia la logica di visualizzazione nel modulo della richiesta, la valuta visualizzata viene ripristinata alla valuta predefinita anziché alla valuta personalizzata impostata nel progetto rappresentato dalla coda di richieste.
+
+Quando l’utente invia la richiesta, la valuta viene visualizzata come valuta personalizzata corretta per il progetto che la coda di richieste rappresenta
+
+**Righe aggiuntive nel commento effettuato tramite API o[!DNL Workfront Fusion]**
+
+_Aggiornamenti_
+
+Quando un utente invia un commento tramite API o tramite [!DNL Workfront Fusion], il commento visualizzato nell’area Aggiornamenti mostra righe aggiuntive. A volte ci sono così tante righe che l&#39;utente deve scorrere verso il basso per vedere il contenuto del commento.
+
+Questo problema è stato segnalato nella nuova esperienza di commento.
+
++++
 
 +++**Aggiornamento di manutenzione del 9 novembre 2023**
 
