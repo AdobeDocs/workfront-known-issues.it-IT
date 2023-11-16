@@ -4,14 +4,18 @@ description: Quando una bozza viene condivisa con un ospite e quest’ultimo ten
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 0ab7a42f-f87e-49d1-b5e5-3d05f7764eab
-source-git-commit: 9eb50a49cbe61f679c3625f413a347286f0b2ea9
-workflow-type: ht
-source-wordcount: '143'
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+workflow-type: tm+mt
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
 
 # Bozze: errore durante la condivisione della bozza dal collegamento e-mail
+
+>[!NOTE]
+>
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
 Quando una bozza viene condivisa con un ospite e quest’ultimo tenta di utilizzare l’opzione “Condividi la bozza con un altro utente” nell’e-mail e di inviare un indirizzo e-mail con cui condividere tale bozza, riceve un errore. Il campo e-mail diventa rosso e l’utente visualizza il seguente errore:
 

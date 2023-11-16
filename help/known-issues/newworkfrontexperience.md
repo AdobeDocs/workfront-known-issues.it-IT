@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '778'
 ht-degree: 96%
 
 ---
@@ -28,7 +28,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [[!UICONTROL Home]: le attività non vengono visualizzate in [!UICONTROL Il mio lavoro] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 novembre 2023 |
 | [Bacheche: impossibile modificare il colore del tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 novembre 2023 |
 | [Bacheche: problemi durante la visualizzazione dello stato dell’attività secondaria](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 novembre 2023 |
-| [Aggiornamenti: i commenti allegati agli aggiornamenti del sistema non vengono visualizzati](known-issues-workfront/wf-updates-comments-not-shown-system-updates.md) | 1 novembre 2023 |
 | [[!UICONTROL Workfront Proof]: e-mail e notifiche ritardate](known-issues-workfront-proof/proof-delayed-notification.md) | 26 ottobre 2023 |
 | [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md) | 20 ottobre 2023 |
 
@@ -46,9 +45,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Home: approvazione bloccata sul widget [!UICONTROL In attesa della mia approvazione] ](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
 | [Bozze: problemi relativi all’attivazione della fase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
-| [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 ottobre 2023 |
-| [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 ottobre 2023 |
-| [Bacheche: sulla bacheca non vengono visualizzate le schede previste](known-issues-workfront/wf-boards-expected-cards-not-displaying.md) | 26 ottobre 2023 |
 | [Attività: errore “[!UICONTROL Ops]” nell’intestazione dell’attività](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 ottobre 2023 |
 | [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 ottobre 2023 |
 | [Bozze: impossibile creare una nuova versione di una bozza](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 ottobre 2023 |
@@ -65,6 +61,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 novembre 2023 |
 | [Dashboard: ampio margine vuoto quando la dashboard viene stampata in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7 novembre 2023 |
 | [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/wf-home-request-shows-one-team.md) | 26 ottobre 2023 |

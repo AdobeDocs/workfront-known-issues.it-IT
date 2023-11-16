@@ -4,14 +4,18 @@ description: Quando un utente visualizza una bacheca, non vede tutte le schede c
 hidefromtoc: true
 feature: Agile
 exl-id: 692b6289-c6cc-4402-91dc-b29b4da76fb6
-source-git-commit: 2426476490c3762c7511afee99380afa0bfd85e3
-workflow-type: ht
-source-wordcount: '90'
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
 
 # Bacheche: sulla bacheca non vengono visualizzate le schede previste
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 9 novembre 2023.
 
 Quando un utente visualizza una bacheca, non vede tutte le schede che dovrebbero esserci. Ciò si verifica anche se il numero di schede visualizzate sulla bacheca dalla pagina Bacheche è corretto.
 

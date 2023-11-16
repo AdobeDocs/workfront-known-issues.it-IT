@@ -4,9 +4,9 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: d2d39c5c08d605ebe252eab33b3fae3d9f16ac8f
+source-git-commit: 80cd493b72fb2732234e78b683afe071f8bd9545
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '374'
 ht-degree: 100%
 
 ---
@@ -38,10 +38,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Home: approvazione bloccata sul widget [!UICONTROL In attesa della mia approvazione] ](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | 3 novembre 2023 |
 | [Bozze: problemi relativi all’attivazione della fase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
-| [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md) | 27 ottobre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 ottobre 2023 |
 | [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 ottobre 2023 |
-| [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 19 ottobre 2023 |
 
 {style="table-layout:auto"}
 
@@ -51,6 +49,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 ottobre 2023 |
 | [Workfront Proof: i dati della dashboard non sono sempre precisi](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 settembre 2023 |
 | [Workfront Proof: i dati di ricerca non sono sempre precisi](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 settembre 2023 |
