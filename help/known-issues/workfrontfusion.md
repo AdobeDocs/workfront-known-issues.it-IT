@@ -4,9 +4,9 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: errore di memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md) | 9 novembre 2023 |
-| [Aggiornamenti: righe aggiuntive nel commento effettuato tramite API o [!DNL Workfront Fusion]](known-issues-workfront/wf-updates-extra-lines-in-comment-from-api.md) | 2 novembre 2023 |
 
 {style="table-layout:auto"}
 

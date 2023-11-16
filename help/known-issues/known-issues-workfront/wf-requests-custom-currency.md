@@ -3,15 +3,19 @@ title: '“Richieste: nella pagina Nuova richiesta viene visualizzata una valuta
 description: “Quando un utente invia una richiesta ed effettua una selezione che cambia la logica di visualizzazione nel modulo della richiesta, la valuta visualizzata viene ripristinata alla valuta predefinita anziché alla valuta personalizzata impostata nel progetto rappresentato dalla coda di richieste.”
 hidefromtoc: true
 feature: Requests
-source-git-commit: d08d0daaf949f45c829d72811fa46535f1263638
-workflow-type: ht
-source-wordcount: '130'
+source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
+workflow-type: tm+mt
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
 
 # Richieste: nella pagina Nuova richiesta viene visualizzata una valuta personalizzata errata
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il 16 novembre 2023.
 
 Quando un utente invia una richiesta ed effettua una selezione che cambia la logica di visualizzazione nel modulo della richiesta, la valuta visualizzata viene ripristinata alla valuta predefinita anziché alla valuta personalizzata impostata nel progetto rappresentato dalla coda di richieste.
 
