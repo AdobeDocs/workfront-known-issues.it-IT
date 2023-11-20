@@ -1,21 +1,21 @@
 ---
-title: '"Attività: le date delle attività sono disabilitate per il tempo esteso durante il ricalcolo della timeline'
-description: '"Quando un utente apporta una modifica a un elenco di attività che attiva un ricalcolo della sequenza temporale, vengono ricalcolate anche le altre attività interessate da tale sequenza temporale. In questo caso, le date interessate in queste altre attività sono disattivate. In questo problema, le attività rimangono disattivate per lunghi periodi di tempo. ”'
+title: '"Attività: le date delle attività sono visualizzate in grigio per un tempo prolungato durante il ricalcolo della timeline'
+description: '"Quando un utente apporta, in un elenco di attività, una modifica che attiva il ricalcolo di una timeline, vengono ricalcolate anche altre attività interessate da tale timeline. Durante il ricalcolo, le date interessate in queste altre attività vengono visualizzate in grigio. In questo problema, le attività restano visualizzate in grigio per periodi di tempo prolungati. ”'
 hidefromtoc: true
 feature: Tasks
 source-git-commit: 0bec78610e0e035d89b60a53d08cf07ef80c0753
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Attività: le date delle attività sono disattivate per il tempo esteso durante il ricalcolo della sequenza temporale
+# Attività: le date delle attività sono visualizzate in grigio per un tempo prolungato durante il ricalcolo della timeline
 
-Quando un utente apporta una modifica in un elenco di attività che attiva il ricalcolo di una sequenza temporale, vengono ricalcolate anche le altre attività interessate da tale sequenza temporale. In questo caso, le date interessate in queste altre attività sono disattivate. In questo problema, le attività rimangono disattivate per lunghi periodi di tempo.
+Quando un utente apporta, in un elenco di attività, una modifica che attiva il ricalcolo di una timeline, vengono ricalcolate anche altre attività interessate da tale timeline. Durante il ricalcolo, le date interessate in queste altre attività vengono visualizzate in grigio. In questo problema, le attività restano visualizzate in grigio per periodi di tempo prolungati. 
 
-Le modifiche apportate a queste date disattivate mentre sono disattivate vengono salvate.
+Le modifiche apportate a tali date mentre sono visualizzate in grigio vengono comunque salvate.
 
 **Soluzione alternativa**
 
