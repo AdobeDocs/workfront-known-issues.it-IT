@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
 workflow-type: tm+mt
 source-wordcount: '7086'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 +++**Aggiornamento di manutenzione del 16 novembre 2023**
 
-**Le ore preventivate nel rapporto utilizzo non corrispondono alle ore preventivate riportate tramite API**
+**Le ore preventivate nel rapporto sull’utilizzo non corrispondono a quelle riportate tramite API**
 
 _Rapporti_
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: 6a29302c5a3b9e593f9cc9adf2948a6928bfd291
 workflow-type: tm+mt
 source-wordcount: '1644'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Modelli: impossibile selezionare un modello da [!UICONTROL Preferiti] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
-      + [[!UICONTROL Home]: le attività non vengono visualizzate in [!UICONTROL Il mio lavoro] widget](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
-      + [Attività: le date delle attività sono disattivate per il tempo esteso durante il ricalcolo della sequenza temporale](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
+      + [[!UICONTROL Home]: le attività non vengono visualizzate nel widget [!UICONTROL Il mio lavoro]](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
+      + [Attività: le date delle attività sono visualizzate in grigio per un tempo prolungato durante il ricalcolo della timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Bacheche: impossibile modificare il colore del tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)
       + [Notifiche: la notifica e-mail non viene ricevuta quando l’utente viene taggato in un commento](known-issues-workfront/wf-notif-email-not-received.md)
       + [Bacheche: problemi durante la visualizzazione dello stato delle attività secondarie](known-issues-workfront/wf-boards-issues-with-subtask-status.md)
