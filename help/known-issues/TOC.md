@@ -20,7 +20,7 @@ ht-degree: 98%
       + [Moduli personalizzati: impossibile aggiungere o rimuovere in blocco moduli personalizzati nelle attività dei modelli](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)
       + [Report: errore 500 durante l’esportazione di un report](known-issues-workfront/wf-reports-500-error-when-exporting.md)
-      + [Modelli: impossibile selezionare un modello da [!UICONTROL Preferiti] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
+      + [Modelli: impossibile selezionare un modello dall’elenco [!UICONTROL Preferiti]](known-issues-workfront/wf-templates-cannot-select-favorite-template.md)
       + [[!UICONTROL Home]: le attività non vengono visualizzate nel widget [!UICONTROL Il mio lavoro]](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md)
       + [Attività: le date delle attività sono visualizzate in grigio per un tempo prolungato durante il ricalcolo della timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md)
       + [Bacheche: impossibile modificare il colore del tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md)

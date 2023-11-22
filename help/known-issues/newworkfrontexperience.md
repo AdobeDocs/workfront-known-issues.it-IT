@@ -26,7 +26,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
-| [Modelli: impossibile selezionare un modello da [!UICONTROL Preferiti] list](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 novembre 2023 |
+| [Modelli: impossibile selezionare un modello dall’elenco [!UICONTROL Preferiti] ](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 novembre 2023 |
 | [[!UICONTROL Home]: le attività non vengono visualizzate nel widget [!UICONTROL Il mio lavoro]](known-issues-workfront/wf-home-tasks-not-appear-on-my-tasks-work-list.md) | 13 novembre 2023 |
 | [Bacheche: impossibile modificare il colore del tag](known-issues-workfront/wf-boards-cannot-edit-tag-color.md) | 10 novembre 2023 |
 | [Bacheche: problemi durante la visualizzazione dello stato dell’attività secondaria](known-issues-workfront/wf-boards-issues-with-subtask-status.md) | 8 novembre 2023 |
