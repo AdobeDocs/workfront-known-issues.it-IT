@@ -1,17 +1,17 @@
 ---
-title: "Report: errore 500 durante l’esportazione di un report"
-description: "Quando un utente tenta di esportare un rapporto, l’esportazione non riesce e viene visualizzato l’errore 500."
+title: '“Rapporti: errore 500 durante l’esportazione di un rapporto”'
+description: Quando un utente cerca di esportare un rapporto, l’esportazione non riesce e viene visualizzato l’errore 500.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 8fcd13b3586664d7540e64fb855f7f84e6e7cdc7
-workflow-type: tm+mt
+exl-id: 5275a4f4-4786-4a87-970f-774dcd526a39
+source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
-# Report: errore 500 durante l’esportazione di un report
+# Rapporti: errore 500 durante l’esportazione di un rapporto
 
 Quando un utente cerca di esportare un rapporto, l’esportazione non riesce e viene visualizzato il seguente errore:
 
@@ -19,6 +19,6 @@ Quando un utente cerca di esportare un rapporto, l’esportazione non riesce e v
 500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
 ```
 
-Questo problema è stato segnalato nei rapporti che utilizzano `valueexpression` per fare riferimento a `lastNote` testo della nota.
+Questo problema è stato segnalato nei rapporti che utilizzano un `valueexpression` per fare riferimento al testo della nota `lastNote`.
 
-_Segnalato per la prima volta il 8 novembre 2023._
+_Segnalato per la prima volta l’8 novembre 2023._
