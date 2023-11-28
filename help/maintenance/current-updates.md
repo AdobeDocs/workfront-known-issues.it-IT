@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6d87394383aaf54385163729f85ea065588967c9
-workflow-type: ht
-source-wordcount: '7086'
-ht-degree: 100%
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
+workflow-type: tm+mt
+source-wordcount: '7227'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,34 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di novembre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del 30 novembre 2023**
+
+**le attività non vengono visualizzate nel widget [!UICONTROL Il mio lavoro]**
+
+_[!UICONTROL Home]_
+
+Quando un utente visualizza il proprio widget [!UICONTROL Il mio lavoro] in [!UICONTROL Home], alcune delle attività che gli sono assegnate non vengono visualizzate nel widget. Ad esempio, un utente può accedere a un progetto e vedere che ha delle attività assegnate nel progetto, ma tali attività non vengono visualizzate nel suo widget [!UICONTROL Il mio lavoro].
+
+**La pagina di accesso viene reindirizzata alla pagina di destinazione di disconnessione**
+
+_Accedi_
+
+Quando un utente cerca di accedere a [!DNL Workfront], anziché alla pagina di accesso, viene indirizzati alla pagina a che si aprirebbe se si disconnettesse.
+
+**Errore 500 durante l’esportazione di un report**
+
+_Rapporti_
+
+Quando un utente cerca di esportare un rapporto, l’esportazione non riesce e viene visualizzato il seguente errore:
+
+```
+500: Cannot invoke "Object.getClass()" because "parentObj" is null /attask/api-internal/report/export
+```
+
+Questo problema è stato segnalato nei rapporti che utilizzano un `valueexpression` per fare riferimento al testo della nota `lastNote`.
+
++++
 
 +++**Aggiornamento di manutenzione del 16 novembre 2023**
 
@@ -48,7 +76,7 @@ Questo problema è stato segnalato nella nuova esperienza di commento.
 
 +++
 
-    +++**Aggiornamento di manutenzione del 9 novembre 2023**
++++**Aggiornamento di manutenzione del 9 novembre 2023**
 
 **Oggetti mancanti nel widget Il mio lavoro quando non si trova nella parte superiore della pagina**
 

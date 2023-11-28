@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1682'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: la duplicazione delle attività causa la visualizzazione delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Moduli personalizzati: impossibile aggiungere o rimuovere in blocco moduli personalizzati nelle attività modello](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)

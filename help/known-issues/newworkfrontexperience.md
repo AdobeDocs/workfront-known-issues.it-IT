@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1ccf659018a55914f8d8842f497d2a12599ead67
+source-git-commit: 93ea563ee9bae7911c043e4ac94bf12cc8cffbbd
 workflow-type: tm+mt
-source-wordcount: '818'
-ht-degree: 99%
+source-wordcount: '829'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Attività: la duplicazione delle attività causa la visualizzazione delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 28 novembre 2023 |
 | [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
 | [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
 | [Modelli: impossibile selezionare un modello dall’elenco [!UICONTROL Preferiti] ](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | 16 novembre 2023 |
