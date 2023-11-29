@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 97%
+source-wordcount: '854'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 novembre 2023 |
 | [Attività: la duplicazione delle attività causa la visualizzazione delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 28 novembre 2023 |
 | [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
 | [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |

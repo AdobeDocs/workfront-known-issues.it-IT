@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8ccc1d7bc0d1d4fabc7e775713d44f5b5db43867
+source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
 workflow-type: tm+mt
-source-wordcount: '1693'
-ht-degree: 98%
+source-wordcount: '1705'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Bozze: le bozze in attesa di approvazione non vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
       + [Attività: la duplicazione delle attività causa la visualizzazione delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
