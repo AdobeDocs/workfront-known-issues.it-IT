@@ -4,18 +4,14 @@ description: Quando un utente crea un’attività nel widget delle Cose da fare 
 hidefromtoc: true
 feature: Timesheets
 exl-id: fd75ae65-726c-4301-bded-297cc82566b8
-source-git-commit: 6d6d3c180a739413f28f132a23b4d91ad1b80c72
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+workflow-type: tm+mt
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Schede orario: l’attività personale viene visualizzata nella scheda orario
-
->[!NOTE]
->
->Questo problema è stato risolto il 9 novembre 2023.
 
 Quando un utente crea un’attività nel widget delle [!UICONTROL Cose da fare] della nuova esperienza [!UICONTROL Home], tale attività viene visualizzata nella scheda orario dell’utente. Ciò si verifica anche se l’attività non ha ore registrate e il progetto personale non è fissato.
 
