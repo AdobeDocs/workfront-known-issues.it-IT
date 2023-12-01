@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
+source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '845'
-ht-degree: 95%
+source-wordcount: '868'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Schede: errore in [!UICONTROL Commenti] sezione di schede](known-issues-workfront/wf-boards-comments-section-error.md) | 1 dicembre 2023 |
 | [Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 novembre 2023 |
 | [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
 | [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
@@ -40,6 +41,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Attività/Problemi: problemi durante l’aggiunta di elementi di lavoro nella visualizzazione Bacheca di attività o problemi](known-issues-workfront/wf-tasks-issues-board-view.md) | 1 dicembre 2023 |
 | [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30 novembre 2023 |
 | [Rapporti: le ore preventivate nel rapporto Utilizzo non corrispondono alle ore preventivate riportate tramite API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 novembre 2023 |
 | [Attività: la duplicazione delle attività causa la visualizzazione delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 novembre 2023 |
