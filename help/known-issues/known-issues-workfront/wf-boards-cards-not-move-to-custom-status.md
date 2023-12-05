@@ -4,9 +4,9 @@ description: "Quando un utente sposta una scheda in una colonna diversa e poi ag
 hidefromtoc: true
 feature: Agile
 source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -15,6 +15,6 @@ ht-degree: 3%
 
 Quando un utente sposta una scheda in una colonna diversa e poi aggiorna o ritorna sulla bacheca, la scheda è tornata alla colonna originale.
 
-Ciò si verifica quando lo stato della colonna in cui viene spostata la scheda è personalizzato. Questo problema non riguarda le colonne basate sugli stati del sistema.
+Ciò si verifica quando la scheda viene spostata in una colonna il cui stato è personalizzato. Questo problema non si verifica nel caso si colonne basate sugli stati del sistema.
 
 _Segnalato per la prima volta il 10 novembre 2023._

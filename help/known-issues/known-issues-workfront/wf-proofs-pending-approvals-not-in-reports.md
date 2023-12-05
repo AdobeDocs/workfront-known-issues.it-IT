@@ -4,9 +4,9 @@ description: “”
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: ac43b9e35e7f5e67dcbc5139be06b8d06378fbda
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '45'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
@@ -15,6 +15,6 @@ ht-degree: 8%
 
 <!--WF and WFP-->
 
-Quando un utente visualizza un report per le approvazioni di bozze in sospeso, alcune approvazioni in sospeso non vengono visualizzate nel report.
+Quando un utente visualizza un rapporto per le approvazioni di bozze in sospeso, alcune approvazioni in sospeso non vengono visualizzate nel rapporto.
 
 _Segnalato per la prima volta il 18 ottobre 2023._
