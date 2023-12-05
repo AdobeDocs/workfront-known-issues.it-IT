@@ -4,8 +4,8 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '1734'
-ht-degree: 96%
+source-wordcount: '1743'
+ht-degree: 98%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
       + [Configurazione: impossibile utilizzare [!UICONTROL Kick-Start] per impostare i raggruppamenti](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Bozze: le bozze in attesa di approvazione non vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
-      + [Attività: la duplicazione delle attività causa la visualizzazione delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
+      + [Attività: Quando si duplicano delle attvità, vengono visualizzate in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md)
       + [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md)
       + [Moduli personalizzati: impossibile aggiungere o rimuovere in blocco moduli personalizzati nelle attività modello](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md)
       + [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md)

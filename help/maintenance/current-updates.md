@@ -5,7 +5,7 @@ exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 88126bda7f7c51895ae512bb5f7686119febd32f
 workflow-type: tm+mt
-source-wordcount: '7226'
+source-wordcount: '7245'
 ht-degree: 99%
 
 ---
@@ -22,7 +22,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 ## Aggiornamenti di novembre 2023
 
-+++**Aggiornamento di manutenzione del 30 novembre 2023**
++++**Aggiornamento di manutenzione del venerdì 30 novembre 2023**
 
 **le attività non vengono visualizzate nel widget [!UICONTROL Il mio lavoro]**
 
@@ -30,13 +30,13 @@ _[!UICONTROL Home]_
 
 Quando un utente visualizza il proprio widget [!UICONTROL Il mio lavoro] in [!UICONTROL Home], alcune delle attività che gli sono assegnate non vengono visualizzate nel widget. Ad esempio, un utente può accedere a un progetto e vedere che ha delle attività assegnate nel progetto, ma tali attività non vengono visualizzate nel suo widget [!UICONTROL Il mio lavoro].
 
-**La pagina di accesso viene reindirizzata alla pagina di destinazione di disconnessione**
+**La pagina di accesso reindirizza alla pagina di destinazione per la disconnessione**
 
 _Accedi_
 
 Quando un utente cerca di accedere a [!DNL Workfront], anziché alla pagina di accesso, viene indirizzati alla pagina a che si aprirebbe se si disconnettesse.
 
-**Errore 500 durante l’esportazione di un report**
+**Errore 500 durante l’esportazione di un rapporto**
 
 _Rapporti_
 
@@ -238,7 +238,7 @@ _Home_
 
 Quando un utente modifica i filtri nella [!UICONTROL Home], l’area della [!UICONTROL Home] non si carica e viene visualizzato il seguente errore:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aaggiornare la pagina del browser.]”
+&quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 +++
 

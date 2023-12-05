@@ -6,8 +6,8 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 92%
+source-wordcount: '871'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Schede: errore in [!UICONTROL Commenti] sezione di schede](known-issues-workfront/wf-boards-comments-section-error.md) | 1 dicembre 2023 |
+| [Schede: errore in [!UICONTROL Commenti] sezione di schede](known-issues-workfront/wf-boards-comments-section-error.md) | sabato 1 dicembre 2023 |
 | [Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 novembre 2023 |
 | [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
 | [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
@@ -41,10 +41,10 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
-| [Attività/Problemi: problemi durante l’aggiunta di elementi di lavoro nella visualizzazione Bacheca di attività o problemi](known-issues-workfront/wf-tasks-issues-board-view.md) | 1 dicembre 2023 |
-| [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | 30 novembre 2023 |
-| [Rapporti: le ore preventivate nel rapporto Utilizzo non corrispondono alle ore preventivate riportate tramite API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | 30 novembre 2023 |
-| [Attività: la duplicazione delle attività causa la visualizzazione delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | 30 novembre 2023 |
+| [Attività/Problemi: problemi durante l’aggiunta di elementi di lavoro nella visualizzazione Bacheca di attività o problemi](known-issues-workfront/wf-tasks-issues-board-view.md) | sabato 1 dicembre 2023 |
+| [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | venerdì 30 novembre 2023 |
+| [Rapporti: le ore preventivate nel rapporto Utilizzo non corrispondono alle ore preventivate riportate tramite API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | venerdì 30 novembre 2023 |
+| [Attività: quando si duplicano delle attvità, vengono visualizzate in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | venerdì 30 novembre 2023 |
 | [Bozze: le bozze in attesa di approvazione non vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 novembre 2023 |
 | [Moduli personalizzati: impossibile aggiungere o rimuovere in blocco moduli personalizzati nelle attività modello](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 novembre 2023 |
 | [Attività: le date delle attività sono visualizzate in grigio per un tempo prolungato durante il ricalcolo della timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 novembre 2023 |
@@ -68,7 +68,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configurazione: impossibile utilizzare [!UICONTROL Kick-Start] per impostare i raggruppamenti](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | 30 novembre 2023 |
+| [Configurazione: impossibile utilizzare [!UICONTROL Kick-Start] per impostare i raggruppamenti](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md) | venerdì 30 novembre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 9 novembre 2023 |
 | [Dashboard: ampio margine vuoto quando la dashboard viene stampata in PDF](known-issues-workfront/wf-dashboard-blank-area-when-printing.md) | 7 novembre 2023 |
