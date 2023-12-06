@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
 workflow-type: tm+mt
-source-wordcount: '1743'
-ht-degree: 98%
+source-wordcount: '1753'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Aggiornamenti: alcuni aggiornamenti non sono presenti nella nuova esperienza di commento](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Attività/Problemi: problemi durante l’aggiunta di elementi di lavoro nella visualizzazione Bacheca di attività o problemi](known-issues-workfront/wf-tasks-issues-board-view.md)
       + [Schede: errore in [!UICONTROL Commenti] sezione di schede](known-issues-workfront/wf-boards-comments-section-error.md)
       + [Configurazione: impossibile utilizzare [!UICONTROL Kick-Start] per impostare i raggruppamenti](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)

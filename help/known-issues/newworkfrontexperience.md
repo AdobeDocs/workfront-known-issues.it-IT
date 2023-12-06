@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c32c77dd7adb55d2eb44520539ca375c577032ed
+source-git-commit: a15e739c797f3b0c4e01db4396509979e19babc3
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 96%
+source-wordcount: '882'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Aggiornamenti: alcuni aggiornamenti non sono presenti nella nuova esperienza di commento](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | giovedì 6 dicembre 2023 |
 | [Attività/Problemi: problemi durante l’aggiunta di elementi di lavoro nella visualizzazione Bacheca di attività o problemi](known-issues-workfront/wf-tasks-issues-board-view.md) | sabato 1 dicembre 2023 |
 | [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | venerdì 30 novembre 2023 |
 | [Rapporti: le ore preventivate nel rapporto Utilizzo non corrispondono alle ore preventivate riportate tramite API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | venerdì 30 novembre 2023 |
