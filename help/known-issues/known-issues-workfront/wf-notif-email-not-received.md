@@ -1,17 +1,21 @@
 ---
-title: '“Notifiche: notifica e-mail non ricevuta quando l’utente viene taggato all’interno di un commento”'
-description: “Quando un utente viene taggato all’interno di un commento, non riceve la relativa notifica e-mail.”
+title: "Notifiche: notifica e-mail non ricevuta quando l’utente viene taggato all’interno di un commento"
+description: Quando un utente viene taggato all’interno di un commento, non riceve la relativa notifica e-mail.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 2b2b4e9162dea84170a7e6db049b8191fa69c58a
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+exl-id: a97849b4-206d-43c1-a83b-843d3ecfdbf6
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 84%
 
 ---
 
-
 # Notifiche: la notifica e-mail non viene ricevuta quando l’utente viene taggato in un commento
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 30 novembre 2023.
 
 Quando un utente viene taggato all’interno di un commento, non riceve la relativa notifica e-mail.
 

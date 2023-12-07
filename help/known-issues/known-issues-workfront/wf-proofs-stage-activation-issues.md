@@ -1,17 +1,21 @@
 ---
-title: '“Bozze: problemi relativi all’attivazione della fase”'
-description: “Quando viene attivata una nuova fase del flusso di lavoro di una bozza, la fase appare attiva nell’area Flusso di lavoro della bozza. Tuttavia, il documento non viene condiviso con gli utenti nella nuova fase e l’area Attività bozza non mostra se la fase è stata attivata o se il documento è stato condiviso.”
+title: "Bozze: problemi relativi all’attivazione della fase"
+description: Quando viene attivata una nuova fase di un flusso di lavoro bozza, la fase appare attiva nell’area Flusso di lavoro bozza. Tuttavia, il documento non viene condiviso con gli utenti nella nuova fase e l’area Attività bozza non mostra che la fase è stata attivata o che il documento è stato condiviso.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a6d3a340e7452f45cb568ee4383ab7bfb55c5c34
-workflow-type: ht
-source-wordcount: '114'
-ht-degree: 100%
+exl-id: f6138e09-0ad6-45e2-90d6-4fb22bc97715
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 54%
 
 ---
 
-
 # Bozze: problemi relativi all’attivazione della fase
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 30 novembre 2023.
 
 Quando viene attivata una nuova fase del flusso di lavoro di una bozza, la fase appare attiva nell’area [!UICONTROL Flusso della lavoro bozza]. Tuttavia, il documento non viene condiviso con gli utenti nella nuova fase e l’area [!UICONTROL Attività bozza] non mostra se la fase è stata attivata o se il documento è stato condiviso.
 

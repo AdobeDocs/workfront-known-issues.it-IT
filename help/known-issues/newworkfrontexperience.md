@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a30ff5443dfb9f3f71a08de28670f44990899863
+source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '852'
 ht-degree: 92%
 
 ---
@@ -25,7 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configurazione: stati dei problemi predefiniti mancanti in alcuni tipi di problemi in Configurazione](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | venerdì 7 dicembre 2023 |
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 7 dicembre 2023 |
 | [Schede: errore in [!UICONTROL Commenti] sezione di schede](known-issues-workfront/wf-boards-comments-section-error.md) | sabato 1 dicembre 2023 |
 | [Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 novembre 2023 |
@@ -43,24 +42,21 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Configurazione: stati dei problemi predefiniti mancanti in alcuni tipi di problemi in Configurazione](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | venerdì 7 dicembre 2023 |
 | [Home: I miei progetti e i widget Attività personali visualizzano solo 25 elementi](known-issues-workfront/wf-home-widgets-show-25-items.md) | venerdì 7 dicembre 2023 |
 | [Stato: [!UICONTROL Ops] errore durante la visualizzazione dello stato](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | giovedì 6 dicembre 2023 |
 | [Aggiornamenti: alcuni aggiornamenti non sono presenti nella nuova esperienza di commento](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | giovedì 6 dicembre 2023 |
 | [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | venerdì 30 novembre 2023 |
-| [Rapporti: le ore preventivate nel rapporto Utilizzo non corrispondono alle ore preventivate riportate tramite API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | venerdì 30 novembre 2023 |
 | [Attività: quando si duplicano delle attvità, vengono visualizzate in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | venerdì 30 novembre 2023 |
 | [Bozze: le bozze in attesa di approvazione non vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md) | 29 novembre 2023 |
 | [Moduli personalizzati: impossibile aggiungere o rimuovere in blocco moduli personalizzati nelle attività modello](known-issues-workfront/wf-custom-forms-error-removing-from-template-task.md) | 21 novembre 2023 |
 | [Attività: le date delle attività sono visualizzate in grigio per un tempo prolungato durante il ricalcolo della timeline](known-issues-workfront/wf-tasks-greyed-out-for-a-long-wime-while-recalculating.md) | 10 novembre 2023 |
-| [Notifiche: la notifica e-mail non viene ricevuta quando l’utente viene taggato in un commento](known-issues-workfront/wf-notif-email-not-received.md) | 8 novembre 2023 |
 | [Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
-| [Bozze: problemi relativi all’attivazione della fase](known-issues-workfront/wf-proofs-stage-activation-issues.md) | 3 novembre 2023 |
 | [Attività: errore “[!UICONTROL Ops]” nell’intestazione dell’attività](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 ottobre 2023 |
 | [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 ottobre 2023 |
 | [Bozze: impossibile creare una nuova versione di una bozza](known-issues-workfront/wf-proofs-cannot-create-new-version.md) | 19 ottobre 2023 |
 | [Accesso: la pagina di accesso reindirizza alla pagina di destinazione di disconnessione](known-issues-workfront/wf-login-redirects-to-logout-page.md) | 18 ottobre 2023 |
 | [[!UICONTROL Bilanciamento del carico di lavoro]: le [!UICONTROL Ore totali] non corrispondono alla somma delle [!UICONTROL Ore pianificate]](known-issues-workfront/wf-workload-balancer-total-hours-not-match-sum.md) | 12 ottobre 2023 |
-| [Home: le attività delegate non sono condivise e non vengono visualizzate nell’Elenco lavori dell’area Home](known-issues-workfront/wf-home-delegated-tasks-not-shared.md) | 3 ottobre 2023 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di  [!DNL Workfront]  su Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
 {style="table-layout:auto"}
