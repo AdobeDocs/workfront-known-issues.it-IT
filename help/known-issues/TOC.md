@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3696ef02bf7a80584e0d927b348e11d0b98d9991
+source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
-source-wordcount: '1759'
-ht-degree: 97%
+source-wordcount: '1792'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Configurazione: stati dei problemi predefiniti mancanti in alcuni tipi di problemi in Configurazione](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
+      + [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
+      + [Home: I miei progetti e i widget Attività personali visualizzano solo 25 elementi](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Stato: [!UICONTROL Ops] errore durante la visualizzazione dello stato](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Aggiornamenti: alcuni aggiornamenti non sono presenti nella nuova esperienza di commento](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
       + [Attività/Problemi: problemi durante l’aggiunta di elementi di lavoro nella visualizzazione Bacheca di attività o problemi](known-issues-workfront/wf-tasks-issues-board-view.md)
