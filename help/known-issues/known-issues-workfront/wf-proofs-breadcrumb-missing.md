@@ -1,11 +1,11 @@
 ---
-title: 'Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail'
+title: "Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail"
 description: Quando un utente visualizza una bozza facendo clic sul pulsante Vai alla bozza nella relativa e-mail di notifica, manca il collegamento breadcrumb all’oggetto principale della bozza.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: fb79a7cd-bd29-4a69-a2c9-4455edad9acc
 source-git-commit: 7023e66db369b0281df644fae9cf9902ffd59c3b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 
