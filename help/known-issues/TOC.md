@@ -5,7 +5,7 @@ role: User
 source-git-commit: b7f1508544cfd7e9613474c946e05d58d38fa5dc
 workflow-type: tm+mt
 source-wordcount: '1792'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 95%
       + [Home: I miei progetti e i widget Attività personali visualizzano solo 25 elementi](known-issues-workfront/wf-home-widgets-show-25-items.md)
       + [Stato: [!UICONTROL Ops] errore durante la visualizzazione dello stato](known-issues-workfront/wf-setup-whoops-when-hiding-status.md)
       + [Aggiornamenti: alcuni aggiornamenti non sono presenti nella nuova esperienza di commento](known-issues-workfront/wf-updates-not-visible-in-new-experience.md)
-      + [Attività/Problemi: problemi durante l’aggiunta di elementi di lavoro nella visualizzazione Bacheca di attività o problemi](known-issues-workfront/wf-tasks-issues-board-view.md)
-      + [Schede: errore in [!UICONTROL Commenti] sezione di schede](known-issues-workfront/wf-boards-comments-section-error.md)
+      + [Attività/Problemi: problemi durante l’aggiunta di elementi di lavoro nella vista Bacheca di attività o problemi](known-issues-workfront/wf-tasks-issues-board-view.md)
+      + [Bacheche: errore nella sezione [!UICONTROL Commenti] delle schede](known-issues-workfront/wf-boards-comments-section-error.md)
       + [Configurazione: impossibile utilizzare [!UICONTROL Kick-Start] per impostare i raggruppamenti](known-issues-workfront/wf-setup-cannot-kickstart-groupings.md)
       + [Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md)
       + [Bozze: le bozze in attesa di approvazione non vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-pending-approvals-not-in-reports.md)
