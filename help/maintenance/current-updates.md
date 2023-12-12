@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eac66ce9ed7466d6fafd1075cf306825bbf7c07f
+source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
 workflow-type: tm+mt
-source-wordcount: '7401'
-ht-degree: 98%
+source-wordcount: '7435'
+ht-degree: 99%
 
 ---
 
@@ -22,6 +22,15 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 ## Aggiornamenti di dicembre 2023
 
++++**Aggiornamento di manutenzione del venerdì 14 dicembre 2023**
+
+**Le bozze in attesa di approvazione non vengono visualizzate nei rapporti**
+
+_Bozze_
+
+Quando un utente visualizza un rapporto per le approvazioni di bozze in sospeso, alcune approvazioni in sospeso non vengono visualizzate nel rapporto.
++++
+
 +++**Aggiornamento di manutenzione del venerdì 7 dicembre 2023**
 
 **Approvazione bloccata su [!UICONTROL In attesa della mia approvazione] widget**
@@ -34,12 +43,12 @@ Quando viene caricata una nuova versione di un documento e l’approvazione dell
 
 _Attività/Problemi_
 
-Quando un utente visualizza la vista Bacheca dell’area Attività o Problemi in un progetto e tenta di aggiungere un’attività o un problema, si possono verificare i seguenti casi:
+Quando un utente visualizza la vista Bacheca dell’area Attività o Problemi in un progetto e tenta di aggiungere un’attività o un problema, possono verificarsi i seguenti casi:
 
-* La finestra popup passa da uno stile di finestra all&#39;altro
+* La finestra a comparsa passa da uno stile di finestra all&#39;altro
 * L’utente non può chiudere la finestra a comparsa
 
-Questo problema è stato segnalato quando un utente seleziona un’area dalla navigazione a sinistra della finestra pop-up prima di inserire qualsiasi informazione.
+Questo problema è stato segnalato quando un utente seleziona un’area dalla navigazione a sinistra della finestra a comparsa prima di inserire eventuali informazioni.
 
 +++
 
