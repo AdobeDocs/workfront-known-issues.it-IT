@@ -1,17 +1,21 @@
 ---
 title: "Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale"
-description: "Quando un utente sposta una scheda in una colonna diversa e poi aggiorna o ritorna alla bacheca, la scheda è tornata alla colonna originale."
+description: Quando un utente sposta una scheda in una colonna diversa e poi aggiorna o ritorna sulla bacheca, la scheda è tornata alla colonna originale.
 hidefromtoc: true
 feature: Agile
-source-git-commit: d68bec64be9bd02478787a52c28dba14502d6635
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+exl-id: fd92be4b-a87b-4b99-9d19-fd69c4fa5afb
+source-git-commit: 85bb62f8752bba167a6633af8d9e58ff25283573
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 89%
 
 ---
 
-
 # Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso perché il sistema funziona come previsto.
 
 Quando un utente sposta una scheda in una colonna diversa e poi aggiorna o ritorna sulla bacheca, la scheda è tornata alla colonna originale.
 
