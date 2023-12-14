@@ -33,15 +33,15 @@ Quando un utente visualizza un rapporto per le approvazioni di bozze in sospeso,
 
 +++**Aggiornamento di manutenzione del venerdì 7 dicembre 2023**
 
-**Approvazione bloccata su [!UICONTROL In attesa della mia approvazione] widget**
+**Approvazione bloccata sul widget [!UICONTROL In attesa della mia approvazione]**
 
 _Home_
 
 Quando viene caricata una nuova versione di un documento e l’approvazione della versione precedente non è stata completata, la precedente versione del documento si blocca sul widget [!UICONTROL In attesa della mia approvazione] dell’approvatore. L’approvazione non può essere approvata perché è presente una nuova versione, né può essere rimossa dal widget.
 
-**Problemi durante l’aggiunta di elementi di lavoro nella visualizzazione Bacheca di attività o problemi**
+**Problemi durante l’aggiunta di elementi di lavoro nella vista Bacheca di attività o problemi**
 
-_Attività/Problemi_
+_Attività/problemi_
 
 Quando un utente visualizza la vista Bacheca dell’area Attività o Problemi in un progetto e tenta di aggiungere un’attività o un problema, possono verificarsi i seguenti casi:
 
@@ -270,7 +270,7 @@ _Home_
 
 Quando un utente modifica i filtri nella [!UICONTROL Home], l’area della [!UICONTROL Home] non si carica e viene visualizzato il seguente errore:
 
-&quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 +++
 
