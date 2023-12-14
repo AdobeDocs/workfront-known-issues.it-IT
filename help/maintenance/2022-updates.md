@@ -1,11 +1,11 @@
 ---
-title: Aggiornamenti di manutenzione per Workfront nel 2022
+title: Aggiornamenti di manutenzione di Workfront nel 2022
 description: Aggiornamenti di manutenzione 2022 per  [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 6f245f70ca00bef3db833a891cc4c7d822761c37
 workflow-type: ht
-source-wordcount: '16739'
+source-wordcount: '16795'
 ht-degree: 100%
 
 ---
@@ -280,7 +280,7 @@ Questo comportamento è stato segnalato quando l’utente accede al rapporto nei
 
 L’accesso ai rapporti tramite una dashboard aggiorna le informazioni Ultima visualizzazione.
 
-**[!DNL Workfront]: errore 500 quando si apportano modifiche a un oggetto [!DNL Workfront]**+
+**[!DNL Workfront]: errore 500 quando si apportano modifiche a un [!DNL Workfront]oggetto**+
 
 *[!DNL Workfront]*
 
@@ -347,8 +347,8 @@ Ciò è stato segnalato nelle seguenti aree:
 
 Sono state aggiunte diverse icone di informazioni alle seguenti impostazioni:
 
-* Casella di controllo “Can edit time” (Può modificare l’ora) durante la creazione o la modifica di una scheda orario o di un profilo della scheda orario per indicare che, se abilitata, gli approvatori possono anche inviare, riaprire o modificare la scheda orario, a meno che l’amministratore non limiti queste azioni nell’area Timesheet Preferences (Preferenze della scheda orario) di Setup (Configurazione).
-* “Restrict timesheet editing to owners and admins” (Limita la modifica della scheda orario a proprietari e amministratori) nell’area Timesheet &amp; Hour Preferences (Preferenze scheda orario e ora) di Setup (Configurazione) per indicare che, se disabilitata, anche i seguenti utenti possono modificare le schede orario: utenti con accesso amministrativo a schede orario e ore, approvatori di schede orario autorizzati a modificare l’ora e responsabili dei proprietari delle schede orario.
+* La casella di controllo “Può modificare l’ora” durante la creazione o la modifica di una scheda orario o di un profilo della scheda orario per indicare, se abilitata, che gli approvatori possono anche inviare, riaprire o modificare la scheda orario, a meno che l’amministratore non limiti queste azioni nell’area Configurazione delle Preferenze della scheda orario.
+* Limita la modifica della scheda orario a proprietari e amministratori” nell’area Configurazione delle Preferenze scheda orario e ora per indicare che, se disabilitata, anche gli utenti seguenti possono modificare le schede orario: utenti con accesso amministrativo a schede orario e ore, approvatori di schede orario autorizzati a modificare l’ora e responsabili dei proprietari delle schede orario.
 
 La funzionalità di queste impostazioni non è stata modificata e sono state aggiunte solo le icone delle informazioni per chiarire l’ambito delle impostazioni.
 
@@ -511,7 +511,7 @@ Errore **“[!UICONTROL Le modifiche recenti non sono state salvate]” durante 
 
 Quando un utente cerca di modificare una scheda orario in modo da attivare un salvataggio automatico, le modifiche non vengono salvate e l’utente visualizza il seguente messaggio:
 
-“[!UICONTROL Le modifiche recenti non sono state salvate. Aggiorna la pagina da visualizzare.]”
+“[!UICONTROL Le modifiche recenti non sono state salvate. Aggiorna la pagina per visualizzarle.]”
 
 Questo problema è stato segnalato durante la modifica dei seguenti elementi:
 
@@ -586,7 +586,7 @@ Quando un utente visualizza gli aggiornamenti e passa il mouse su un nome, si ap
 
 Quando un utente cerca di registrare le ore per un’attività sulla propria scheda orario, le ore non vengono salvate automaticamente e l’utente visualizza il seguente errore:
 
-“[!UICONTROL Database error from concurrent edit on a locked row. Automatic retry failed. Try transaction later.]”
+“[!UICONTROL Salvataggio non riuscito perché qualcun altro ha cercato di salvare questo progetto nello stesso momento. Riprova a salvare di nuovo.]”
 
 **Non è possibile chiudere la scheda utente nel flusso di aggiornamento**
 
@@ -886,7 +886,7 @@ Tutte le funzionalità [!DNL Workfront Classic] sono state rimosse il 14 luglio 
 
 Quando un utente cerca di aprire un elemento nella sezione [!UICONTROL Elenco lavori] dell’area Home, l’elemento non si apre e l’utente visualizza il seguente messaggio:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro prova ad aggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.]”
 
 **Le attività e i problemi delegati a un utente non vengono visualizzati nell’elenco di lavoro dell’area Home dell’utente**
 
@@ -1177,7 +1177,7 @@ Quando un utente visualizza un dashboard in un progetto e tenta di aggiungere un
 
 Quando un utente visualizza la sezione [!UICONTROL Elenco lavori] dell’area Home e fa clic su un elemento nella sezione [!UICONTROL Approvazioni inviate], la pagina mostra il seguente errore:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 Se l’utente aggiorna la pagina e poi fa clic su qualsiasi elemento nella [!UICONTROL Elenco lavori], viene visualizzato l’errore. Il problema non riguarda più solo gli elementi nella sezione [!UICONTROL Approvazioni inviate].
 
@@ -1509,7 +1509,7 @@ Quando un utente cerca di aggiungere un nuovo record della fatturazione dall’a
 
 Quando un utente cerca di effettuare assegnazioni nel [!DNL Workload Balancer] di un progetto, viene reindirizzato a una pagina con il seguente messaggio:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+&quot;[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 L’utente non può spostarsi da questa pagina finché non aggiorna la pagina.
 

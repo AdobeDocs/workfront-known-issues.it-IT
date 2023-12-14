@@ -5,7 +5,7 @@ exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
 workflow-type: ht
-source-wordcount: '10019'
+source-wordcount: '10060'
 ht-degree: 100%
 
 ---
@@ -160,7 +160,7 @@ _[!DNL Workfront]_
 
 Quando un utente lavora in [!DNL Workfront], le pagine non si caricano e l’utente visualizza il messaggio di errore seguente:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 Questo problema è stato segnalato in
 
@@ -214,7 +214,7 @@ _[!DNL Workfront]_
 
 Quando un utente lavora in [!DNL Workfront], le pagine non si caricano e l’utente visualizza il messaggio di errore seguente:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 Questo problema è stato segnalato in
 
@@ -294,7 +294,7 @@ _[!DNL Workfront]_
 
 Quando un utente lavora in [!DNL Workfront] utilizzando un browser [!DNL Firefox], le pagine non si caricano e si visualizza il messaggio di errore seguente:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 Questo errore si verifica in modo casuale e può influenzare qualsiasi area di [!DNL Workfront].
 
@@ -494,7 +494,7 @@ _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
 Quando un utente tenta di effettuare un’assegnazione dal [!UICONTROL Bilanciatore dei carichi di lavoro], l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 +++
 
@@ -509,7 +509,7 @@ _Home_
 
 Quando un utente accede o esce rapidamente dalla [!UICONTROL Home], la pagina non si carica e l’utente visualizza il messaggio di errore seguente:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 Questo problema può verificarsi anche quando si accede alla [!UICONTROL Home] tramite un pin.
 
@@ -815,7 +815,7 @@ _[!UICONTROL Bilanciatore dei carichi di lavoro]_
 
 Quando un utente seleziona l’opzione [!UICONTROL Percentuale] per [!UICONTROL Ore allocate] ed è presente un lavoro elencato nella sezione [!UICONTROL Lavoro non assegnato], viene visualizzato il messaggio di errore seguente:
 
-“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova a riaggiornare la pagina del browser.]”
+“[!UICONTROL Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser]”.
 
 +++
 
@@ -1507,7 +1507,7 @@ _Notifiche e-mail_
 
 Quando un utente fa clic sul collegamento “[!UICONTROL Visualizza tutte le notifiche]” in una notifica e-mail, viene reindirizzato a una pagina contenente il messaggio seguente:
 
-“[!UICONTROL L’utente non esiste più. L’indirizzo web potrebbe non essere digitato correttamente. Controllalo e prova di digitarlo di nuovo.]”
+“[!UICONTROL L’utente non esiste più. È possibile che l’indirizzo web sia stato digitato in modo errato. Ricontrolla e riprova a inserire l’indirizzo.]”
 
 **L’utente non viene indirizzato al commento della bozza in cui è taggato**
 

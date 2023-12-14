@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 83cd4de3865bc0c1d2f462571ecccb7c13a257a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '852'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 7 dicembre 2023 |
-| [Schede: errore in [!UICONTROL Commenti] sezione di schede](known-issues-workfront/wf-boards-comments-section-error.md) | sabato 1 dicembre 2023 |
+| [Bacheche: errore nella sezione [!UICONTROL Commenti] delle schede](known-issues-workfront/wf-boards-comments-section-error.md) | sabato 1 dicembre 2023 |
 | [Bacheche: dopo l’aggiornamento, le schede spostate in una colonna tornano alla colonna originale](known-issues-workfront/wf-boards-cards-not-move-to-custom-status.md) | 29 novembre 2023 |
 | [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
 | [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
@@ -43,8 +43,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
 | [Configurazione: stati dei problemi predefiniti mancanti in alcuni tipi di problemi in Configurazione](known-issues-workfront/wf-setup-status-missing-from-issue-types.md) | venerdì 7 dicembre 2023 |
-| [Home: I miei progetti e i widget Attività personali visualizzano solo 25 elementi](known-issues-workfront/wf-home-widgets-show-25-items.md) | venerdì 7 dicembre 2023 |
-| [Stato: [!UICONTROL Ops] errore durante la visualizzazione dello stato](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | giovedì 6 dicembre 2023 |
+| [Home: i widget I miei progetti e Le mie Attività visualizzano solo 25 elementi](known-issues-workfront/wf-home-widgets-show-25-items.md) | venerdì 7 dicembre 2023 |
+| [Stato: errore [!UICONTROL Ops] quando si nasconde lo stato](known-issues-workfront/wf-setup-whoops-when-hiding-status.md) | giovedì 6 dicembre 2023 |
 | [Aggiornamenti: alcuni aggiornamenti non sono presenti nella nuova esperienza di commento](known-issues-workfront/wf-updates-not-visible-in-new-experience.md) | giovedì 6 dicembre 2023 |
 | [Schede orario: l’attività personale viene visualizzata nella scheda orario](known-issues-workfront/wf-timesheets-personal-task-on-timesheet.md) | venerdì 30 novembre 2023 |
 | [Attività: quando si duplicano delle attvità, vengono visualizzate in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | venerdì 30 novembre 2023 |
