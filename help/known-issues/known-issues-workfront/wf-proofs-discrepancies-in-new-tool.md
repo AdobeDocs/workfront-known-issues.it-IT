@@ -1,12 +1,12 @@
 ---
 title: "Bozze: problemi durante l’elaborazione dei file statici"
-description: "Workfront ha recentemente cambiato lo strumento di elaborazione delle bozze da un fornitore di terze parti a una soluzione interna ed ha rilevato alcune discrepanze nelle funzionalità di entrambi i sistemi. Queste discrepanze possono causare problemi con l’elaborazione di file statici, in particolare di file PDF, Word e PPT. È disponibile una soluzione alternativa"
+description: '"Workfront ha recentemente cambiato lo strumento di elaborazione delle bozze da un fornitore di terze parti a una soluzione interna ed ha rilevato alcune discrepanze nelle funzionalità di entrambi i sistemi. Queste discrepanze possono causare problemi con l’elaborazione di file statici, in particolare di file PDF, Word e PPT. È disponibile una soluzione alternativa.”'
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 494e8c83c0bc1f6f9cb8abdf7b147a78add6f699
+source-git-commit: d07005982af8484714e574ee54034f438def6cc7
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
