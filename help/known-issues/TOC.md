@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 408d70917eff153f014c3884780b6edf2b660a4c
+source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
 workflow-type: tm+mt
-source-wordcount: '1813'
-ht-degree: 98%
+source-wordcount: '1830'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: l’utente non è assegnato a una o più attività](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [Bacheche: impossibile allegare un documento a una scheda](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
       + [Modelli: errore durante l’associazione del modello al progetto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [Rapporti: il rapporto ore preventivate non aggiorna le ore come previsto](known-issues-workfront/wf-reports-report-not-updating.md)
