@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 26c2a3cb7fad72442064ded1bc368967e89176b0
+source-git-commit: 39b1716195e2081597970b9d1e7091013e959416
 workflow-type: tm+mt
-source-wordcount: '7435'
-ht-degree: 99%
+source-wordcount: '7699'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,51 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di dicembre 2023
+
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 21 dicembre 2023**
+
+**Problemi durante la visualizzazione dello stato delle sottoattività**
+
+_Bacheche_
+
+Sono stati segnalati i seguenti problemi relativi alla visualizzazione dello stato delle attività secondarie in una scheda in Bacheche:
+
+* Lo stato viene visualizzato come “Seleziona stato” anche quando l’attività ha già uno stato. Questo stato può essere visualizzato quando si visualizza direttamente l’attività.
+* Se l’utente cerca di selezionare uno stato, la schermata diventa vuota e deve essere aggiornata.
+
+**Impossibile allegare un documento a una scheda**
+
+_Bacheche_
+
+Quando un utente tenta di allegare un documento a una scheda connessa, può selezionare il documento da allegare, ma il documento non viene visualizzato nell’area del documento della scheda e non è collegato all’oggetto a cui è connessa la scheda.
+
+Questo problema è stato segnalato nelle schede collegate a problemi.
+
+**Impossibile selezionare il modello da [!UICONTROL Preferiti] list**
+
+_Modelli_
+
+Quando un utente tenta di selezionare un modello dall’elenco [!UICONTROL Preferiti] , l’elenco dei modelli scompare quando l’utente sposta il mouse sull’elenco e non può selezionare un modello.
+
+**Alcuni aggiornamenti non sono presenti nella nuova esperienza di commento**
+
+_Aggiornamenti_
+
+Quando un utente visualizza gli aggiornamenti nella nuova esperienza di commento, alcuni dei commenti da visualizzare non vengono visualizzati. Se l’utente passa all’esperienza di commento precedente, vengono visualizzati tutti i commenti.
+
++++
+
++++**(Pianificato) [!DNL Adobe Workfront Fusion] Aggiornamento di manutenzione del giovedì 21 dicembre 2023**
+
+L&#39;apertura del campo modulo richiede troppo tempo
+
+_[!DNL Workfront Fusion]_
+
+<!--no article-->
+
+Quando un utente configura un modulo che richiede dati dall’account connesso (ad esempio per selezionare un record), il modulo non può recuperare i dati e la richiesta di dati scade.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 14 dicembre 2023**
 
