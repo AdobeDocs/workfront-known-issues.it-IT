@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 95%
+source-wordcount: '892'
+ht-degree: 93%
 
 ---
 
@@ -25,6 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: le bozze create da documenti Word non includono commenti o markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | mercoledì 19 dicembre 2023 |
+| [Attività: la finestra si chiude quando si crea una nuova attività](known-issues-workfront/wf-tasks-new-window-closes.md) | mercoledì 19 dicembre 2023 |
 | [Modelli: errore durante l’associazione del modello al progetto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sabato 15 dicembre 2023 |
 | [Rapporti: il rapporto ore preventivate non aggiorna le ore come previsto](known-issues-workfront/wf-reports-report-not-updating.md) | venerdì 14 dicembre 2023 |
 | [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |

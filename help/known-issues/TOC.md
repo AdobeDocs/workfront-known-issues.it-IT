@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
 workflow-type: tm+mt
-source-wordcount: '1830'
-ht-degree: 97%
+source-wordcount: '1849'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: le bozze create da documenti Word non includono commenti o markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
+      + [Attività: la finestra si chiude quando si crea una nuova attività](known-issues-workfront/wf-tasks-new-window-closes.md)
       + [Attività: l’utente non è assegnato a una o più attività](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
       + [Bacheche: impossibile allegare un documento a una scheda](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
