@@ -1,19 +1,19 @@
 ---
-title: '“Modelli layout: i modelli layout causano incongruenze nei rapporti”'
-description: “I modelli layout dell’esperienza Workfront classica non sono più disponibili nell’interfaccia di Workfront, ma possono comunque influire sui dati di Workfront. Questo può causare incongruenze nei campi interessati dai modelli stessi (ad esempio Condiviso con), nei rapporti o nelle dashboard.”
+title: "Modelli di layout: modelli di layout che causano incoerenze nei rapporti"
+description: I modelli layout dell’esperienza Workfront classica non sono più disponibili nell’interfaccia di Workfront, ma possono comunque influire sui dati di Workfront. Questo può causare incongruenze nei campi interessati dai modelli stessi (ad esempio Condiviso con), nei rapporti o nelle dashboard.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 3845794a0b1b610d821f5653c06d0cce77d58f2e
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+exl-id: 1542291f-4797-477e-83b8-0706ac6801ae
+source-git-commit: 10507904c2e6d6a8adc182551f6425b78aab4fce
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 86%
 
 ---
 
-
 # Modelli layout: i modelli layout causano incongruenze nei rapporti
 
-I modelli layout dell’esperienza classica di [!DNL Workfront] non sono più disponibili nell’interfaccia di [!DNL Workfront], ma possono comunque influire sui dati di [!DNL Workfront]. Questo può causare incongruenze nei campi interessati dai modelli stessi (ad esempio [!UICONTROL Condiviso con]) nei rapporti o nelle dashboard.
+Modelli di layout da Classic [!DNL Workfront] non sono più disponibili nella sezione [!DNL Workfront] , ma possono comunque influire [!DNL Workfront] dati. Questo può causare incongruenze nei campi interessati dai modelli stessi (ad esempio [!UICONTROL Condiviso con]) nei rapporti o nelle dashboard.
 
 **Soluzione alternativa**
 
@@ -38,4 +38,3 @@ Elimina i modelli layout classici utilizzando una chiamata API. È necessario av
 1. Incolla la chiamata API dal passaggio 4 nella barra degli URL del browser e premi Invio.
 
    Questa azione eliminerà il modello layout.
-
