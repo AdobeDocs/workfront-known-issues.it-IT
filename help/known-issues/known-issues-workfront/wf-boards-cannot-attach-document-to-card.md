@@ -3,10 +3,10 @@ title: "Bacheche: impossibile allegare un documento a una scheda"
 description: "Quando un utente tenta di allegare un documento a una scheda connessa, può selezionare il documento da allegare, ma il documento non viene visualizzato nell’area del documento della scheda e non è collegato all’oggetto a cui è connessa la scheda."
 hidefromtoc: true
 feature: Agile
-source-git-commit: ab89dd0dc09dd4c465e2e0f7b83a90686df123c4
+source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 3%
+source-wordcount: '149'
+ht-degree: 7%
 
 ---
 
@@ -14,6 +14,10 @@ ht-degree: 3%
 # Bacheche: impossibile allegare un documento a una scheda
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 21 dicembre 2023.
 
 Quando un utente tenta di allegare un documento a una scheda connessa, può selezionare il documento da allegare, ma il documento non viene visualizzato nell’area del documento della scheda e non è collegato all’oggetto a cui è connessa la scheda.
 
