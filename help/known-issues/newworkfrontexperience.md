@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '857'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | -----------------------------------------------------------------| ----------------- |
 | [Bozze: le bozze create da documenti Word non includono commenti o markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | mercoledì 19 dicembre 2023 |
 | [Attività: la finestra si chiude quando si crea una nuova attività](known-issues-workfront/wf-tasks-new-window-closes.md) | mercoledì 19 dicembre 2023 |
-| [Modelli: errore durante l’associazione del modello al progetto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sabato 15 dicembre 2023 |
+| [Modelli: errore durante l’associazione di un modello a un progetto esistente](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | sabato 15 dicembre 2023 |
 | [Rapporti: il rapporto ore preventivate non aggiorna le ore come previsto](known-issues-workfront/wf-reports-report-not-updating.md) | venerdì 14 dicembre 2023 |
 | [Documenti: impossibile accedere [!DNL SharePoint]](known-issues-workfront/wf-docs-sharepoint-authorization-required.md) | 27 novembre 2023 |
 | [Bacheche: la scheda appare su più sprint](known-issues-workfront/wf-boards-card-appears-multiple-sprints.md) | 21 novembre 2023 |
@@ -41,7 +41,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
-| [Attività: l’utente non è assegnato a una o più attività](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martedì 18 dicembre 2023 |
+| [Attività: una o più attività non sono più assegnate all’utente](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martedì 18 dicembre 2023 |
 | [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sabato 15 dicembre 2023 |
 | [Bacheche: errore nella sezione [!UICONTROL Commenti] delle schede](known-issues-workfront/wf-boards-comments-section-error.md) | venerdì 14 dicembre 2023 |
 | [Rapporti: le ore preventivate nel rapporto Utilizzo non corrispondono alle ore preventivate riportate tramite API](known-issues-workfront/wf-reports-incorrect-rpbghr.md) | venerdì 14 dicembre 2023 |

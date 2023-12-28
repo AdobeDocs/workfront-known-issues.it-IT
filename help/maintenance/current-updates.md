@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
 workflow-type: tm+mt
 source-wordcount: '7697'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 +++**Aggiornamento di manutenzione del venerdì 21 dicembre 2023**
 
-**Problemi durante la visualizzazione dello stato delle sottoattività**
+**Problemi durante la visualizzazione dello stato delle attività secondarie**
 
 _Bacheche_
 
@@ -41,7 +41,7 @@ Quando un utente tenta di allegare un documento a una scheda connessa, può sele
 
 Questo problema è stato segnalato nelle schede collegate a problemi.
 
-**Impossibile selezionare il modello da [!UICONTROL Preferiti] list**
+**Impossibile selezionare il modello dall’elenco [!UICONTROL Preferiti]**
 
 _Modelli_
 
@@ -57,7 +57,7 @@ Quando un utente visualizza gli aggiornamenti nella nuova esperienza di commento
 
 +++**[!DNL Adobe Workfront Fusion]Aggiornamento di manutenzione del giovedì 21 dicembre 2023**
 
-L&#39;apertura del campo modulo richiede troppo tempo
+L’apertura del campo modulo richiede troppo tempo
 
 _[!DNL Workfront Fusion]_
 
