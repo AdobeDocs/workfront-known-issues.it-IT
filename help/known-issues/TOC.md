@@ -3,9 +3,9 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1849'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 96%
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Bozze: le bozze create da documenti Word non includono commenti o markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md)
       + [Attività: la finestra si chiude quando si crea una nuova attività](known-issues-workfront/wf-tasks-new-window-closes.md)
-      + [Attività: l’utente non è assegnato a una o più attività](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
+      + [Attività: una o più attività non sono più assegnate all’utente](known-issues-workfront/wf-tasks-user-unassigned-without-record.md)
       + [Bacheche: impossibile allegare un documento a una scheda](known-issues-workfront/wf-boards-cannot-attach-document-to-card.md)
       + [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md)
-      + [Modelli: errore durante l’associazione del modello al progetto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
+      + [Modelli: errore durante l’aggiunta di un modello al progetto](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md)
       + [Rapporti: il rapporto ore preventivate non aggiorna le ore come previsto](known-issues-workfront/wf-reports-report-not-updating.md)
       + [Configurazione: stati dei problemi predefiniti mancanti in alcuni tipi di problemi in Configurazione](known-issues-workfront/wf-setup-status-missing-from-issue-types.md)
       + [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md)
