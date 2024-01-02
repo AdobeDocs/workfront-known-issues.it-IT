@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 704f5f9f7a460d13c7258df7865d84540e72fc6b
+source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 100%
+source-wordcount: '879'
+ht-degree: 97%
 
 ---
 
@@ -41,6 +41,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Bacheche: &quot;[!UICONTROL Non hai accesso]&quot; quando si visualizzano commenti su una scheda](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | mercoledì 2 gennaio 2024 |
+| [Team: problemi relativi all’impostazione dello stato del team per [!UICONTROL Fine] pulsante](known-issues-workfront/wf-teams-statuses-missing.md) | mercoledì 2 gennaio 2024 |
 | [Attività: una o più attività non sono più assegnate all’utente](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martedì 18 dicembre 2023 |
 | [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sabato 15 dicembre 2023 |
 | [Bacheche: errore nella sezione [!UICONTROL Commenti] delle schede](known-issues-workfront/wf-boards-comments-section-error.md) | venerdì 14 dicembre 2023 |
