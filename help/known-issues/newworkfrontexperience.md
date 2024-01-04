@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
+source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 97%
+source-wordcount: '899'
+ht-degree: 95%
 
 ---
 
@@ -41,6 +41,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Nuovo [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento dei widget non seguono il modello di layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
+| [Bacheche: le schede persistono quando si modifica l’iterazione](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | venerdì 4 gennaio 2024 |
 | [Bacheche: &quot;[!UICONTROL Non hai accesso]&quot; quando si visualizzano commenti su una scheda](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | mercoledì 2 gennaio 2024 |
 | [Team: problemi relativi all’impostazione dello stato del team per [!UICONTROL Fine] pulsante](known-issues-workfront/wf-teams-statuses-missing.md) | mercoledì 2 gennaio 2024 |
 | [Attività: una o più attività non sono più assegnate all’utente](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martedì 18 dicembre 2023 |
