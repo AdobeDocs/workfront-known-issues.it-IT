@@ -3,15 +3,19 @@ title: '“Stato: errore Ops quando si nasconde lo stato”'
 description: “Quando un utente cerca di nascondere uno stato, lo stato non viene nascosto e l’utente visualizza l’errore Ops.”
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: ca99d991b9b27b1149c15145786d5f773451c7d7
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 
 # Stato: errore [!UICONTROL Ops] quando si nasconde lo stato
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 21 dicembre 2023.
 
 Quando un utente cerca di nascondere uno stato, lo stato non viene nascosto e l’utente visualizza il seguente errore:
 
