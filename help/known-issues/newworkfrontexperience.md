@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '869'
-ht-degree: 95%
+source-wordcount: '880'
+ht-degree: 94%
 
 ---
 
@@ -36,6 +36,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Problemi: i campi ora consentono di risparmiare tempo errato quando si modificano in blocco i problemi](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sabato 5 gennaio 2024 |
 | [Bozze: le bozze create da documenti Word non includono commenti o markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | venerdì 4 gennaio 2024 |
 | [Modelli: errore durante l’associazione di un modello a un progetto esistente](known-issues-workfront/wf-templates-error-when-attaching-with-custom-form.md) | venerdì 4 gennaio 2024 |
 | [Attività: la finestra si chiude quando si crea una nuova attività](known-issues-workfront/wf-tasks-new-window-closes.md) | venerdì 4 gennaio 2024 |

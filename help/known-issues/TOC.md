@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: f6c0defc4fbc54687057558c5debf9ed80fa7908
+source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
 workflow-type: tm+mt
-source-wordcount: '1887'
+source-wordcount: '1897'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Problemi: i campi ora consentono di risparmiare tempo errato quando si modificano in blocco i problemi](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
       + [Nuovo [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento dei widget non seguono il modello di layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Bacheche: le schede persistono quando si modifica l’iterazione](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [Bacheche: &quot;[!UICONTROL Non hai accesso]&quot; quando si visualizzano commenti su una scheda](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
