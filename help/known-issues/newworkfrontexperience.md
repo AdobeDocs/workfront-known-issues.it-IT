@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -48,8 +48,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Home: approvazione bloccata sul widget [!UICONTROL In attesa della mia approvazione] ](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | venerdì 4 gennaio 2024 |
 | [Nuovo [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento dei widget non seguono il modello di layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
 | [Bacheche: le schede persistono quando si modifica l’iterazione](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | venerdì 4 gennaio 2024 |
-| [Bacheche: &quot;[!UICONTROL Non hai accesso]&quot; quando si visualizzano commenti su una scheda](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | mercoledì 2 gennaio 2024 |
-| [Team: problemi relativi all’impostazione dello stato del team per [!UICONTROL Fine] pulsante](known-issues-workfront/wf-teams-statuses-missing.md) | mercoledì 2 gennaio 2024 |
+| [Bacheche: “[!UICONTROL Non disponi del livello di accesso]” durante la visualizzazione dei commenti su una scheda](known-issues-workfront/wf-boards-no-access-to-view-comments.md) | mercoledì 2 gennaio 2024 |
+| [Team: problemi relativi all’impostazione degli stati del team per il pulsante [!UICONTROL Fine]](known-issues-workfront/wf-teams-statuses-missing.md) | mercoledì 2 gennaio 2024 |
 | [Attività: una o più attività non sono più assegnate all’utente](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martedì 18 dicembre 2023 |
 | [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sabato 15 dicembre 2023 |
 | [Bacheche: errore nella sezione [!UICONTROL Commenti] delle schede](known-issues-workfront/wf-boards-comments-section-error.md) | venerdì 14 dicembre 2023 |
