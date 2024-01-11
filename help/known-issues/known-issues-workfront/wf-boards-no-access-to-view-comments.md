@@ -1,22 +1,22 @@
 ---
-title: "Bacheche: non è possibile accedere ai commenti visualizzati su una scheda."
-description: "Quando un utente tenta di visualizzare i commenti su una scheda non connessa a un oggetto Workfront, visualizza un messaggio di errore."
+title: '“Bacheche: non disponi del livello di accesso durante la visualizzazione dei commenti su una scheda.”'
+description: “Quando un utente tenta di visualizzare i commenti su una scheda non connessa a un oggetto di Workfront, viene mostrato un messaggio di errore.”
 hidefromtoc: true
 feature: Agile
 source-git-commit: 1b5ee2639b89e920b961b8ed7166b7a1475c3e0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Bacheche: &quot;[!UICONTROL Non hai accesso]&quot; quando si visualizzano commenti su una scheda
+# Bacheche: “[!UICONTROL Non disponi del livello di accesso]” durante la visualizzazione dei commenti su una scheda
 
-Quando un utente tenta di visualizzare commenti su una scheda non connessa a un [!DNL Workfront] , viene visualizzato il seguente messaggio:
+Quando un utente tenta di visualizzare i commenti su una scheda non connessa a un oggetto di [!DNL Workfront], viene mostrato il messaggio seguente:
 
-&quot;[!UICONTROL Non si dispone dell&#39;accesso per visualizzare commenti su questo oggetto]&quot;
+“[!UICONTROL Non disponi del livello di accesso per visualizzare i commenti su questo oggetto]”
 
-Ciò può verificarsi anche quando l’utente poteva vedere in precedenza i commenti sulla scheda.
+Ciò può verificarsi anche quando l’utente poteva vedere i commenti sulla scheda in precedenza.
 
 _Segnalato per la prima volta il venerdì 30 novembre 2023._
