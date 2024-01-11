@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 4117b2a85dac27960c95fa5ee984f4650937dfce
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 44%
+ht-degree: 47%
 
 ---
 
@@ -47,7 +47,7 @@ To close the card, the user must edit the URL to remove "board" and anything to 
 
 -->
 
-+++**Aggiornamento di manutenzione dell’giovedì 11 gennaio 2023
++++**Aggiornamento di manutenzione del giovedì 11 gennaio 2023**
 
 ### Aggiornamento di manutenzione dell’giovedì 11 gennaio 2023
 
