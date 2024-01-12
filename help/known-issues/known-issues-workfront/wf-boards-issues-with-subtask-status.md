@@ -4,18 +4,19 @@ description: Sono stati segnalati problemi relativi alla visualizzazione dello s
 hidefromtoc: true
 feature: Agile
 exl-id: e7ae6c43-57b5-4ed5-bd61-3c1dc4c6784c
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
 
 # Bacheche: problemi durante la visualizzazione dello stato delle attività secondarie
 
+<!--
 >[!NOTE]
 >
->Questo problema è stato risolto l’sabato 12 gennaio 2024.
+>This issue was fixed on January 12, 2024.-->
 
 Sono stati segnalati i seguenti problemi relativi alla visualizzazione dello stato delle attività secondarie in una scheda in Bacheche:
 
