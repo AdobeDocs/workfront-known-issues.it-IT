@@ -3,9 +3,9 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1914'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,10 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
+      + [Bozze: impossibile generare bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Bacheche: la scheda non si chiude quando si utilizza la vista Bacheche in un progetto](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
-      + [Problemi: i campi ora consentono di risparmiare tempo errato quando si modificano in blocco i problemi](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
-      + [Nuovo [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento dei widget non seguono il modello di layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
+      + [Problemi: i campi orario consentono di salvare orari non corretti durante la modifica in blocco dei problemi](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
+      + [Nuova [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento widget non seguono il modello layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md)
       + [Bacheche: le schede persistono quando si modifica l’iterazione](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md)
       + [Bacheche: “[!UICONTROL Non disponi del livello di accesso]” durante la visualizzazione dei commenti su una scheda](known-issues-workfront/wf-boards-no-access-to-view-comments.md)
       + [Team: problemi relativi all’impostazione degli stati del team per il pulsante [!UICONTROL Fine]](known-issues-workfront/wf-teams-statuses-missing.md)

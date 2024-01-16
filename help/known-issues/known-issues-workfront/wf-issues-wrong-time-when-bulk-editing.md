@@ -1,19 +1,19 @@
 ---
-title: "Problemi: i campi ora consentono di risparmiare tempo errato quando si modificano in blocco i problemi"
-description: "Quando un utente modifica in blocco problemi e seleziona una data e un’ora per un campo data e salva, l’ora salvata in questo campo nel problema non è l’ora selezionata dall’utente. Al contrario, l’ora sembra essere convertita in UTC quando l’utente salva."
+title: '“Problemi: i campi orario consentono di salvare orari non corretti durante la modifica in blocco dei problemi”'
+description: “Quando un utente modifica in blocco problemi e seleziona una data e un’ora per un campo data e salva, l’ora salvata in questo campo del problema non è l’ora selezionata dall’utente. Al contrario, l’ora sembra essere convertita in UTC quando l’utente salva.”
 hidefromtoc: true
 feature: Work Management
 source-git-commit: 2d0e05921904f246c13cfa341e1039c85f1f2b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Problemi: i campi ora consentono di risparmiare tempo errato quando si modificano in blocco i problemi
+# Problemi: i campi orario consentono di salvare orari non corretti durante la modifica in blocco dei problemi
 
-Quando un utente modifica in blocco problemi e seleziona una data e un’ora per un campo data e salva, l’ora salvata in questo campo nel problema non è l’ora selezionata dall’utente. Al momento del salvataggio, l’ora viene invece convertita in UTC.
+Quando un utente modifica in blocco problemi e seleziona una data e un’ora per un campo data e salva, l’ora salvata in questo campo del problema non è l’ora selezionata dall’utente. Al contrario, l’ora sembra essere convertita in UTC quando l’utente salva.
 
 Questo problema è stato segnalato sia nei rapporti che negli elenchi.
 

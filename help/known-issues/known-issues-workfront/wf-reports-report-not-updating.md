@@ -4,7 +4,7 @@ description: “I rapporti ore preventivate devono essere aggiornati ogni ora, m
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0cf5c033463ac76999a18d97fbea54af8033c238
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 
