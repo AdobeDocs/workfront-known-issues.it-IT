@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '1914'
-ht-degree: 100%
+source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+workflow-type: tm+mt
+source-wordcount: '1925'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [[!UICONTROL Configurazione]: impossibile nascondere gli stati facoltativi](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
+      + [Documenti: problemi durante la visualizzazione degli elenchi di documenti](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Bozze: impossibile generare bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
       + [Bacheche: la scheda non si chiude quando si utilizza la vista Bacheche in un progetto](known-issues-workfront/wf-boards-cannot-close-card-on-project-board.md)
       + [Problemi: i campi orario consentono di salvare orari non corretti durante la modifica in blocco dei problemi](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md)
