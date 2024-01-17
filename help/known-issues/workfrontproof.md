@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 98%
+source-wordcount: '406'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [[!UICONTROL Bozza Workfront]: impossibile riordinare le risorse durante la creazione di una bozza](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | giovedì 17 gennaio 2024 |
 | [Documenti: problemi durante la visualizzazione degli elenchi di documenti](known-issues-workfront/wf-documents-list-not-loading.md) | mercoledì 16 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martedì 9 gennaio 2023 |
 

@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
+source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
 workflow-type: tm+mt
-source-wordcount: '1925'
-ht-degree: 99%
+source-wordcount: '1934'
+ht-degree: 98%
 
 ---
 
@@ -211,6 +211,7 @@ ht-degree: 99%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [[!UICONTROL Bozza Workfront]: impossibile riordinare le risorse durante la creazione di una bozza](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!UICONTROL Workfront Proof]: e-mail e notifiche ritardate](known-issues-workfront-proof/proof-delayed-notification.md)
       + [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md)
