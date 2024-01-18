@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '766'
 ht-degree: 99%
 
 ---
@@ -25,7 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenti: problemi durante la visualizzazione degli elenchi di documenti](known-issues-workfront/wf-documents-list-not-loading.md) | mercoledì 16 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martedì 9 gennaio 2023 |
 | [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md) | 20 ottobre 2023 |
 
@@ -37,11 +36,10 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Documenti: problemi durante la visualizzazione degli elenchi di documenti](known-issues-workfront/wf-documents-list-not-loading.md) | venerdì 18 gennaio 2024 |
 | [Problemi: i campi orario consentono di salvare orari non corretti durante la modifica in blocco dei problemi](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sabato 5 gennaio 2024 |
-| [Bozze: le bozze create da documenti Word non includono commenti o markup](known-issues-workfront/wf-proofs-word-doc-markup-not-appearing.md) | venerdì 4 gennaio 2024 |
 | [Attività: la finestra si chiude quando si crea una nuova attività](known-issues-workfront/wf-tasks-new-window-closes.md) | venerdì 4 gennaio 2024 |
 | [Modelli: impossibile selezionare un modello dall’elenco [!UICONTROL Preferiti] ](known-issues-workfront/wf-templates-cannot-select-favorite-template.md) | venerdì 4 gennaio 2024 |
-| [Home: approvazione bloccata sul widget [!UICONTROL In attesa della mia approvazione] ](known-issues-workfront/wf-home-approvals-stuck-on-widget.md) | venerdì 4 gennaio 2024 |
 | [Nuova [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento widget non seguono il modello layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
 | [Attività: una o più attività non sono più assegnate all’utente](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martedì 18 dicembre 2023 |
 | [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sabato 15 dicembre 2023 |
