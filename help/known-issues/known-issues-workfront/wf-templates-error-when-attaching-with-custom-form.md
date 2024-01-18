@@ -3,15 +3,19 @@ title: '“Modelli: errore durante l’aggiunta di un modello al progetto”'
 description: “Quando un utente tenta di allegare un modello a un progetto, riceve un errore. È disponibile una soluzione alternativa.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: b415cf67a97c873d41d0693e9baa8c73390443ea
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 
 # Modelli: errore durante l’aggiunta di un modello al progetto
+
+>[!NOTE]
+>
+>Questo problema è stato risolto l’venerdì 18 gennaio 2024.
 
 Quando un utente cerca di allegare un modello a un progetto, riceve il seguente errore:
 

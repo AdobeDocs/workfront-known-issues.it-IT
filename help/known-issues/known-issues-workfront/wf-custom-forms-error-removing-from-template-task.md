@@ -4,14 +4,18 @@ description: Se un utente cerca di aggiungere o rimuovere in blocco un modulo pe
 hidefromtoc: true
 feature: Custom Forms
 exl-id: e9014f67-2098-46e4-a301-6a742a0c2ddb
-source-git-commit: 45cea090d9e54514be9983b5443e7ee54b1f2d94
-workflow-type: ht
-source-wordcount: '153'
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+workflow-type: tm+mt
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
 
 # Moduli personalizzati: impossibile aggiungere o rimuovere in blocco moduli personalizzati nelle attività modello
+
+>[!NOTE]
+>
+>Questo problema è stato risolto l’venerdì 18 gennaio 2024.
 
 Se un utente cerca di aggiungere o rimuovere in blocco un modulo personalizzato in un’attività modello, il modulo non viene aggiunto o rimosso e l’utente visualizza il seguente errore:
 

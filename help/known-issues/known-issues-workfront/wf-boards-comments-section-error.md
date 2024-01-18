@@ -4,19 +4,18 @@ description: Quando un utente visualizza una scheda e scorre fino alla sezione [
 hidefromtoc: true
 feature: Agile
 exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
-source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 # Bacheche: errore nella sezione [!UICONTROL Commenti] delle schede
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on January 12, 2024.-->
+>Questo problema è stato risolto l’venerdì 18 gennaio 2024.
 
 Quando un utente visualizza una scheda e scorre fino alla sezione [!UICONTROL Commenti], i commenti non vengono visualizzati e l’utente visualizza il seguente errore:
 

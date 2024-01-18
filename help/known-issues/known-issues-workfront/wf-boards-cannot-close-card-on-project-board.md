@@ -3,9 +3,9 @@ title: '“Bacheche: la scheda non si chiude quando si utilizza la vista Bachech
 description: “Quando un utente crea una scheda durante la vista Bacheche in un elenco di attività di un progetto, la scheda non viene chiusa né salvata. Questo impedisce all’utente di tornare al progetto.”
 hidefromtoc: true
 feature: Agile, Tasks, Projects
-source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: ht
-source-wordcount: '116'
+source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -13,10 +13,9 @@ ht-degree: 100%
 
 # Bacheche: la scheda non si chiude quando si utilizza la vista Bacheche in un progetto
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on January 12, 2024.-->
+>Questo problema è stato risolto l’venerdì 18 gennaio 2024.
 
 Quando un utente crea una scheda durante la vista Bacheche in un elenco di attività di un progetto, la scheda non viene chiusa né salvata. Questo impedisce all’utente di tornare al progetto.
 
