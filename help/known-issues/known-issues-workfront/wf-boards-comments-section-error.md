@@ -1,13 +1,13 @@
 ---
-title: "Bacheche: errore nella sezione Commenti delle schede"
-description: Quando un utente visualizza una scheda e scorre fino al [!UICONTROL Commenti], sezione, i commenti non vengono visualizzati e l’utente visualizza un errore.
+title: '“Bacheche: errore nella sezione Commenti delle schede”'
+description: Quando un utente visualizza una scheda e scorre fino alla sezione [!UICONTROL Commenti], i commenti non vengono visualizzati e l’utente visualizza un errore.
 hidefromtoc: true
 feature: Agile
 exl-id: deca4ad7-429e-4f63-827d-b6a1bef4df7f
 source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 

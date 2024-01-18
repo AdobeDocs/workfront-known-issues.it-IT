@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 9a5ef8462f839ebd4bfaafb65a0b5cd2bffbedcf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -77,11 +77,11 @@ This may occur even when the user could previously see comments on the card.
 
 +++**Aggiornamento di manutenzione del giovedì 11 gennaio 2023**
 
-### Aggiornamento di manutenzione dell’giovedì 11 gennaio 2023
+### Aggiornamento di manutenzione dell’11 gennaio 2023
 
 #### Bacheche
 
-**Le schede completate non vengono caricate correttamente sulle schede dinamiche**
+**Le schede completate non vengono caricate correttamente sulle bacheche dinamiche**
 
 In precedenza, l’unico modo per includere il lavoro completato su una bacheca dinamica era caricare le schede come schede archiviate. In caso contrario, le schede completate non venivano affatto caricate sulla bacheca. Questo causava problemi nella possibilità di individuare le schede.
 

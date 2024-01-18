@@ -4,7 +4,7 @@ description: “Quando un utente tenta di visualizzare i commenti su una scheda 
 hidefromtoc: true
 feature: Agile
 source-git-commit: 3a5bf0ed6b1a7a6d61c9f3f074c551bf6e3b2d44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto l’sabato 12 gennaio 2024.—>
+>Questo problema è stato risolto l’sabato 12 gennaio 2024.-->
 
 Quando un utente tenta di visualizzare i commenti su una scheda non connessa a un oggetto di [!DNL Workfront], viene mostrato il messaggio seguente:
 
