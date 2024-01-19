@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '1934'
-ht-degree: 98%
+source-wordcount: '1959'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrazioni: impossibile registrare l’ora da Workfront per l’integrazione Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [Aggiornamenti: impossibile visualizzare o scaricare immagini nei commenti](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
+      + [Notifiche: contrassegnare le notifiche come visualizzate non persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL Configurazione]: impossibile nascondere gli stati facoltativi](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Documenti: problemi durante la visualizzazione degli elenchi di documenti](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Bozze: impossibile generare bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)

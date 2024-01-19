@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 99%
+source-wordcount: '794'
+ht-degree: 96%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifiche: contrassegnare le notifiche come visualizzate non persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | venerdì 19 gennaio 2023 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martedì 9 gennaio 2023 |
 | [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md) | 20 ottobre 2023 |
 
@@ -36,6 +37,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Integrazioni: impossibile registrare l’ora da Workfront per l’integrazione Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | sabato 19 gennaio 2024 |
+| [Aggiornamenti: impossibile visualizzare o scaricare immagini nei commenti](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | sabato 19 gennaio 2024 |
 | [Documenti: problemi durante la visualizzazione degli elenchi di documenti](known-issues-workfront/wf-documents-list-not-loading.md) | venerdì 18 gennaio 2024 |
 | [Problemi: i campi orario consentono di salvare orari non corretti durante la modifica in blocco dei problemi](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sabato 5 gennaio 2024 |
 | [Attività: la finestra si chiude quando si crea una nuova attività](known-issues-workfront/wf-tasks-new-window-closes.md) | venerdì 4 gennaio 2024 |
