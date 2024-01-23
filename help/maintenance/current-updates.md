@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
 workflow-type: tm+mt
-source-wordcount: '945'
-ht-degree: 81%
+source-wordcount: '1085'
+ht-degree: 80%
 
 ---
 
@@ -21,6 +21,24 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di gennaio 2024
+
++++**Aggiornamento di manutenzione del venerdì 25 gennaio 2024**
+
+### Aggiornamento di manutenzione dell’venerdì 25 gennaio 2024
+
+#### Bacheche
+
+**Le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato**
+
+Quando lo stato di un oggetto collegato a una scheda viene modificato direttamente sull’oggetto, la scheda non viene spostata nella colonna appropriata. Se lo stato dell’oggetto viene modificato sulla scheda o questa viene trascinata nella nuova colonna, la scheda si comporta nel modo previsto.
+
+#### Notifiche
+
+**La visualizzazione delle notifiche non persiste**
+
+Quando un utente contrassegna le notifiche come visualizzate e quindi passa a una pagina diversa in [!DNL Workfront], l’icona delle notifiche mostra ancora il numero di notifiche non lette esistenti prima che l’utente le contrassegni come visualizzate e le notifiche vengono ancora visualizzate quando l’utente fa clic sull’icona. Questo continua se l’utente li contrassegna come visualizzati e passa a un’altra pagina o torna alla pagina originale.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 18 gennaio 2024**
 
@@ -91,7 +109,7 @@ Quando un utente imposta la terminologia personalizzata a livello di Portfolio, 
 
 **Impossibile nascondere gli stati facoltativi**
 
-Quando un utente cerca di nascondere gli stati facoltativi a livello di sistema e di gruppo, lo stato non viene nascosto. Se l’utente visualizza lo stato, l’opzione per nascondere lo stato non è abilitata, anche se l’utente l’ha abilitato e ha salvato le modifiche.
+Quando un utente prova a nascondere gli stati facoltativi a livello di sistema e di gruppo, lo stato non viene nascosto. Se l’utente visualizza lo stato, l’opzione per nascondere lo stato non è abilitata, anche se l’utente l’ha abilitata e ha salvato le modifiche.
 
 **Stati di problemi predefiniti mancanti in alcuni tipi di problemi in Configurazione**
 
