@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 19c3b0bdc7f53b27690ad3a2f44d297deb6940fc
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 96%
+source-wordcount: '821'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,12 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Notifiche: contrassegnare le notifiche come visualizzate non persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | venerdì 19 gennaio 2023 |
-| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martedì 9 gennaio 2023 |
-| [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md) | 20 ottobre 2023 |
+| [Documenti: impossibile spostare il documento dalla cartella alla radice](known-issues-workfront/wf-documents-cannot-move-to-root.md) | mercoledì 23 gennaio 2024 |
+| [Bozze: i GIF vengono visualizzati come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
+| [Gestione risorse: calcoli finanziari errati a causa di problemi di mansione](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | mercoledì 23 gennaio 2024 |
+| [Notifiche: contrassegnare le notifiche come visualizzate non persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | sabato 19 gennaio 2024 |
+| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
+| [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md) | lunedì 20 ottobre 2024 |
 
 {style="table-layout:auto"}
 

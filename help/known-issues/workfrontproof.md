@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 71fb0341742bc74eee3c96f3c357198dd84aed20
+source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 100%
+source-wordcount: '400'
+ht-degree: 96%
 
 ---
 
@@ -25,8 +25,10 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: impossibile spostare il documento dalla cartella alla radice](known-issues-workfront/wf-documents-cannot-move-to-root.md) | mercoledì 23 gennaio 2024 |
+| [Bozze: i GIF vengono visualizzati come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [[!UICONTROL Workfront Proof]: impossibile riordinare le risorse durante la creazione di una bozza](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md) | giovedì 17 gennaio 2024 |
-| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | martedì 9 gennaio 2023 |
+| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
 
 {style="table-layout:auto"}
 
