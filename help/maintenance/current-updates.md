@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67155ccf8996661fb9429c6174a7f5d0cf4a6d8a
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 80%
+source-wordcount: '1158'
+ht-degree: 75%
 
 ---
 
@@ -37,6 +37,19 @@ Quando lo stato di un oggetto collegato a una scheda viene modificato direttamen
 **La visualizzazione delle notifiche non persiste**
 
 Quando un utente contrassegna le notifiche come visualizzate e quindi passa a una pagina diversa in [!DNL Workfront], l’icona delle notifiche mostra ancora il numero di notifiche non lette esistenti prima che l’utente le contrassegni come visualizzate e le notifiche vengono ancora visualizzate quando l’utente fa clic sull’icona. Questo continua se l’utente li contrassegna come visualizzati e passa a un’altra pagina o torna alla pagina originale.
+
+#### Aggiornamenti
+
+**Problemi relativi all’assegnazione tag nell’esperienza di commento legacy**
+
+Quando un utente viene taggato all’interno di un commento nell’esperienza di commento legacy, si verificano i seguenti problemi:
+
+* Nel commento è presente solo il nome dell&#39;utente
+* Il nome utente non è contrassegnato con il simbolo @
+* Il nome utente non è blu
+* Il nome utente non è un collegamento al profilo utente
+
+L’utente riceve una notifica e-mail relativa al tag, come previsto.
 
 +++
 
@@ -142,9 +155,9 @@ Un commento creato nell’esperienza di commento legacy potrebbe non essere visi
 
 +++
 
-+++**Aggiornamento di manutenzione del giovedì 11 gennaio 2023**
++++**Aggiornamento di manutenzione del venerdì 11 gennaio 2024**
 
-### Aggiornamento di manutenzione dell’11 gennaio 2023
+### Aggiornamento di manutenzione dell’venerdì 11 gennaio 2024
 
 #### Bacheche
 

@@ -3,15 +3,19 @@ title: "Aggiornamenti: problemi relativi ai tag nell’esperienza di commento le
 description: "Quando un utente viene taggato all’interno di un commento nell’esperienza di commento legacy, si verificano diversi problemi."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
 
 # Aggiornamenti: problemi relativi all’assegnazione tag nell’esperienza di commento legacy
+
+>[!NOTE]
+>
+>Questo problema è stato risolto l’venerdì 25 gennaio 2024.
 
 Quando un utente viene taggato all’interno di un commento nell’esperienza di commento legacy, si verificano i seguenti problemi:
 

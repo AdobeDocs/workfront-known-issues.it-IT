@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 29c3a3fd335527e4695b2361a19278d751797cbf
+source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 91%
+source-wordcount: '814'
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Documenti: impossibile spostare il documento dalla cartella alla radice](known-issues-workfront/wf-documents-cannot-move-to-root.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: i GIF vengono visualizzati come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Gestione risorse: calcoli finanziari errati a causa di problemi di mansione](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | mercoledì 23 gennaio 2024 |
-| [Notifiche: contrassegnare le notifiche come visualizzate non persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md) | sabato 19 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
 | [Bacheche: la ricerca non funziona](known-issues-workfront/wf-boards-search-not-working.md) | lunedì 20 ottobre 2024 |
 
@@ -41,7 +40,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
 | [Aggiornamenti: i commenti aggiunti nell’esperienza di commento legacy non sono visibili nella nuova esperienza](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md) | giovedì 24 gennaio 2024 |
-| [Aggiornamenti: problemi relativi all’assegnazione tag nell’esperienza di commento legacy](known-issues-workfront/wf-updates-showing-first-name.md) | giovedì 24 gennaio 2024 |
 | [Integrazioni: impossibile registrare l’ora da Workfront per l’integrazione Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md) | sabato 19 gennaio 2024 |
 | [Aggiornamenti: impossibile visualizzare o scaricare immagini nei commenti](known-issues-workfront/wf-updates-cannot-view-or-download-images.md) | sabato 19 gennaio 2024 |
 | [Documenti: problemi durante la visualizzazione degli elenchi di documenti](known-issues-workfront/wf-documents-list-not-loading.md) | venerdì 18 gennaio 2024 |
@@ -51,7 +49,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Nuova [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento widget non seguono il modello layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
 | [Attività: una o più attività non sono più assegnate all’utente](known-issues-workfront/wf-tasks-user-unassigned-without-record.md) | martedì 18 dicembre 2023 |
 | [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sabato 15 dicembre 2023 |
-| [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 14 dicembre 2023 |
 | [Attività: quando si duplicano delle attvità, vengono visualizzate in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | venerdì 30 novembre 2023 |
 | [Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
 | [Attività: errore “[!UICONTROL Ops]” nell’intestazione dell’attività](known-issues-workfront/wf-tasks-whoops-error-in-task-header.md) | 25 ottobre 2023 |
