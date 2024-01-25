@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+source-git-commit: 80bee7bc272f90f1cadd28972ee2421f213ec5be
 workflow-type: tm+mt
-source-wordcount: '813'
-ht-degree: 94%
+source-wordcount: '822'
+ht-degree: 93%
 
 ---
 
@@ -38,6 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [[!UICONTROL Gestione risorse]: impossibile modificare la data in [!UICONTROL Utilizzo] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | venerdì 25 gennaio 2024 |
 | [Team: problemi relativi all’impostazione degli stati del team per il pulsante [!UICONTROL Fine]](known-issues-workfront/wf-teams-statuses-missing.md) | venerdì 25 gennaio 2024 |
 | [Gestione risorse: calcoli finanziari errati a causa di problemi di mansione](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | venerdì 25 gennaio 2024 |
 | [Bacheche: le schede persistono quando si modifica l’iterazione](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | venerdì 25 gennaio 2024 |
