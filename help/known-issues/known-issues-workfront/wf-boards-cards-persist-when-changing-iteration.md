@@ -3,9 +3,9 @@ title: '“Bacheche: le schede persistono quando si modifica l’iterazione”'
 description: “Quando un utente visualizza un’iterazione su una bacheca e successivamente la modifica, le schede visualizzate per la nuova iterazione sono quelle di una che l’utente stava visualizzando in precedenza”.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 83d675f4ddbdf031b6737cf3e1101afc07d2f841
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # Bacheche: le schede persistono quando si modifica l’iterazione
 
+<!--
+
 >[!NOTE]
 >
->Questo problema è stato risolto l’venerdì 18 gennaio 2024.
+>This issue was fixed on January 18, 2024.
+
+-->
 
 Quando un utente visualizza un’iterazione su una bacheca e successivamente la modifica, le schede visualizzate per la nuova iterazione sono quelle di una che l’utente stava visualizzando in precedenza.
 

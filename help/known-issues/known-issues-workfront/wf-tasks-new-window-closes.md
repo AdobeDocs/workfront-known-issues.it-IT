@@ -3,15 +3,19 @@ title: '“Attività: la finestra si chiude quando si crea una nuova attività�
 description: “Quando un utente tenta di creare una nuova attività utilizzando il pulsante + Nuova attività, la finestra Nuova attività si apre ma si chiude prima che l’utente possa immettere qualsiasi informazione. L’utente non è quindi in grado di creare una nuova attività utilizzando questo metodo”.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: be8a81c0d5b1735c2e8a8c8fb2cd2629202875f6
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
 
 
 # Attività: la finestra si chiude quando si crea una nuova attività
+
+>[!NOTE]
+>
+>Questo problema è stato risolto l’mercoledì 23 gennaio 2024.
 
 Quando un utente tenta di creare una nuova attività tramite il pulsante + Nuova attività, la finestra Nuova attività si apre ma si chiude prima che l’utente possa immettere qualsiasi informazione. L’utente non è quindi in grado di creare una nuova attività utilizzando questo metodo.
 

@@ -3,15 +3,19 @@ title: '“Workfront Proof: impossibile riordinare le risorse durante la creazio
 description: “quando un utente in Workfront Proof prova a riordinare le risorse da combinare in una bozza, non può trascinare i file e l’ordine dei file rimane invariato.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9226f53a5dfc29f1c2cf719d10b80028f05b394d
-workflow-type: ht
-source-wordcount: '93'
+source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Workfront Proof]: impossibile riordinare le risorse durante la creazione di una bozza
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso.
 
 quando un utente in [!UICONTROL Workfront Proof] prova a riordinare le risorse da combinare in una bozza, non può trascinare i file e l’ordine dei file rimane invariato.
 
