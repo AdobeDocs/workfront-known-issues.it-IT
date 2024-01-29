@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
 workflow-type: tm+mt
 source-wordcount: '1158'
-ht-degree: 75%
+ht-degree: 92%
 
 ---
 
@@ -36,7 +36,7 @@ Quando lo stato di un oggetto collegato a una scheda viene modificato direttamen
 
 **La visualizzazione delle notifiche non persiste**
 
-Quando un utente contrassegna le notifiche come visualizzate e quindi passa a una pagina diversa in [!DNL Workfront], l’icona delle notifiche mostra ancora il numero di notifiche non lette esistenti prima che l’utente le contrassegni come visualizzate e le notifiche vengono ancora visualizzate quando l’utente fa clic sull’icona. Questo continua se l’utente li contrassegna come visualizzati e passa a un’altra pagina o torna alla pagina originale.
+Quando un utente contrassegna le notifiche come visualizzate e quindi passa a una pagina diversa all’interno di [!DNL Workfront], l’icona delle notifiche mostra ancora il numero di notifiche non lette che esistevano prima che l’utente le contrassegnasse come visualizzate e rimangono elencate quando l’utente fa clic sull’icona. Questo continua se l’utente le contrassegna come visualizzate e passa a un’altra pagina o torna alla pagina originale.
 
 #### Aggiornamenti
 
@@ -79,7 +79,7 @@ Per chiudere la scheda, l’utente deve modificare l’URL per rimuovere “sche
 
 Quando un utente visualizza un’iterazione su una bacheca e successivamente la modifica, le schede visualizzate per la nuova iterazione sono quelle di una che l’utente stava visualizzando in precedenza.
 
-**Errore in [!UICONTROL Commenti] sezione di schede**
+**Errore nella sezione [!UICONTROL Commenti] delle schede**
 
 Quando un utente visualizza una scheda e scorre fino alla sezione [!UICONTROL Commenti], i commenti non vengono visualizzati e l’utente visualizza il seguente errore:
 
@@ -92,7 +92,7 @@ Sono stati segnalati i seguenti problemi relativi alla visualizzazione dello sta
 * Lo stato viene visualizzato come “Seleziona stato” anche quando l’attività ha già uno stato. Questo stato può essere visualizzato quando si visualizza direttamente l’attività.
 * Se l’utente cerca di selezionare uno stato, la schermata diventa vuota e deve essere aggiornata.
 
-**&quot;[!UICONTROL Non hai accesso]&quot; quando si visualizzano commenti su una scheda**
+**“[!UICONTROL Non disponi del livello di accesso]” durante la visualizzazione dei commenti su una scheda**
 
 Quando un utente tenta di visualizzare i commenti su una scheda non connessa a un oggetto di [!DNL Workfront], viene mostrato il messaggio seguente:
 
@@ -114,9 +114,9 @@ I moduli personalizzati possono essere aggiunti o rimossi in un’unica attivit�
 
 #### Portfolio
 
-**La terminologia personalizzata non si applica alla pagina del gruppo**
+**La terminologia personalizzata non viene applicata alla pagina del gruppo**
 
-Quando un utente imposta la terminologia personalizzata a livello di Portfolio, la terminologia non viene applicata alla pagina a livello di gruppo.
+Quando un utente imposta la terminologia personalizzata a livello di portfolio, la terminologia non viene applicata alla pagina del livello di gruppo.
 
 #### Configura
 
@@ -124,13 +124,13 @@ Quando un utente imposta la terminologia personalizzata a livello di Portfolio, 
 
 Quando un utente prova a nascondere gli stati facoltativi a livello di sistema e di gruppo, lo stato non viene nascosto. Se l’utente visualizza lo stato, l’opzione per nascondere lo stato non è abilitata, anche se l’utente l’ha abilitata e ha salvato le modifiche.
 
-**Stati di problemi predefiniti mancanti in alcuni tipi di problemi in Configurazione**
+**Stati dei problemi predefiniti mancanti da alcuni tipi di problemi in Configurazione**
 
 Quando un utente visualizza gli stati dei problemi in Configurazione, nota che in alcuni tipi di problemi mancano gli stati predefiniti (Nuovo, In corso e Completato). Gli stati predefiniti non dispongono della possibilità di modificare il tipo di problema, pertanto l’utente non può configurare nuovamente gli stati da visualizzare per i tipi di problema interessati.
 
 #### Team
 
-**Problemi relativi all’impostazione degli stati del team per [!UICONTROL Fine] pulsante**
+**Problemi relativi all’impostazione degli stati del team per il pulsante [!UICONTROL Fine]**
 
 Sono stati segnalati i seguenti problemi relativi agli stati per il pulsante [!UICONTROL Fine] durante la modifica o la creazione di un team:
 
@@ -139,7 +139,7 @@ Sono stati segnalati i seguenti problemi relativi agli stati per il pulsante [!U
 
 #### Modelli
 
-**Errore durante l’associazione del modello al progetto**
+**Errore quando si allega un modello a un progetto**
 
 Quando un utente cerca di allegare un modello a un progetto, riceve il seguente errore:
 
@@ -149,9 +149,9 @@ Ciò si verifica quando l’utente non dispone dell’autorizzazione Visualizzaz
 
 #### Aggiornamenti
 
-**I commenti non vengono trasferiti tra la vecchia e la nuova esperienza**
+**I commenti non vengono trasferiti dalla esperienza precedente alla nuova**
 
-Un commento creato nell’esperienza di commento legacy potrebbe non essere visibile nella nuova esperienza di commento. Può anche verificarsi l’inverso.
+Un commento creato nell’esperienza di commento precedente potrebbe non essere visibile in quella nuova. Può verificarsi anche il contrario.
 
 +++
 

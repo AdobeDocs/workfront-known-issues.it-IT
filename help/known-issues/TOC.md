@@ -5,7 +5,7 @@ role: User
 source-git-commit: 032a05ba535624c37c160675ac748c40ebd96477
 workflow-type: tm+mt
 source-wordcount: '1473'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 94%
       + [Documenti: impossibile spostare il documento dalla cartella alla radice](known-issues-workfront/wf-documents-cannot-move-to-root.md)
       + [Bozze: i GIF vengono visualizzati come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md)
       + [Gestione risorse: calcoli finanziari errati a causa di problemi di mansione](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
-      + [Integrazioni: impossibile registrare l’ora da Workfront per l’integrazione Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
+      + [Integrazioni: impossibile registrare le ore dall’integrazione di Workfront per Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Aggiornamenti: impossibile visualizzare o scaricare immagini nei commenti](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
-      + [Notifiche: contrassegnare le notifiche come visualizzate non persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
+      + [Notifiche: la contrassegnazione delle notifiche come visualizzate non persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)
       + [[!UICONTROL Configurazione]: impossibile nascondere gli stati facoltativi](known-issues-workfront/wf-setup-cannot-hide-optional-statuses.md)
       + [Documenti: problemi durante la visualizzazione degli elenchi di documenti](known-issues-workfront/wf-documents-list-not-loading.md)
       + [Bozze: impossibile generare bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
