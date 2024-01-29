@@ -4,7 +4,7 @@ description: “Quando un utente crea una scheda durante la vista Bacheche in un
 hidefromtoc: true
 feature: Agile, Tasks, Projects
 source-git-commit: d3d6529fea8f2d020f4920ee5b2bda723f348cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
