@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4e5e8ff2bb7d7ac77910910d33573b79d5d4a5d7
+source-git-commit: b5a918850060b8fc02b8a9c978c4e2a4bc7a8dc4
 workflow-type: tm+mt
-source-wordcount: '1158'
-ht-degree: 92%
+source-wordcount: '1333'
+ht-degree: 81%
 
 ---
 
@@ -20,7 +20,43 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
+## Aggiornamenti di febbraio 2024
+
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 1 febbraio 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del 1° febbraio 2024
+
+#### Accedi
+
+**Gli utenti che utilizzano SSO non vengono reindirizzati alla posizione originale durante l’accesso**
+
+Quando un utente si trova su una pagina in [!DNL Workfront] e accedi con SSO; una volta completato l’accesso, vengono indirizzati a [!UICONTROL Home] invece della pagina in cui si trovavano prima dell’accesso.
+
+#### Modelli
+
+**Errore durante la copia dei modelli**
+
+Quando un utente cerca di copiare un modello nuovo o esistente, il modello non viene copiato e l’utente visualizza il seguente errore:
+
+&quot;[!UICONTROL L’ID non può essere nullo]&quot;
+
++++
+
 ## Aggiornamenti di gennaio 2024
+
++++**Aggiornamento di manutenzione (Hot Fix) del mercoledì 30 gennaio 2024**
+
+### Aggiornamento di manutenzione (aggiornamento rapido) del 30 gennaio 2024
+
+#### Report
+
+**Il campo External API non mostra tutti i valori disponibili negli elenchi e nei rapporti**
+
+In precedenza, gli utenti potevano visualizzare il valore selezionato (e modificarlo) per un campo di ricerca esterno in elenchi e rapporti, ma non visualizzavano il menu a discesa con le opzioni provenienti dall’API.
+
+Ora, quando un campo personalizzato di ricerca esterna viene utilizzato in un elenco o in un rapporto, è disponibile il menu a discesa con tutte le opzioni dell’API esterna.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 25 gennaio 2024**
 
