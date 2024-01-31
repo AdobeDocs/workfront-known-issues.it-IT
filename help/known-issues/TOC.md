@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 92749c76da53c07ebd17acc9683557f6da4e1e37
+source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
 workflow-type: tm+mt
-source-wordcount: '1482'
-ht-degree: 95%
+source-wordcount: '1510'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Problemi: lo stato del problema non è nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md)
+      + [Aggiornamenti: l’opzione Immagine disabilitata è disponibile quando si modifica un commento](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
+      + [Bacheche: impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Modelli: errore durante la copia dei modelli](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Gestione risorse]: impossibile modificare la data in [!UICONTROL Utilizzo] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Aggiornamenti: i commenti aggiunti nell’esperienza di commento legacy non sono visibili nella nuova esperienza](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
