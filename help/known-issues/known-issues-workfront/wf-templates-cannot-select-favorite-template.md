@@ -3,15 +3,19 @@ title: '“Modelli: impossibile selezionare un modello dall’elenco [!UICONTROL
 description: “Quando un utente tenta di selezionare un modello dall’elenco [!UICONTROL Preferiti] , l’elenco scompare quando l’utente sposta il mouse sull’elenco e non può selezionare un modello.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: 008f8efcf3a21211f0e058051a56dd619e88eb31
-workflow-type: ht
-source-wordcount: '118'
+source-git-commit: b9cc44f0daffeec11b8b8b7e6239cf050faa047a
+workflow-type: tm+mt
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
 
 
 # Modelli: impossibile selezionare un modello dall’elenco [!UICONTROL Preferiti]
+
+>[!NOTE]
+>
+>Questo problema è stato risolto l’venerdì 25 gennaio 2024.
 
 Quando un utente tenta di selezionare un modello dall’elenco [!UICONTROL Preferiti] , l’elenco dei modelli scompare quando l’utente sposta il mouse sull’elenco e non può selezionare un modello.
 

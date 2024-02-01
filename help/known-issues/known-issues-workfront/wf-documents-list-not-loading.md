@@ -3,15 +3,19 @@ title: '“Documenti: problemi durante la visualizzazione degli elenchi di docum
 description: “Sono stati segnalati problemi relativi alla visualizzazione degli elenchi di documenti. Trovi i dettagli in questo articolo.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 6fd1ee82b2b9f2cb4ee88d8cd2b769114cec1524
-workflow-type: ht
-source-wordcount: '90'
+source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
 
 
 # Documenti: problemi durante la visualizzazione degli elenchi di documenti
+
+>[!NOTE]
+>
+>Questo problema è stato risolto.
 
 In relazione alla visualizzazione dell’elenco di documenti, sono stati segnalati i problemi seguenti:
 
