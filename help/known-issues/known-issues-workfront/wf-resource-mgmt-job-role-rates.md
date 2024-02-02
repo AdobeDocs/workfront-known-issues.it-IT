@@ -1,26 +1,26 @@
 ---
-title: "Gestione risorse: calcoli finanziari errati a causa di problemi di mansione"
-description: "I calcoli relativi a ore e contabilità potrebbero non essere corretti e mostrare un costo pari a 0 anche se le ore sono registrate in una mansione che ha una tariffa."
+title: '“Gestione delle risorse: calcoli finanziari errati a causa di problemi relativi alla mansione”'
+description: “Le ore e i calcoli finanziari potrebbero non essere corretti, mostrando un costo pari a 0 anche se le ore sono registrate in una mansione che prevede un tasso di costo.”
 hidefromtoc: true
 feature: Resource Management
 source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Gestione risorse: calcoli finanziari errati a causa di problemi di mansione
+# Gestione delle risorse: calcoli finanziari errati a causa di problemi relativi alla mansione
 
-Le ore e i calcoli finanziari potrebbero non essere corretti, con un costo pari a 0 anche se le ore sono registrate in una mansione che ha una tariffa.
+Le ore e i calcoli finanziari potrebbero non essere corretti, mostrando un costo pari a 0 anche se le ore sono registrate in una mansione che prevede un tasso di costo.
 
-Questo perché i Ruoli creano automaticamente tassi duplicati senza date di inizio o di fine. Poiché non hanno date di inizio o di fine, vengono trattati come un valore pari a 0 quando vengono eseguiti i calcoli finanziari.
+Questo perché le mansioni creano automaticamente tariffe duplicate senza date di inizio o di fine. Poiché non dispongono di date di inizio o di fine, le tariffe vengono considerate come valori pari a 0 quando vengono eseguiti i calcoli finanziari.
 
 **Soluzione alternativa**
 
-1. Assicurati di salvare i dati corretti passati.
-1. Elimina le tariffe duplicate senza date di inizio o fine.
-1. Ricalcolare i dati finanziari.
+1. Assicurati che i dati corretti passati siano salvati.
+1. Elimina le tariffe duplicate senza date di inizio o di fine.
+1. Ricalcola i dati finanziari.
 
 _Segnalato per la prima volta il 18 gennaio 2023._

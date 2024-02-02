@@ -4,7 +4,7 @@ description: “Quando un utente visualizza un’iterazione su una bacheca e suc
 hidefromtoc: true
 feature: Agile
 source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
