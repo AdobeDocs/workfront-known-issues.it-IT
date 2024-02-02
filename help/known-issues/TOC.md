@@ -5,7 +5,7 @@ role: User
 source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
 workflow-type: tm+mt
 source-wordcount: '1516'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -21,12 +21,12 @@ ht-degree: 93%
       + [Aggiornamenti: l’opzione Immagine disabilitata è disponibile quando si modifica un commento](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
       + [Bacheche: impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Modelli: errore durante la copia dei modelli](known-issues-workfront/wf-templates-cannot-copy-template.md)
-      + [[!UICONTROL Gestione risorse]: impossibile modificare la data in [!UICONTROL Utilizzo] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
-      + [Aggiornamenti: i commenti aggiunti nell’esperienza di commento legacy non sono visibili nella nuova esperienza](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
-      + [Aggiornamenti: problemi relativi all’assegnazione tag nell’esperienza di commento legacy](known-issues-workfront/wf-updates-showing-first-name.md)
+      + [[!UICONTROL Gestione delle risorse]: impossibile modificare la data nell’area [!UICONTROL Utilizzo]](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
+      + [Aggiornamenti: i commenti creati nell’esperienza di commento precedente non sono visibili nella nuova esperienza](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
+      + [Aggiornamenti: problemi relativi all’assegnazione di tag nell’esperienza di commento precedente](known-issues-workfront/wf-updates-showing-first-name.md)
       + [Documenti: impossibile spostare il documento dalla cartella alla radice](known-issues-workfront/wf-documents-cannot-move-to-root.md)
-      + [Bozze: i GIF vengono visualizzati come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md)
-      + [Gestione risorse: calcoli finanziari errati a causa di problemi di mansione](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
+      + [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md)
+      + [Gestione delle risorse: calcoli finanziari errati a causa di problemi relativi alla mansione](known-issues-workfront/wf-resource-mgmt-job-role-rates.md)
       + [Integrazioni: impossibile registrare le ore dall’integrazione di Workfront per Jira](known-issues-workfront/wf-integrations-cannot-log-time-from-jira.md)
       + [Aggiornamenti: impossibile visualizzare o scaricare immagini nei commenti](known-issues-workfront/wf-updates-cannot-view-or-download-images.md)
       + [Notifiche: la contrassegnazione delle notifiche come visualizzate non persiste](known-issues-workfront/wf-notifications-number-not-updated-when-mark-seen.md)

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 17e60b281dc05073247083257121d8809a271722
 workflow-type: tm+mt
 source-wordcount: '1332'
-ht-degree: 81%
+ht-degree: 90%
 
 ---
 
@@ -36,9 +36,9 @@ Quando un utente si trova su una pagina in [!DNL Workfront] e accedi con SSO; un
 
 **Errore durante la copia dei modelli**
 
-Quando un utente cerca di copiare un modello nuovo o esistente, il modello non viene copiato e l’utente visualizza il seguente errore:
+Quando un utente tenta di copiare un modello nuovo o esistente, l’operazione ha esito negativo e l’utente visualizza il seguente messaggio di errore:
 
-&quot;[!UICONTROL L’ID non può essere nullo]&quot;
+“[!UICONTROL L’ID non può essere nullo]”
 
 +++
 
@@ -70,22 +70,22 @@ Quando lo stato di un oggetto collegato a una scheda viene modificato direttamen
 
 #### Notifiche
 
-**La visualizzazione delle notifiche non persiste**
+**La contrassegnazione delle notifiche come visualizzate non persiste**
 
 Quando un utente contrassegna le notifiche come visualizzate e quindi passa a una pagina diversa all’interno di [!DNL Workfront], l’icona delle notifiche mostra ancora il numero di notifiche non lette che esistevano prima che l’utente le contrassegnasse come visualizzate e rimangono elencate quando l’utente fa clic sull’icona. Questo continua se l’utente le contrassegna come visualizzate e passa a un’altra pagina o torna alla pagina originale.
 
 #### Aggiornamenti
 
-**Problemi relativi all’assegnazione tag nell’esperienza di commento legacy**
+**Problemi relativi all’assegnazione di tag nell’esperienza di commento precedente**
 
-Quando un utente viene taggato all’interno di un commento nell’esperienza di commento legacy, si verificano i seguenti problemi:
+Quando un utente viene taggato in un commento nell’esperienza di commento precedente, si verificano i seguenti problemi:
 
-* Nel commento è presente solo il nome dell&#39;utente
-* Il nome utente non è contrassegnato con il simbolo @
-* Il nome utente non è blu
-* Il nome utente non è un collegamento al profilo utente
+* nel commento è presente solo il nome utente
+* il nome utente non è contrassegnato con il simbolo @
+* il nome utente non è di colore blu
+* il nome utente non è un collegamento al profilo utente
 
-L’utente riceve una notifica e-mail relativa al tag, come previsto.
+l’utente riceve una notifica e-mail relativa al tag, come previsto.
 
 +++
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
 workflow-type: tm+mt
 source-wordcount: '806'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -26,7 +26,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bacheche: impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | sabato 26 gennaio 2024 |
-| [Bozze: i GIF vengono visualizzati come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
+| [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
 
 {style="table-layout:auto"}
@@ -41,9 +41,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 1 febbraio 2024 |
 | [Problemi: lo stato del problema non è nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md) | giovedì 31 gennaio 2024 |
 | [Aggiornamenti: l’opzione Immagine disabilitata è disponibile quando si modifica un commento](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | giovedì 31 gennaio 2024 |
-| [[!UICONTROL Gestione risorse]: impossibile modificare la data in [!UICONTROL Utilizzo] area](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | venerdì 25 gennaio 2024 |
+| [[!UICONTROL Gestione delle risorse]: impossibile modificare la data nell’area [!UICONTROL Utilizzo]](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md) | venerdì 25 gennaio 2024 |
 | [Team: problemi relativi all’impostazione degli stati del team per il pulsante [!UICONTROL Fine]](known-issues-workfront/wf-teams-statuses-missing.md) | venerdì 25 gennaio 2024 |
-| [Gestione risorse: calcoli finanziari errati a causa di problemi di mansione](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | venerdì 25 gennaio 2024 |
+| [Gestione delle risorse: calcoli finanziari errati a causa di problemi di mansione](known-issues-workfront/wf-resource-mgmt-job-role-rates.md) | venerdì 25 gennaio 2024 |
 | [Bacheche: le schede persistono quando si modifica l’iterazione](known-issues-workfront/wf-boards-cards-persist-when-changing-iteration.md) | venerdì 25 gennaio 2024 |
 | [Problemi: i campi orario consentono di salvare orari non corretti durante la modifica in blocco dei problemi](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sabato 5 gennaio 2024 |
 | [Nuova [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento widget non seguono il modello layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
