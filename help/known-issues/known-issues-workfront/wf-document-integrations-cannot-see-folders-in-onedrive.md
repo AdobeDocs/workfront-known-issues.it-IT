@@ -1,21 +1,29 @@
 ---
-title: '“Integrazioni di documenti: impossibile visualizzare tutte le cartelle in OneDrive”'
-description: “Quando un utente tenta di accedere a un documento tramite l’integrazione di OneDrive in Workfront, non riesce a visualizzare tutte le cartelle di OneDrive né accedere ai documenti nelle cartelle mancanti.”
+title: "Integrazioni di documenti: impossibile visualizzare tutte le cartelle in OneDrive"
+description: Quando un utente tenta di accedere a un documento tramite l'integrazione di OneDrive in Workfront, non può visualizzare tutte le cartelle di OneDrive e non può accedere ai documenti nelle cartelle mancanti.
 feature: Digital Content and Documents
 hidefromtoc: true
-source-git-commit: 2a41264d6f477f51eaeda6ae3675b1a6d816249c
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+exl-id: bcb71d1f-4563-4a87-a068-1f707a3a2e02
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # Integrazioni di documenti: impossibile visualizzare tutte le cartelle in [!DNL OneDrive]
 
 >[!NOTE]
 >
->Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
+>Questo problema è stato risolto.
+
+<!--
+
+>[!NOTE]
+>
+>The Product team is currently evaluating this issue resolution, which might require product enhancements. Product enhancements are communicated in the Product Announcements and not with the Maintenance Updates.
+
+-->
 
 Quando un utente tenta di accedere a un documento tramite l’integrazione di [!DNL OneDrive] in [!DNL Workfront], non riesce a visualizzare tutti le cartelle di [!DNL OneDrive] né accedere ai documenti nelle cartelle mancanti.
 
@@ -24,4 +32,3 @@ Quando un utente tenta di accedere a un documento tramite l’integrazione di [!
 Scarica il file direttamente da [!DNL OneDrive] e caricalo come documento in [!DNL Workfront].
 
 _Segnalato per la prima volta il 15 maggio 2023._
-

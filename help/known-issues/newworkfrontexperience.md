@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b6271df75cce6d725f6d27b479b0eb31b8991acb
+source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
 workflow-type: tm+mt
-source-wordcount: '806'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -51,7 +51,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sabato 15 dicembre 2023 |
 | [Attività: quando si duplicano delle attvità, vengono visualizzate in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | venerdì 30 novembre 2023 |
 | [Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
-| [Bozze: impossibile generare la bozza](known-issues-workfront/wf-proofs-cannot-generate-proof.md) | 19 ottobre 2023 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di  [!DNL Workfront]  su Experience League](known-issues-workfront/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
 {style="table-layout:auto"}
@@ -74,7 +73,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: le opzioni di approvazione non vengono visualizzate nel [!UICONTROL Proofing Viewer]](known-issues-workfront/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 agosto 2023 |
 | [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/wf-proofs-not-showing-approved-in-report.md) | 3 agosto 2023 |
 | [[!UICONTROL Configurazione]: impossibile esportare i registri di controllo](known-issues-workfront/wf-setup-cannot-export-audit-logs.md) | 20 luglio 2023 |
-| [Integrazioni di documenti: impossibile visualizzare tutte le cartelle in  [!DNL OneDrive]](known-issues-workfront/wf-document-integrations-cannot-see-folders-in-onedrive.md) | 18 luglio 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
 | [Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato”](known-issues-workfront/wf-custom-forms-error-with-calculated-field.md) | 5 maggio 2023 |
 | [Documenti: le opzioni [!UICONTROL Attività bozza] portano alla pagina di accesso](known-issues-workfront/wf-documents-taken-to-login-screen.md) | 21 aprile 2023 |
