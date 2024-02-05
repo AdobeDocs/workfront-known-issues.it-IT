@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 32196793e652b6b498e623ba8857039d6311c796
+source-git-commit: aad77d690cef72beb1543c442ee557e768777150
 workflow-type: tm+mt
-source-wordcount: '1516'
-ht-degree: 97%
+source-wordcount: '1523'
+ht-degree: 96%
 
 ---
 
@@ -189,6 +189,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: campo mancante dal modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: formattazione di output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError con risposta 200 dal modulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion: errore di memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md)
