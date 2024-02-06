@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 513b1efc9deffe0a1d8024e95e5aa88e14dd8e41
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '793'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bacheche: impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | sabato 26 gennaio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
 
@@ -37,6 +36,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Bacheche: impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni](known-issues-workfront/wf-boards-top-of-column-ineffective.md) | mercoledì 6 febbraio 2024 |
 | [Documenti: impossibile spostare il documento dalla cartella alla radice](known-issues-workfront/wf-documents-cannot-move-to-root.md) | venerdì 1 febbraio 2024 |
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 1 febbraio 2024 |
 | [Problemi: lo stato del problema non è nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md) | giovedì 31 gennaio 2024 |

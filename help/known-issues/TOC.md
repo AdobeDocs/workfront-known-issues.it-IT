@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
+source-git-commit: 4f66611a781f5793d397e28911e308d46bd1de02
 workflow-type: tm+mt
-source-wordcount: '1523'
+source-wordcount: '1532'
 ht-degree: 96%
 
 ---
@@ -189,6 +189,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: Workfront Proof > Timeout del modulo Watch Proof](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion: campo mancante dal modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: formattazione di output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError con risposta 200 dal modulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

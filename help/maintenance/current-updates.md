@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 17e60b281dc05073247083257121d8809a271722
+source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
-source-wordcount: '1332'
-ht-degree: 90%
+source-wordcount: '1447'
+ht-degree: 86%
 
 ---
 
@@ -22,9 +22,31 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 ## Aggiornamenti di febbraio 2024
 
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 8 febbraio 2024**
+
+### (Pianificato) Aggiornamento di manutenzione dell’8 febbraio 2024
+
+#### Bacheche
+
+**Impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni**
+
+Quando un utente tenta di spostare una scheda in una colonna utilizzando il comando &quot;[!UICONTROL Inizio colonna]&quot; o &quot;[!UICONTROL In basso nella colonna]&quot; nel menu a tre punti, la scheda non si sposta.
+
+**Le schede persistono quando si modifica l’iterazione**
+
+Quando un utente visualizza un’iterazione su una bacheca e successivamente la modifica, le schede visualizzate per la nuova iterazione sono quelle di una che l’utente stava visualizzando in precedenza.
+
+#### Report
+
+**La colonna &quot;Nessun valore&quot; non mostra alcun risultato**
+
+Quando un report grafico ha un &quot;[!DNL No value]&quot;, la colonna non mostra dati, anche se i dati dovrebbero essere presenti.
+
++++
+
 +++**Aggiornamento di manutenzione dell’venerdì 1 febbraio 2024**
 
-### (Pianificato) Aggiornamento di manutenzione del 1° febbraio 2024
+### Aggiornamento di manutenzione del 1° febbraio 2024
 
 #### Accedi
 
