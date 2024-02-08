@@ -3,15 +3,19 @@ title: "Bacheche: impossibile spostare una scheda in una colonna utilizzando le 
 description: "Quando un utente tenta di spostare una scheda in una colonna utilizzando le opzioni nella parte superiore della colonna o nella parte inferiore della colonna nel menu a tre punti, la scheda non si sposta."
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3b05b44c752775e891d2bc3feafd9a4479ab8414
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 5%
+source-wordcount: '106'
+ht-degree: 10%
 
 ---
 
 
 # Bacheche: impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 8 febbraio 2024.
 
 Quando un utente tenta di spostare una scheda in una colonna utilizzando il comando &quot;[!UICONTROL Inizio colonna]&quot; o &quot;[!UICONTROL In basso nella colonna]&quot; nel menu a tre punti, la scheda non si sposta.
 

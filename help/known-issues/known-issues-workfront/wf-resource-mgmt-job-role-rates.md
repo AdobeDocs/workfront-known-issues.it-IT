@@ -3,15 +3,19 @@ title: '“Gestione delle risorse: calcoli finanziari errati a causa di problemi
 description: “Le ore e i calcoli finanziari potrebbero non essere corretti, mostrando un costo pari a 0 anche se le ore sono registrate in una mansione che prevede un tasso di costo.”
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: e9a7ff289e7c9fcc9c9ff13b7c4b5b554e303c11
-workflow-type: ht
-source-wordcount: '135'
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
+workflow-type: tm+mt
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 
 # Gestione delle risorse: calcoli finanziari errati a causa di problemi relativi alla mansione
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 8 febbraio 2024.
 
 Le ore e i calcoli finanziari potrebbero non essere corretti, mostrando un costo pari a 0 anche se le ore sono registrate in una mansione che prevede un tasso di costo.
 

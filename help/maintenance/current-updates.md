@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
+source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1518'
 ht-degree: 86%
 
 ---
@@ -22,9 +22,9 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 ## Aggiornamenti di febbraio 2024
 
-+++**(Pianificato) Aggiornamento di manutenzione del venerdì 8 febbraio 2024**
++++**Aggiornamento di manutenzione dell’venerdì 8 febbraio 2024**
 
-### (Pianificato) Aggiornamento di manutenzione dell’8 febbraio 2024
+### Aggiornamento di manutenzione dell’giovedì 8 febbraio 2024
 
 #### Bacheche
 
@@ -41,6 +41,14 @@ Quando un utente visualizza un’iterazione su una bacheca e successivamente la 
 **La colonna &quot;Nessun valore&quot; non mostra alcun risultato**
 
 Quando un report grafico ha un &quot;[!DNL No value]&quot;, la colonna non mostra dati, anche se i dati dovrebbero essere presenti.
+
+#### Gestione risorse
+
+**Calcoli finanziari errati a causa di problemi di mansione**
+
+Le ore e i calcoli finanziari potrebbero non essere corretti, mostrando un costo pari a 0 anche se le ore sono registrate in una mansione che prevede un tasso di costo.
+
+Questo perché le mansioni creano automaticamente tariffe duplicate senza date di inizio o di fine. Poiché non dispongono di date di inizio o di fine, le tariffe vengono considerate come valori pari a 0 quando vengono eseguiti i calcoli finanziari.
 
 +++
 
