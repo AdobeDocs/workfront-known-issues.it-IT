@@ -5,7 +5,7 @@ role: User
 source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
 workflow-type: tm+mt
 source-wordcount: '1542'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 95%
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Utenti: livelli di accesso inferiori non disponibili durante la creazione di un utente](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
-      + [Problemi: lo stato del problema non è nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md)
+      + [Problemi: lo stato del problema non è presente nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md)
       + [Aggiornamenti: l’opzione Immagine disabilitata è disponibile quando si modifica un commento](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
-      + [Bacheche: impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
+      + [Bacheche: impossibile spostare una scheda in una colonna utilizzando le opzioni [!UICONTROL Sposta]](known-issues-workfront/wf-boards-top-of-column-ineffective.md)
       + [Modelli: errore durante la copia dei modelli](known-issues-workfront/wf-templates-cannot-copy-template.md)
       + [[!UICONTROL Gestione delle risorse]: impossibile modificare la data nell’area [!UICONTROL Utilizzo]](known-issues-workfront/wf-resource-management-cannot-change-date-utiization.md)
       + [Aggiornamenti: i commenti creati nell’esperienza di commento precedente non sono visibili nella nuova esperienza](known-issues-workfront/wf-updates-comments-in-legacy-not-in-new.md)
@@ -192,7 +192,7 @@ ht-degree: 95%
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: Workfront Proof > Timeout del modulo Watch Proof](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
       + [Workfront Fusion: campo mancante dal modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
-      + [Workfront Fusion: formattazione di output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
+      + [Workfront Fusion: formattazione dell’output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError con risposta 200 dal modulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion: errore di memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)

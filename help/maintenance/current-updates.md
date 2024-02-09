@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: f8579e17458f702580e1a4cf3600c14376d7591b
 workflow-type: tm+mt
 source-wordcount: '1518'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 **Impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni**
 
-Quando un utente tenta di spostare una scheda in una colonna utilizzando il comando &quot;[!UICONTROL Inizio colonna]&quot; o &quot;[!UICONTROL In basso nella colonna]&quot; nel menu a tre punti, la scheda non si sposta.
+Quando un utente tenta di spostare una scheda in una colonna utilizzando le opzioni “[!UICONTROL Inizio colonna]” o “[!UICONTROL Fine colonna]” nel menu a tre punti, la scheda non si sposta.
 
 **Le schede persistono quando si modifica l’iterazione**
 
@@ -60,7 +60,7 @@ Questo perché le mansioni creano automaticamente tariffe duplicate senza date d
 
 **Gli utenti che utilizzano SSO non vengono reindirizzati alla posizione originale durante l’accesso**
 
-Quando un utente si trova su una pagina in [!DNL Workfront] e accedi con SSO; una volta completato l’accesso, vengono indirizzati a [!UICONTROL Home] invece della pagina in cui si trovavano prima dell’accesso.
+Quando un utente si trova su una pagina in [!DNL Workfront] e accede con SSO; una volta completato l’accesso, viene indirizzato alla pagina [!UICONTROL Home] invece che a quella in cui si trovava prima dell’accesso.
 
 #### Modelli
 
@@ -76,13 +76,13 @@ Quando un utente tenta di copiare un modello nuovo o esistente, l’operazione h
 
 +++**Aggiornamento di manutenzione (Hot Fix) del mercoledì 30 gennaio 2024**
 
-### Aggiornamento di manutenzione (aggiornamento rapido) del 30 gennaio 2024
+### Aggiornamento di manutenzione (Hot Fix) del 30 gennaio 2024
 
 #### Report
 
-**Il campo External API non mostra tutti i valori disponibili negli elenchi e nei rapporti**
+**Il campo API esterna non mostra tutti i valori disponibili negli elenchi e nei rapporti**
 
-In precedenza, gli utenti potevano visualizzare il valore selezionato (e modificarlo) per un campo di ricerca esterno in elenchi e rapporti, ma non visualizzavano il menu a discesa con le opzioni provenienti dall’API.
+In precedenza, gli utenti potevano visualizzare il valore selezionato (e modificarlo) per un campo di ricerca esterno negli elenchi e nei rapporti, ma non visualizzavano il menu a discesa con le opzioni provenienti dall’API.
 
 Ora, quando un campo personalizzato di ricerca esterna viene utilizzato in un elenco o in un rapporto, è disponibile il menu a discesa con tutte le opzioni dell’API esterna.
 

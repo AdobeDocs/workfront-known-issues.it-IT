@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
 workflow-type: tm+mt
 source-wordcount: '764'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -39,7 +39,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 |----------------------------------| ----------------- |
 | [Documenti: impossibile spostare il documento dalla cartella alla radice](known-issues-workfront/wf-documents-cannot-move-to-root.md) | venerdì 1 febbraio 2024 |
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 1 febbraio 2024 |
-| [Problemi: lo stato del problema non è nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md) | giovedì 31 gennaio 2024 |
+| [Problemi: lo stato del problema non è presente nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md) | giovedì 31 gennaio 2024 |
 | [Aggiornamenti: l’opzione Immagine disabilitata è disponibile quando si modifica un commento](known-issues-workfront/wf-updates-image-enabled-when-editing.md) | giovedì 31 gennaio 2024 |
 | [Team: problemi relativi all’impostazione degli stati del team per il pulsante [!UICONTROL Fine]](known-issues-workfront/wf-teams-statuses-missing.md) | venerdì 25 gennaio 2024 |
 | [Problemi: i campi orario consentono di salvare orari non corretti durante la modifica in blocco dei problemi](known-issues-workfront/wf-issues-wrong-time-when-bulk-editing.md) | sabato 5 gennaio 2024 |

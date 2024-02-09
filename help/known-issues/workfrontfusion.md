@@ -7,7 +7,7 @@ feature: Workfront Fusion
 source-git-commit: ee15f19ffd6010f637582fa484721596a25f0653
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 82%
+ht-degree: 90%
 
 ---
 
@@ -48,7 +48,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Workfront Fusion: campo mancante dal modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | martedì 5 febbraio 2024 |
-| [Workfront Fusion: formattazione di output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | giovedì 31 gennaio 2024 |
+| [Workfront Fusion: formattazione dell’output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | giovedì 31 gennaio 2024 |
 | [Workfront Fusion: errore di memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 novembre 2023 |
 | [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 ottobre 2023 |
 | [[!DNL Workfront Proof]: errore 500 durante l’accesso a  [!DNL Workfront Proof]  tramite API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maggio 2023 |
