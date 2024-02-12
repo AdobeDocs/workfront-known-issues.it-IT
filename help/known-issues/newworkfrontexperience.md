@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c233a4f5741a9ae4af5218eb0800d2da43eabe66
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '764'
-ht-degree: 98%
+source-wordcount: '788'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bacheche: il filtro per più utenti non restituisce tutti i risultati](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | martedì 12 febbraio 2024 |
 | [Utenti: livelli di accesso inferiori non disponibili durante la creazione di un utente](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | venerdì 8 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
@@ -37,6 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Aggiornamenti: la schermata diventa vuota quando si risponde a un utente di un’altra azienda](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | martedì 12 febbraio 2024 |
 | [Documenti: impossibile spostare il documento dalla cartella alla radice](known-issues-workfront/wf-documents-cannot-move-to-root.md) | venerdì 1 febbraio 2024 |
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 1 febbraio 2024 |
 | [Problemi: lo stato del problema non è presente nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md) | giovedì 31 gennaio 2024 |

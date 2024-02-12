@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b3b415f939a1d83da47de4bf960f5a504b59b3fa
+source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
 workflow-type: tm+mt
-source-wordcount: '1542'
-ht-degree: 98%
+source-wordcount: '1564'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Aggiornamenti: la schermata diventa vuota quando si risponde a un utente di un’altra azienda](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md)
+      + [Bacheche: il filtro per più utenti non restituisce tutti i risultati](known-issues-workfront/wf-boards-filter-not-pulling-users.md)
       + [Utenti: livelli di accesso inferiori non disponibili durante la creazione di un utente](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md)
       + [Problemi: lo stato del problema non è presente nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md)
       + [Aggiornamenti: l’opzione Immagine disabilitata è disponibile quando si modifica un commento](known-issues-workfront/wf-updates-image-enabled-when-editing.md)
