@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
+source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 95%
+source-wordcount: '821'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni: documenti non allegati durante la creazione di una richiesta da [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | mercoledì 13 febbraio 2024 |
+| [Bozze: impossibile creare una bozza con [!UICONTROL Flusso di lavoro avanzato] da un [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | mercoledì 13 febbraio 2024 |
+| [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | mercoledì 13 febbraio 2024 |
 | [Bacheche: il filtro per più utenti non restituisce tutti i risultati](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | martedì 12 febbraio 2024 |
 | [Utenti: livelli di accesso inferiori non disponibili durante la creazione di un utente](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | venerdì 8 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
