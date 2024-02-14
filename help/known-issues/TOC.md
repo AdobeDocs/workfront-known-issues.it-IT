@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 82f7b2f94e9df2f3e1707946f802720fc2ff8c16
+source-git-commit: fbcd3495cff923fc181419e89182e079c35dd053
 workflow-type: tm+mt
-source-wordcount: '1594'
-ht-degree: 95%
+source-wordcount: '1599'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integrazioni: documenti non allegati durante la creazione di una richiesta da [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Bozze: impossibile creare una bozza con [!UICONTROL Flusso di lavoro avanzato] da un [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
       + [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca](known-issues-workfront/wf-boards-400-when-add-to-boards.md)
@@ -196,7 +197,7 @@ ht-degree: 95%
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: Workfront Proof > Timeout del modulo Watch Proof](/help/known-issues/known-issues-workfront-fusion/fusion-wfp-watch-proof-times-out.md)
-      + [Workfront Fusion: campo mancante dal modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
+      + [Workfront Fusion: campo mancante nel modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: formattazione dell’output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError con risposta 200 dal modulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)
       + [Workfront Fusion: errore di memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md)
