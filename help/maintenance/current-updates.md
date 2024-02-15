@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
 workflow-type: tm+mt
 source-wordcount: '1690'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -48,11 +48,11 @@ Dopo che un amministratore di [!DNL Workfront] ha disattivato l’opzione per ag
 
 +++**Aggiornamento di manutenzione dell’venerdì 8 febbraio 2024**
 
-### Aggiornamento di manutenzione dell’giovedì 8 febbraio 2024
+### Aggiornamento di manutenzione dell’8 febbraio 2024
 
 #### Bacheche
 
-**Impossibile spostare una scheda in una colonna utilizzando [!UICONTROL Sposta] opzioni**
+**Impossibile spostare una scheda in una colonna utilizzando le opzioni [!UICONTROL Sposta]**
 
 Quando un utente tenta di spostare una scheda in una colonna utilizzando le opzioni “[!UICONTROL Inizio colonna]” o “[!UICONTROL Fine colonna]” nel menu a tre punti, la scheda non si sposta.
 
@@ -62,13 +62,13 @@ Quando un utente visualizza un’iterazione su una bacheca e successivamente la 
 
 #### Report
 
-**La colonna &quot;Nessun valore&quot; non mostra alcun risultato**
+**La colonna “Nessun valore” non mostra alcun risultato**
 
-Quando un report grafico ha un &quot;[!DNL No value]&quot;, la colonna non mostra dati, anche se i dati dovrebbero essere presenti.
+Quando un rapporto di un grafico dispone di una colonna “[!DNL No value]”, la colonna non mostra dati, anche se dovrebbero essere presenti.
 
 #### Gestione risorse
 
-**Calcoli finanziari errati a causa di problemi di mansione**
+**Calcoli finanziari errati a causa di problemi relativi alla mansione**
 
 Le ore e i calcoli finanziari potrebbero non essere corretti, mostrando un costo pari a 0 anche se le ore sono registrate in una mansione che prevede un tasso di costo.
 
