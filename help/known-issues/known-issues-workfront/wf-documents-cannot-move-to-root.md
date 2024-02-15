@@ -3,15 +3,19 @@ title: '“Documenti: impossibile spostare il documento dalla cartella alla radi
 description: “Quando un utente tenta di spostare una cartella da una cartella creata dall’utente alla cartella principale dei Documenti del progetto, il documento non viene spostato e l’utente visualizza un errore.”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8fbcf0357797fb4ed490a95dbbb92d22e179fc66
-workflow-type: ht
-source-wordcount: '121'
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
+workflow-type: tm+mt
+source-wordcount: '127'
 ht-degree: 100%
 
 ---
 
 
 # Documenti: impossibile spostare il documento dalla cartella alla radice
+
+>[!NOTE]
+>
+>Questo problema è stato risolto l’giovedì 24 gennaio 2024.
 
 Quando un utente tenta di spostare una cartella da una cartella creata dall’utente alla cartella principale dei Documenti del progetto, il documento non viene spostato e l’utente visualizza il seguente errore:
 

@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 08c7ff0024b0e0bc8f735c388d4b82eaf5a42610
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 92%
+source-wordcount: '794'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: area di lavoro e pin non si caricano](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md) | venerdì 15 febbraio 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | giovedì 14 febbraio 2024 |
 | [Integrazioni: documenti non allegati durante la creazione di una richiesta da [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | mercoledì 13 febbraio 2024 |
-| [Bozze: impossibile creare una bozza con [!UICONTROL Flusso di lavoro avanzato] da un [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | mercoledì 13 febbraio 2024 |
 | [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | mercoledì 13 febbraio 2024 |
 | [Bacheche: il filtro per più utenti non restituisce tutti i risultati](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | martedì 12 febbraio 2024 |
 | [Utenti: livelli di accesso inferiori non disponibili durante la creazione di un utente](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | venerdì 8 febbraio 2024 |
@@ -42,8 +42,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Bozze: impossibile creare una bozza con [!UICONTROL Flusso di lavoro avanzato] da un [!DNL SharePoint] documento](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md) | venerdì 15 febbraio 2024 |
 | [Aggiornamenti: la schermata diventa vuota quando si risponde a un utente di un’altra azienda](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | martedì 12 febbraio 2024 |
-| [Documenti: impossibile spostare il documento dalla cartella alla radice](known-issues-workfront/wf-documents-cannot-move-to-root.md) | venerdì 1 febbraio 2024 |
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 1 febbraio 2024 |
 | [Problemi: lo stato del problema non è presente nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md) | giovedì 31 gennaio 2024 |
 | [Team: problemi relativi all’impostazione degli stati del team per il pulsante [!UICONTROL Fine]](known-issues-workfront/wf-teams-statuses-missing.md) | venerdì 25 gennaio 2024 |
