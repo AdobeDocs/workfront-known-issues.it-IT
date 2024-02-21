@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 96%
+source-wordcount: '840'
+ht-degree: 94%
 
 ---
 
@@ -42,6 +42,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Moduli personalizzati: errore durante l’incollamento di testo in un campo in formato Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md) | giovedì 21 febbraio 2024 |
+| [Progetti: la sequenza temporale viene ricalcolata molto lentamente quando si modifica la data in un’attività](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | giovedì 21 febbraio 2024 |
 | [Bacheche: la scheda non include le sottoattività](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sabato 16 febbraio 2024 |
 | [Bacheche: le schede non vengono ordinate](known-issues-workfront/wf-boards-not-sorting.md) | sabato 16 febbraio 2024 |
 | [Bacheche: la schermata diventa vuota durante la visualizzazione dei dettagli della scheda](known-issues-workfront/wf-boards-details-blank-for-reviewer.md) | sabato 16 febbraio 2024 |

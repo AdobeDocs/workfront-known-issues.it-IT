@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d089651c04d4cedb069276d677b2a978c03038fb
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1624'
-ht-degree: 98%
+source-wordcount: '1647'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Moduli personalizzati: errore durante l’incollamento di testo in un campo in formato Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [Progetti: la sequenza temporale viene ricalcolata molto lentamente quando si modifica la data in un’attività](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Bacheche: la scheda non include le sottoattività](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Bacheche: le schede non vengono ordinate](known-issues-workfront/wf-boards-not-sorting.md)
       + [Bacheche: la schermata diventa vuota durante la visualizzazione dei dettagli della scheda](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)

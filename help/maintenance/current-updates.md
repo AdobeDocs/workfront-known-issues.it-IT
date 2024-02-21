@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
+source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
 workflow-type: tm+mt
-source-wordcount: '1825'
-ht-degree: 93%
+source-wordcount: '1860'
+ht-degree: 92%
 
 ---
 
@@ -45,6 +45,12 @@ Quando un amministratore gruppo tenta di modificare il livello di accesso di un 
 
 * Il campo del livello di accesso è disabilitato.
 * L’amministratore del gruppo non può scegliere un livello di accesso inferiore.
+
+#### Bilanciatore dei carichi di lavoro
+
+**Etichetta per ore non lavorative**
+
+Il Bilanciatore dei carichi di lavoro e il calendario personale delle ferie sono ora visualizzati &quot;[!UICONTROL Ore non lavorative]&quot; per il tempo che un utente sta decollando. Precedentemente il display mostrava &quot;[!UICONTROL Ore di lavoro]&quot; per i giorni non lavorativi.
 
 +++
 
