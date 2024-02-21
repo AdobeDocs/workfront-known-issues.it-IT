@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
 source-wordcount: '1825'
-ht-degree: 92%
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 +++**(Pianificato) Aggiornamento di manutenzione del venerdì 22 febbraio 2024**
 
-### (Pianificato) Aggiornamento di manutenzione del 22 febbraio 2024
+### (Pianificato) Aggiornamento di manutenzione del venerdì 22 febbraio 2024
 
 #### Home
 
@@ -54,19 +54,19 @@ Quando un amministratore gruppo tenta di modificare il livello di accesso di un 
 
 #### Problemi
 
-**I campi ora consentono di risparmiare tempo errato in caso di problemi di modifica in blocco**
+**I campi orario consentono di salvare orari non corretti durante la modifica in blocco dei problemi**
 
 Quando un utente modifica in blocco problemi e seleziona una data e un’ora per un campo data e salva, l’ora salvata in questo campo del problema non è l’ora selezionata dall’utente. Al contrario, l’ora sembra essere convertita in UTC quando l’utente salva.
 
 #### Attività
 
-**L&#39;utente non è più assegnato ad alcuna attività**
+**Una o più attività non sono più assegnate all’utente**
 
 L’assegnazione di un’attività a un utente può essere annullata automaticamente. L&#39;annullamento può verificarsi per una o più attività. L&#39;annullamento dell&#39;assegnazione non viene visualizzato nell&#39;area Aggiornamenti di sistema delle attività, ma nella sezione Aggiorna feed del menu di configurazione.
 
 #### Aggiornamenti
 
-**L’opzione Immagine disattivata è disponibile quando si modifica un commento**
+**L’opzione Immagine disabilitata è disponibile quando si modifica un commento**
 
 Dopo che un amministratore di [!DNL Workfront] ha disattivato l’opzione per aggiungere immagini ai commenti, tale opzione non è disponibile durante la creazione di un commento. Tuttavia, se un utente modifica un commento esistente, l’opzione immagine è disponibile.
 
