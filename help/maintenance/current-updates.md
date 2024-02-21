@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 27d1f17ea0b25330d11d79609c41f82e9af518ab
+source-git-commit: d8ff109f371c9169487f0643fcf20bb73dcf91c6
 workflow-type: tm+mt
-source-wordcount: '1690'
-ht-degree: 98%
+source-wordcount: '1825'
+ht-degree: 92%
 
 ---
 
@@ -22,9 +22,35 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 ## Aggiornamenti di febbraio 2024
 
-+++**(Pianificato) Aggiornamento di manutenzione del venerdì 15 febbraio 2024**
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 22 febbraio 2024**
 
-### (Pianificato) Aggiornamento di manutenzione del 15 febbraio 2024
+### (Pianificato) Aggiornamento di manutenzione del 22 febbraio 2024
+
+#### Home
+
+**[!UICONTROL Home]: [!UICONTROL Workspace] I pin e non si caricano**
+
+Quando un utente effettua l’accesso, si possono verificare i seguenti casi:
+
+* Il nuovo utente [!UICONTROL Area di lavoro Home] non si carica e viene visualizzato l’errore &quot;[!UICONTROL Impossibile caricare le informazioni dell’area di lavoro. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
+* I pin dell’utente non si caricano e viene visualizzato l’errore &quot;[!UICONTROL I pin non sono disponibili a causa di un errore di sistema. Prova ad aggiornare il browser per risolvere il problema.]&quot;
+
+#### Utenti
+
+**L’amministratore del gruppo non può impostare o modificare il livello di accesso di un utente**
+
+<!--no article-->
+
+Quando un amministratore gruppo tenta di modificare il livello di accesso di un utente, può verificarsi una delle seguenti situazioni:
+
+* Il campo del livello di accesso è disabilitato.
+* L’amministratore del gruppo non può scegliere un livello di accesso inferiore.
+
++++
+
++++**Aggiornamento di manutenzione dell’venerdì 15 febbraio 2024**
+
+### Aggiornamento di manutenzione dell’venerdì 15 febbraio 2024
 
 #### Problemi
 
