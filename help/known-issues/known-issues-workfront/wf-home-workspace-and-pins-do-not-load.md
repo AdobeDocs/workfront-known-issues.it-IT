@@ -3,15 +3,19 @@ title: "Home: area di lavoro e pin non si caricano"
 description: "Quando un utente effettua l’accesso, l’area di lavoro principale e i pin non vengono caricati e vengono visualizzati messaggi di errore."
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
+source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '114'
+ht-degree: 21%
 
 ---
 
 
 # [!UICONTROL Home]: [!UICONTROL Workspace] I pin e non si caricano
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 22 febbraio 2024.
 
 Quando un utente effettua l’accesso, si possono verificare i seguenti casi:
 
