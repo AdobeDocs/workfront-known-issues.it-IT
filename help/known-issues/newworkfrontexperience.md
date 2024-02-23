@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 97%
+source-wordcount: '832'
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Progetti: errore durante l’utilizzo dei filtri in un elenco di prodotti](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | venerdì 22 febbraio 2024 |
 | [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | mercoledì 13 febbraio 2024 |
-| [Bacheche: il filtro per più utenti non restituisce tutti i risultati](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | martedì 12 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
 
@@ -38,6 +38,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Bilanciatore dei carichi di lavoro: le ore pianificate non vengono aggiornate nel Bilanciatore dei carichi di lavoro](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | sabato 23 febbraio 2024 |
+| [Bacheche: i documenti caricati sulle schede mostrano una marca temporale errata](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | sabato 23 febbraio 2024 |
+| [Schede orario: errore durante la visualizzazione del pannello di riepilogo](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | sabato 23 febbraio 2024 |
+| [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
+| [Bacheche: il filtro per più utenti non restituisce tutti i risultati](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | venerdì 22 febbraio 2024 |
 | [Integrazioni: documenti non allegati durante la creazione di una richiesta da  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | venerdì 22 febbraio 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | venerdì 22 febbraio 2024 |
 | [Utenti: livelli di accesso inferiori non disponibili durante la creazione di un utente](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | venerdì 22 febbraio 2024 |

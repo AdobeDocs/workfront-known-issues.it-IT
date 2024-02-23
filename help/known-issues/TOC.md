@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ecc2501b97b6050d8e42f4aef34e23b9c3a10044
+source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
-source-wordcount: '1647'
-ht-degree: 97%
+source-wordcount: '1686'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bilanciatore dei carichi di lavoro: le ore pianificate non vengono aggiornate nel Bilanciatore dei carichi di lavoro](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md)
+      + [Bacheche: i documenti caricati sulle schede mostrano una marca temporale errata](known-issues-workfront/wf-boards-timestamp-in-gmt.md)
+      + [Schede orario: errore durante la visualizzazione del pannello di riepilogo](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
+      + [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
+      + [Progetti: errore durante l’utilizzo dei filtri in un elenco di prodotti](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Moduli personalizzati: errore durante l’incollamento di testo in un campo in formato Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Progetti: la sequenza temporale viene ricalcolata molto lentamente quando si modifica la data in un’attività](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Bacheche: la scheda non include le sottoattività](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
