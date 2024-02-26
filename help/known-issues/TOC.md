@@ -5,7 +5,7 @@ role: User
 source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
 workflow-type: tm+mt
 source-wordcount: '1686'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 94%
       + [Progetti: errore durante l’utilizzo dei filtri in un elenco di prodotti](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
       + [Moduli personalizzati: errore durante l’incollamento di testo in un campo in formato Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
       + [Progetti: la sequenza temporale viene ricalcolata molto lentamente quando si modifica la data in un’attività](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
-      + [Bacheche: la scheda non include le sottoattività](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
+      + [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Bacheche: le schede non vengono ordinate](known-issues-workfront/wf-boards-not-sorting.md)
-      + [Bacheche: la schermata diventa vuota durante la visualizzazione dei dettagli della scheda](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
-      + [Home: area di lavoro e pin non si caricano](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
+      + [Bacheche: la schermata rimane vuota durante la visualizzazione dei dettagli delle schede](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
+      + [Home: l’area di lavoro e i pin non vengono caricati](known-issues-workfront/wf-home-workspace-and-pins-do-not-load.md)
       + [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md)
       + [Integrazioni: documenti non allegati durante la creazione di una richiesta da  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md)
       + [Bozze: impossibile creare una bozza con [!UICONTROL flusso di lavoro avanzato] da un documento di  [!DNL SharePoint] ](known-issues-workfront/wf-proofs-cannot-create-with-advanced-workflow.md)
