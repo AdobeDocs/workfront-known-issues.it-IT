@@ -4,7 +4,7 @@ description: “L’assegnazione di un'attività a un utente può essere annulla
 hidefromtoc: true
 feature: Tasks
 source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
 

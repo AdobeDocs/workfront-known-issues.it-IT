@@ -4,7 +4,7 @@ description: “Quando un utente modifica in blocco problemi e seleziona una dat
 hidefromtoc: true
 feature: Work Management
 source-git-commit: b10e7b2e10151a40fc4e9f762b8688114c248e27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 
