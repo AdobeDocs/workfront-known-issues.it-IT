@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '1858'
+source-wordcount: '1913'
 ht-degree: 97%
 
 ---
@@ -21,6 +21,20 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di febbraio 2024
+
++++**Aggiornamento di manutenzione dell’venerdì 29 febbraio 2024**
+
+### Aggiornamento di manutenzione dell’venerdì 29 febbraio 2024
+
+#### Aggiornamenti
+
+**Aggiornamenti: la schermata diventa vuota quando si risponde a un utente di un’altra azienda**
+
+Quando un utente cerca di rispondere a un commento di un utente di un’altra azienda, la schermata diventa vuota.
+
+Questo avviene perché l’utente non dispone dell’autorizzazione per visualizzare gli utenti di altre aziende.
+
++++
 
 +++**Aggiornamento di manutenzione dell’venerdì 22 febbraio 2024**
 

@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
+source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '851'
 ht-degree: 91%
 
 ---
@@ -41,7 +41,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
 | [Bilanciatore dei carichi di lavoro: le ore pianificate non vengono aggiornate nel Bilanciatore dei carichi di lavoro](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | sabato 23 febbraio 2024 |
-| [Bacheche: i documenti caricati sulle schede mostrano una marca temporale errata](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | sabato 23 febbraio 2024 |
 | [Schede orario: errore durante la visualizzazione del pannello di riepilogo](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | sabato 23 febbraio 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
 | [Bacheche: il filtro per più utenti non restituisce tutti i risultati](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | venerdì 22 febbraio 2024 |
