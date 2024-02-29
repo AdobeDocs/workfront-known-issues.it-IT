@@ -3,15 +3,19 @@ title: '“Bacheche: il filtro per più utenti non restituisce tutti i risultati
 description: “Quando un utente filtra per più utenti in Filtra per assegnazione in Bacheche, il filtro non restituisce tutti i risultati previsti.”
 hidefromtoc: true
 feature: Agile
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 91%
 
 ---
 
 
 # Bacheche: il filtro per più utenti non restituisce tutti i risultati
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il giovedì 29 febbraio. 2024.
 
 Quando un utente filtra per più utenti in Filtra per assegnazione in Bacheche, il filtro non restituisce tutti i risultati previsti.
 

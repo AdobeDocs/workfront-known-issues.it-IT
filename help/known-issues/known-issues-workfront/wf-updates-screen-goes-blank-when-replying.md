@@ -3,15 +3,19 @@ title: '“Aggiornamenti: la schermata diventa vuota quando si risponde a un ute
 description: “Quando un utente cerca di rispondere a un commento di un utente di un’altra azienda, la schermata diventa vuota”.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 276180358efb2a394ca58c51fd73b834f48874e9
-workflow-type: ht
-source-wordcount: '81'
+source-git-commit: f596539d9dd297f63463a50d9dde2ffd73f81470
+workflow-type: tm+mt
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
 
 # Aggiornamenti: la schermata diventa vuota quando si risponde a un utente di un’altra azienda
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 29 febbraio 2024.
 
 Quando un utente cerca di rispondere a un commento di un utente di un’altra azienda, la schermata diventa vuota.
 

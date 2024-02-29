@@ -3,15 +3,19 @@ title: '“Progetti: errore durante l’utilizzo dei filtri in un elenco di prod
 description: “Se un utente sta visualizzando un elenco di progetti e applica un filtro, l’elenco scompare e l’utente visualizza un errore.”
 hidefromtoc: true
 feature: Projects
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 
 # Progetti: errore durante l’utilizzo dei filtri in un elenco di prodotti
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il sabato 23 febbraio 2024.
 
 Se un utente sta visualizzando un elenco di progetti e applica un filtro, l’elenco scompare e l’utente visualizza il seguente errore:
 

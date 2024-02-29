@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '810'
 ht-degree: 96%
 
 ---
@@ -27,7 +27,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | -----------------------------------------------------------------| ----------------- |
 | [Attività: la creazione o la duplicazione delle attività causa la visualizzazione dell’elenco delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
 | [Report: le modifiche apportate in modalità testo non vengono applicate ai report o alle visualizzazioni](known-issues-workfront/wf-reports-text-mode-not-saving.md) | martedì 26 febbraio 2024 |
-| [Progetti: errore durante l’utilizzo dei filtri in un elenco di prodotti](known-issues-workfront/wf-projects-error-using-filter-in-list.md) | venerdì 22 febbraio 2024 |
 | [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | mercoledì 13 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
@@ -40,18 +39,14 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
-| [Bacheche: i documenti caricati sulle schede mostrano una marca temporale errata](known-issues-workfront/wf-boards-timestamp-in-gmt.md) | giovedì 28 febbraio 2024 |
 | [Bilanciatore dei carichi di lavoro: le ore pianificate non vengono aggiornate nel Bilanciatore dei carichi di lavoro](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | sabato 23 febbraio 2024 |
-| [Schede orario: errore durante la visualizzazione del pannello di riepilogo](known-issues-workfront/wf-timesheets-summary-panel-not-working.md) | sabato 23 febbraio 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
-| [Bacheche: il filtro per più utenti non restituisce tutti i risultati](known-issues-workfront/wf-boards-filter-not-pulling-users.md) | venerdì 22 febbraio 2024 |
 | [Integrazioni: documenti non allegati durante la creazione di una richiesta da  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | venerdì 22 febbraio 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | venerdì 22 febbraio 2024 |
 | [Utenti: livelli di accesso inferiori non disponibili durante la creazione di un utente](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | venerdì 22 febbraio 2024 |
 | [Progetti: quando si modifica la data in un’attività, la timeline viene ricalcolata molto lentamente](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | giovedì 21 febbraio 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sabato 16 febbraio 2024 |
 | [Bacheche: le schede non vengono ordinate](known-issues-workfront/wf-boards-not-sorting.md) | sabato 16 febbraio 2024 |
-| [Aggiornamenti: la schermata diventa vuota quando si risponde a un utente di un’altra azienda](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | martedì 12 febbraio 2024 |
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 1 febbraio 2024 |
 | [Problemi: lo stato del problema non è presente nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md) | giovedì 31 gennaio 2024 |
 | [Team: problemi relativi all’impostazione degli stati del team per il pulsante [!UICONTROL Fine]](known-issues-workfront/wf-teams-statuses-missing.md) | venerdì 25 gennaio 2024 |

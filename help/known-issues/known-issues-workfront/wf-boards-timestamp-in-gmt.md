@@ -3,15 +3,19 @@ title: '“Bacheche: i documenti caricati sulle schede mostrano una marca tempor
 description: “”
 hidefromtoc: true
 feature: Agile
-source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
+source-git-commit: 073f63610623276f978d15b22cf4a8f294fab44f
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
 
 
 # Bacheche: i documenti caricati sulle schede mostrano una marca temporale errata
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il sabato 16 febbraio 2024.
 
 Quando un utente carica un documento su una scheda, la marca temporale è in GMT (UTC) invece del fuso orario dell’utente. Tempi relativi come “2 ore fa” sono accurati, ma quando la scheda mostra l’ora effettiva, non lo sono più.
 
