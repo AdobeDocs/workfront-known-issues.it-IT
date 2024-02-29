@@ -1,24 +1,24 @@
 ---
-title: "Moduli personalizzati: errore durante l’incollamento di testo in un campo in formato Rich Text"
-description: "Quando un utente tenta di incollare un testo da un’altra applicazione (ad esempio Salesforce o Outlook) in un campo Rich Text di Workfront, il testo non viene incollato e l’utente visualizza un errore."
+title: '“Moduli personalizzati: errore durante la procedura per incollare testo in un campo di testo formattato”'
+description: “Quando un utente tenta di incollare un testo da un’altra applicazione (ad esempio Salesforce o Outlook) in un campo di testo formattato di Workfront, il testo non viene incollato e l’utente visualizza un messaggio di errore.”
 hidefromtoc: true
 feature: Custom Forms
 source-git-commit: 67ae05de95f667bb3fa7c1b06271bbe644682472
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Moduli personalizzati: errore durante l’incollamento di testo in un campo in formato Rich Text
+# Moduli personalizzati: errore durante la procedura per incollare testo in un campo di testo formattato
 
 >[!NOTE]
 >
 >Questo problema è stato risolto il venerdì 22 febbraio 2024.
 
-Quando un utente tenta di incollare un testo da un’altra applicazione (ad esempio Salesforce o Outlook) in un campo Rich Text di Workfront, il testo non viene incollato e l’utente visualizza il seguente errore:
+Quando un utente tenta di incollare un testo da un’altra applicazione (ad esempio Salesforce o Outlook) in un campo di testo formattato di Workfront, il testo non viene incollato e l’utente visualizza il seguente messaggio di errore:
 
-&quot;[!UICONTROL Il valore del parametro &#39;Rich Text Test&#39; non è valido. L&#39;attributo &#39;url&#39; non è valido.]&quot;
+“[!UICONTROL Il valore del parametro “testo formattato” non è valido. L’attributo “url” non è valido.]”
 
 _Segnalato per la prima volta il martedì 12 febbraio 2024._
