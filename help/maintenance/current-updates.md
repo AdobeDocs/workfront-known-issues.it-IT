@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
 workflow-type: tm+mt
 source-wordcount: '1913'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Quando un utente effettua l’accesso, può verificarsi quanto segue:
 
 <!--no article-->
 
-Quando un amministratore gruppo tenta di modificare il livello di accesso di un utente, può verificarsi una delle seguenti situazioni:
+Quando un amministratore del gruppo tenta di modificare il livello di accesso di un utente, può verificarsi una delle seguenti situazioni:
 
 * il campo del livello di accesso è disabilitato.
 * L’amministratore del gruppo non può scegliere un livello di accesso inferiore.
@@ -64,7 +64,7 @@ Quando un amministratore gruppo tenta di modificare il livello di accesso di un 
 
 **Etichetta per ore non lavorative**
 
-Il Bilanciatore dei carichi di lavoro e il calendario personale delle ferie sono ora visualizzati &quot;[!UICONTROL Ore non lavorative]&quot; per il tempo che un utente sta decollando. Precedentemente il display mostrava &quot;[!UICONTROL Ore di lavoro]&quot; per i giorni non lavorativi.
+Il Bilanciatore dei carichi di lavoro e il calendario personale delle ferie ora mostrano le “[!UICONTROL ore non lavorative]” in cui l’utente ha preso le ferie. Precedentemente la visualizzazione mostrava “[!UICONTROL Ore di lavoro]” per il tempo non lavorativo.
 
 +++
 

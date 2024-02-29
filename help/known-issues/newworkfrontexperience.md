@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: b75ee8aaab1f9dfb2f90a786d75e0cfc9b9efd85
 workflow-type: tm+mt
 source-wordcount: '860'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -48,7 +48,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Integrazioni: documenti non allegati durante la creazione di una richiesta da  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | venerdì 22 febbraio 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | venerdì 22 febbraio 2024 |
 | [Utenti: livelli di accesso inferiori non disponibili durante la creazione di un utente](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | venerdì 22 febbraio 2024 |
-| [Progetti: la sequenza temporale viene ricalcolata molto lentamente quando si modifica la data in un’attività](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | giovedì 21 febbraio 2024 |
+| [Progetti: quando si modifica la data in un’attività, la timeline viene ricalcolata molto lentamente](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | giovedì 21 febbraio 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sabato 16 febbraio 2024 |
 | [Bacheche: le schede non vengono ordinate](known-issues-workfront/wf-boards-not-sorting.md) | sabato 16 febbraio 2024 |
 | [Aggiornamenti: la schermata diventa vuota quando si risponde a un utente di un’altra azienda](known-issues-workfront/wf-updates-screen-goes-blank-when-replying.md) | martedì 12 febbraio 2024 |

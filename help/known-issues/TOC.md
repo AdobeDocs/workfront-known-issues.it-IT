@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2dc8cabb4977908846b62f4b9f43b75fd348776f
 workflow-type: tm+mt
 source-wordcount: '1699'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 95%
       + [Schede orario: errore durante la visualizzazione del pannello di riepilogo](known-issues-workfront/wf-timesheets-summary-panel-not-working.md)
       + [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md)
       + [Progetti: errore durante l’utilizzo dei filtri in un elenco di prodotti](known-issues-workfront/wf-projects-error-using-filter-in-list.md)
-      + [Moduli personalizzati: errore durante l’incollamento di testo in un campo in formato Rich Text](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
-      + [Progetti: la sequenza temporale viene ricalcolata molto lentamente quando si modifica la data in un’attività](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
+      + [Moduli personalizzati: errore durante la procedura per incollare testo in un campo di testo formattato](known-issues-workfront/wf-custom-forms-invalid-date-when-pasting.md)
+      + [Progetti: quando si modifica la data in un’attività, la timeline viene ricalcolata molto lentamente](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md)
       + [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md)
       + [Bacheche: le schede non vengono ordinate](known-issues-workfront/wf-boards-not-sorting.md)
       + [Bacheche: la schermata rimane vuota durante la visualizzazione dei dettagli delle schede](known-issues-workfront/wf-boards-details-blank-for-reviewer.md)
