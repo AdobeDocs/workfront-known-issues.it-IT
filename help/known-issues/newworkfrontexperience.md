@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: 09091815a09c59f4d15e152d40927072995418be
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 95%
+source-wordcount: '821'
+ht-degree: 93%
 
 ---
 
@@ -26,8 +26,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Attività: la creazione o la duplicazione delle attività causa la visualizzazione dell’elenco delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
-| [Report: le modifiche apportate in modalità testo non vengono applicate ai report o alle visualizzazioni](known-issues-workfront/wf-reports-text-mode-not-saving.md) | martedì 26 febbraio 2024 |
-| [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | mercoledì 13 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
 
@@ -39,8 +37,10 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Report: le modifiche apportate in modalità testo non vengono applicate ai report o alle visualizzazioni](known-issues-workfront/wf-reports-text-mode-not-saving.md) | martedì 26 febbraio 2024 |
+| [Attività: la creazione o la duplicazione delle attività causa la visualizzazione dell’elenco delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sabato 8 marzo 2024 |
+| [Aggiornamenti: spazi grandi tra le righe](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | sabato 8 marzo 2024 |
 | [Bozze: alle bozze create da documenti collegati non è applicato il modello di bozza](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | sabato 1 marzo 2024 |
-| [Bilanciatore dei carichi di lavoro: le ore pianificate non vengono aggiornate nel Bilanciatore dei carichi di lavoro](known-issues-workfront/wf-workload-balancer-inaccurate-planned-hours.md) | sabato 23 febbraio 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
 | [Integrazioni: documenti non allegati durante la creazione di una richiesta da  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | venerdì 22 febbraio 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | venerdì 22 febbraio 2024 |

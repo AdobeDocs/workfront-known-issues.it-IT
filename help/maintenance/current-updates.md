@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c609910c69f6339c57afec09c42529cfbd3e486b
+source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
 workflow-type: tm+mt
-source-wordcount: '1913'
-ht-degree: 100%
+source-wordcount: '2093'
+ht-degree: 96%
 
 ---
 
@@ -19,6 +19,45 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 >Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
+
+## Aggiornamenti di marzo 2024
+
++++**Aggiornamento di manutenzione del venerdì 7 marzo 2024**
+
+### Aggiornamento di manutenzione del giovedì 7 marzo 2024
+
+#### Bacheche
+
+**Errore 400 quando si aggiunge un’attività a una bacheca**
+
+Quando un utente visualizza un progetto e tenta di aggiungere un’attività a una bacheca, questa non viene aggiunta e l’utente visualizza il seguente errore:
+
+Errore: &quot;400: /boards-service/graphql non definito&quot;
+
+#### Home
+
+**Errore durante la modifica in linea di un’attività nel widget Attività personale**
+
+Quando un utente cerca di modificare in linea un’attività nel widget Attività personali, viene visualizzato il seguente errore:
+
+&quot;Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.”
+
+
+#### Bilanciatore dei carichi di lavoro
+
+**Le ore pianificate non vengono aggiornate nel Bilanciatore dei carichi di lavoro**
+
+“Quando le ore pianificate su un progetto vengono aggiornate, non vengono aggiornate nel Bilanciatore dei carichi di lavoro. Ciò può verificarsi anche se la modifica viene riflessa accuratamente nel progetto.
+
++++
+
++++**Aggiornamento di manutenzione di Workfront Fusion del 7 marzo 2024
+
+**Workfront Proof > Timeout del modulo Watch Proof**
+
+Gli scenari che utilizzano Workfront Proof > modulo Watch Proof possono disattivarsi a causa del timeout del modulo Watch Proof.
+
++++
 
 ## Aggiornamenti di febbraio 2024
 
