@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 09091815a09c59f4d15e152d40927072995418be
+source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 93%
+source-wordcount: '831'
+ht-degree: 92%
 
 ---
 
@@ -37,6 +37,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
 | [Report: le modifiche apportate in modalità testo non vengono applicate ai report o alle visualizzazioni](known-issues-workfront/wf-reports-text-mode-not-saving.md) | martedì 26 febbraio 2024 |
 | [Attività: la creazione o la duplicazione delle attività causa la visualizzazione dell’elenco delle attività in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sabato 8 marzo 2024 |
 | [Aggiornamenti: spazi grandi tra le righe](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | sabato 8 marzo 2024 |

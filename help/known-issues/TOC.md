@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
 workflow-type: tm+mt
-source-wordcount: '1716'
-ht-degree: 98%
+source-wordcount: '1725'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Aggiornamenti: spazi grandi tra le righe](known-issues-workfront/wf-updates-large-spacing-between-lines.md)
       + [Bozze: alle bozze create da documenti collegati non è applicato il modello di bozza](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md)
       + [Report: le modifiche apportate in modalità testo non vengono applicate ai report o alle visualizzazioni](known-issues-workfront/wf-reports-text-mode-not-saving.md)
