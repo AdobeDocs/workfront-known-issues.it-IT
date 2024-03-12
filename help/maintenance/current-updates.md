@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: caf54488e247a820fbbb623937a9ec9c4560300b
 workflow-type: tm+mt
-source-wordcount: '2093'
-ht-degree: 96%
+source-wordcount: '2235'
+ht-degree: 93%
 
 ---
 
@@ -21,6 +21,32 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di marzo 2024
+
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 14 marzo 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 14 marzo 2024
+
+#### Integrazioni
+
+**Documenti non allegati durante la creazione di una richiesta da[!DNL Outlook]**
+
+Quando un utente crea una richiesta da [!DNL Outlook], i documenti allegati all’e-mail non vengono allegati alla richiesta.
+
+#### Bozze
+
+**Alle bozze create da documenti collegati non è applicato il modello di bozza**
+
+Quando un utente crea una bozza da un documento collegato, il modello di bozza non viene applicato correttamente e potrebbero mancare informazioni come il flusso di lavoro.
+
+Questo vale anche per le bozze create tramite l’API e tramite Workfront Fusion.
+
+#### Utenti
+
+**Livelli di accesso inferiori non disponibili durante la creazione di un utente**
+
+Quando un utente crea un altro utente, al nuovo utente è disponibile solo il livello di accesso del primo utente. Tutti i livelli di accesso con autorizzazioni inferiori rispetto a quelli dell’utente che crea devono essere disponibili per l’assegnazione al nuovo utente.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 7 marzo 2024**
 
