@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 93%
+source-wordcount: '167'
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: alle bozze create da documenti collegati non è applicato il modello di bozza](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | sabato 1 marzo 2024 |
 | [Workfront Fusion: RuntimeError con risposta 200 dal modulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md) | martedì 29 gennaio 2024 |
 
 {style="table-layout:auto"}

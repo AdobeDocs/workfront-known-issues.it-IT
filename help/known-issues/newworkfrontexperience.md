@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f91e947afbd2ef5cec4f5bac7273276b842e172e
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '831'
-ht-degree: 96%
+source-wordcount: '774'
+ht-degree: 98%
 
 ---
 
@@ -37,21 +37,16 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | venerdì 14 marzo 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
 | [Rapporti: le modifiche apportate in modalità testo non vengono applicate ai rapporti o alle visualizzazioni](known-issues-workfront/wf-reports-text-mode-not-saving.md) | martedì 26 febbraio 2024 |
-| [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | sabato 8 marzo 2024 |
 | [Aggiornamenti: spazi grandi tra le righe](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | sabato 8 marzo 2024 |
-| [Bozze: alle bozze create da documenti collegati non è applicato il modello di bozza](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | sabato 1 marzo 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
 | [Integrazioni: documenti non allegati durante la creazione di una richiesta da  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | venerdì 22 febbraio 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | venerdì 22 febbraio 2024 |
-| [Utenti: livelli di accesso inferiori non disponibili durante la creazione di un utente](known-issues-workfront/wf-users-access-levels-not-available-when-creating-user.md) | venerdì 22 febbraio 2024 |
-| [Progetti: quando si modifica la data in un’attività, la timeline viene ricalcolata molto lentamente](known-issues-workfront/wf-projects-timeline-takes-long-time-to-recalculate.md) | giovedì 21 febbraio 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sabato 16 febbraio 2024 |
 | [Bacheche: le schede non vengono ordinate](known-issues-workfront/wf-boards-not-sorting.md) | sabato 16 febbraio 2024 |
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 1 febbraio 2024 |
-| [Problemi: lo stato del problema non è presente nel menu a discesa](known-issues-workfront/wf-issues-status-not-available.md) | giovedì 31 gennaio 2024 |
-| [Team: problemi relativi all’impostazione degli stati del team per il pulsante [!UICONTROL Fine]](known-issues-workfront/wf-teams-statuses-missing.md) | venerdì 25 gennaio 2024 |
 | [Nuova [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento widget non seguono il modello layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
 | [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sabato 15 dicembre 2023 |
 | [Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |

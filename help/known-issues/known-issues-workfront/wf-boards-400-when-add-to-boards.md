@@ -3,19 +3,15 @@ title: '“Bacheche: errore 400 durante l’aggiunta di un’attività a una bac
 description: “Quando un utente visualizza un progetto e tenta di aggiungere un’attività a una bacheca, questa non viene aggiunta e l’utente visualizza un errore. È disponibile una soluzione alternativa.”
 hidefromtoc: true
 feature: Agile
-source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 95%
 
 ---
 
 
 # Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca
-
->[!NOTE]
->
->Questo problema è stato risolto il venerdì 7 marzo 2024.
 
 Quando un utente visualizza un progetto e tenta di aggiungere un’attività a una bacheca, questa non viene aggiunta e l’utente visualizza il seguente errore:
 

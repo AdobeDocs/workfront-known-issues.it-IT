@@ -3,10 +3,10 @@ title: "Bozze: alle bozze create da documenti collegati non viene applicato il m
 description: "Quando un utente crea una bozza da un documento collegato, il modello di bozza non viene applicato correttamente e potrebbero mancare informazioni come il flusso di lavoro."
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: d4a2754abb7ff184a9924b228ef1fb4702856a32
+source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '103'
+ht-degree: 9%
 
 ---
 
@@ -14,6 +14,10 @@ ht-degree: 4%
 # Bozze: alle bozze create da documenti collegati non è applicato il modello di bozza
 
 <!--On WF, WFF, WFP TOCs-->
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 14 marzo 2024.
 
 Quando un utente crea una bozza da un documento collegato, il modello di bozza non viene applicato correttamente e potrebbero mancare informazioni come il flusso di lavoro.
 
