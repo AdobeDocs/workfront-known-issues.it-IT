@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
 source-wordcount: '2205'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornament
 
 +++**Aggiornamento di manutenzione del venerdì 14 marzo 2024**
 
-### Aggiornamento di manutenzione del giovedì 14 marzo 2024
+### Aggiornamento di manutenzione del venerdì 14 marzo 2024
 
 #### Bozze
 
@@ -44,23 +44,23 @@ Quando un utente crea un altro utente, al nuovo utente è disponibile solo il li
 
 +++**Aggiornamento di manutenzione del venerdì 7 marzo 2024**
 
-### Aggiornamento di manutenzione del giovedì 7 marzo 2024
+### Aggiornamento di manutenzione del 7 marzo 2024
 
 #### Bacheche
 
-**Errore 400 quando si aggiunge un’attività a una bacheca**
+**Errore 400 durante l’aggiunta di un’attività a una bacheca**
 
 Quando un utente visualizza un progetto e tenta di aggiungere un’attività a una bacheca, questa non viene aggiunta e l’utente visualizza il seguente errore:
 
-Errore: &quot;400: /boards-service/graphql non definito&quot;
+Errore: “400: undefined /boards-service/graphql”.
 
 #### Home
 
-**Errore durante la modifica in linea di un’attività nel widget Attività personale**
+**Errore durante la modifica in linea di un’attività nel widget Le mie attività**
 
-Quando un utente cerca di modificare in linea un’attività nel widget Attività personali, viene visualizzato il seguente errore:
+Quando un utente cerca di modificare in linea un’attività nel widget Le mie attività, viene visualizzato il seguente errore:
 
-&quot;Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.”
+“Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.”
 
 
 #### Bilanciatore dei carichi di lavoro
@@ -73,7 +73,7 @@ Quando un utente cerca di modificare in linea un’attività nel widget Attivit�
 
 +++**Aggiornamento di manutenzione di Workfront Fusion del 7 marzo 2024
 
-**Workfront Proof > Timeout del modulo Watch Proof**
+**Workfront Proof > timeout del modulo Watch Proof**
 
 Gli scenari che utilizzano Workfront Proof > modulo Watch Proof possono disattivarsi a causa del timeout del modulo Watch Proof.
 

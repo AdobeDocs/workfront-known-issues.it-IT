@@ -6,7 +6,7 @@ feature: Agile
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 Quando un utente visualizza un progetto e tenta di aggiungere un’attività a una bacheca, questa non viene aggiunta e l’utente visualizza il seguente errore:
 
-Errore: &quot;400: /boards-service/graphql non definito&quot;
+Errore: “400: undefined /boards-service/graphql”.
 
 **Soluzione alternativa**
 

@@ -1,12 +1,12 @@
 ---
-title: "Bozze: alle bozze create da documenti collegati non viene applicato il modello di bozza"
-description: "Quando un utente crea una bozza da un documento collegato, il modello di bozza non viene applicato correttamente e potrebbero mancare informazioni come il flusso di lavoro."
+title: '“Bozze: alle bozze create da documenti collegati non viene applicato il modello di bozza”'
+description: “Quando un utente crea una bozza da un documento collegato, il modello di bozza non viene applicato correttamente e potrebbero mancare informazioni come il flusso di lavoro.”
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
