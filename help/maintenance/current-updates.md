@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
+source-git-commit: 62e129903ba48689aa8acf5d22a52bed2d88ab2a
 workflow-type: tm+mt
-source-wordcount: '2205'
-ht-degree: 99%
+source-wordcount: '2318'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,26 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di marzo 2024
+
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 21 marzo 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 21 marzo 2024
+
+#### Aggiornamenti
+
+**Spazi grandi tra le righe**
+
+Quando un utente digita un aggiornamento con più righe utilizzando il tasto Invio o A capo, o incolla più righe in un aggiornamento, l’aggiornamento viene visualizzato come previsto. Tuttavia, se un utente visualizza tale aggiornamento in un rapporto, ci sono ampi spazi tra le righe.
+
+Questo problema è stato segnalato nella nuova esperienza di commento.
+
+**Assegnare tag a un utente con @ non è efficace**
+
+Quando un utente assegna un tag a un altro utente inserendo @ in un commento, l’utente non viene aggiunto all’area utenti taggati e non riceve una notifica sul commento.
+
+Questa correzione si applica solo alla nuova esperienza di commento.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 14 marzo 2024**
 
