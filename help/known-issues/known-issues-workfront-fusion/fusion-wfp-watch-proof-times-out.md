@@ -4,7 +4,7 @@ description: “Gli scenari che utilizzano Workfront Proof > modulo Watch Proof 
 hidefromtoc: true
 feature: Workfront Fusion, Workfront Proof
 source-git-commit: 44c6b3f903d88dff46077f5805da31f9ec3c0923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 
