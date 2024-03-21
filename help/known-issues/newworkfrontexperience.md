@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
+source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '796'
 ht-degree: 95%
 
 ---
@@ -25,7 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aggiornamenti: i commenti del documento non vengono visualizzati negli aggiornamenti dell&#39;oggetto padre](known-issues-workfront/wf-updates-document-comments-not-visible.md) | venerdì 14 marzo 2024 |
 | [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
@@ -38,19 +37,17 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Aggiornamenti: i commenti del documento non vengono visualizzati negli aggiornamenti dell&#39;oggetto padre](known-issues-workfront/wf-updates-document-comments-not-visible.md) | venerdì 21 marzo 2024 |
 | [Bozze: impossibile generare una bozza da un sito web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | venerdì 14 marzo 2024 |
 | [Ricerca: impossibile modificare dalla ricerca](known-issues-workfront/wf-search-cannot-edit-from-search.md) | venerdì 14 marzo 2024 |
 | [Aggiornamenti: assegnazione di tag a un utente non efficace](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | venerdì 14 marzo 2024 |
 | [Registrazione dell&#39;ora: l&#39;utente non può registrare l&#39;ora per il giorno corrente](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | venerdì 14 marzo 2024 |
-| [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca](known-issues-workfront/wf-boards-400-when-add-to-boards.md) | venerdì 14 marzo 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
 | [Rapporti: le modifiche apportate in modalità testo non vengono applicate ai rapporti o alle visualizzazioni](known-issues-workfront/wf-reports-text-mode-not-saving.md) | martedì 26 febbraio 2024 |
-| [Aggiornamenti: spazi grandi tra le righe](known-issues-workfront/wf-updates-large-spacing-between-lines.md) | sabato 8 marzo 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
 | [Integrazioni: documenti non allegati durante la creazione di una richiesta da  [!DNL Outlook]](known-issues-workfront/wf-integrations-outlook-not-attach-documents.md) | venerdì 22 febbraio 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | venerdì 22 febbraio 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sabato 16 febbraio 2024 |
-| [Bacheche: le schede non vengono ordinate](known-issues-workfront/wf-boards-not-sorting.md) | sabato 16 febbraio 2024 |
 | [Bacheche: le schede non vengono spostate nella colonna appropriata quando lo stato viene modificato](known-issues-workfront/wf-boards-card-not-moving-when-status-changed.md) | venerdì 1 febbraio 2024 |
 | [Nuova [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento widget non seguono il modello layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
 | [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sabato 15 dicembre 2023 |
