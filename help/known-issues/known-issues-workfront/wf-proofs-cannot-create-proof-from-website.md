@@ -1,12 +1,12 @@
 ---
-title: "Bozze: impossibile generare una bozza da un sito web"
-description: "Quando un utente tenta di generare una bozza da un sito web, la bozza non viene generata."
+title: '“Bozze: impossibile generare una bozza da un sito web”'
+description: “Quando un utente tenta di generare una bozza da un sito web, la bozza non viene generata.”
 hidefromtoc: true
 feature: Digital Content and Documents
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 

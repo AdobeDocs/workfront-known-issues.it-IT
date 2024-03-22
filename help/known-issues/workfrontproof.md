@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '379'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Aggiornamenti: i commenti del documento non vengono visualizzati negli aggiornamenti dell&#39;oggetto padre](known-issues-workfront/wf-updates-document-comments-not-visible.md) | venerdì 14 marzo 2024 |
+| [Aggiornamenti: i commenti al documento non vengono visualizzati negli aggiornamenti dell&#39;oggetto principale](known-issues-workfront/wf-updates-document-comments-not-visible.md) | venerdì 14 marzo 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
 
 {style="table-layout:auto"}

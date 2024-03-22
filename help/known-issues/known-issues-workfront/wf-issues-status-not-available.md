@@ -4,7 +4,7 @@ description: “Quando un utente tenta di modificare lo stato di un problema nel
 hidefromtoc: true
 feature: Work Management
 source-git-commit: e399c45c2bb5782d8d25add9b097cce18205f994
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 
