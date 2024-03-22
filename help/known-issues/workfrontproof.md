@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '379'
-ht-degree: 100%
+source-git-commit: 7418ab025de4ececb47309b3112b17ecdbac9d09
+workflow-type: tm+mt
+source-wordcount: '412'
+ht-degree: 92%
 
 ---
 
@@ -36,6 +36,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: le bozze rimangono nel widget Le mie approvazioni](known-issues-workfront/wf-proofs-stuck-on-widget.md) | sabato 22 marzo 2024 |
+| [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sabato 22 marzo 2024 |
+| [Bozze: la bozza semplice della nuova versione del documento include il flusso di lavoro della versione precedente](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md) | sabato 22 marzo 2024 |
 | [Bozze: problemi durante l’elaborazione dei file statici](known-issues-workfront/wf-proofs-discrepancies-in-new-tool.md) | sabato 15 dicembre 2023 |
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-error-when-sharing-proof-from-email.md) | 26 ottobre 2023 |

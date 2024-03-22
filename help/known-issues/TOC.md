@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ccfb36c19fadf2637abb98e9b05ab16d312833a
-workflow-type: ht
-source-wordcount: '1764'
-ht-degree: 100%
+source-git-commit: ffd973ea682c5a7a89aa0976f46b9004c8d7be7c
+workflow-type: tm+mt
+source-wordcount: '1830'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Agile: le schede kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Bozze: le bozze rimangono nel widget Le mie approvazioni](known-issues-workfront/wf-proofs-stuck-on-widget.md)
+      + [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
+      + [Gestione risorse: discrepanza nelle ore preventivate](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Bozze: la bozza semplice della nuova versione del documento include il flusso di lavoro della versione precedente](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
+      + [Attività: la descrizione del predecessore non mostra il nome dell’attività](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca da una bacheca Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Bozze: impossibile generare una bozza da un sito web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Ricerca: impossibile modificare dalla ricerca](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Aggiornamenti: l’assegnazione di tag a un utente non è efficace](known-issues-workfront/wf-updates-not-notified-when-tagged.md)
