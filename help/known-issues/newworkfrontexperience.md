@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
 workflow-type: tm+mt
 source-wordcount: '796'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -37,11 +37,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
-| [Aggiornamenti: i commenti del documento non vengono visualizzati negli aggiornamenti dell&#39;oggetto padre](known-issues-workfront/wf-updates-document-comments-not-visible.md) | venerdì 21 marzo 2024 |
+| [Aggiornamenti: i commenti al documento non vengono visualizzati negli aggiornamenti dell&#39;oggetto principale](known-issues-workfront/wf-updates-document-comments-not-visible.md) | venerdì 21 marzo 2024 |
 | [Bozze: impossibile generare una bozza da un sito web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | venerdì 14 marzo 2024 |
 | [Ricerca: impossibile modificare dalla ricerca](known-issues-workfront/wf-search-cannot-edit-from-search.md) | venerdì 14 marzo 2024 |
 | [Aggiornamenti: assegnazione di tag a un utente non efficace](known-issues-workfront/wf-updates-not-notified-when-tagged.md) | venerdì 14 marzo 2024 |
-| [Registrazione dell&#39;ora: l&#39;utente non può registrare l&#39;ora per il giorno corrente](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | venerdì 14 marzo 2024 |
+| [Registrazione di ore: l’utente non può registrare l’ora per il giorno corrente](known-issues-workfront/wf-logging-time-cannot-log-in-current-date.md) | venerdì 14 marzo 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
 | [Rapporti: le modifiche apportate in modalità testo non vengono applicate ai rapporti o alle visualizzazioni](known-issues-workfront/wf-reports-text-mode-not-saving.md) | martedì 26 febbraio 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
