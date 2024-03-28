@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2316'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -28,15 +28,15 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 #### Aggiornamenti
 
-**Spazi grandi tra le righe**
+**Spazi di grandi dimensioni tra le linee**
 
 Quando un utente digita un aggiornamento con più righe utilizzando il tasto Invio o A capo, o incolla più righe in un aggiornamento, l’aggiornamento viene visualizzato come previsto. Tuttavia, se un utente visualizza tale aggiornamento in un rapporto, ci sono ampi spazi tra le righe.
 
 Questo problema è stato segnalato nella nuova esperienza di commento.
 
-**Assegnare tag a un utente con @ non è efficace**
+**Assegnare tag a un utente con @ non ha alcun effetto**
 
-Quando un utente assegna un tag a un altro utente inserendo @ in un commento, l’utente non viene aggiunto all’area utenti taggati e non riceve una notifica sul commento.
+Quando un utente assegna un tag a un altro utente inserendo @ in un commento, l’utente non viene aggiunto all’area utenti taggati e non riceve una notifica relativa al commento.
 
 Questa correzione si applica solo alla nuova esperienza di commento.
 
