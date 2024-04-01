@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
-source-wordcount: '2316'
-ht-degree: 100%
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,71 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di marzo 2024
+
++++**Aggiornamento di manutenzione del venerdì 28 marzo 2024**
+
+### Aggiornamento di manutenzione del venerdì 28 marzo 2024
+
+#### Integrazioni
+
+**Documenti non allegati durante la creazione di una richiesta da[!DNL Outlook]**
+
+Quando un utente crea una richiesta da [!DNL Outlook], i documenti allegati all’e-mail non vengono allegati alla richiesta.
+
+Questo problema è stato segnalato per le seguenti tipologie di allegati:
+
+XLS
+PDF
+
+#### Bozze
+
+**Le bozze rimangono nel widget Le mie approvazioni**
+
+Una bozza che dovrebbe scomparire dal widget Le mie approvazioni rimane sul widget. Ciò può verificarsi quando più utenti prendono decisioni su una bozza contemporaneamente oppure un utente prende una decisione e la modifica rapidamente.
+
+#### Gestione risorse
+
+**Discrepanza nelle ore preventivate**
+
+Le ore preventivate visualizzate in una delle seguenti aree potrebbero non corrispondere a quelle visualizzate in un&#39;altra di queste aree:
+
+* Business Case
+* Report
+* Strumento Budget risorse
+
+#### Attività
+
+**La descrizione comando del predecessore non visualizza il nome dell’attività**
+
+Quando un utente visualizza un elenco di attività e passa il puntatore sull’icona di un predecessore per ottenere ulteriori informazioni, nella descrizione non viene visualizzato il nome dell’attività predecessore.
+
+#### Aggiornamenti
+
+**I commenti del documento non vengono visualizzati negli aggiornamenti dell&#39;oggetto padre**
+
+Quando un utente aggiunge un commento a un documento, tale commento non viene visualizzato immediatamente nell’area Aggiornamenti dell’oggetto principale del documento.
+
+Questo problema è stato segnalato nella nuova esperienza di commento. I commenti vengono visualizzati come previsto nell’esperienza di commento precedente.
+
+**L’assegnazione di tag a un utente non è efficace**
+
+Quando un utente viene taggato all’interno di un commento, quest’ultimo non è visibile all’utente taggato. Inoltre, l’utente taggato non riceve alcuna notifica relativa al commento, né tramite e-mail e né tramite una notifica in-app.
+
+Questo problema è stato segnalato nell’esperienza di commento precedente.
+
++++
+
++++**Workfront Fusion - Aggiornamento di manutenzione del venerdì 28 marzo 2024**
+
+### Aggiornamento di manutenzione di Workfront Fusion del 28 marzo 2024
+
+**RuntimeError con risposta 200 dal modulo Workfront**
+
+Un modulo Workfront può restituire una risposta `RuntimeError [200]`. Il valore 200 implica una risposta corretta, ma l’errore mostra che la richiesta non è riuscita.
+
+Ciò può verificarsi se la risposta è estremamente lunga. I dati vengono restituiti a Fusion, ma non possono essere elaborati.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 21 marzo 2024**
 

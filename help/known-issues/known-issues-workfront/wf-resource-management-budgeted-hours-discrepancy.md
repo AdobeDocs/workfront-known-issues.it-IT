@@ -3,15 +3,19 @@ title: "Gestione risorse: discrepanza nelle ore preventivate"
 description: "Le ore preventivate visualizzate in un'area di Workfront potrebbero non corrispondere a quelle visualizzate in un'altra area."
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
+source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Gestione risorse: discrepanza nelle ore preventivate
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 28 marzo 2024.
 
 Le ore preventivate visualizzate in una delle seguenti aree potrebbero non corrispondere a quelle visualizzate in un&#39;altra di queste aree:
 
