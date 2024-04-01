@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 432e47846b2ac2599ffe4625ab7388465194e48c
+source-git-commit: e28899711b95aea10ef43c45498db7aa73f7a784
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1502'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Report: il filtro del report non restituisce i risultati previsti](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Bacheche: l’utente non può visualizzare la bacheca quando il team dell’utente viene aggiunto alla bacheca](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [Agile: le schede kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [Bozze: le bozze rimangono nel widget Le mie approvazioni](known-issues-workfront/wf-proofs-stuck-on-widget.md)
