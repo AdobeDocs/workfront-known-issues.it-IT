@@ -1,17 +1,21 @@
 ---
-title: '“Registrazione ore: l’utente non può registrare l’ora per il giorno corrente”'
-description: “Quando un utente tenta di registrare l’ora nell’area Aggiornamenti, il giorno corrente è disattivato e l’utente non può registrare l’ora per il giorno corrente.”
+title: "Registrazione dell’ora: l’utente non può registrare l’ora per il giorno corrente"
+description: Quando un utente cerca di registrare l’ora nell’area Aggiornamenti, il giorno corrente è disattivato e l’utente non può registrare l’ora per il giorno corrente.
 hidefromtoc: true
 feature: People Teams and Groups, Timesheets
-source-git-commit: c0f69dae7ce1586f6b7e7b34f520f262389e2081
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+exl-id: 882aba6e-519f-4c48-94ee-469f13ed7e92
+source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 89%
 
 ---
 
-
 # Registrazione ore: l’utente non può registrare l’ora per il giorno corrente
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 4 aprile 2024.
 
 Quando un utente cerca di registrare l’ora nell’area Aggiornamenti, il giorno corrente è disattivato e l’utente non può registrare l’ora per il giorno corrente.
 

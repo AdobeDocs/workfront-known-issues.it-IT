@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 735095abc95d64e8737c2ffa5aabdd4922be1e1b
+source-git-commit: fda4921dbfc56b7a58e8cb783af2ebaceb38db9e
 workflow-type: tm+mt
-source-wordcount: '2736'
+source-wordcount: '2773'
 ht-degree: 92%
 
 ---
@@ -22,9 +22,20 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 ## Aggiornamenti di aprile 2024
 
-+++**(Pianificato) Aggiornamento di manutenzione del venerdì 4 aprile 2024**
++++**Aggiornamento di manutenzione del venerdì 4 aprile 2024**
 
-### (Pianificato) Aggiornamento di manutenzione del venerdì 4 aprile 2024
+### Aggiornamento di manutenzione del giovedì 4 aprile 2024
+
+#### Integrazioni
+
+**Documenti non allegati durante la creazione di una richiesta da[!DNL Outlook]**
+
+Quando un utente crea una richiesta da [!DNL Outlook], i documenti allegati all’e-mail non vengono allegati alla richiesta.
+
+Questo problema è stato segnalato per le seguenti tipologie di allegati:
+
+XLS
+PDF
 
 #### Registrazione dell’ora
 
