@@ -1,17 +1,21 @@
 ---
 title: "Bacheche: l’utente non può visualizzare la bacheca quando il team dell’utente viene aggiunto alla bacheca"
-description: '"Quando il team di un utente viene aggiunto a una bacheca, l’utente potrebbe non essere in grado di visualizzarla o utilizzarla. Ciò può verificarsi anche se altri membri del team possono visualizzare o utilizzare la bacheca. È disponibile una soluzione alternativa.”'
+description: Quando il team di un utente viene aggiunto a una bacheca, l’utente potrebbe non essere in grado di visualizzarla o utilizzarla. Ciò può verificarsi anche se altri membri del team possono visualizzare o utilizzare la bacheca. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 7e2d6a89b0c875a16ccbf9a7b13f9f90f62c0fdb
+exl-id: a7c91886-4acd-443f-b6e0-7f0627a08281
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 9%
 
 ---
 
-
 # Bacheche: l’utente non può visualizzare la bacheca quando il team dell’utente viene aggiunto alla bacheca
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il mercoledì 2 aprile 2024.
 
 Quando il team di un utente viene aggiunto a una bacheca, l’utente potrebbe non essere in grado di visualizzarla o utilizzarla. Ciò può verificarsi anche se altri membri del team possono visualizzare o utilizzare la bacheca.
 

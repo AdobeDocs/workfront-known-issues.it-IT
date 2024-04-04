@@ -1,17 +1,21 @@
 ---
 title: "Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca da una pagina del team"
-description: “Quando un utente visualizza un progetto e tenta di aggiungere un’attività a una bacheca, questa non viene aggiunta e l’utente visualizza un errore. È disponibile una soluzione alternativa.”
+description: Quando un utente visualizza un progetto e tenta di aggiungere un’attività a una bacheca, l’attività non viene aggiunta e l’utente visualizza un errore. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Agile
-source-git-commit: f6b027f26edafe69474d0d1d551f6b9909b3342c
+exl-id: 6630fc4a-241b-4699-a076-f04768099372
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 47%
+source-wordcount: '122'
+ht-degree: 23%
 
 ---
 
-
 # Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca da una bacheca Kanban
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 28 marzo 2024.
 
 Quando un utente visualizza la pagina Kanban Board di un team e tenta di aggiungere un’attività a una bacheca in Bacheche, l’attività non viene aggiunta e l’utente visualizza il seguente errore:
 

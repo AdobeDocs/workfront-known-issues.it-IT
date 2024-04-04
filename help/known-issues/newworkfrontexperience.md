@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 01a30a5a94fa733b24bf78fc425f72ac92f5aeea
+source-git-commit: 50f79121e0b027c3f0283cd43d19c885dde8268b
 workflow-type: tm+mt
-source-wordcount: '795'
-ht-degree: 92%
+source-wordcount: '745'
+ht-degree: 95%
 
 ---
 
@@ -25,9 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: alle bozze create da documenti collegati non è applicato il modello di bozza](known-issues-workfront/wf-proofs-created-from-external-no-workflow.md) | giovedì 27 marzo 2024 |
-| [Bacheche: l’utente non può visualizzare la bacheca quando il team dell’utente viene aggiunto alla bacheca](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md) | giovedì 27 marzo 2024 |
-| [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca da una bacheca Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md) | sabato 22 marzo 2024 |
 | [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
@@ -43,7 +40,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Aggiornamenti: l’anteprima dell’immagine negli aggiornamenti è sfocata](known-issues-workfront/wf-updates-images-blurred.md) | mercoledì 2 aprile 2024 |
 | [Agile: le schede kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | venerdì 28 marzo 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sabato 22 marzo 2024 |
-| [Bozze: impossibile generare una bozza da un sito web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md) | venerdì 14 marzo 2024 |
 | [Ricerca: impossibile modificare dalla ricerca](known-issues-workfront/wf-search-cannot-edit-from-search.md) | venerdì 14 marzo 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
