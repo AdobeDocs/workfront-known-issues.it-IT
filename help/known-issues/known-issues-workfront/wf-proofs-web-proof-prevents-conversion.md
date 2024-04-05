@@ -3,7 +3,7 @@ title: "Bozze: la bozza impedisce la conversione dell’attività o del problema
 description: '"Quando un utente cerca di convertire un’attività o un problema che include una bozza generata dal web in un progetto, il progetto non viene creato e l’utente visualizza un messaggio. È disponibile una soluzione alternativa.”'
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: d45d86590821d5a6b7b6856afe2e65b2ff2c3da5
+source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 5%
@@ -26,3 +26,4 @@ Attenersi alla seguente procedura:
 3. Utilizza la funzione Sposta documento per spostare la bozza nel nuovo progetto.
 
 _Segnalato per la prima volta il venerdì 28 marzo 2024._
+
