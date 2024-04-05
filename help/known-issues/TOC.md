@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 023b8ed4fe38b3c43c3d78c2ba5c11e965a5c5d0
+source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
 workflow-type: tm+mt
-source-wordcount: '1591'
+source-wordcount: '1598'
 ht-degree: 89%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporti: errore 500 durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [Aggiornamenti: &quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta](known-issues-workfront/wf-updates-were-unable-to-post.md)
       + [Aggiornamenti: i commenti non vengono visualizzati &quot;[!UICONTROL per conto di]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
       + [Calendari: errore durante l’aggiornamento del calendario](known-issues-workfront/wf-calendar-error-when-refresh.md)

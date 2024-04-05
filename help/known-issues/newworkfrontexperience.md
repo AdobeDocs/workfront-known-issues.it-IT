@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: 1f516bdbea40c2946dec1935b7ada63b28b3451c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '844'
 ht-degree: 86%
 
 ---
@@ -38,6 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Rapporti: errore 500 durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-500-error-exporting.md) | sabato 5 aprile 2024 |
 | [Aggiornamenti: i commenti non vengono visualizzati &quot;[!UICONTROL per conto di]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | venerdì 4 aprile 2024 |
 | [Calendari: errore durante l’aggiornamento del calendario](known-issues-workfront/wf-calendar-error-when-refresh.md) | venerdì 4 aprile 2024 |
 | [Aggiornamenti: il testo non viene mantenuto quando ci si sposta e si torna al commento](known-issues-workfront/wf-updates-text-missing-after-mention.md) | venerdì 4 aprile 2024 |
