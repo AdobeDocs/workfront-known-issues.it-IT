@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: f7cc59883c8d45aa8a59e7c4b48f85ce64054c82
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 98%
+source-wordcount: '359'
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozza di Workfront: le firme elettroniche non funzionano](known-issues-workfront-proof/proof-esignatures-not-working.md) | venerdì 4 aprile 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sabato 22 marzo 2024 |
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 

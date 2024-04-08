@@ -1,15 +1,15 @@
 ---
 title: "Bozze: la bozza impedisce la conversione dell’attività o del problema in progetto"
-description: '"Quando un utente cerca di convertire un’attività o un problema che include una bozza generata dal web in un progetto, il progetto non viene creato e l’utente visualizza un messaggio. È disponibile una soluzione alternativa.”'
+description: Quando un utente cerca di convertire un’attività o un problema che include una bozza generata dal web in un progetto, il progetto non viene creato e l’utente visualizza un messaggio. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
-source-git-commit: b761e7feeba027348224e5d0e996fb65bd8cdecc
+exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
+source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 5%
 
 ---
-
 
 # Bozze: la bozza impedisce la conversione dell’attività o del problema in progetto
 
@@ -17,7 +17,7 @@ Quando un utente cerca di convertire un’attività o un problema che include un
 
 &quot;[!UICONTROL Si è verificato un problema durante la copia del file] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Rimuovi il file o contatta l’assistenza e riprova.]&quot;
 
-**Soluzione alternativa**
+**Soluzione alternativa** s
 
 Attenersi alla seguente procedura:
 

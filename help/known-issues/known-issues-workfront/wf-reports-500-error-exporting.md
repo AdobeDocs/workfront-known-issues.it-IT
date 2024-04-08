@@ -1,17 +1,21 @@
 ---
-title: "Report: errore 500 durante l’esportazione di un report"
-description: '"Quando un utente tenta di esportare un rapporto, l’operazione ha esito negativo e viene visualizzato un errore. È disponibile una soluzione alternativa.”'
+title: '“Rapporti: errore 500 durante l’esportazione di un rapporto”'
+description: Quando un utente cerca di esportare un rapporto, l’operazione ha esito negativo e viene visualizzato un errore. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0dbb29f11088b5c963f7972f3ec9e64ee55d6263
+exl-id: 5ebdf00e-122b-4646-b9d8-8775d6e7c1cf
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 16%
+source-wordcount: '105'
+ht-degree: 27%
 
 ---
 
-
 # Rapporti: errore 500 durante l’esportazione di un rapporto
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il sabato 5 aprile 2024.
 
 Quando un utente tenta di esportare un rapporto, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
 
@@ -24,4 +28,3 @@ Ciò si verifica quando il rapporto fa riferimento a un campo valuta personalizz
 Rimuovi la colonna che fa riferimento al campo della valuta personalizzata ed esporta nuovamente il rapporto.
 
 _Segnalato per la prima volta il venerdì 4 aprile 2024._
-

@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '840'
 ht-degree: 87%
 
 ---
@@ -39,13 +39,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
 | [Bozze: la bozza impedisce la conversione dell’attività o del problema in progetto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sabato 5 aprile 2024 |
-| [Rapporti: errore 500 durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-500-error-exporting.md) | sabato 5 aprile 2024 |
 | [Aggiornamenti: i commenti non vengono visualizzati &quot;[!UICONTROL per conto di]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | venerdì 4 aprile 2024 |
 | [Calendari: errore durante l’aggiornamento del calendario](known-issues-workfront/wf-calendar-error-when-refresh.md) | venerdì 4 aprile 2024 |
 | [Aggiornamenti: il testo non viene mantenuto quando ci si sposta e si torna al commento](known-issues-workfront/wf-updates-text-missing-after-mention.md) | venerdì 4 aprile 2024 |
 | [Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | venerdì 4 aprile 2024 |
 | [Attività: le informazioni sul predecessore non includono il collegamento](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | venerdì 4 aprile 2024 |
-| [Bozza di Workfront: le firme elettroniche non funzionano](known-issues-workfront-proof/proof-esignatures-not-working.md) | venerdì 4 aprile 2024 |
 | [Aggiornamenti: &quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta](known-issues-workfront/wf-updates-were-unable-to-post.md) | venerdì 4 aprile 2024 |
 | [Registrazione dell’ora: impossibile modificare le ore per attività o problemi](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | venerdì 4 aprile 2024 |
 | [Moduli personalizzati: i campi di ricerca esterni non restituiscono risultati](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | venerdì 4 aprile 2024 |
