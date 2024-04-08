@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '1608'
-ht-degree: 88%
+ht-degree: 92%
 
 ---
 
@@ -32,13 +32,13 @@ ht-degree: 88%
       + [Aggiornamenti: l’anteprima dell’immagine negli aggiornamenti è sfocata](known-issues-workfront/wf-updates-images-blurred.md)
       + [Report: il filtro del report non restituisce i risultati previsti](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Bacheche: l’utente non può visualizzare la bacheca quando il team dell’utente viene aggiunto alla bacheca](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
-      + [Agile: le schede kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
+      + [Agile: le schede Kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [Bozze: le bozze rimangono nel widget Le mie approvazioni](known-issues-workfront/wf-proofs-stuck-on-widget.md)
       + [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
-      + [Gestione risorse: discrepanza nelle ore preventivate](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
+      + [Gestione delle risorse: discrepanza nelle ore preventivate](known-issues-workfront/wf-resource-management-budgeted-hours-discrepancy.md)
       + [Bozze: la bozza semplice della nuova versione del documento include il flusso di lavoro della versione precedente](known-issues-workfront/wf-proofs-simple-proof-includes-workflow.md)
-      + [Attività: la descrizione del predecessore non mostra il nome dell’attività](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
-      + [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca da una bacheca Kanban](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
+      + [Attività: la descrizione del predecessore non visualizza il nome dell’attività](known-issues-workfront/wf-tasks-predecessor-name-not-in-tooltip.md)
+      + [Bacheche: errore 400 durante l’aggiunta di un’attività a una bacheca Kanban”](known-issues-workfront/wf-boards-400-when-adding-from-team.md)
       + [Bozze: impossibile generare una bozza da un sito web](known-issues-workfront/wf-proofs-cannot-create-proof-from-website.md)
       + [Ricerca: impossibile modificare dalla ricerca](known-issues-workfront/wf-search-cannot-edit-from-search.md)
       + [Aggiornamenti: l’assegnazione di tag a un utente non è efficace](known-issues-workfront/wf-updates-not-notified-when-tagged.md)

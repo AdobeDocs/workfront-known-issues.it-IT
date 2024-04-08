@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
 workflow-type: tm+mt
 source-wordcount: '855'
-ht-degree: 85%
+ht-degree: 87%
 
 ---
 
@@ -50,7 +50,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Registrazione dell’ora: impossibile modificare le ore per attività o problemi](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | venerdì 4 aprile 2024 |
 | [Moduli personalizzati: i campi di ricerca esterni non restituiscono risultati](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | venerdì 4 aprile 2024 |
 | [Aggiornamenti: l’anteprima dell’immagine negli aggiornamenti è sfocata](known-issues-workfront/wf-updates-images-blurred.md) | mercoledì 2 aprile 2024 |
-| [Agile: le schede kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | venerdì 28 marzo 2024 |
+| [Agile: le schede Kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | venerdì 28 marzo 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sabato 22 marzo 2024 |
 | [Ricerca: impossibile modificare dalla ricerca](known-issues-workfront/wf-search-cannot-edit-from-search.md) | venerdì 14 marzo 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
