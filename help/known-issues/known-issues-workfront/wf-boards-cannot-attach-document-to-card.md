@@ -1,13 +1,13 @@
 ---
-title: "Bacheche: impossibile allegare un documento a una scheda"
+title: '“Bacheche: impossibile allegare un documento a una scheda”'
 description: Quando un utente tenta di allegare un documento a una scheda connessa, può selezionare il documento da allegare, ma il documento non viene visualizzato nell’area del documento della scheda e non è collegato all’oggetto a cui è connessa la scheda.
 hidefromtoc: true
 feature: Agile
 exl-id: 3f204bb2-52b7-4b4f-ba3b-469059a809cd
 source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

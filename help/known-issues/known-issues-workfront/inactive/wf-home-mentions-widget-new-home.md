@@ -1,13 +1,13 @@
 ---
-title: "Home: il widget delle menzioni nella nuova Home non è limitato ai messaggi in cui l’utente è taggato."
-description: Quando un utente visualizza il widget Menzioni nella nuova esperienza Home, vede commenti che non sono taggati o menzionati in.
+title: '“Home: il widget Menzioni nella nuova pagina Home non è limitato ai messaggi in cui l’utente viene taggato.”'
+description: Quando un utente visualizza il widget Menzioni nella nuova esperienza Home, l’utente vede commenti in cui non sono presenti tag o menzioni su di sé.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 8df8a84b-6a1c-4142-affe-5d83ff9a939b
 source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 

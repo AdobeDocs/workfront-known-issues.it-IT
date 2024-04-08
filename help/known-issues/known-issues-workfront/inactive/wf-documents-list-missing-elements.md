@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 39bc9972-7c9a-4a00-8b00-9670e502fed1
 source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 75%
 In relazione all’elenco dei documenti, sono stati segnalati i problemi seguenti:
 
 * le miniature non vengono visualizzate.
-* Se un utente cambia la cartella selezionata in Vista a elenco, le opzioni Filtro, Vista e Raggruppamento non funzionano più.
+* Se un utente passa alla cartella selezionata nella vista Elenco, le opzioni Vista, Filtro e Raggruppamento non funzionano più.
 
 **Soluzione alternativa**
 
