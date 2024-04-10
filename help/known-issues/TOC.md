@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8d9d463f5b6974dbbba95b7d8457760cbdfeb13e
+source-git-commit: 5640fd3a3f03a81104886baeeb37b01abb66fd9a
 workflow-type: tm+mt
-source-wordcount: '1608'
+source-wordcount: '1618'
 ht-degree: 92%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Richieste: il campo calcolato non viene aggiornato durante la compilazione della richiesta](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Bozze: la bozza impedisce la conversione dell’attività o del problema in progetto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Rapporti: errore 500 durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-500-error-exporting.md)
       + [Aggiornamenti: &quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta](known-issues-workfront/wf-updates-were-unable-to-post.md)
