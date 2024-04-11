@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cc9c9acc9d4ce6543f827e1c8d08a64775e32ecc
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '2905'
-ht-degree: 92%
+source-wordcount: '3037'
+ht-degree: 89%
 
 ---
 
@@ -21,6 +21,32 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di aprile 2024
+
++++**Aggiornamento di manutenzione del venerdì 11 aprile 2024**
+
+### Aggiornamento di manutenzione dell’giovedì 11 aprile 2024
+
+#### Ricerca
+
+**Impossibile modificare dalla ricerca**
+
+Quando un utente utilizza la Ricerca avanzata e tenta di modificare o modificare in blocco i risultati della ricerca, l’icona Modifica non risponde.
+
+#### Aggiornamenti
+
+**L’anteprima dell’immagine negli aggiornamenti è sfocata**
+
+Quando un utente visualizza gli aggiornamenti e fa clic sulla lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre presenta con pixel molto sfocati.
+
+Se l’utente scarica l’immagine, questa viene visualizzata alla risoluzione prevista.
+
+**&quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta**
+
+Quando un utente cerca di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
+
+&quot;[!UICONTROL Impossibile pubblicare il commento in questo momento. Riprova tra qualche istante.]&quot;
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 4 aprile 2024**
 

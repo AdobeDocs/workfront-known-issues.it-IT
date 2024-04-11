@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
+source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 87%
+source-wordcount: '817'
+ht-degree: 88%
 
 ---
 
@@ -44,13 +44,10 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Aggiornamenti: il testo non viene mantenuto quando ci si sposta e si torna al commento](known-issues-workfront/wf-updates-text-missing-after-mention.md) | venerdì 4 aprile 2024 |
 | [Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | venerdì 4 aprile 2024 |
 | [Attività: le informazioni sul predecessore non includono il collegamento](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md) | venerdì 4 aprile 2024 |
-| [Aggiornamenti: &quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta](known-issues-workfront/wf-updates-were-unable-to-post.md) | venerdì 4 aprile 2024 |
 | [Registrazione dell’ora: impossibile modificare le ore per attività o problemi](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | venerdì 4 aprile 2024 |
 | [Moduli personalizzati: i campi di ricerca esterni non restituiscono risultati](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md) | venerdì 4 aprile 2024 |
-| [Aggiornamenti: l’anteprima dell’immagine negli aggiornamenti è sfocata](known-issues-workfront/wf-updates-images-blurred.md) | mercoledì 2 aprile 2024 |
 | [Agile: le schede Kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | venerdì 28 marzo 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sabato 22 marzo 2024 |
-| [Ricerca: impossibile modificare dalla ricerca](known-issues-workfront/wf-search-cannot-edit-from-search.md) | venerdì 14 marzo 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | venerdì 22 febbraio 2024 |
