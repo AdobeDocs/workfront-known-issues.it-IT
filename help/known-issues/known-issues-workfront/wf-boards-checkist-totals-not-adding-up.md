@@ -1,17 +1,21 @@
 ---
-title: '“Bacheche: i totali dell’elenco di controllo non sono accurati”'
-description: “Quando un utente visualizza una scheda con voci dell’elenco di controllo e apporta una modifica affinché il totale dell’elenco di controllo cambi, il totale non cambia.”
+title: "Bacheche: i totali dell’elenco di controllo non sono precisi"
+description: Quando un utente visualizza una scheda con voci dell’elenco di controllo e apporta una modifica affinché il totale dell’elenco di controllo cambi, il totale non cambia.
 hidefromtoc: true
 feature: Agile
-source-git-commit: b8a2f0c1ef9ca07e452e9f5b266d7707905a6052
-workflow-type: ht
-source-wordcount: '88'
-ht-degree: 100%
+exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 93%
 
 ---
 
-
 # Bacheche: i totali dell’elenco di controllo non sono accurati
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 11 aprile 2024.
 
 Quando un utente visualizza una scheda con voci dell’elenco di controllo e apporta una modifica affinché il totale dell’elenco di controllo cambi, il totale non cambia.
 

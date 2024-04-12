@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 60412f6dae3a9688504e6041c6033dfaad861c37
+source-git-commit: c1303ae0fa8e6f18a7e8d88c065579ed89c18e87
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 87%
+source-wordcount: '827'
+ht-degree: 85%
 
 ---
 
@@ -37,6 +37,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Elenchi: l’elenco non visualizza tutti gli elementi](known-issues-workfront/wf-lists-does-not-display-all.md) | sabato 12 aprile 2024 |
+| [Bozza di Workfront: le firme elettroniche non funzionano](known-issues-workfront-proof/proof-esignatures-not-working.md) | sabato 12 aprile 2024 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | venerdì 11 aprile 2024 |
 | [Richieste: il campo calcolato non viene aggiornato durante la compilazione della richiesta](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | mercoledì 9 aprile 2024 |
 | [Bozze: la bozza impedisce la conversione dell’attività o del problema in progetto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sabato 5 aprile 2024 |
@@ -50,9 +52,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Agile: le schede Kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md) | venerdì 28 marzo 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sabato 22 marzo 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
-| [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | sabato 23 febbraio 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | venerdì 22 febbraio 2024 |
-| [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | sabato 16 febbraio 2024 |
 | [Nuova [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento widget non seguono il modello layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
 | [Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di  [!DNL Workfront]  su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |

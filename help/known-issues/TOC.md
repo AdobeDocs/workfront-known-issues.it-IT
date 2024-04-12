@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 60412f6dae3a9688504e6041c6033dfaad861c37
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
 workflow-type: tm+mt
-source-wordcount: '1626'
+source-wordcount: '1633'
 ht-degree: 91%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Elenchi: l’elenco non visualizza tutti gli elementi](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Richieste: il campo calcolato non viene aggiornato durante la compilazione della richiesta](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
       + [Bozze: la bozza impedisce la conversione dell’attività o del problema in progetto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)

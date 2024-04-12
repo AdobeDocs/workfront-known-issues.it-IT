@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
+source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 100%
+source-wordcount: '367'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
+| Nessuno | |
 
 {style="table-layout:auto"}
 
@@ -35,6 +35,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sabato 12 aprile 2024 |
+| [Bozza di Workfront: le firme elettroniche non funzionano](known-issues-workfront-proof/proof-esignatures-not-working.md) | sabato 12 aprile 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sabato 22 marzo 2024 |
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 
