@@ -3,7 +3,7 @@ title: "Team: impossibile visualizzare il proprietario del team o eliminare il t
 description: "Queste azioni non sono disponibili per gli amministratori di gruppi."
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 079c056ed83bc8dcd2aca2972760c871b1bdf7fd
+source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 27%
@@ -25,3 +25,4 @@ Le azioni seguenti non sono disponibili per gli amministratori di gruppi
 Ciò si verifica anche se l’amministratore del gruppo dispone di tutte le autorizzazioni relative a team e utenti.
 
 _Segnalato per la prima volta il sabato 15 marzo 2024._
+
