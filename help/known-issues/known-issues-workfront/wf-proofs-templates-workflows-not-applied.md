@@ -3,7 +3,7 @@ title: "Bozze: le bozze create da risorse di integrazioni non dispongono di mode
 description: “”
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 9ba06d760825cca476e2384bd68c284c52217e0d
+source-git-commit: 770c89523348785ad9cbdef87ddf6ac75a7d001a
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%
@@ -22,3 +22,4 @@ I seguenti elementi sono stati segnalati come errati nelle bozze create:
 * Notifiche e-mail (non inviate)
 
 _Segnalato per la prima volta il giovedì 28 febbraio 2024._
+
