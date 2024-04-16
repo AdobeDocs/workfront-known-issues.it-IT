@@ -1,19 +1,18 @@
 ---
-title: "Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività"
-description: "Quando un utente tenta di aggiungere o eliminare un’attività, l’attività non viene aggiunta o eliminata e l’utente visualizza un errore Bizcontext."
+title: '“Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività”'
+description: Quando un utente tenta di modificare o eliminare un’attività, l’operazione ha esito negativo e viene visualizzato un errore Bizcontext.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ba35f0961af20753c8b902a46d47dbe45ad3262b
-workflow-type: tm+mt
+exl-id: 581a73c4-2743-473b-9c42-84591e5800a1
+source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
 # Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività
 
-Quando un utente tenta di aggiungere o eliminare un’attività, questa non viene aggiunta o eliminata e l’utente visualizza un errore Bizcontext.
+Quando un utente tenta di modificare o eliminare un’attività, l’operazione ha esito negativo e viene visualizzato un errore Bizcontext.
 
 _Segnalato per la prima volta il venerdì 7 marzo 2024._
-

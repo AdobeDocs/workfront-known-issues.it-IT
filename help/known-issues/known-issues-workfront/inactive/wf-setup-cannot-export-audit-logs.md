@@ -1,13 +1,13 @@
 ---
-title: "Configurazione: impossibile esportare i registri di controllo"
+title: '“Configurazione: impossibile esportare i registri di controllo”'
 description: Quando un utente cerca di esportare un numero elevato di registri di controllo, i registri non vengono esportati. Non vi è alcuna indicazione che l’esportazione non sia riuscita.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: a9a7b551-58ba-412f-bef4-b0dae16d2611
 source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 
