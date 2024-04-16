@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
-source-wordcount: '3037'
-ht-degree: 98%
+source-wordcount: '3258'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,40 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di aprile 2024
+
++++**Aggiornamento di manutenzione del venerdì 18 aprile 2024**
+
+### Aggiornamento di manutenzione del venerdì 18 aprile 2024
+
+#### Agile
+
+**Le schede kanban non visualizzano campi personalizzati**
+
+Quando un utente visualizza una bacheca Kanban configurata per includere campi personalizzati, tali campi personalizzati potrebbero non essere visualizzati.
+
+#### Calendari
+
+**Errore durante l’aggiornamento del calendario**
+
+Quando un utente visualizza un calendario e aggiorna la pagina, viene visualizzato un errore “Ops”. I dati nel calendario vengono visualizzati come previsto, ma possono essere oscurati dal messaggio di errore.
+
+#### Moduli personalizzati
+
+**I campi di ricerca esterna non restituiscono risultati**
+
+Quando un campo di ricerca esterno fa riferimento a un campo a selezione multipla in cui è selezionato un solo valore, il campo non restituisce il valore.
+
+Ad esempio, se un campo di ricerca esterno fa riferimento a un campo a selezione multipla in cui sono selezionati sia i valori “rosso” che quelli “blu”, il campo funziona come previsto. Se nel campo è selezionato solo “rosso”, il campo di ricerca esterno non restituisce alcun valore.
+
+#### Progetti
+
+**Impossibile convertire il problema in progetto se è allegata una bozza web**
+
+Quando a un problema è allegata una bozza web (una bozza URL che utilizza un collegamento di un provider di documenti esterno come SharePoint) e un utente tenta di convertire tale problema in un progetto, la conversione non riesce e il progetto non viene creato. L’utente visualizza il seguente errore:
+
+“Si è verificato un problema durante la copia del file (GUID file). Rimuovi il file o contatta l’assistenza e riprova.”
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 11 aprile 2024**
 
