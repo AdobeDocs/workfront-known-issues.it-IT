@@ -5,7 +5,7 @@ role: User
 source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
 workflow-type: tm+mt
 source-wordcount: '1670'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -24,21 +24,21 @@ ht-degree: 89%
       + [Elenchi: l’elenco non visualizza tutti gli elementi](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Richieste: il campo calcolato non viene aggiornato durante la compilazione della richiesta](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
-      + [Bozze: la bozza impedisce la conversione dell’attività o del problema in progetto](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
+      + [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Rapporti: errore 500 durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-500-error-exporting.md)
-      + [Aggiornamenti: &quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta](known-issues-workfront/wf-updates-were-unable-to-post.md)
-      + [Aggiornamenti: i commenti non vengono visualizzati &quot;[!UICONTROL per conto di]&quot;](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
+      + [Aggiornamenti: messaggio “[!UICONTROL Impossibile pubblicare il commento]” quando si risponde](known-issues-workfront/wf-updates-were-unable-to-post.md)
+      + [Aggiornamenti: i commenti non vengono visualizzati “[!UICONTROL per conto di]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md)
       + [Calendari: errore durante l’aggiornamento del calendario](known-issues-workfront/wf-calendar-error-when-refresh.md)
-      + [Aggiornamenti: il testo non viene mantenuto quando ci si sposta e si torna al commento](known-issues-workfront/wf-updates-text-missing-after-mention.md)
+      + [Aggiornamenti: il testo non viene mantenuto quando si cambia pagina e si torna al commento](known-issues-workfront/wf-updates-text-missing-after-mention.md)
       + [Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Attività: le informazioni sul predecessore non includono il collegamento](known-issues-workfront/wf-tasks-predecessor-popup-no-link.md)
-      + [Bozza di Workfront: le firme elettroniche non funzionano](known-issues-workfront-proof/proof-esignatures-not-working.md)
+      + [Workfront Proof: le firme elettroniche non funzionano](known-issues-workfront-proof/proof-esignatures-not-working.md)
       + [Modello di layout: pagina di destinazione non corretta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
-      + [Registrazione dell’ora: impossibile modificare le ore per attività o problemi](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
+      + [Orario di accesso: impossibile modificare le ore su attività o problemi](known-issues-workfront/wf-logging-time-cannot-edit-hours.md)
       + [Moduli personalizzati: i campi di ricerca esterni non restituiscono risultati](known-issues-workfront/wf-custom-forms-external-lookup-no-results.md)
       + [Aggiornamenti: l’anteprima dell’immagine negli aggiornamenti è sfocata](known-issues-workfront/wf-updates-images-blurred.md)
-      + [Report: il filtro del report non restituisce i risultati previsti](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
-      + [Bacheche: l’utente non può visualizzare la bacheca quando il team dell’utente viene aggiunto alla bacheca](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
+      + [Rapporto: il filtro del rapporto non restituisce i risultati previsti](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
+      + [Bacheche: l’utente non riesce a visualizzare la bacheca quando il team dell’utente viene aggiunto alla bacheca](known-issues-workfront/wf-boards-user-on-team-cannot-see-board.md)
       + [Agile: le schede Kanban non visualizzano campi personalizzati](known-issues-workfront/wf-agile-custom-fields-not-appearing-kanban.md)
       + [Bozze: le bozze rimangono nel widget Le mie approvazioni](known-issues-workfront/wf-proofs-stuck-on-widget.md)
       + [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)

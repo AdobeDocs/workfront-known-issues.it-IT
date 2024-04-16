@@ -1,13 +1,13 @@
 ---
 title: '“Rapporti: errore 500 durante l’esportazione di un rapporto”'
-description: Quando un utente cerca di esportare un rapporto, l’operazione ha esito negativo e viene visualizzato un errore. È disponibile una soluzione alternativa.
+description: Quando un utente tenta di esportare un rapporto, l’operazione ha esito negativo e viene visualizzato un messaggio di errore. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 5ebdf00e-122b-4646-b9d8-8775d6e7c1cf
 source-git-commit: cebbfd27b0d07c77706a609e38935f01d9727404
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 27%
 >
 >Questo problema è stato risolto il sabato 5 aprile 2024.
 
-Quando un utente tenta di esportare un rapporto, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
+Quando un utente tenta di esportare un rapporto, l’operazione ha esito negativo e viene visualizzato il seguente errore:
 
-500: impossibile richiamare &quot;com.attask.biz.Parameter.getDisplayType()&quot; perché &quot;parameter&quot; è null /attask/api-internal/report/export
+500: impossibile richiamare &quot;com.attask.biz.Parameter.getDisplayType()&quot; perché “parametro” è null /attask/api-internal/report/export
 
 Ciò si verifica quando il rapporto fa riferimento a un campo valuta personalizzato a livello di progetto.
 

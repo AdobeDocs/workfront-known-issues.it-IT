@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
 workflow-type: tm+mt
 source-wordcount: '3037'
-ht-degree: 89%
+ht-degree: 98%
 
 ---
 
@@ -24,7 +24,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 +++**Aggiornamento di manutenzione del venerdì 11 aprile 2024**
 
-### Aggiornamento di manutenzione dell’giovedì 11 aprile 2024
+### Aggiornamento di manutenzione del venerdì 11 aprile 2024
 
 #### Ricerca
 
@@ -36,21 +36,21 @@ Quando un utente utilizza la Ricerca avanzata e tenta di modificare o modificare
 
 **L’anteprima dell’immagine negli aggiornamenti è sfocata**
 
-Quando un utente visualizza gli aggiornamenti e fa clic sulla lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre presenta con pixel molto sfocati.
+Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre è estremamente sfocata e pixelata.
 
 Se l’utente scarica l’immagine, questa viene visualizzata alla risoluzione prevista.
 
 **&quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta**
 
-Quando un utente cerca di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
+Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
 
-&quot;[!UICONTROL Impossibile pubblicare il commento in questo momento. Riprova tra qualche istante.]&quot;
+“[!UICONTROL Impossibile pubblicare il commento in questo momento. Riprova tra qualche istante.]”
 
 +++
 
 +++**Aggiornamento di manutenzione del venerdì 4 aprile 2024**
 
-### Aggiornamento di manutenzione del giovedì 4 aprile 2024
+### Aggiornamento di manutenzione del 4 aprile 2024
 
 #### Ricerca
 
@@ -62,21 +62,21 @@ Quando un utente utilizza la Ricerca avanzata e tenta di modificare o modificare
 
 **L’anteprima dell’immagine negli aggiornamenti è sfocata**
 
-Quando un utente visualizza gli aggiornamenti e fa clic sulla lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre presenta con pixel molto sfocati.
+Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre è estremamente sfocata e pixelata.
 
 Se l’utente scarica l’immagine, questa viene visualizzata alla risoluzione prevista.
 
 **&quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta**
 
-Quando un utente cerca di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
+Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
 
-&quot;[!UICONTROL Impossibile pubblicare il commento in questo momento. Riprova tra qualche istante.]&quot;
+“[!UICONTROL Impossibile pubblicare il commento in questo momento. Riprova tra qualche istante.]”
 
 +++
 
 +++**Aggiornamento di manutenzione del venerdì 4 aprile 2024**
 
-### Aggiornamento di manutenzione del giovedì 4 aprile 2024
+### Aggiornamento di manutenzione del 4 aprile 2024
 
 #### Integrazioni
 
@@ -91,7 +91,7 @@ PDF
 
 #### Registrazione dell’ora
 
-**L’utente non può registrare l’ora per il giorno corrente**
+**Registrazione di ore: l’utente non può registrare l’ora per il giorno corrente**
 
 Quando un utente cerca di registrare l’ora nell’area Aggiornamenti, il giorno corrente è disattivato e l’utente non può registrare l’ora per il giorno corrente.
 
@@ -101,11 +101,11 @@ Quando un utente cerca di registrare l’ora nell’area Aggiornamenti, il giorn
 
 **Errore durante la visualizzazione dei commenti**
 
-Quando un utente tenta di visualizzare i commenti nella nuova esperienza di commento, non può visualizzarli e visualizza il seguente errore:
+Quando un utente tenta di visualizzare i commenti nella nuova esperienza di commento, l’operazione ha esito negativo e viene visualizzato il seguente errore:
 
-&quot;Si è verificato un errore. Riprova più tardi.&quot;
+“Si è verificato un errore. Riprova più tardi.”
 
-L’esperienza di commento legacy funziona come previsto.
+L’esperienza di commento precedente funziona come previsto.
 
 +++
 
@@ -144,19 +144,19 @@ Le ore preventivate visualizzate in una delle seguenti aree potrebbero non corri
 
 #### Attività
 
-**La descrizione comando del predecessore non visualizza il nome dell’attività**
+**La descrizione del predecessore non visualizza il nome dell’attività**
 
 Quando un utente visualizza un elenco di attività e passa il puntatore sull’icona di un predecessore per ottenere ulteriori informazioni, nella descrizione non viene visualizzato il nome dell’attività predecessore.
 
 #### Aggiornamenti
 
-**I commenti del documento non vengono visualizzati negli aggiornamenti dell&#39;oggetto padre**
+**I commenti al documento non vengono visualizzati negli aggiornamenti dell’oggetto principale**
 
 Quando un utente aggiunge un commento a un documento, tale commento non viene visualizzato immediatamente nell’area Aggiornamenti dell’oggetto principale del documento.
 
 Questo problema è stato segnalato nella nuova esperienza di commento. I commenti vengono visualizzati come previsto nell’esperienza di commento precedente.
 
-**L’assegnazione di tag a un utente non è efficace**
+**Assegnare tag a un utente non ha alcun effetto**
 
 Quando un utente viene taggato all’interno di un commento, quest’ultimo non è visibile all’utente taggato. Inoltre, l’utente taggato non riceve alcuna notifica relativa al commento, né tramite e-mail e né tramite una notifica in-app.
 
@@ -166,7 +166,7 @@ Questo problema è stato segnalato nell’esperienza di commento precedente.
 
 +++**Workfront Fusion - Aggiornamento di manutenzione del venerdì 28 marzo 2024**
 
-### Aggiornamento di manutenzione di Workfront Fusion del 28 marzo 2024
+### Workfront Fusion - Aggiornamento di manutenzione del 28 marzo 2024
 
 **RuntimeError con risposta 200 dal modulo Workfront**
 
