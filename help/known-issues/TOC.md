@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 60e9862aba0f65c1cef053823d3778d3c925c23e
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '1670'
-ht-degree: 96%
+source-wordcount: '1680'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Richieste: impossibile condividere il percorso della coda richieste](known-issues-workfront/wf-requests-cannot-share-path.md)
+      + [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [Aggiornamenti: i commenti aggiunti tramite API non sono visibili in ambiente Sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Aggiornamenti: gli elenchi numerati non vengono numerati correttamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Bozze: le bozze create dalle risorse integrazioni non dispongono di modelli e flussi di lavoro applicati correttamente](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)

@@ -4,18 +4,22 @@ description: Quando un utente visualizza una scheda con voci dell’elenco di co
 hidefromtoc: true
 feature: Agile
 exl-id: 548066f3-1afe-4073-b0a1-48a749e313ff
-source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '88'
 ht-degree: 93%
 
 ---
 
 # Bacheche: i totali dell’elenco di controllo non sono accurati
 
+<!--
+
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 11 aprile 2024.
+>This issue was fixed on April 11, 2024.
+
+-->
 
 Quando un utente visualizza una scheda con voci dell’elenco di controllo e apporta una modifica affinché il totale dell’elenco di controllo cambi, il totale non cambia.
 

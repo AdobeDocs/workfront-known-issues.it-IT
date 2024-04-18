@@ -3,9 +3,9 @@ title: '“Aggiornamenti: l’anteprima dell’immagine negli aggiornamenti è s
 description: “Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre è estremamente sfocata e pixelata”.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # Aggiornamenti: l’anteprima dell’immagine negli aggiornamenti è sfocata
 
+<!--
+
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 11 aprile 2024.
+>This issue was fixed on April 11, 2024.
+
+-->
 
 Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre è estremamente sfocata e pixelata.
 

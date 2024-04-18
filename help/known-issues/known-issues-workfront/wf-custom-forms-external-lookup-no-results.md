@@ -4,14 +4,18 @@ description: Quando un campo di ricerca esterno fa riferimento a un campo a sele
 hidefromtoc: true
 feature: Custom Forms
 exl-id: b65c8870-e915-4ca5-a93b-5431440f9140
-source-git-commit: 0427b092610f78a7d33fd2b2606ac2b5e9f5f270
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 # Moduli personalizzati: i campi di ricerca esterni non restituiscono risultati
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 18 aprile 2024.
 
 Quando un campo di ricerca esterno fa riferimento a un campo a selezione multipla in cui è selezionato un solo valore, il campo non restituisce il valore.
 

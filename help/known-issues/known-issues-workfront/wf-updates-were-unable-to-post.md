@@ -3,9 +3,9 @@ title: '“Aggiornamenti: impossibile pubblicare il messaggio di commento quando
 description: “Quando un utente tenta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza un messaggio.”
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: cd05ad1b5e74693723accf43dcc9566497b3cf01
+source-git-commit: dbc4e4ecd9e7b2a6d01b43f46a3c2fd128c1d1dc
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 100%
 
 # Aggiornamenti: messaggio “[!UICONTROL Impossibile pubblicare il commento]” quando si risponde
 
+<!--
+
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 11 aprile 2024.
+>This issue was fixed on April 11, 2024.
+
+-->
 
 Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
 
