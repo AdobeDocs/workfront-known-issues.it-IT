@@ -3,7 +3,7 @@ title: "Progetti, attività e problemi: le autorizzazioni ereditate non vengono 
 description: '"Quando un utente condivide un oggetto, la scheda che mostra le autorizzazioni ereditate non è presente. ”'
 hidefromtoc: true
 feature: Projects, Tasks, Work Management
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 6bab9d008c17141758b023578297c0ac3713b29d
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 5%
@@ -19,3 +19,4 @@ Quando un utente condivide un oggetto, la scheda che mostra le autorizzazioni er
 * L&#39;utente il cui nome viene digitato per condividere l&#39;oggetto con
 
 _Segnalato per la prima volta il mercoledì 9 gennaio 2024._
+
