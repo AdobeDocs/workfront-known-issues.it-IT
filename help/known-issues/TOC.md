@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
-source-wordcount: '1710'
-ht-degree: 94%
+source-wordcount: '1719'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
       + [Bacheche: la scheda torna brevemente alla colonna originale](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Progetti, attività e problemi: le autorizzazioni ereditate non vengono visualizzate](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)

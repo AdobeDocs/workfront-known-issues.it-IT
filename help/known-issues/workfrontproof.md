@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 5281eacf00a514ef944d7894c5b67c259ea20a29
+source-git-commit: e8c00ddda577af3496d2cfaec1b0289092656364
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 98%
+source-wordcount: '376'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| Nessuno | |
+| [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martedì 22 aprile 2024 |
 
 {style="table-layout:auto"}
 

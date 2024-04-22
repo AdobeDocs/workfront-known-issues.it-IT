@@ -4,7 +4,7 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
+source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 89%
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martedì 22 aprile 2024 |
 | [Aggiornamenti: il collegamento nel commento viene visualizzato in una schermata vuota](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | venerdì 18 aprile 2024 |
 | [Aggiornamenti: i commenti aggiunti tramite API non sono visibili in ambiente Sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | martedì 15 aprile 2024 |
 | [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
@@ -41,7 +42,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 |----------------------------------| ----------------- |
 | [Bacheche: la scheda torna brevemente alla colonna originale](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | martedì 22 aprile 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martedì 22 aprile 2024 |
-| [Progetti, attività e problemi: le autorizzazioni ereditate non vengono visualizzate](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | sabato 19 aprile 2024 |
 | [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md) | venerdì 18 aprile 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | venerdì 18 aprile 2024 |
 | [Aggiornamenti: gli elenchi numerati non vengono numerati correttamente](known-issues-workfront/wf-updates-not-numbering-correctly.md) | martedì 15 aprile 2024 |
