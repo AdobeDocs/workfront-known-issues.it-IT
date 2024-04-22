@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f74b96cf43d997780cccbacb7606583dae7bf9a1
+source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 90%
+source-wordcount: '855'
+ht-degree: 89%
 
 ---
 
@@ -39,11 +39,10 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Bacheche: la scheda torna brevemente alla colonna originale](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | martedì 22 aprile 2024 |
+| [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martedì 22 aprile 2024 |
 | [Progetti, attività e problemi: le autorizzazioni ereditate non vengono visualizzate](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md) | sabato 19 aprile 2024 |
-| [Richieste: impossibile condividere il percorso della coda richieste](known-issues-workfront/wf-requests-cannot-share-path.md) | venerdì 18 aprile 2024 |
 | [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md) | venerdì 18 aprile 2024 |
-| [Aggiornamenti: messaggio “[!UICONTROL Impossibile pubblicare il commento]” durante la risposta](known-issues-workfront/wf-updates-were-unable-to-post.md) | venerdì 18 aprile 2024 |
-| [Aggiornamenti: l’anteprima dell’immagine negli aggiornamenti è sfocata](known-issues-workfront/wf-updates-images-blurred.md) | venerdì 18 aprile 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | venerdì 18 aprile 2024 |
 | [Aggiornamenti: gli elenchi numerati non vengono numerati correttamente](known-issues-workfront/wf-updates-not-numbering-correctly.md) | martedì 15 aprile 2024 |
 | [Richieste: errore durante l’apertura della bozza](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sabato 12 aprile 2024 |
