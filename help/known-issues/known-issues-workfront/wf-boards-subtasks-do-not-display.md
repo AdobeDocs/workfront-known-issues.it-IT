@@ -1,13 +1,13 @@
 ---
-title: "Bacheche: la scheda non include le sottoattività"
+title: '“Bacheche: la scheda non include attività secondarie”'
 description: Quando un utente visualizza una scheda per un’attività che è un’attività principale, le attività secondarie di tale attività principale non vengono visualizzate sulla scheda. Invece, la scheda mostra che ci sono 0 attività secondarie.
 hidefromtoc: true
 feature: Agile
 exl-id: 542514fa-6144-475a-a541-e02c392eb302
 source-git-commit: ca62d3bfb098acfd71517427ccd32dd3ee7754bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

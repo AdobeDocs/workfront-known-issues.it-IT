@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 170d07d1223b1077e904ea848eeb894b120a974a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Quando un utente cerca di convertire un’attività o un problema che include un
 
 “[!UICONTROL Si è verificato un problema durante la copia del file] \xxxxstrong>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\/strong>. [!UICONTROL Rimuovi il file o contatta l’assistenza e riprova.]”
 
-**Soluzione alternativa** s
+**Soluzioni alternative**
 
 Eseguire la seguente procedura:
 

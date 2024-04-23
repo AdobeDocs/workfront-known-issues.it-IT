@@ -1,13 +1,13 @@
 ---
-title: "Richieste: il campo calcolato non viene aggiornato durante la compilazione della richiesta"
+title: '“Richieste: il campo calcolato non viene aggiornato durante la compilazione della richiesta”'
 description: Quando un utente compila un modulo personalizzato correlato a una richiesta e il modulo include un campo calcolato, il campo non viene aggiornato. L’utente non può visualizzare il valore calcolato fino a dopo l’invio del modulo.
 hidefromtoc: true
 feature: Requests, Custom Forms
 exl-id: 9facbd7e-b072-4586-beca-9806712a288a
 source-git-commit: f39204000f2b83aee0bb7b6347f65b5b508ad9df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 

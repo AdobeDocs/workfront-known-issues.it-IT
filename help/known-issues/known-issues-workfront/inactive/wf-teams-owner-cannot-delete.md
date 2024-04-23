@@ -1,12 +1,12 @@
 ---
-title: "Team: impossibile visualizzare il proprietario del team o eliminare il team"
-description: "Queste azioni non sono disponibili per gli amministratori di gruppi."
+title: '“Team: impossibile visualizzare il proprietario del team o eliminare il team”'
+description: “Queste azioni non sono disponibili per gli amministratori di gruppi.”
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: 5ca6aa4e5e8ddc127623f0587cb42fc0fc10ebf8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 27%
 Le azioni seguenti non sono disponibili per gli amministratori di gruppi
 
 * Visualizzare o modificare il proprietario del team: il campo Proprietario non è visibile e non può essere modificato.
-* Eliminare il team: se si tenta di eliminare il team, viene visualizzato l’errore &quot;Livello di accesso insufficiente per eliminare il team&quot;.
+* Eliminare il team: se si tenta di eliminare il team, viene visualizzato l’errore “Livello di accesso insufficiente per eliminare il team”.
 
 Ciò si verifica anche se l’amministratore del gruppo dispone di tutte le autorizzazioni relative a team e utenti.
 
