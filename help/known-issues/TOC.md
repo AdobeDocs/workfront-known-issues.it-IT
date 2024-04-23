@@ -5,7 +5,7 @@ role: User
 source-git-commit: 4a2f09f2f116dfdb2a91f61d83422dc54158f4fd
 workflow-type: tm+mt
 source-wordcount: '1719'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 93%
       + [Aggiornamenti: il collegamento nel commento viene visualizzato in una schermata vuota](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Richieste: impossibile condividere il percorso della coda richieste](known-issues-workfront/wf-requests-cannot-share-path.md)
       + [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md)
-      + [Aggiornamenti: i commenti aggiunti tramite API non sono visibili in ambiente Sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
+      + [Aggiornamenti: i commenti aggiunti tramite API non sono visibili nell’ambiente Sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Aggiornamenti: gli elenchi numerati non vengono numerati correttamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
-      + [Bozze: le bozze create dalle risorse integrazioni non dispongono di modelli e flussi di lavoro applicati correttamente](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [Bozze: le bozze create dalle risorse delle integrazioni non dispongono di modelli e flussi di lavoro applicati correttamente](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
       + [Richieste: errore durante l’apertura della bozza](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Elenchi: l’elenco non visualizza tutti gli elementi](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)

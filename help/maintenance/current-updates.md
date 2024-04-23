@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 2656fd578ee38e6dcdd9e8de9e83f5472656bf78
 workflow-type: tm+mt
 source-wordcount: '3258'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -74,7 +74,7 @@ Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandi
 
 Se l’utente scarica l’immagine, questa viene visualizzata alla risoluzione prevista.
 
-**&quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta**
+**Messaggio “[!UICONTROL Impossibile pubblicare il commento]” quando si risponde**
 
 Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
 
@@ -100,7 +100,7 @@ Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandi
 
 Se l’utente scarica l’immagine, questa viene visualizzata alla risoluzione prevista.
 
-**&quot;[!UICONTROL Impossibile pubblicare il commento]messaggio &quot;durante la risposta**
+**Messaggio “[!UICONTROL Impossibile pubblicare il commento]” quando si risponde**
 
 Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
 
