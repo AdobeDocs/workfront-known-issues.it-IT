@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 06a9c8dbbf73b6ee39e529c21248a3fc372cb252
+source-git-commit: 10d252df70fcbc0a5cd7903112c61272db9f12ae
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '849'
 ht-degree: 93%
 
 ---
@@ -28,8 +28,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Integrazioni: il nome del file è &quot;null&quot; quando viene inviato all’AEM tramite l’integrazione](known-issues-workfront/wf-integrations-aem-filename-null.md) | giovedì 24 aprile 2024 |
 | [Utenti: impossibile modificare il livello di accesso dell&#39;utente](known-issues-workfront/wf-users-cannot-modify-access-level.md) | giovedì 24 aprile 2024 |
 | [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martedì 22 aprile 2024 |
-| [Aggiornamenti: il collegamento nel commento viene visualizzato in una schermata vuota](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | venerdì 18 aprile 2024 |
-| [Aggiornamenti: i commenti aggiunti tramite API non sono visibili nell’ambiente Sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | martedì 15 aprile 2024 |
 | [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
@@ -42,20 +40,18 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Aggiornamenti: i commenti aggiunti tramite API non sono visibili nell’ambiente Sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md) | venerdì 25 aprile 2024 |
 | [Bacheche: i campi nativi di Workfront non vengono visualizzati sulla scheda](known-issues-workfront/wf-boards-native-fields-not-display.md) | mercoledì 23 aprile 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercoledì 23 aprile 2024 |
 | [Bacheche: la scheda torna brevemente alla colonna originale](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | martedì 22 aprile 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martedì 22 aprile 2024 |
 | [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md) | venerdì 18 aprile 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | venerdì 18 aprile 2024 |
-| [Aggiornamenti: gli elenchi numerati non vengono numerati correttamente](known-issues-workfront/wf-updates-not-numbering-correctly.md) | martedì 15 aprile 2024 |
 | [Richieste: errore durante l’apertura della bozza](known-issues-workfront/wf-requests-cannot-open-from-request-page.md) | sabato 12 aprile 2024 |
-| [Elenchi: l’elenco non visualizza tutti gli elementi](known-issues-workfront/wf-lists-does-not-display-all.md) | sabato 12 aprile 2024 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | venerdì 11 aprile 2024 |
 | [Richieste: il campo calcolato non viene aggiornato durante la compilazione della richiesta](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | mercoledì 9 aprile 2024 |
 | [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sabato 5 aprile 2024 |
 | [Aggiornamenti: i commenti non vengono visualizzati “[!UICONTROL per conto di]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | venerdì 4 aprile 2024 |
-| [Aggiornamenti: il testo non viene mantenuto quando si cambia pagina e si torna al commento](known-issues-workfront/wf-updates-text-missing-after-mention.md) | venerdì 4 aprile 2024 |
 | [Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | venerdì 4 aprile 2024 |
 | [Orario di accesso: impossibile modificare le ore su attività o problemi](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | venerdì 4 aprile 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
