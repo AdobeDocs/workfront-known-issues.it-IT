@@ -4,7 +4,7 @@ description: “Quando un utente visualizza gli aggiornamenti e fa clic con la l
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 677e4ea1b3586f598e752bf23ba039488617aa4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
