@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
 workflow-type: tm+mt
 source-wordcount: '3396'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -62,7 +62,7 @@ Questo problema è stato segnalato nella nuova esperienza di commento.
 
 #### Agile
 
-**Le schede kanban non visualizzano campi personalizzati**
+**Nelle schede Kanban non vengono visualizzati i campi personalizzati**
 
 Quando un utente visualizza una bacheca Kanban configurata per includere campi personalizzati, tali campi personalizzati potrebbero non essere visualizzati.
 
@@ -74,7 +74,7 @@ Quando un utente visualizza un calendario e aggiorna la pagina, viene visualizza
 
 #### Moduli personalizzati
 
-**I campi di ricerca esterna non restituiscono risultati**
+**I campi di ricerca esterni non restituiscono risultati**
 
 Quando un campo di ricerca esterno fa riferimento a un campo a selezione multipla in cui è selezionato un solo valore, il campo non restituisce il valore.
 
@@ -82,7 +82,7 @@ Ad esempio, se un campo di ricerca esterno fa riferimento a un campo a selezione
 
 #### Progetti
 
-**Impossibile convertire il problema in progetto se è allegata una bozza web**
+**Non si riesce a convertire il problema in progetto se è allegata una bozza web**
 
 Quando a un problema è allegata una bozza web (una bozza URL che utilizza un collegamento di un provider di documenti esterno come SharePoint) e un utente tenta di convertire tale problema in un progetto, la conversione non riesce e il progetto non viene creato. L’utente visualizza il seguente errore:
 

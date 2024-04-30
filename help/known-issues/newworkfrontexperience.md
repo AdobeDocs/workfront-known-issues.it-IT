@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
 source-wordcount: '841'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -43,7 +43,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [[!DNL Workfront Goals]: impossibile eliminare l’obiettivo](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martedì 29 aprile 2024 |
 | [Bacheche: i campi nativi di Workfront non vengono visualizzati sulla scheda](known-issues-workfront/wf-boards-native-fields-not-display.md) | mercoledì 23 aprile 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercoledì 23 aprile 2024 |
-| [Bacheche: la scheda torna brevemente alla colonna originale](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | martedì 22 aprile 2024 |
+| [Bacheche: la scheda ritorna brevemente alla colonna originale](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | martedì 22 aprile 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martedì 22 aprile 2024 |
 | [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md) | venerdì 18 aprile 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | venerdì 18 aprile 2024 |

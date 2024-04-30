@@ -5,7 +5,7 @@ role: User
 source-git-commit: f0156064570a3b68fd9cbec2eed46c489f628ff1
 workflow-type: tm+mt
 source-wordcount: '1747'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -22,12 +22,12 @@ ht-degree: 95%
       + [Utenti: impossibile modificare il livello di accesso dell&#39;utente](known-issues-workfront/wf-users-cannot-modify-access-level.md)
       + [Bacheche: i campi nativi di Workfront non vengono visualizzati sulla scheda](known-issues-workfront/wf-boards-native-fields-not-display.md)
       + [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md)
-      + [Bacheche: la scheda torna brevemente alla colonna originale](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
+      + [Bacheche: la scheda ritorna brevemente alla colonna originale](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md)
       + [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
       + [Progetti, attività e problemi: le autorizzazioni ereditate non vengono visualizzate](known-issues-workfront/wf-projects-tasks-issues-sharing-not-shown.md)
-      + [Aggiornamenti: il collegamento nel commento viene visualizzato in una schermata vuota](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
-      + [Richieste: impossibile condividere il percorso della coda richieste](known-issues-workfront/wf-requests-cannot-share-path.md)
-      + [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md)
+      + [Aggiornamenti: il collegamento nel commento passa a una schermata vuota](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
+      + [Richieste: impossibile condividere il percorso di coda di richieste](known-issues-workfront/wf-requests-cannot-share-path.md)
+      + [Utenti: non si riesce a eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md)
       + [Aggiornamenti: i commenti aggiunti tramite API non sono visibili nell’ambiente Sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Aggiornamenti: gli elenchi numerati non vengono numerati correttamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Bozze: le bozze create dalle risorse delle integrazioni non dispongono di modelli e flussi di lavoro applicati correttamente](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
