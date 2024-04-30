@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c22214e36abeed0657e1bc74c9da9f7afd376819
+source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
 workflow-type: tm+mt
-source-wordcount: '3358'
+source-wordcount: '3396'
 ht-degree: 98%
 
 ---
@@ -19,6 +19,20 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 >Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
+
+## Aggiornamenti di maggio 2024
+
++++**Aggiornamento di manutenzione del venerdì 2 maggio 2024**
+
+### Aggiornamento di manutenzione del giovedì 2 maggio 2024
+
+#### Registrazione dell’ora
+
+**Impossibile modificare le ore per attività o problemi**
+
+Quando un utente cerca di modificare le ore su un’attività o un problema, le modifiche non vengono salvate.
+
++++
 
 ## Aggiornamenti di aprile 2024
 
