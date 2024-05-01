@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 051c814c32a75b6f2b51011166a78048d2cd5c2d
+source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '849'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Progetti: errore durante la condivisione di un progetto](known-issues-workfront/wf-projects-error-when-sharing-project.md) | giovedì 1 maggio 2024 |
 | [Bozze: impossibile prendere decisioni sulla fase del flusso di lavoro privato](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | giovedì 1 maggio 2024 |
 | [Integrazioni: il nome del file è &quot;null&quot; quando viene inviato all’AEM tramite l’integrazione](known-issues-workfront/wf-integrations-aem-filename-null.md) | giovedì 24 aprile 2024 |
 | [Utenti: impossibile modificare il livello di accesso dell&#39;utente](known-issues-workfront/wf-users-cannot-modify-access-level.md) | giovedì 24 aprile 2024 |
@@ -44,7 +45,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [[!DNL Workfront Goals]: impossibile eliminare l’obiettivo](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martedì 29 aprile 2024 |
 | [Bacheche: i campi nativi di Workfront non vengono visualizzati sulla scheda](known-issues-workfront/wf-boards-native-fields-not-display.md) | mercoledì 23 aprile 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercoledì 23 aprile 2024 |
-| [Bacheche: la scheda ritorna brevemente alla colonna originale](known-issues-workfront/wf-boards-card-briefly-returns-to-column.md) | martedì 22 aprile 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martedì 22 aprile 2024 |
 | [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md) | venerdì 18 aprile 2024 |
 | [Bacheche: i totali dell’elenco di controllo non sono accurati](known-issues-workfront/wf-boards-checkist-totals-not-adding-up.md) | venerdì 18 aprile 2024 |
