@@ -3,7 +3,7 @@ title: "Aggiornamenti: assegnare tag a un utente con @ nel pannello Riepilogo no
 description: "Quando un utente tenta di assegnare un tag a un altro utente utilizzando @ nella sezione Aggiornamenti di un pannello Riepilogo, fare clic sul nome dell’utente nel menu a discesa non è efficace. Il tentativo di assegnare un secondo tag all’utente funziona come previsto."
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 9a362d9da12ef7d95954754d269f166bf213732a
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -20,3 +20,5 @@ Quando un utente tenta di assegnare un tag a un altro utente utilizzando @ nella
 Assegna di nuovo i tag all’utente. Il secondo tentativo funziona come previsto.
 
 _Segnalato per la prima volta il martedì 18 marzo 2024._
+
+

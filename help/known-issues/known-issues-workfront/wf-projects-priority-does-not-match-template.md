@@ -3,10 +3,10 @@ title: "Progetti: il progetto creato con il modello non corrisponde alla priorit
 description: "Quando un utente converte una richiesta in un progetto utilizzando un modello, la priorità del progetto appena creato non corrisponde al modello o alla richiesta."
 hidefromtoc: true
 feature: Projects
-source-git-commit: 2a6c894c29a9dabddd40623fa23f24a72d883120
+source-git-commit: 9a362d9da12ef7d95954754d269f166bf213732a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 5%
 
 ---
 
@@ -16,3 +16,5 @@ ht-degree: 0%
 Quando un utente converte una richiesta in un progetto utilizzando un modello, la priorità del progetto appena creato non corrisponde al modello o alla richiesta.
 
 _Segnalato per la prima volta il venerdì 2 maggio 2024._
+
+
