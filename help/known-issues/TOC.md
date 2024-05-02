@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '1761'
+source-wordcount: '1768'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bacheche: la voce dell’elenco di controllo non rimane selezionata](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Progetti: errore durante la condivisione di un progetto](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Bozze: impossibile prendere decisioni sulla fase del flusso di lavoro privato](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: impossibile eliminare l’obiettivo](known-issues-workfront/wf-goals-cannot-delete-goal.md)

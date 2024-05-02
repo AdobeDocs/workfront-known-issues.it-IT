@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: b9394db748fe04e47157095e7ecddc7c4f5b1a36
+source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '824'
 ht-degree: 95%
 
 ---
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Progetti: errore durante la condivisione di un progetto](known-issues-workfront/wf-projects-error-when-sharing-project.md) | giovedì 1 maggio 2024 |
+| [Bacheche: la voce dell’elenco di controllo non rimane selezionata](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | venerdì 2 maggio 2024 |
 | [Bozze: impossibile prendere decisioni sulla fase del flusso di lavoro privato](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | giovedì 1 maggio 2024 |
 | [Integrazioni: il nome del file è &quot;null&quot; quando viene inviato all’AEM tramite l’integrazione](known-issues-workfront/wf-integrations-aem-filename-null.md) | giovedì 24 aprile 2024 |
 | [Utenti: impossibile modificare il livello di accesso dell&#39;utente](known-issues-workfront/wf-users-cannot-modify-access-level.md) | giovedì 24 aprile 2024 |
@@ -43,7 +43,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
 | [[!DNL Workfront Goals]: impossibile eliminare l’obiettivo](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martedì 29 aprile 2024 |
-| [Bacheche: i campi nativi di Workfront non vengono visualizzati sulla scheda](known-issues-workfront/wf-boards-native-fields-not-display.md) | mercoledì 23 aprile 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercoledì 23 aprile 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martedì 22 aprile 2024 |
 | [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md) | venerdì 18 aprile 2024 |
@@ -54,9 +53,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sabato 5 aprile 2024 |
 | [Aggiornamenti: i commenti non vengono visualizzati “[!UICONTROL per conto di]”](known-issues-workfront/wf-updates-comment-not-in-behalf-of.md) | venerdì 4 aprile 2024 |
 | [Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | venerdì 4 aprile 2024 |
-| [Orario di accesso: impossibile modificare le ore su attività o problemi](known-issues-workfront/wf-logging-time-cannot-edit-hours.md) | venerdì 4 aprile 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
-| [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | venerdì 22 febbraio 2024 |
 | [Nuova [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento widget non seguono il modello layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
 | [Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di  [!DNL Workfront]  su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
