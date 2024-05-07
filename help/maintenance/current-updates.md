@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b35ae8f1cff22e1cae974adc33c32e578d671dee
+source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
 workflow-type: tm+mt
-source-wordcount: '3396'
-ht-degree: 99%
+source-wordcount: '3427'
+ht-degree: 100%
 
 ---
 
@@ -22,13 +22,22 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 ## Aggiornamenti di maggio 2024
 
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 9 maggio 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 9 maggio 2024
+
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+
+
++++
+
 +++**Aggiornamento di manutenzione del venerdì 2 maggio 2024**
 
-### Aggiornamento di manutenzione del giovedì 2 maggio 2024
+### Aggiornamento di manutenzione del 2 maggio 2024
 
 #### Registrazione dell’ora
 
-**Impossibile modificare le ore per attività o problemi**
+**Impossibile modificare le ore su attività o problem**
 
 Quando un utente cerca di modificare le ore su un’attività o un problema, le modifiche non vengono salvate.
 
@@ -48,7 +57,7 @@ Quando un utente invia un commento che include un elenco numerato, quest’ultim
 
 Questo problema è stato segnalato nella nuova esperienza di commento.
 
-**Il testo non viene mantenuto quando ci si sposta e si torna al commento**
+**Il testo non viene mantenuto quando si cambia pagina e si torna al commento**
 
 Quando un utente scrive un commento che include un @mention, quindi cambia pagina da e torna al commento prima di inviarlo, qualsiasi testo immesso dopo il @mention non viene incluso nella bozza del commento.
 

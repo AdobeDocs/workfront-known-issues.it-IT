@@ -4,14 +4,18 @@ description: Quando un utente crea una nuova richiesta e ci sono delle bozze cor
 hidefromtoc: true
 feature: Requests
 exl-id: 802753e8-0e8e-42b1-917e-95185567c95a
-source-git-commit: 7d41c6bef87cde7ef2cb12e9fc0342bff3fe2746
-workflow-type: ht
-source-wordcount: '111'
+source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+workflow-type: tm+mt
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
 
 # Richieste: errore durante l’apertura della bozza
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 2 maggio 2024.
 
 Quando un utente crea una nuova richiesta e ci sono delle bozze correlate a tale coda di richieste, facendo clic per aprire una bozza, questa non viene aperta e l’utente visualizza il seguente errore:
 
