@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2917cd873a518ae2ecee2e49341e79dacec2c8da
+source-git-commit: f87a1b9d5b18aadb292397036b64ce9eb708f4ba
 workflow-type: tm+mt
-source-wordcount: '1812'
-ht-degree: 96%
+source-wordcount: '1834'
+ht-degree: 95%
 
 ---
 
@@ -18,10 +18,12 @@ ht-degree: 96%
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Bacheche: il filtro avanzato non restituisce le schede previste](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
+      + [Schede orario: la scheda orario bloccata viene spostata in una pagina vuota](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [Configurazione: il banner &quot;Logged in as&quot; (Accesso effettuato come) non viene visualizzato quando si è connessi come altro utente.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [I moderatori della bozza non possono modificare le autorizzazioni](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [Bacheche: l’utente non può vedere la bacheca a cui è assegnato il team](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [Aggiornamenti: assegnare tag a un utente con @ nel pannello Riepilogo non è efficace](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
+      + [Progetti: il progetto creato con il modello non corrisponde alla priorità del modello](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
       + [Bacheche: la voce dell’elenco di controllo non rimane selezionata](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Progetti: errore durante la condivisione di un progetto](known-issues-workfront/wf-projects-error-when-sharing-project.md)
       + [Bozze: impossibile prendere decisioni sulla fase del flusso di lavoro privato](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
@@ -39,6 +41,7 @@ ht-degree: 96%
       + [Aggiornamenti: i commenti aggiunti tramite API non sono visibili nell’ambiente Sandbox](known-issues-workfront/wf-updates-from-api-not-in-sandbox.md)
       + [Aggiornamenti: gli elenchi numerati non vengono numerati correttamente](known-issues-workfront/wf-updates-not-numbering-correctly.md)
       + [Bozze: le bozze create dalle risorse delle integrazioni non dispongono di modelli e flussi di lavoro applicati correttamente](known-issues-workfront/wf-proofs-templates-workflows-not-applied.md)
+      + [Richieste: errore durante l’apertura della bozza](known-issues-workfront/wf-requests-cannot-open-from-request-page.md)
       + [Elenchi: l’elenco non visualizza tutti gli elementi](known-issues-workfront/wf-lists-does-not-display-all.md)
       + [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Richieste: il campo calcolato non viene aggiornato durante la compilazione della richiesta](known-issues-workfront/wf-requests-calculated-field-not-updating.md)
