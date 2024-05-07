@@ -3,7 +3,7 @@ title: "Schede orario: la scheda orario bloccata va a una pagina vuota"
 description: '"Quando un utente fa clic su un pin in Workfront che deve passare alla scheda orario, il pin viene invece visualizzato in una pagina vuota. È disponibile una soluzione alternativa.”'
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
+source-git-commit: 229d3accabec51a7c559279b680336ca096c0e70
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 7%
@@ -24,3 +24,4 @@ Questo perché l’URL della scheda orario è cambiato. il `/own` alla fine dell
 1. Blocca nuovamente la scheda orario.
 
 _Segnalato per la prima volta il mercoledì 7 maggio 2024._
+
