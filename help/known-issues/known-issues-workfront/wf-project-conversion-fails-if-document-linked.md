@@ -1,17 +1,17 @@
 ---
-title: "Progetto: impossibile convertire il problema in progetto se il documento è allegato"
-description: Quando un problema presenta un documento e un utente tenta di convertirlo in un progetto, la conversione non riesce e il progetto non viene creato. L’utente visualizza un errore.
+title: '“Progetto: il problema non può essere convertito in progetto se ha allegato un documento”'
+description: Quando un utente tenta di convertire in progetto un problema che ha un documento, la conversione non riesce e il progetto non viene creato. L’utente visualizza un errore.
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
 source-git-commit: 09424954f13298fdfd1ae330c74ea3ff7084c956
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
-# Progetto: impossibile convertire il problema in progetto se il documento è allegato
+# Progetto:il problema non può essere convertito in progetto se ha un documento allegato
 
 <!--
 
@@ -21,7 +21,7 @@ ht-degree: 28%
 
 -->
 
-Quando un problema presenta un documento e un utente tenta di convertirlo in un progetto, la conversione non riesce e il progetto non viene creato. L’utente visualizza il seguente errore:
+Quando un utente tenta di convertire in progetto un problema che ha un documento, la conversione non riesce e il progetto non viene creato. L’utente visualizza il seguente errore:
 
 “Si è verificato un problema durante la copia del file (GUID file). Rimuovi il file o contatta l’assistenza e riprova.”
 
