@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d3068f21ba6e1a9a1dd4a9ed78da43cef88f4fde
+source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 90%
+source-wordcount: '876'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Configurazione: il banner &quot;Logged in as&quot; (Accesso effettuato come) non viene visualizzato quando si è connessi come altro utente.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercoledì 7 maggio 2024 |
+| [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata nel modello](known-issues-workfront/wf-projects-priority-not-transfer.md) | giovedì 8 maggio 2024 |
+| [Configurazione: il banner &quot;Logged in as&quot; (Accesso effettuato come) non viene visualizzato quando si effettua l’accesso come altro utente](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercoledì 7 maggio 2024 |
 | [Bacheche: il filtro avanzato non restituisce le schede previste](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | mercoledì 7 maggio 2024 |
 | [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | venerdì 2 maggio 2024 |
 | [Bacheche: la voce dell’elenco di controllo non rimane selezionata](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | venerdì 2 maggio 2024 |

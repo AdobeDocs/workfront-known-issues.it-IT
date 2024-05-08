@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: f87a1b9d5b18aadb292397036b64ce9eb708f4ba
+source-git-commit: b1fb7eba69bde986d2dfc041cb7f47f19b57b360
 workflow-type: tm+mt
-source-wordcount: '1834'
-ht-degree: 95%
+source-wordcount: '1850'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata nel modello](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Bacheche: il filtro avanzato non restituisce le schede previste](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Schede orario: la scheda orario bloccata viene spostata in una pagina vuota](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [Configurazione: il banner &quot;Logged in as&quot; (Accesso effettuato come) non viene visualizzato quando si è connessi come altro utente.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
