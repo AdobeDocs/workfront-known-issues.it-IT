@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 89eb14bfaccb517764af1711ca31e2926de63795
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '883'
-ht-degree: 88%
+source-wordcount: '871'
+ht-degree: 90%
 
 ---
 
@@ -26,13 +26,10 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | giovedì 8 maggio 2024 |
-| [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata nel modello](known-issues-workfront/wf-projects-priority-not-transfer.md) | giovedì 8 maggio 2024 |
 | [Configurazione: il banner &quot;Logged in as&quot; (Accesso effettuato come) non viene visualizzato quando si effettua l’accesso come altro utente](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercoledì 7 maggio 2024 |
 | [Bacheche: il filtro avanzato non restituisce le schede previste](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | mercoledì 7 maggio 2024 |
 | [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | venerdì 2 maggio 2024 |
 | [Bacheche: la voce dell’elenco di controllo non rimane selezionata](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | venerdì 2 maggio 2024 |
-| [Bozze: impossibile prendere decisioni sulla fase del flusso di lavoro privato](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md) | giovedì 1 maggio 2024 |
-| [Integrazioni: il nome file è &quot;null&quot; quando viene inviato al provider di documenti tramite l’integrazione](known-issues-workfront/wf-integrations-aem-filename-null.md) | giovedì 24 aprile 2024 |
 | [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
@@ -45,6 +42,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Aggiornamenti: il collegamento nel commento passa a una schermata vuota](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | venerdì 9 maggio 2024 |
+| [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata nel modello](known-issues-workfront/wf-projects-priority-not-transfer.md) | venerdì 9 maggio 2024 |
 | [I moderatori della bozza non possono modificare le autorizzazioni](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | mercoledì 7 maggio 2024 |
 | [Bacheche: l’utente non può vedere la bacheca a cui è assegnato il team](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | mercoledì 7 maggio 2024 |
 | [Aggiornamenti: assegnare tag a un utente con @ nel pannello Riepilogo non è efficace](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | venerdì 2 maggio 2024 |

@@ -4,14 +4,18 @@ description: “Quando un file di grandi dimensioni (oltre 100 MB) viene inviato
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 exl-id: c2d15424-ae04-414f-9384-a7b083212313
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
+source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 50%
+source-wordcount: '110'
+ht-degree: 52%
 
 ---
 
 # Integrazioni: il nome file è &quot;null&quot; quando viene inviato all’integrazione del documento
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il giovedì 8 maggio 2024.
 
 Quando un file di grandi dimensioni (oltre 100 MB) viene inviato a un provider di documenti tramite un&#39;integrazione Workfront, il nome del file nel provider di documenti è &quot;null&quot;.
 
