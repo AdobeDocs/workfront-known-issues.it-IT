@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
+source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '864'
 ht-degree: 90%
 
 ---
@@ -47,7 +47,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [I moderatori della bozza non possono modificare le autorizzazioni](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md) | mercoledì 7 maggio 2024 |
 | [Bacheche: l’utente non può vedere la bacheca a cui è assegnato il team](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md) | mercoledì 7 maggio 2024 |
 | [Aggiornamenti: assegnare tag a un utente con @ nel pannello Riepilogo non è efficace](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | venerdì 2 maggio 2024 |
-| [Utenti: il livello di accesso dell’utente non può essere modificato](known-issues-workfront/wf-users-cannot-modify-access-level.md) | venerdì 2 maggio 2024 |
 | [[!DNL Workfront Goals]: impossibile eliminare l’obiettivo](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martedì 29 aprile 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercoledì 23 aprile 2024 |
 | [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md) | venerdì 18 aprile 2024 |

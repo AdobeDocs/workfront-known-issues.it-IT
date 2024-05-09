@@ -3,15 +3,19 @@ title: '“Utenti: il livello di accesso dell’utente non può essere modificat
 description: “Quando un amministratore gruppo tenta di modificare il livello di accesso di un utente nel gruppo, il campo del livello di accesso viene disattivato e l’amministratore gruppo non può modificarlo.”
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 41a57db7e73bffae2731e3db403587565ff49d8e
-workflow-type: ht
-source-wordcount: '104'
+source-git-commit: 7a375d51fd250449c950e5c9fdca0ed259e4a231
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 
 # Utenti: il livello di accesso dell’utente non può essere modificato
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 9 maggio 2024.
 
 Quando un amministratore del gruppo tenta di modificare il livello di accesso di un utente del gruppo, il campo del livello di accesso viene disattivato e l’amministratore del gruppo non può modificarlo.
 
