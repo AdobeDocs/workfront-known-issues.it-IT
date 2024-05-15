@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d023663855896059777698e470ed3e786fab0ce7
+source-git-commit: d1d7562fc57da5ea06c7bf9f47d4a5d4d0169a5e
 workflow-type: tm+mt
-source-wordcount: '1862'
-ht-degree: 98%
+source-wordcount: '1871'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrazioni: errore di richiesta errata degli utenti durante l’utilizzo di SSO](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Aggiornamenti: copiare e incollare una menzione non ne dà notifica all’utente indicato](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata nel modello](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Bacheche: il filtro avanzato non restituisce le schede previste](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
