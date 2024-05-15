@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '860'
-ht-degree: 91%
+ht-degree: 95%
 
 ---
 
@@ -27,7 +27,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | -----------------------------------------------------------------| ----------------- |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | giovedì 8 maggio 2024 |
 | [Configurazione: il banner &quot;Logged in as&quot; (Accesso effettuato come) non viene visualizzato quando si effettua l’accesso come altro utente](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercoledì 7 maggio 2024 |
-| [Bacheche: il filtro avanzato non restituisce le schede previste](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | mercoledì 7 maggio 2024 |
+| [Bacheche: il filtro avanzato non restituisce i risultati previsti](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md) | mercoledì 7 maggio 2024 |
 | [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | venerdì 2 maggio 2024 |
 | [Bacheche: la voce dell’elenco di controllo non rimane selezionata](known-issues-workfront/wf-boards-checklist-item-unchecks.md) | venerdì 2 maggio 2024 |
 | [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |

@@ -5,7 +5,7 @@ role: User
 source-git-commit: d023663855896059777698e470ed3e786fab0ce7
 workflow-type: tm+mt
 source-wordcount: '1862'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 93%
       + [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata nel modello](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Bacheche: il filtro avanzato non restituisce le schede previste](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
       + [Schede orario: la scheda orario bloccata viene spostata in una pagina vuota](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
-      + [Configurazione: il banner &quot;Logged in as&quot; (Accesso effettuato come) non viene visualizzato quando si è connessi come altro utente.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
-      + [I moderatori della bozza non possono modificare le autorizzazioni](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
+      + [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
+      + [I moderatori della bozza non riescono a modificare le autorizzazioni](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [Bacheche: l’utente non può vedere la bacheca a cui è assegnato il team](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
       + [Aggiornamenti: assegnare tag a un utente con @ nel pannello Riepilogo non è efficace](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md)
       + [Progetti: il progetto creato con il modello non corrisponde alla priorità del modello](known-issues-workfront/wf-projects-priority-does-not-match-template.md)
-      + [Bacheche: la voce dell’elenco di controllo non rimane selezionata](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
+      + [Bacheche: l’elemento dell’elenco di controllo non rimane selezionato](known-issues-workfront/wf-boards-checklist-item-unchecks.md)
       + [Progetti: errore durante la condivisione di un progetto](known-issues-workfront/wf-projects-error-when-sharing-project.md)
-      + [Bozze: impossibile prendere decisioni sulla fase del flusso di lavoro privato](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
+      + [Bozze: non è possibile prendere decisioni sulla fase privata del flusso di lavoro](known-issues-workfront/wf-proofs-workflow-not-accepting-decisions-private-stage.md)
       + [[!DNL Workfront Goals]: impossibile eliminare l’obiettivo](known-issues-workfront/wf-goals-cannot-delete-goal.md)
       + [Integrazioni: il nome del file è “null” quando viene inviato ad AEM tramite l’integrazione](known-issues-workfront/wf-integrations-aem-filename-null.md)
       + [Utenti: il livello di accesso dell’utente non può essere modificato](known-issues-workfront/wf-users-cannot-modify-access-level.md)
