@@ -1,13 +1,13 @@
 ---
-title: "Progetti: il progetto creato con il modello non corrisponde alla priorità del modello"
+title: '“Progetti: il progetto creato con il modello non corrisponde alla priorità del modello”'
 description: Quando un utente converte una richiesta in un progetto utilizzando un modello, la priorità del progetto appena creato non corrisponde al modello o alla richiesta.
 hidefromtoc: true
 feature: Projects
 exl-id: e8cc4acf-58e6-41dc-a4ae-20c55f62734f
 source-git-commit: e667606b926c199dfa5d2dd84feee9210426ca3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-title: "Progetti: errore durante la condivisione di un progetto"
-description: Quando un utente cerca di condividere un progetto, il progetto non viene condiviso e l’utente visualizza un messaggio.
+title: '“Progetti: errore durante la condivisione di un progetto”'
+description: Quando un utente cerca di condividere un progetto, questo non viene condiviso e l’utente visualizza un messaggio.
 hidefromtoc: true
 feature: Projects
 exl-id: 8c6c6089-1015-400e-9eec-e62318cc9e07
 source-git-commit: a1347b75359d14302b377153570b0f9107d1eb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 11%
 >
 >Questo problema è stato risolto il venerdì 2 maggio 2024.
 
-Quando un utente tenta di condividere un progetto, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
+Quando un utente cerca di condividere un progetto, questo non viene condiviso e l’utente visualizza il seguente messaggio:
 
-&quot;Livello di accesso insufficiente per eliminare questo progetto&quot;
+“Non si dispone dell&#39;accesso sufficiente per eliminare questo progetto”
 
 Ciò può verificarsi anche se l’utente sta tentando di condividere il progetto, non di eliminarlo.
 

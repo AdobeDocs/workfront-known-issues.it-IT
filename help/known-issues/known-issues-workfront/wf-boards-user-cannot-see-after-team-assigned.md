@@ -1,22 +1,22 @@
 ---
-title: "Bacheche: l’utente non può vedere la bacheca a cui è assegnato il team"
-description: "Quando un utente tenta di visualizzare una bacheca a cui è assegnato il team, non può visualizzarla. Ciò si verifica se l’utente viene aggiunto al team dopo che il team è stato assegnato alla bacheca."
+title: '“Bacheche: l’utente non può vedere la bacheca a cui è assegnato il team”'
+description: Quando un utente tenta di visualizzare la bacheca a cui è assegnato il team, non riesce a visualizzarla. Ciò si verifica se l’utente viene aggiunto al team dopo che il team è stato assegnato alla bacheca.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3ca57c76dc50a348cf6d85d4d3e7366834a5e791
-workflow-type: tm+mt
+exl-id: 01c93110-407a-4559-bdc1-3fe04d94a8a1
+source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Bacheche: l’utente non può vedere la bacheca a cui è assegnato il team
 
-Quando un utente tenta di visualizzare una bacheca a cui è assegnato il team, non può visualizzarla. Ciò si verifica se l’utente viene aggiunto al team dopo che il team è stato assegnato alla bacheca.
+Quando un utente tenta di visualizzare la bacheca a cui è assegnato il team, non riesce a visualizzarla. Ciò si verifica se l’utente viene aggiunto al team dopo che il team è stato assegnato alla bacheca.
 
 **Soluzione alternativa**
 
-Aggiungi direttamente l’utente alla bacheca.
+Aggiungi l’utente direttamente alla bacheca.
 
-_Segnalato per la prima volta il giovedì 15 aprile 2024, 2024._
+_Segnalato per la prima volta il 15 aprile 2024._
