@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2d22bba261f1a53625ed46e91609411931420791
+source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '865'
 ht-degree: 94%
 
 ---
@@ -50,7 +50,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Aggiornamenti: assegnare tag a un utente con @ nel pannello Riepilogo non è efficace](known-issues-workfront/wf-updates-tagging-user-in-summary-ineffective.md) | venerdì 2 maggio 2024 |
 | [[!DNL Workfront Goals]: impossibile eliminare l’obiettivo](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martedì 29 aprile 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | mercoledì 23 aprile 2024 |
-| [Utenti: impossibile eliminare gli utenti](known-issues-workfront/wf-users-unable-to-delete-users.md) | venerdì 18 aprile 2024 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | venerdì 11 aprile 2024 |
 | [Richieste: il campo calcolato non viene aggiornato durante la compilazione della richiesta](known-issues-workfront/wf-requests-calculated-field-not-updating.md) | mercoledì 9 aprile 2024 |
 | [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sabato 5 aprile 2024 |
