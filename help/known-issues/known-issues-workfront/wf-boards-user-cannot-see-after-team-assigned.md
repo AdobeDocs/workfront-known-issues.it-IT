@@ -4,14 +4,18 @@ description: Quando un utente tenta di visualizzare la bacheca a cui è assegnat
 hidefromtoc: true
 feature: Agile
 exl-id: 01c93110-407a-4559-bdc1-3fe04d94a8a1
-source-git-commit: 0f3f85c81a9ab2a185977757031e44040ea074d3
-workflow-type: ht
-source-wordcount: '109'
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+workflow-type: tm+mt
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
 
 # Bacheche: l’utente non può vedere la bacheca a cui è assegnato il team
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il giovedì 15 maggio 2024.
 
 Quando un utente tenta di visualizzare la bacheca a cui è assegnato il team, non riesce a visualizzarla. Ciò si verifica se l’utente viene aggiunto al team dopo che il team è stato assegnato alla bacheca.
 

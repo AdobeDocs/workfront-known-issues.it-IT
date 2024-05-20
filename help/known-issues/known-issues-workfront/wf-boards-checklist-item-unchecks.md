@@ -4,14 +4,18 @@ description: Quando un utente controlla un elemento dell’elenco di controllo s
 hidefromtoc: true
 feature: Agile
 exl-id: 65191c68-f88e-4ffc-8d57-6786e1d6f08e
-source-git-commit: 1c2c5d7c97ae47278154011e097f636feaa48417
-workflow-type: ht
-source-wordcount: '60'
+source-git-commit: 4acd3830c34139d8d54e614bb5197f00fa63613f
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
 
 # Bacheche: l’elemento dell’elenco di controllo non rimane selezionato
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 16 maggio 2024.
 
 Quando un utente controlla un elemento dell’elenco di controllo su una scheda, lo stesso elemento viene immediatamente deselezionato. L’elemento non rimane selezionato.
 
