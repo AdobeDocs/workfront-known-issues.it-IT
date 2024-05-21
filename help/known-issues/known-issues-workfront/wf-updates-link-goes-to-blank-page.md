@@ -4,7 +4,7 @@ description: “Quando un utente fa clic su un collegamento che si trova all’i
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: e24d266002a913e5c6e2d5e40e9dad36deff541a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
