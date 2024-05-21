@@ -5,7 +5,7 @@ role: User
 source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
 workflow-type: tm+mt
 source-wordcount: '1919'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 95%
       + [Documenti: estensione file UNK quando si collegano documenti dall’integrazione](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [Richieste: impossibile accedere alle dashboard nella pagina della richiesta (&quot;../mitted&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
       + [Integrazioni: errore di richiesta errata degli utenti durante l’utilizzo di SSO](known-issues-workfront/wf-outlook-wrong-request.md)
-      + [Aggiornamenti: copiare e incollare una menzione non ne dà notifica all’utente indicato](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
-      + [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata nel modello](known-issues-workfront/wf-projects-priority-not-transfer.md)
+      + [Aggiornamenti: quando si copia e incolla una menzione non viene inviata una notifica all’utente menzionato](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
+      + [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata in esso](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Bacheche: il filtro avanzato non restituisce le schede previste](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)
-      + [Schede orario: la scheda orario bloccata viene spostata in una pagina vuota](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
+      + [Schede orario: la scheda orario fissata passa in una pagina vuota](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente.](known-issues-workfront/wf-setup-login-as-banner-not-present.md)
       + [I moderatori della bozza non riescono a modificare le autorizzazioni](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [Bacheche: l’utente non può vedere la bacheca a cui è assegnato il team](known-issues-workfront/wf-boards-user-cannot-see-after-team-assigned.md)
