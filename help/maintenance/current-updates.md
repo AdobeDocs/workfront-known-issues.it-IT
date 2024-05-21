@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 10057189c213e5b2993c58b89116cedcd2d7d6f4
+source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
 workflow-type: tm+mt
-source-wordcount: '3529'
-ht-degree: 99%
+source-wordcount: '3628'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,22 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di maggio 2024
+
++++ **(Pianificato) Aggiornamento di manutenzione del venerdì 23 maggio 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 23 maggio 2024
+
+#### Aggiornamenti
+
+**L’utente taggato non può vedere chi li ha taggati**
+
+Quando un utente viene taggato all’interno di un aggiornamento, non può vedere chi ha taggato l’utente. Ciò si verifica quando l’impostazione &quot;Le persone in altre società devono visualizzare gli utenti solo da...&quot; è impostata su &quot;La loro società&quot;.
+
+**Assegnare a un utente un tag con @ nel pannello Riepilogo non è efficace**
+
+Quando un utente tenta di assegnare un tag a un altro utente utilizzando @ nella sezione Aggiornamenti di un pannello Riepilogo, fare clic sul nome dell’utente nel menu a discesa non ha alcun effetto. Il tentativo di assegnare un tag all’utente una seconda volta funziona come previsto.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 16 maggio 2024**
 
