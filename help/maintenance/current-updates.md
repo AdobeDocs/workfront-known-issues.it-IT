@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: cf1c7d7bc95f9a88b07f624f3152ba9c1148ac58
+source-git-commit: 838970835779e238e1739d50ed7d78bdd01069c7
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 98%
+source-wordcount: '3680'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,16 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 +++ **(Pianificato) Aggiornamento di manutenzione del venerdì 23 maggio 2024**
 
 ### (Pianificato) Aggiornamento di manutenzione del venerdì 23 maggio 2024
+
+#### Report
+
+Quando un utente visualizza un rapporto e fa clic sul pulsante Indietro del browser, può verificarsi una delle seguenti situazioni:
+
+* L’utente rimane nella pagina Report.
+* L’utente viene indirizzato alla pagina di destinazione del browser.
+* L’utente viene indirizzato alla pagina di accesso.
+
+Questo problema è stato segnalato con il browser Chrome.
 
 #### Aggiornamenti
 
