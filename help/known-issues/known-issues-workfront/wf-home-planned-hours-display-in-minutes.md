@@ -1,19 +1,22 @@
 ---
 title: "Home: visualizzazione delle ore pianificate in minuti"
-description: "Quando un utente aggiunge una colonna Ore pianificate a un widget nella nuova esperienza principale, le ore pianificate vengono visualizzate in minuti."
+description: Quando un utente aggiunge una colonna Ore pianificate a un widget nella nuova esperienza principale, le ore pianificate vengono visualizzate in minuti.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 405d0861af7f68a5c93b5be76d6b2f6f7e731615
+exl-id: 759dfbf7-7c92-4885-bbc3-4e2976ea45a6
+source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 15%
 
 ---
 
-
 # Home: visualizzazione delle ore pianificate in minuti
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 23 maggio 2024.
 
 Quando un utente aggiunge una colonna Ore pianificate a un widget nella nuova esperienza principale, le ore pianificate vengono visualizzate in minuti.
 
 _Segnalato per la prima volta il giovedì 1 maggio 2024._
-
