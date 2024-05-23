@@ -1,19 +1,23 @@
 ---
-title: "Documenti: estensione file UNK quando si collegano documenti dall’integrazione"
-description: "Quando un utente collega un documento da un’integrazione di documenti, il documento viene visualizzato in Workfront con un’estensione di file UNK."
+title: "Documenti: estensione di file UNK quando si collegano documenti dall’integrazione"
+description: Quando un utente collega un documento da un’integrazione di documenti, il documento viene visualizzato in Workfront con estensione UNK.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
+exl-id: ec37dbaa-4776-423d-abeb-a88691d92d16
+source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 6%
+source-wordcount: '74'
+ht-degree: 21%
 
 ---
-
 
 # Documenti: estensione file UNK quando si collegano documenti dall’integrazione
 
 <!--WF and WFP-->
+
+>[!NOTE]
+>
+>Questa segnalazione è stata chiusa perché il problema di Workfront non sussiste.
 
 Quando un utente collega un documento da un’integrazione di documenti, il documento viene visualizzato in Workfront con estensione UNK.
 
