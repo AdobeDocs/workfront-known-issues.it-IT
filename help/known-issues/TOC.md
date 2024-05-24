@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
 source-wordcount: '1937'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -22,10 +22,10 @@ ht-degree: 96%
       + [Home: visualizzazione delle ore pianificate in minuti](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Documenti: schermata di errore durante il download o l’anteprima della risorsa](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [Utenti: gli attributi utente non sono mappati da SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
-      + [Programmi: quando l’accesso utente al programma viene aggiornato, tutti gli accessi al programma vengono persi](known-issues-workfront/wf-programs-permissions-not-inherited.md)
+      + [Programmi: quando l’accesso dell’utente viene aggiornato, tutti gli accessi al programma vengono persi](known-issues-workfront/wf-programs-permissions-not-inherited.md)
       + [Documenti: estensione file UNK quando si collegano documenti dall’integrazione](known-issues-workfront/wf-documents-unk-file-extension.md)
-      + [Richieste: impossibile accedere alle dashboard nella pagina della richiesta (&quot;../mitted&quot; URL)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
-      + [Integrazioni: errore di richiesta errata degli utenti durante l’utilizzo di SSO](known-issues-workfront/wf-outlook-wrong-request.md)
+      + [Richieste: impossibile accedere alle dashboard nella pagina della richiesta (URL “.../submitted”)](known-issues-workfront/wf-requests-cannot-access-request-dashboard.md)
+      + [Integrazioni: gli utenti ricevono un messaggio di richiesta errata durante l’utilizzo di SSO](known-issues-workfront/wf-outlook-wrong-request.md)
       + [Aggiornamenti: quando si copia e incolla una menzione non viene inviata una notifica all’utente menzionato](known-issues-workfront/wf-updates-pasting-mention-not-working.md)
       + [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata in esso](known-issues-workfront/wf-projects-priority-not-transfer.md)
       + [Bacheche: il filtro avanzato non restituisce le schede previste](known-issues-workfront/wf-boards-advanced-filter-not-pulling-in-all-cards.md)

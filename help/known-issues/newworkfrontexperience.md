@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2969b042d5328f11800b6f77e5d07dae5001068e
 workflow-type: tm+mt
 source-wordcount: '832'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Programmi: quando l’accesso utente al programma viene aggiornato, tutti gli accessi al programma vengono persi](known-issues-workfront/wf-programs-permissions-not-inherited.md) | martedì 20 maggio 2024 |
-| [Integrazioni: errore di richiesta errata degli utenti durante l’utilizzo di SSO](known-issues-workfront/wf-outlook-wrong-request.md) | mercoledì 14 maggio 2024 |
+| [Programmi: quando l’accesso dell’utente a un programma viene aggiornato, tutti gli accessi a questo vengono persi](known-issues-workfront/wf-programs-permissions-not-inherited.md) | martedì 20 maggio 2024 |
+| [Integrazioni: gli utenti ricevono un messaggio di richiesta errata durante l’utilizzo di SSO](known-issues-workfront/wf-outlook-wrong-request.md) | mercoledì 14 maggio 2024 |
 | [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercoledì 7 maggio 2024 |
 | [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
 | [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
