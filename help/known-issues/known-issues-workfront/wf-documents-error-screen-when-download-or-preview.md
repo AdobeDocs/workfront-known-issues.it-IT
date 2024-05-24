@@ -1,18 +1,18 @@
 ---
-title: "Documenti: schermata di errore durante il download o l’anteprima della risorsa"
-description: "Quando un utente tenta di scaricare o visualizzare in anteprima una risorsa in Workfront, viene visualizzata una schermata di errore."
+title: '“Documenti: schermata di errore durante il download o l’anteprima della risorsa”'
+description: Quando un utente cerca di scaricare o visualizzare in anteprima una risorsa in Workfront, viene indirizzato a una schermata di errore.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: d99f5b467f31d4e4a77cabe25671470beb847eed
-workflow-type: tm+mt
+exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
+source-git-commit: 493f1125e9f0d459f15332d26a78dfe2193d7c5b
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-
 # Documenti: schermata di errore durante il download o l’anteprima della risorsa
 
-Quando un utente tenta di scaricare o visualizzare in anteprima una risorsa in Workfront, viene visualizzata una schermata di errore.
+Quando un utente cerca di scaricare o visualizzare in anteprima una risorsa in Workfront, viene indirizzato a una schermata di errore.
 
 _Segnalato per la prima volta il sabato 2 febbraio 2024._
