@@ -4,14 +4,18 @@ description: Quando un utente tenta di accedere al plug-in per Outlook di Workfr
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: 89e082c3-1e7a-49bb-9b08-66d21e53075a
-source-git-commit: a3a26086c21cabf5cc6bae5bb42b4a97b78618ad
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
 
 # Integrazioni: gli utenti ricevono un messaggio di richiesta errata durante l’utilizzo di SSO
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il sabato 24 maggio 2024.
 
 Quando un utente tenta di accedere al plug-in per Outlook di Workfront con SSO abilitato, viene visualizzata una pagina di “Richiesta errata” e l’utente non può accedere.
 

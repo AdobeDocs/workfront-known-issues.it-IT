@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: aff9ca5c9e39d017b6676dca0ed19cedb92ef02f
+source-git-commit: c3e3297bd52a4189321102e75cd952ac5162f1fa
 workflow-type: tm+mt
-source-wordcount: '3678'
-ht-degree: 97%
+source-wordcount: '3781'
+ht-degree: 95%
 
 ---
 
@@ -21,6 +21,28 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di maggio 2024
+
++++ **(Pianificato) Aggiornamento di manutenzione del venerdì 30 maggio 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 30 maggio 2024
+
+#### Moduli personalizzati
+
+Errore durante la modifica dei campi di testo descrittivo
+
+Quando un utente cerca di modificare il testo descrittivo in un modulo personalizzato, il testo non viene salvato e l’utente visualizza il seguente errore:
+
+&quot;Un valore chiave duplicato viola il vincolo di univocità&quot;
+
+Questo problema è stato segnalato nel generatore di moduli legacy.
+
+#### Aggiornamenti
+
+**Copiare e incollare una menzione non ne dà notifica all’utente menzionato**
+
+Quando un utente copia un commento che include una menzione in formato @ e lo incolla nell’area Aggiornamenti di un altro oggetto, l’utente a cui si fa riferimento non riceve alcuna notifica del commento incollato.
+
++++
 
 +++ **Aggiornamento di manutenzione del venerdì 23 maggio 2024**
 
