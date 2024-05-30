@@ -1,17 +1,21 @@
 ---
 title: "Moduli personalizzati: errore durante la modifica dei campi di testo descrittivo"
-description: '"Quando un utente tenta di modificare il testo descrittivo in un modulo personalizzato, il testo non viene salvato e l’utente visualizza un errore. È disponibile una soluzione alternativa.”'
+description: Quando un utente cerca di modificare il testo descrittivo in un modulo personalizzato, il testo non viene salvato e l’utente visualizza un errore. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: a956e48c90eb41cd37bb6dc8e263083037d53691
+exl-id: eb09e5e2-7a76-471b-8eb3-56dfa3149d9c
+source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 14%
 
 ---
 
-
 # Moduli personalizzati: errore durante la modifica dei campi di testo descrittivo
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 30 maggio 2024.
 
 Quando un utente cerca di modificare il testo descrittivo in un modulo personalizzato, il testo non viene salvato e l’utente visualizza il seguente errore:
 
