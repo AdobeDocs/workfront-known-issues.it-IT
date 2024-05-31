@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: bca3fbea3084dbb9fd763bee9f333b37a47bb90a
 workflow-type: tm+mt
 source-wordcount: '3779'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -60,11 +60,11 @@ Questo problema è stato segnalato con il browser Chrome.
 
 #### Aggiornamenti
 
-**L’utente taggato non può vedere chi li ha taggati**
+**L’utente taggato non può vedere chi ha messo il tag**
 
-Quando un utente viene taggato all’interno di un aggiornamento, non può vedere chi ha taggato l’utente. Ciò si verifica quando l’impostazione &quot;Le persone in altre società devono visualizzare gli utenti solo da...&quot; è impostata su &quot;La loro società&quot;.
+Quando un utente viene taggato all’interno di un aggiornamento, non può vedere chi gli ha messo il tag. Ciò si verifica quando l’impostazione “Le persone in altre società dovranno solo visualizzare gli utenti da...” è impostata su “La loro società”.
 
-**Assegnare a un utente un tag con @ nel pannello Riepilogo non è efficace**
+**L’assegnazione di tag a un utente con @ nel pannello Riepilogo non funziona**
 
 Quando un utente tenta di assegnare un tag a un altro utente utilizzando @ nella sezione Aggiornamenti di un pannello Riepilogo, fare clic sul nome dell’utente nel menu a discesa non ha alcun effetto. Il tentativo di assegnare un tag all’utente una seconda volta funziona come previsto.
 

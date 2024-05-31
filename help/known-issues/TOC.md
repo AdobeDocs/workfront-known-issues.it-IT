@@ -5,7 +5,7 @@ role: User
 source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
 workflow-type: tm+mt
 source-wordcount: '1966'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 97%
       + [Utenti: utenti mancanti quando si effettuano assegnazioni in blocco](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Moduli personalizzati: errore durante la modifica dei campi di testo descrittivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Gruppi: impossibile aggiungere un sottogruppo](known-issues-workfront/wf-groups-cannot-add-subgroup.md)
-      + [Aggiornamenti: l’utente taggato non può vedere chi li ha taggati](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
+      + [Aggiornamenti: l’utente taggato non può vedere chi ha messo il tag](known-issues-workfront/wf-updates-tagged-user-cannot-see-who-tagged-them.md)
       + [Home: visualizzazione delle ore pianificate in minuti](known-issues-workfront/wf-home-planned-hours-display-in-minutes.md)
       + [Documenti: schermata di errore durante il download o l’anteprima della risorsa](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md)
       + [Utenti: gli attributi utente non sono mappati da SSO](known-issues-workfront/wf-users-sso-attributes-not-mapped.md)
