@@ -1,17 +1,21 @@
 ---
 title: "Progetti: il menu Condivisione non si carica"
-description: "Quando un utente tenta di condividere un’attività o un problema, il menu Concedi accesso X a viene caricato continuamente e l’utente non può condividere l’attività o il problema."
+description: Quando un utente tenta di condividere un’attività o un problema, il menu Concedi accesso X a viene caricato continuamente e l’utente non può condividere l’attività o il problema.
 hidefromtoc: true
 feature: Projects, Tasks, Work Management
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+exl-id: 3534300f-9c9b-4060-a83f-ae999c366187
+source-git-commit: 3566c011140842e2c901e70bf6babee2d7665ac2
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 5%
+source-wordcount: '76'
+ht-degree: 13%
 
 ---
 
-
 # Progetti: il menu Condivisione non si carica
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 6 giugno 2024.
 
 Quando un utente cerca di condividere un’attività o un problema, il menu &quot;Concedi l’accesso X a&quot; si carica continuamente e l’utente non può condividere l’attività o il problema.
 

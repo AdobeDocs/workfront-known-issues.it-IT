@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
 workflow-type: tm+mt
-source-wordcount: '3808'
-ht-degree: 100%
+source-wordcount: '3824'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,13 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 +++ **Aggiornamento di manutenzione del venerdì 6 giugno 2024**
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+### Aggiornamento di manutenzione del giovedì 6 giugno 2024
+
+#### Moduli personalizzati
+
+**Limitazione dei campi nativi nel progettista del modulo**
+
+Nei moduli personalizzati creati nel progettista di moduli sono ora supportati più campi nativi. In precedenza il limite era un campo nativo per modulo.
 
 +++
 
