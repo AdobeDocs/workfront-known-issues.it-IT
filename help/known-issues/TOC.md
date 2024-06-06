@@ -5,7 +5,7 @@ role: User
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
 source-wordcount: '2008'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 96%
       + [Rapporti: i collegamenti pubblici a un rapporto non funzionano](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Pianificazione risorse]: impossibile condividere il filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)
       + [La data di completamento effettiva viene visualizzata come N/D](known-issues-workfront/wf-projects-completion-date-is-na.md)
-      + [Attività: il ruolo non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
+      + [Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md)
       + [Utenti: utenti mancanti quando si effettuano assegnazioni in blocco](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md)
       + [Moduli personalizzati: errore durante la modifica dei campi di testo descrittivo](known-issues-workfront/wf-custom-forms-cannot-edit-description.md)
       + [Gruppi: impossibile aggiungere un sottogruppo](known-issues-workfront/wf-groups-cannot-add-subgroup.md)

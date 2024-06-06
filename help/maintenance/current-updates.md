@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
 source-wordcount: '3808'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,15 +38,15 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. I
 
 Errore durante la modifica dei campi di testo descrittivo
 
-Quando un utente cerca di modificare il testo descrittivo in un modulo personalizzato, il testo non viene salvato e l’utente visualizza il seguente errore:
+Quando un utente tenta di modificare il testo descrittivo in un modulo personalizzato, il testo non viene salvato e viene visualizzato il seguente errore:
 
-&quot;Un valore chiave duplicato viola il vincolo di univocità&quot;
+“Un valore chiave duplicato viola il vincolo di univocità”
 
-Questo problema è stato segnalato nel generatore di moduli legacy.
+Questo problema è stato segnalato per il generatore di moduli precedente.
 
 #### Aggiornamenti
 
-**Copiare e incollare una menzione non ne dà notifica all’utente menzionato**
+**Quando si copia e incolla una menzione, l’utente menzionato non riceve una notifica**
 
 Quando un utente copia un commento che include una menzione in formato @ e lo incolla nell’area Aggiornamenti di un altro oggetto, l’utente a cui si fa riferimento non riceve alcuna notifica del commento incollato.
 

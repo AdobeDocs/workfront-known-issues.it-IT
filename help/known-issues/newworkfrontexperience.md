@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
 workflow-type: tm+mt
 source-wordcount: '880'
-ht-degree: 91%
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Rapporti: i collegamenti pubblici a un rapporto non funzionano](known-issues-workfront/wf-reports-public-link-not-working.md) | mercoledì 4 giugno 2024 |
-| [Attività: il ruolo non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | giovedì 29 maggio 2024 |
+| [Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | giovedì 29 maggio 2024 |
 | [Programmi: quando l’accesso dell’utente a un programma viene aggiornato, tutti gli accessi a questo vengono persi](known-issues-workfront/wf-programs-permissions-not-inherited.md) | martedì 20 maggio 2024 |
 | [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercoledì 7 maggio 2024 |
 | [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
