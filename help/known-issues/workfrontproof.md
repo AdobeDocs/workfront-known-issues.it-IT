@@ -4,7 +4,7 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 6bbe15b43bd84ba7f8fe1134e61423ec186e3a92
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 96%
@@ -39,7 +39,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Bozze: impossibile chiudere il visualizzatore bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | giovedì 5 giugno 2024 |
 | [Documenti: schermata di errore durante il download o l’anteprima della risorsa](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martedì 20 maggio 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | giovedì 8 maggio 2024 |
-| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sabato 12 aprile 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sabato 22 marzo 2024 |
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 
@@ -51,6 +50,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sabato 7 giugno 2024 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 ottobre 2023 |
 | [Workfront Proof: i dati della dashboard non sono sempre precisi](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 settembre 2023 |

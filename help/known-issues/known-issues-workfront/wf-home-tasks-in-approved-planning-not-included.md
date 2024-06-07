@@ -1,17 +1,21 @@
 ---
-title: '“Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home”'
-description: “Le attività dei progetti con stato Approvato o in Pianificazione non vengono visualizzate nella Home. È disponibile una soluzione alternativa.”
+title: "Home: le attività nei progetti con stato Approvato o Pianificazione non sono incluse in Le mie attività o nell’elenco di lavoro dell’area Home"
+description: Le attività dei progetti con stato Approvato o Pianificazione non vengono visualizzate nella Home. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 5b22b37a13774e4552ec9390a70040f0182851d3
-workflow-type: ht
-source-wordcount: '166'
-ht-degree: 100%
+exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '195'
+ht-degree: 82%
 
 ---
 
-
 # Home: le attività nei progetti con stato Approvato o Pianificazione non sono incluse in Le mie attività o in Elenco di lavori dell’area Home
+
+>[!NOTE]
+>
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema. Una volta avvenuta, la risoluzione del problema verrà comunicata negli annunci dei prodotti e non con gli aggiornamenti di manutenzione.
 
 Le attività dei progetti con stato Approvato o Pianificazione non vengono visualizzate nelle aree seguenti:
 

@@ -1,19 +1,23 @@
 ---
-title: '“Bozze: impossibile generare bozze compresse”'
-description: “Quando un utente tenta di creare una bozza compressa e due o più file nella bozza hanno lo stesso nome, la stessa non viene generata.”
+title: "Bozze: impossibile generare bozze compresse"
+description: Quando un utente tenta di creare una bozza compressa e due o più file nella bozza hanno lo stesso nome, la stessa non viene generata.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: a7d41227b34544889c2af1704d492a68967fab24
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 94%
 
 ---
-
 
 # Bozze: impossibile generare bozze compresse
 
 <!--WF and WFP TOCs-->
+
+>[!NOTE]
+>
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema. Una volta avvenuta, la risoluzione del problema verrà comunicata negli annunci dei prodotti e non con gli aggiornamenti di manutenzione.
 
 Quando un utente tenta di creare una bozza compressa e due o più file nella bozza hanno lo stesso nome, la stessa non viene generata.
 

@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 21fbdfeb58b40df15c74d75fc43fe78096828d84
+source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
-source-wordcount: '866'
-ht-degree: 94%
+source-wordcount: '813'
+ht-degree: 95%
 
 ---
 
@@ -25,13 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapporti: i collegamenti pubblici a un rapporto non funzionano](known-issues-workfront/wf-reports-public-link-not-working.md) | mercoledì 4 giugno 2024 |
-| [Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | giovedì 29 maggio 2024 |
-| [Programmi: quando l’accesso dell’utente a un programma viene aggiornato, tutti gli accessi a questo vengono persi](known-issues-workfront/wf-programs-permissions-not-inherited.md) | martedì 20 maggio 2024 |
 | [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente.](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | mercoledì 7 maggio 2024 |
-| [Attività: quando si creano o duplicano delle attività, l’elenco attività viene visualizzato in ordine errato](known-issues-workfront/wf-tasks-duplicating-wrong-order.md) | martedì 26 febbraio 2024 |
-| [Bozze: le GIF vengono visualizzate come bozze statiche](known-issues-workfront/wf-proofs-gif-static-image.md) | mercoledì 23 gennaio 2024 |
-| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | mercoledì 9 gennaio 2024 |
 
 {style="table-layout:auto"}
 
@@ -41,6 +35,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Programmi: quando l’accesso dell’utente a un programma viene aggiornato, tutti gli accessi a questo vengono persi](known-issues-workfront/wf-programs-permissions-not-inherited.md) | sabato 7 giugno 2024 |
+| [Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | sabato 7 giugno 2024 |
 | [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | giovedì 5 giugno 2024 |
 | [Bozze: impossibile chiudere il visualizzatore bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | giovedì 5 giugno 2024 |
 | [[!UICONTROL Pianificazione risorse]: impossibile condividere il filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md) | mercoledì 4 giugno 2024 |
@@ -49,14 +45,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Utenti: utenti mancanti quando si effettuano assegnazioni in blocco](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | mercoledì 28 maggio 2024 |
 | [Gruppi: impossibile aggiungere un sottogruppo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | venerdì 23 maggio 2024 |
 | [Documenti: schermata di errore durante il download o l’anteprima della risorsa](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martedì 20 maggio 2024 |
-| [Aggiornamenti: il collegamento nel commento passa a una schermata vuota](known-issues-workfront/wf-updates-link-goes-to-blank-page.md) | venerdì 9 maggio 2024 |
 | [[!DNL Workfront Goals]: impossibile eliminare l’obiettivo](known-issues-workfront/wf-goals-cannot-delete-goal.md) | martedì 29 aprile 2024 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | venerdì 11 aprile 2024 |
-| [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sabato 5 aprile 2024 |
 | [Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | venerdì 4 aprile 2024 |
-| [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 8 marzo 2024 |
-| [Nuova [!UICONTROL Home]: le impostazioni predefinite del filtro e del raggruppamento widget non seguono il modello layout](known-issues-workfront/wf-home-filters-groupings-not-honored.md) | venerdì 4 gennaio 2024 |
-| [Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | 6 novembre 2023 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di  [!DNL Workfront]  su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
 {style="table-layout:auto"}
@@ -67,6 +58,10 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sabato 7 giugno 2024 |
+| [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 7 giugno 2024 |
+| [Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | sabato 7 giugno 2024 |
+| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sabato 7 giugno 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | martedì 20 maggio 2024 |
 | [Schede orario: la scheda orario fissata passa in una pagina vuota](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md) | 7 maggio 2024 |
 | [Rapporti: il filtro del rapporto non restituisce i risultati previsti](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md) | martedì 1 aprile 2024 |
