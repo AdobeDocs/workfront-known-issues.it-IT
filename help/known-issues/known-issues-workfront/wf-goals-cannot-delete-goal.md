@@ -4,14 +4,18 @@ description: Quando un utente tenta di eliminare un obiettivo in  [!DNL Workfron
 hidefromtoc: true
 feature: Workfront Goals
 exl-id: aa924ac8-7a07-4c58-b513-c8f9399171d4
-source-git-commit: fddfc45b426172f231365428004a6b6ab6092ea4
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
 
 # [!DNL Workfront Goals]: l’obiettivo non può essere eliminato
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 6 giugno 2024.
 
 Quando un utente cerca di eliminare un obiettivo in [!DNL Workfront Goals], questo non viene eliminato e l’utente visualizza il seguente messaggio di errore:
 
