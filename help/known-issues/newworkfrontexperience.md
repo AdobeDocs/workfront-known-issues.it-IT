@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
+source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '795'
 ht-degree: 95%
 
 ---
@@ -76,7 +76,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 agosto 2023 |
 | [[!UICONTROL Configurazione]: impossibile esportare i registri di controllo](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 luglio 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
-| [Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato”](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md) | 5 maggio 2023 |
 | [Documenti: le opzioni [!UICONTROL Attività bozza] portano alla pagina di accesso](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 aprile 2023 |
 | [Filtri: impossibile condividere un filtro da un rapporto su una dashboard](known-issues-workfront/inactive/wf-filters-cannot-share-from-report-on-dashboard.md) | 11 aprile 2023 |
 | [Bozze: lo strumento di misurazione non accetta i punti decimali](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 marzo 2023 |
