@@ -1,17 +1,21 @@
 ---
 title: "Pianificazione risorse: impossibile condividere il filtro"
-description: "Quando un utente tenta di condividere un filtro in [!UICONTROL Pianificazione risorse], non possono condividere il filtro e visualizzare un messaggio di errore."
+description: Quando un utente tenta di condividere un filtro in [!UICONTROL Pianificazione risorse], non possono condividere il filtro e visualizzare un messaggio di errore.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
+exl-id: 0f35655e-96b7-4279-b536-63106276efc3
+source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '86'
+ht-degree: 23%
 
 ---
 
-
 # [!UICONTROL Pianificazione risorse]: impossibile condividere il filtro
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il martedì 10 giugno 2024.
 
 Quando un utente tenta di condividere un filtro in [!UICONTROL Pianificazione risorse], non possono condividere il filtro e visualizzano il seguente messaggio:
 
