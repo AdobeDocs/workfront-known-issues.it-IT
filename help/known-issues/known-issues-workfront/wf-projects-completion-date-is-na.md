@@ -1,13 +1,13 @@
 ---
 title: La data di completamento effettiva viene visualizzata come N/D
-description: Quando un progetto è completato, la data di completamento effettiva viene visualizzata come N/D invece della data di completamento del progetto.
+description: Quando un progetto è completato, la data di completamento effettiva viene visualizzata come N/D al posto della data di completamento del progetto.
 hidefromtoc: true
 feature: Projects
 exl-id: cd9ce9c4-cdba-4805-86a3-2fc616db75cc
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 18%
 >
 >Questa segnalazione è stata chiusa perché il problema non sussiste.
 
-Quando un progetto è completato, la data di completamento effettiva viene visualizzata come N/D invece della data di completamento del progetto.
+Quando un progetto è completato, la data di completamento effettiva viene visualizzata come N/D al posto della data di completamento del progetto.
 
 Le date di completamento effettive mancanti possono causare rapporti errati.
 

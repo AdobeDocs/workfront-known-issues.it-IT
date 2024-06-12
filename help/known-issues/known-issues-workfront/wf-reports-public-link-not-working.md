@@ -1,13 +1,13 @@
 ---
-title: "Rapporti: i collegamenti pubblici a un rapporto non funzionano"
-description: '"Quando un utente fa clic su un collegamento pubblico a un report, visualizza un errore. L’errore specifico dipende dal browser utilizzato dall’utente. ”'
+title: '“Rapporti: i collegamenti pubblici a un rapporto non funzionano”'
+description: “Quando un utente fa clic su un collegamento pubblico a un report, visualizza un errore. L’errore specifico dipende dal browser utilizzato dall’utente. ”
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 12fe08b3-1aa5-442e-ab23-ecc6d491359c
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 9%
 >
 >Questo problema è stato risolto il venerdì 6 giugno 2024.
 
-Quando un utente fa clic su un collegamento pubblico a un rapporto, visualizza un errore. L’errore specifico dipende dal browser utilizzato dall’utente.
+Quando un utente fa clic su un collegamento pubblico a un report, visualizza un errore. L’errore specifico dipende dal browser utilizzato dall’utente.
 
 Questo problema riguarda le organizzazioni che hanno effettuato l’onboarding in Adobe IMS (Identity Management System).
 

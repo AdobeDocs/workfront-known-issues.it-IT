@@ -5,7 +5,7 @@ role: User
 source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
 workflow-type: tm+mt
 source-wordcount: '2018'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Navigazione: il pulsante Indietro non torna alla pagina precedente](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md)
-      + [Bozze: impossibile chiudere il visualizzatore bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
+      + [Bozze: impossibile chiudere il visualizzatore bozza](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Progetti: il menu Condivisione non si carica](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Rapporti: i collegamenti pubblici a un rapporto non funzionano](known-issues-workfront/wf-reports-public-link-not-working.md)
       + [[!UICONTROL Pianificazione risorse]: impossibile condividere il filtro](known-issues-workfront/wf-resource-planner-cannot-share-filter.md)

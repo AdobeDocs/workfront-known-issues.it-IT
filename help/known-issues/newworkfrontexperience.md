@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
 workflow-type: tm+mt
 source-wordcount: '795'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -39,8 +39,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Programmi: quando l’accesso dell’utente a un programma viene aggiornato, tutti gli accessi a questo vengono persi](known-issues-workfront/wf-programs-permissions-not-inherited.md) | sabato 7 giugno 2024 |
 | [Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | sabato 7 giugno 2024 |
 | [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | giovedì 5 giugno 2024 |
-| [Bozze: impossibile chiudere il visualizzatore bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | giovedì 5 giugno 2024 |
-| [Progetto: impossibile convertire il problema in progetto se il documento è allegato](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | giovedì 29 maggio 2024 |
+| [Bozze: impossibile chiudere il visualizzatore di bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | giovedì 5 giugno 2024 |
+| [Progetto: il problema non può essere convertito in progetto se ha un documento allegato](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | giovedì 29 maggio 2024 |
 | [Utenti: utenti mancanti quando si effettuano assegnazioni in blocco](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | mercoledì 28 maggio 2024 |
 | [Gruppi: impossibile aggiungere un sottogruppo](known-issues-workfront/wf-groups-cannot-add-subgroup.md) | venerdì 23 maggio 2024 |
 | [Documenti: schermata di errore durante il download o l’anteprima della risorsa](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martedì 20 maggio 2024 |
