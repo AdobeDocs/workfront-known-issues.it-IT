@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
+source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
 workflow-type: tm+mt
-source-wordcount: '2018'
+source-wordcount: '2023'
 ht-degree: 99%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Home: impossibile rimuovere il widget Menzioni](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigazione: il pulsante Indietro non torna alla pagina precedente](known-issues-workfront/wf-navigation-back-button-not-work.md)
       + [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Bozze: impossibile chiudere il visualizzatore bozza](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)

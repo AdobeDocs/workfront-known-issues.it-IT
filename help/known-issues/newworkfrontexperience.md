@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d7fcf78cf775977ff1a058b88e9b8bbbcc079a06
+source-git-commit: 9440e4db426bcf559e0e175ffc27649e041f8407
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '801'
 ht-degree: 98%
 
 ---
@@ -56,6 +56,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: impossibile rimuovere il widget Menzioni](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | giovedì 12 giugno 2024 |
 | [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | sabato 7 giugno 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | sabato 7 giugno 2024 |
 | [Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home](known-issues-workfront/wf-home-tasks-in-approved-planning-not-included.md) | sabato 7 giugno 2024 |
