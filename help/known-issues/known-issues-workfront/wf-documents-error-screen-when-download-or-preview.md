@@ -4,18 +4,21 @@ description: Quando un utente cerca di scaricare o visualizzare in anteprima una
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 7210a3ce-96c4-4186-922e-fffa79ae97cd
-source-git-commit: 64b4631aa965e303c559fc189cd1fb812a4c027e
+source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
 # Documenti: schermata di errore durante il download o l’anteprima della risorsa
 
+
+<!--
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 13 giugno 2024.
+>This issue was fixed on June 13, 2024.
+-->
 
 Quando un utente cerca di scaricare o visualizzare in anteprima una risorsa in Workfront, viene indirizzato a una schermata di errore.
 
