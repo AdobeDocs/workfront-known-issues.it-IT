@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
 workflow-type: tm+mt
 source-wordcount: '3859'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 ## Aggiornamenti di giugno 2024
 
-+++**Aggiornamento di manutenzione del venerdì 13 giugno 2024**
++++**Aggiornamento di manutenzione il venerdì 13 giugno 2024**
 
-### **Aggiornamento di manutenzione del venerdì 13 giugno 2024**
+### **Aggiornamento di manutenzione il venerdì 13 giugno 2024**
 
 #### Gruppi
 
@@ -34,23 +34,23 @@ Quando un utente tenta di aggiungere un sottogruppo esistente a un gruppo, il pu
 
 +++
 
-+++ **Aggiornamento di manutenzione del venerdì 6 giugno 2024**
++++ **Aggiornamento di manutenzione il 6 giugno 2024**
 
-### Aggiornamento di manutenzione del giovedì 6 giugno 2024
+### Aggiornamento di manutenzione il 6 giugno 2024
 
 #### Moduli personalizzati
 
-**Limitazione dei campi nativi nel progettista del modulo**
+**Limitazione dei campi nativi nel designer di moduli**
 
-Nei moduli personalizzati creati nel progettista di moduli sono ora supportati più campi nativi. In precedenza il limite era un campo nativo per modulo.
+Nei moduli personalizzati creati nel designer di moduli ora sono supportati più campi nativi. In precedenza il limite era un campo nativo per modulo.
 
 +++
 
 ## Aggiornamenti di maggio 2024
 
-+++ **Aggiornamento di manutenzione del venerdì 30 maggio 2024**
++++ **Aggiornamento di manutenzione il 30 maggio 2024**
 
-### Aggiornamento di manutenzione del venerdì 30 maggio 2024
+### Aggiornamento di manutenzione il 30 maggio 2024
 
 #### Moduli personalizzati
 
@@ -70,9 +70,9 @@ Quando un utente copia un commento che include una menzione in formato @ e lo in
 
 +++
 
-+++ **Aggiornamento di manutenzione del venerdì 23 maggio 2024**
++++ **Aggiornamento di manutenzione il 23 maggio 2024**
 
-### Aggiornamento di manutenzione del venerdì 23 maggio 2024
+### Aggiornamento di manutenzione il 23 maggio 2024
 
 #### Report
 
@@ -96,9 +96,9 @@ Quando un utente tenta di assegnare un tag a un altro utente utilizzando @ nella
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 16 maggio 2024**
++++**Aggiornamento di manutenzione il 16 maggio 2024**
 
-### Aggiornamento di manutenzione del venerdì 16 maggio 2024
+### Aggiornamento di manutenzione il 16 maggio 2024
 
 #### Configura
 
@@ -114,17 +114,17 @@ Quando un utente tenta di eliminare gli utenti, l’operazione non riesce. Quest
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 9 maggio 2024**
++++**Aggiornamento di manutenzione il 9 maggio 2024**
 
-### Aggiornamento di manutenzione del venerdì 9 maggio 2024
+### Aggiornamento di manutenzione il 9 maggio 2024
 
 Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 2 maggio 2024**
++++**Aggiornamento di manutenzione il 2 maggio 2024**
 
-### Aggiornamento di manutenzione del 2 maggio 2024
+### Aggiornamento di manutenzione il 2 maggio 2024
 
 #### Registrazione dell’ora
 
@@ -136,9 +136,9 @@ Quando un utente cerca di modificare le ore su un’attività o un problema, le 
 
 ## Aggiornamenti di aprile 2024
 
-+++**Aggiornamento di manutenzione del venerdì 25 aprile 2024**
++++**Aggiornamento di manutenzione il 25 aprile 2024**
 
-### Aggiornamento di manutenzione del venerdì 25 aprile 2024
+### Aggiornamento di manutenzione il 25 aprile 2024
 
 #### Aggiornamenti
 
@@ -156,9 +156,9 @@ Questo problema è stato segnalato nella nuova esperienza di commento.
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 18 aprile 2024**
++++**Aggiornamento di manutenzione il 18 aprile 2024**
 
-### Aggiornamento di manutenzione del venerdì 18 aprile 2024
+### Aggiornamento di manutenzione il 18 aprile 2024
 
 #### Agile
 
@@ -190,35 +190,9 @@ Quando a un problema è allegata una bozza web (una bozza URL che utilizza un co
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 11 aprile 2024**
++++**Aggiornamento di manutenzione il 11 aprile 2024**
 
-### Aggiornamento di manutenzione del venerdì 11 aprile 2024
-
-#### Ricerca
-
-**Impossibile modificare dalla ricerca**
-
-Quando un utente utilizza la Ricerca avanzata e tenta di modificare o modificare in blocco i risultati della ricerca, l’icona Modifica non risponde.
-
-#### Aggiornamenti
-
-**L’anteprima dell’immagine negli aggiornamenti è sfocata**
-
-Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre è estremamente sfocata e pixelata.
-
-Se l’utente scarica l’immagine, questa viene visualizzata alla risoluzione prevista.
-
-**Messaggio “[!UICONTROL Impossibile pubblicare il commento]” quando si risponde**
-
-Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
-
-“[!UICONTROL Impossibile pubblicare il commento in questo momento. Riprova tra qualche istante.]”
-
-+++
-
-+++**Aggiornamento di manutenzione del venerdì 4 aprile 2024**
-
-### Aggiornamento di manutenzione del 4 aprile 2024
+### Aggiornamento di manutenzione il 11 aprile 2024
 
 #### Ricerca
 
@@ -242,9 +216,35 @@ Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di co
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 4 aprile 2024**
++++**Aggiornamento di manutenzione il 4 aprile 2024**
 
-### Aggiornamento di manutenzione del 4 aprile 2024
+### Aggiornamento di manutenzione il 4 aprile 2024
+
+#### Ricerca
+
+**Impossibile modificare dalla ricerca**
+
+Quando un utente utilizza la Ricerca avanzata e tenta di modificare o modificare in blocco i risultati della ricerca, l’icona Modifica non risponde.
+
+#### Aggiornamenti
+
+**L’anteprima dell’immagine negli aggiornamenti è sfocata**
+
+Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre è estremamente sfocata e pixelata.
+
+Se l’utente scarica l’immagine, questa viene visualizzata alla risoluzione prevista.
+
+**Messaggio “[!UICONTROL Impossibile pubblicare il commento]” quando si risponde**
+
+Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
+
+“[!UICONTROL Impossibile pubblicare il commento in questo momento. Riprova tra qualche istante.]”
+
++++
+
++++**Aggiornamento di manutenzione il 4 aprile 2024**
+
+### Aggiornamento di manutenzione il 4 aprile 2024
 
 #### Integrazioni
 
@@ -279,9 +279,9 @@ L’esperienza di commento precedente funziona come previsto.
 
 ## Aggiornamenti di marzo 2024
 
-+++**Aggiornamento di manutenzione del venerdì 28 marzo 2024**
++++**Aggiornamento di manutenzione il 28 marzo 2024**
 
-### Aggiornamento di manutenzione del venerdì 28 marzo 2024
+### Aggiornamento di manutenzione il 28 marzo 2024
 
 #### Integrazioni
 
@@ -332,9 +332,9 @@ Questo problema è stato segnalato nell’esperienza di commento precedente.
 
 +++
 
-+++**Workfront Fusion - Aggiornamento di manutenzione del venerdì 28 marzo 2024**
++++**Workfront Fusion - Aggiornamento di manutenzione il 28 marzo 2024**
 
-### Workfront Fusion - Aggiornamento di manutenzione del 28 marzo 2024
+### Workfront Fusion - Aggiornamento di manutenzione il 28 marzo 2024
 
 **RuntimeError con risposta 200 dal modulo Workfront**
 
@@ -344,9 +344,9 @@ Ciò può verificarsi se la risposta è estremamente lunga. I dati vengono resti
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 21 marzo 2024**
++++**Aggiornamento di manutenzione il 21 marzo 2024**
 
-### Aggiornamento di manutenzione del venerdì 21 marzo 2024
+### Aggiornamento di manutenzione il 21 marzo 2024
 
 #### Aggiornamenti
 
@@ -364,9 +364,9 @@ Questa correzione si applica solo alla nuova esperienza di commento.
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 14 marzo 2024**
++++**Aggiornamento di manutenzione il 14 marzo 2024**
 
-### Aggiornamento di manutenzione del venerdì 14 marzo 2024
+### Aggiornamento di manutenzione il 14 marzo 2024
 
 #### Bozze
 
@@ -384,9 +384,9 @@ Quando un utente crea un altro utente, al nuovo utente è disponibile solo il li
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 7 marzo 2024**
++++**Aggiornamento di manutenzione il 7 marzo 2024**
 
-### Aggiornamento di manutenzione del 7 marzo 2024
+### Aggiornamento di manutenzione il 7 marzo 2024
 
 #### Bacheche
 
@@ -394,7 +394,7 @@ Quando un utente crea un altro utente, al nuovo utente è disponibile solo il li
 
 Quando un utente visualizza un progetto e tenta di aggiungere un’attività a una bacheca, questa non viene aggiunta e l’utente visualizza il seguente errore:
 
-Errore: “400: undefined /boards-service/graphql”.
+Errore: “400: undefined /boards-service/graphql”
 
 #### Home
 
@@ -413,7 +413,7 @@ Quando un utente cerca di modificare in linea un’attività nel widget Le mie a
 
 +++
 
-+++**Aggiornamento di manutenzione di Workfront Fusion del 7 marzo 2024
++++**Aggiornamento di manutenzione di Workfront Fusion il 7 marzo 2024
 
 **Workfront Proof > timeout del modulo Watch Proof**
 
@@ -423,9 +423,9 @@ Gli scenari che utilizzano Workfront Proof > modulo Watch Proof possono disattiv
 
 ## Aggiornamenti di febbraio 2024
 
-+++**Aggiornamento di manutenzione dell’venerdì 29 febbraio 2024**
++++**Aggiornamento di manutenzione il 29 febbraio 2024**
 
-### Aggiornamento di manutenzione dell’venerdì 29 febbraio 2024
+### Aggiornamento di manutenzione il 29 febbraio 2024
 
 #### Aggiornamenti
 
@@ -437,9 +437,9 @@ Questo avviene perché l’utente non dispone dell’autorizzazione per visualiz
 
 +++
 
-+++**Aggiornamento di manutenzione dell’venerdì 22 febbraio 2024**
++++**Aggiornamento di manutenzione il 22 febbraio 2024**
 
-### Aggiornamento di manutenzione dell’venerdì 22 febbraio 2024
+### Aggiornamento di manutenzione il 22 febbraio 2024
 
 #### Home
 
@@ -469,9 +469,9 @@ Il Bilanciatore dei carichi di lavoro e il calendario personale delle ferie ora 
 
 +++
 
-+++**Aggiornamento di manutenzione dell’venerdì 15 febbraio 2024**
++++**Aggiornamento di manutenzione il 15 febbraio 2024**
 
-### Aggiornamento di manutenzione dell’venerdì 15 febbraio 2024
+### Aggiornamento di manutenzione il 15 febbraio 2024
 
 #### Problemi
 
@@ -493,9 +493,9 @@ Dopo che un amministratore di [!DNL Workfront] ha disattivato l’opzione per ag
 
 +++
 
-+++**Aggiornamento di manutenzione dell’venerdì 8 febbraio 2024**
++++**Aggiornamento di manutenzione il 8 febbraio 2024**
 
-### Aggiornamento di manutenzione dell’8 febbraio 2024
+### Aggiornamento di manutenzione il 8 febbraio 2024
 
 #### Bacheche
 
@@ -523,9 +523,9 @@ Questo perché le mansioni creano automaticamente tariffe duplicate senza date d
 
 +++
 
-+++**Aggiornamento di manutenzione dell’venerdì 1 febbraio 2024**
++++**Aggiornamento di manutenzione il 1 febbraio 2024**
 
-### Aggiornamento di manutenzione del 1° febbraio 2024
+### Aggiornamento di manutenzione il 1° febbraio 2024
 
 #### Accedi
 
@@ -545,9 +545,9 @@ Quando un utente tenta di copiare un modello nuovo o esistente, l’operazione h
 
 ## Aggiornamenti di gennaio 2024
 
-+++**Aggiornamento di manutenzione (Hot Fix) del mercoledì 30 gennaio 2024**
++++**Aggiornamento di manutenzione (Hot Fix) il 30 gennaio 2024**
 
-### Aggiornamento di manutenzione (Hot Fix) del 30 gennaio 2024
+### Aggiornamento di manutenzione (Hot Fix) il 30 gennaio 2024
 
 #### Report
 
@@ -559,9 +559,9 @@ Ora, quando un campo personalizzato di ricerca esterna viene utilizzato in un el
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 25 gennaio 2024**
++++**Aggiornamento di manutenzione il 25 gennaio 2024**
 
-### Aggiornamento di manutenzione dell’venerdì 25 gennaio 2024
+### Aggiornamento di manutenzione il 25 gennaio 2024
 
 #### Bacheche
 
@@ -590,9 +590,9 @@ l’utente riceve una notifica e-mail relativa al tag, come previsto.
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 18 gennaio 2024**
++++**Aggiornamento di manutenzione il 18 gennaio 2024**
 
-### Aggiornamento di manutenzione dell’venerdì 18 gennaio 2024
+### Aggiornamento di manutenzione il 18 gennaio 2024
 
 #### Bacheche
 
@@ -637,7 +637,7 @@ Quando un utente tenta di visualizzare i commenti su una scheda non connessa a u
 
 Ciò può verificarsi anche quando l’utente poteva vedere i commenti sulla scheda in precedenza.
 
-#### Moduli personalizzati nel mio gruppo
+#### Moduli personalizzati
 
 **Impossibile aggiungere o rimuovere in blocco moduli personalizzati nelle attività modello**
 
@@ -692,9 +692,9 @@ Un commento creato nell’esperienza di commento precedente potrebbe non essere 
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 11 gennaio 2024**
++++**Aggiornamento di manutenzione il 11 gennaio 2024**
 
-### Aggiornamento di manutenzione dell’venerdì 11 gennaio 2024
+### Aggiornamento di manutenzione il 11 gennaio 2024
 
 #### Bacheche
 

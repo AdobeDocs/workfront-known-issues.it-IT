@@ -26,7 +26,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Integrazioni: problemi relativi all’integrazione del Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sabato 14 giugno 2024 |
-| [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | martedì 22 aprile 2024 |
+| [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 aprile 2024 |
 
 {style="table-layout:auto"}
 
@@ -36,11 +36,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | giovedì 5 giugno 2024 |
-| [Bozze: impossibile chiudere il visualizzatore di bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | giovedì 5 giugno 2024 |
-| [Documenti: schermata di errore durante il download o l’anteprima della risorsa](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martedì 20 maggio 2024 |
-| [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | giovedì 8 maggio 2024 |
-| [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | sabato 22 marzo 2024 |
+| [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 giugno 2024 |
+| [Bozze: impossibile chiudere il visualizzatore di bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | 5 giugno 2024 |
+| [Documenti: schermata di errore durante il download o l’anteprima della risorsa](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | 20 maggio 2024 |
+| [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maggio 2024 |
+| [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 marzo 2024 |
 | [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 
 {style="table-layout:auto"}
@@ -51,7 +51,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | sabato 7 giugno 2024 |
+| [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 giugno 2024 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 ottobre 2023 |
 | [Workfront Proof: i dati della dashboard non sono sempre precisi](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 settembre 2023 |
@@ -62,7 +62,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [[!DNL Workfront Proof]: errore 500 durante l’accesso a  [!DNL Workfront Proof]  tramite API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maggio 2023 |
 | [Documenti: le opzioni [!UICONTROL Attività bozza] portano alla pagina di accesso](known-issues-workfront/inactive/wf-documents-taken-to-login-screen.md) | 21 aprile 2023 |
 | [Bozze: lo strumento di misurazione non accetta i punti decimali](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 marzo 2023 |
-| [Documenti: errore 404 durante l’accesso al documento collegato da  [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 marzo 2023 |
+| [Documenti: errore 404 durante l’accesso al documento collegato da [!DNL SharePoint]](known-issues-workfront/inactive/wf-documents-404-when-accessing-document-in-sharepoint.md) | 23 marzo 2023 |
 | [Documenti: problemi relativi all’elenco dei documenti](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 23 marzo 2023 |
 | [[!DNL Workfront Proof]: gli elenchi non sono ordinati correttamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 marzo 2023 |
 | [Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | 7 marzo 2023 |
