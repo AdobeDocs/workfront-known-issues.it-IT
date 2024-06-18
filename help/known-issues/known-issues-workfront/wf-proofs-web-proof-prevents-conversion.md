@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents, Projects, Tasks, Work Management
 exl-id: 0022db1d-7ad3-4229-96a8-fb3823e89d9f
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 94%
 
 Quando un utente cerca di convertire un’attività o un problema che include una bozza generata dal web in un progetto, il progetto non viene creato e l’utente visualizza il seguente messaggio:
 
-&quot;[!UICONTROL Si è verificato un problema durante la copia del file] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Rimuovi il file o contatta l’assistenza e riprova.]”
+“[!UICONTROL Si è verificato un errore durante la copia del file] \xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\u003C\. [!UICONTROL Rimuovi il file o contatta l’assistenza e riprova.]”
 
 **Soluzioni alternative**
 
@@ -29,5 +29,5 @@ Eseguire la seguente procedura:
 2. Converti in un progetto l’attività o il problema.
 3. Utilizza la funzione Sposta Documento per spostare la bozza nel nuovo progetto.
 
-_Segnalato per la prima volta il venerdì 28 marzo 2024._
+_Segnalato per la prima volta il 28 marzo 2024._
 

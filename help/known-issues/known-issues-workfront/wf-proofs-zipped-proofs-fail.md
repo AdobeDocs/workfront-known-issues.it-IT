@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 9ce8530e-b96e-4509-9667-9d5bba238420
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Quando un utente tenta di creare una bozza compressa e due o più file nella boz
 
 Rinominare i file in modo che non abbiano lo stesso nome di un altro file.
 
-_Segnalato per la prima volta il venerdì 28 dicembre 2023._
+_Segnalato per la prima volta il 28 dicembre 2023._

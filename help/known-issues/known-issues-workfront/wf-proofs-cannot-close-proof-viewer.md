@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: db13d8e9f23ef3edc18550c1b502f82212af2282
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ Quando si visualizza una bozza nel visualizzatore di bozze e si tenta di chiuder
 
 Prova a eseguire una delle operazioni seguenti:
 
-* Fai clic sul nome del documento nell’e-mail per passare al documento, quindi apri la bozza da lì. Questo può consentire alla X di funzionare come previsto.
-* Riprovare a chiudere la bozza.
+* Fai clic sul nome del documento nell’e-mail per passare al documento, quindi apri la bozza da lì. Questo consentirà al pulsante X di funzionare come previsto.
+* Riprova a chiudere la bozza.
 * Per chiudere la bozza, chiudi la scheda del browser.
 
-_Segnalato per la prima volta il sabato 31 maggio 2024._
+_Segnalato per la prima volta il 31 maggio 2024._

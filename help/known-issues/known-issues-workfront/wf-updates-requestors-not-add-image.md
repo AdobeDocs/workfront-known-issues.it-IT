@@ -4,7 +4,7 @@ description: â€œQuando un utente con una licenza come Richiedente visualizza lâ€
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 

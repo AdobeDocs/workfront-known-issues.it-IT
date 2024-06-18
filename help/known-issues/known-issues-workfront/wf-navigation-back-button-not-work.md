@@ -4,9 +4,9 @@ description: "Quando un utente in Workfront fa clic sul pulsante Indietro del pr
 hidefromtoc: true
 feature: Get Started with Workfront
 source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
@@ -16,6 +16,6 @@ ht-degree: 4%
 Quando un utente in Workfront fa clic sul pulsante Indietro del browser, può verificarsi una delle seguenti situazioni.
 
 * Il nome della scheda del browser cambia, ma la pagina non cambia. Se si fa nuovamente clic sul pulsante Indietro, il problema potrebbe risolversi.
-* L’utente viene reindirizzato alla pagina di destinazione del browser.
+* L’utente viene indirizzato alla pagina di destinazione del browser.
 
-_Segnalato per la prima volta l’martedì 3 giugno 2024._
+_Segnalato per la prima volta il 3 giugno 2024._
