@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: aa221eafef81c6bdd29f8286f44e924323744625
+source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 96%
+source-wordcount: '846'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Report: &quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (/) avanti o indietro](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercoledì 18 giugno 2024 |
 | [Integrazioni: problemi relativi all’integrazione del Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sabato 14 giugno 2024 |
 | [Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sabato 14 giugno 2024 |
 | [Pianificazione delle risorse: [!UICONTROL Altro] non è visibile](known-issues-workfront/wf-resource-management-more-button-not-visible.md) | sabato 14 giugno 2024 |
@@ -39,6 +40,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Aggiornamenti: il collegamento copiato non viene incollato correttamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | giovedì 19 giugno 2024 |
 | [Documenti: schermata di errore durante il download o l’anteprima della risorsa](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martedì 17 giugno 2024 |
 | [Programmi: quando l’accesso dell’utente a un programma viene aggiornato, tutti gli accessi a questo vengono persi](known-issues-workfront/wf-programs-permissions-not-inherited.md) | 7 giugno 2024 |
 | [Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 giugno 2024 |

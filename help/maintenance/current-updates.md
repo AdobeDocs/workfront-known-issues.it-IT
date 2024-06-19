@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 41daceaf1b4300b4d71a459e3203d5a387ab1c28
+source-git-commit: 54183096bca61f6bf6e58062555b9e07282137f1
 workflow-type: tm+mt
-source-wordcount: '3859'
-ht-degree: 100%
+source-wordcount: '3963'
+ht-degree: 99%
 
 ---
 
@@ -21,6 +21,27 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di giugno 2024
+
++++**(Pianificato) Aggiornamento di manutenzione il venerdì 20 giugno 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 20 giugno 2024
+
+#### Navigazione
+
+**Il pulsante Indietro non torna alla pagina precedente**
+
+Quando un utente in Workfront fa clic sul pulsante Indietro del browser, può verificarsi una delle seguenti situazioni.
+
+* Il nome della scheda del browser cambia, ma la pagina non cambia. Se si fa nuovamente clic sul pulsante Indietro, il problema potrebbe risolversi.
+* L’utente viene indirizzato alla pagina di destinazione del browser.
+
+#### Bozze
+
+**Impossibile chiudere il visualizzatore bozze**
+
+Quando si visualizza una bozza nel visualizzatore di bozze e si tenta di chiuderla facendo clic sul pulsante X in alto a destra, la bozza non si chiude.
+
++++
 
 +++**Aggiornamento di manutenzione il venerdì 13 giugno 2024**
 
