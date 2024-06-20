@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
 workflow-type: tm+mt
-source-wordcount: '1652'
-ht-degree: 96%
+source-wordcount: '1663'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Home: il widget Problemi personali non mostra i problemi chiusi o completati](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Approvazioni: troppi reindirizzamenti](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Aggiornamenti: il collegamento copiato non viene incollato correttamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Report: &quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (/) avanti o indietro](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
