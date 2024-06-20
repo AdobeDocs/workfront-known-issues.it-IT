@@ -4,14 +4,18 @@ description: Quando un utente cerca di aggiornare l’accesso a un programma, tu
 hidefromtoc: true
 feature: Work Management
 exl-id: 0d02b200-5447-4cee-8e36-4171af00c101
-source-git-commit: 493f1125e9f0d459f15332d26a78dfe2193d7c5b
-workflow-type: ht
-source-wordcount: '92'
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
 
 # Programmi: quando l’accesso dell’utente viene aggiornato, tutti gli accessi al programma vengono persi
+
+>[!NOTE]
+>
+>Questo problema è stato risolto.
 
 Quando un utente cerca di aggiornare l’accesso a un programma, tutti gli altri gruppi, team, ruoli e utenti perdono l’accesso a tale programma. Ciò include le autorizzazioni ereditate dal portfolio.
 

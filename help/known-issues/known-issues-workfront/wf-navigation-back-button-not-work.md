@@ -1,17 +1,21 @@
 ---
 title: "Navigazione: il pulsante Indietro non torna alla pagina precedente"
-description: "Quando un utente in Workfront fa clic sul pulsante Indietro del proprio browser, non funziona come previsto."
+description: In Workfront, quando un utente fa clic sul pulsante Indietro del browser, non funziona come previsto.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8c6ab11bcafbfd09c204e239b831095871a0e9b3
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
+source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 71%
 
 ---
 
-
 # Navigazione: il pulsante Indietro non torna alla pagina precedente
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 20 giugno 2024.
 
 Quando un utente in Workfront fa clic sul pulsante Indietro del browser, può verificarsi una delle seguenti situazioni.
 
