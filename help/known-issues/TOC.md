@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0c35343702267443ecc8cc3c506f941ed479b81e
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '1663'
-ht-degree: 95%
+source-wordcount: '1685'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Report: il report non viene caricato quando la valuta predefinita è USD](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [Bacheche: la bacheca non viene visualizzata come utente quando si utilizza [!UICONTROL Accedi come]](known-issues-workfront/wf-boards-log-in-as.md)
       + [Home: il widget Problemi personali non mostra i problemi chiusi o completati](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Approvazioni: troppi reindirizzamenti](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Aggiornamenti: il collegamento copiato non viene incollato correttamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md)

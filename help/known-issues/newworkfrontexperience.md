@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 93%
+source-wordcount: '850'
+ht-degree: 90%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Approvazioni: troppi reindirizzamenti](known-issues-workfront/wf-approvals-redirect-too-many-times.md) | venerdì 20 giugno 2024 |
+| [Bacheche: la bacheca non viene visualizzata come utente quando si utilizza [!UICONTROL Accedi come]](known-issues-workfront/wf-boards-log-in-as.md) | sabato 21 giugno 2024 |
 | [Report: &quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (/) avanti o indietro](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercoledì 18 giugno 2024 |
 | [Integrazioni: problemi relativi all’integrazione del Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sabato 14 giugno 2024 |
 | [Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sabato 14 giugno 2024 |
@@ -40,6 +40,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Report: il report non viene caricato quando la valuta predefinita è USD](known-issues-workfront/wf-reports-default-currency-error.md) | sabato 21 giugno 2024 |
 | [Aggiornamenti: il collegamento copiato non viene incollato correttamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md) | giovedì 19 giugno 2024 |
 | [Documenti: schermata di errore durante il download o l’anteprima della risorsa](known-issues-workfront/wf-documents-error-screen-when-download-or-preview.md) | martedì 17 giugno 2024 |
 | [Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 giugno 2024 |
@@ -58,6 +59,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: il widget Problemi personali non mostra i problemi chiusi o completati](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | venerdì 20 giugno 2024 |
 | [Home: impossibile rimuovere il widget Menzioni](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | giovedì 12 giugno 2024 |
 | [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 giugno 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 giugno 2024 |
