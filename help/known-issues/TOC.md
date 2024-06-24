@@ -5,7 +5,7 @@ role: User
 source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
 source-wordcount: '1702'
-ht-degree: 93%
+ht-degree: 95%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 93%
       + [Approvazioni: troppi reindirizzamenti](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Aggiornamenti: il collegamento copiato non viene incollato correttamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
       + [Report: &quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (/) avanti o indietro](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
-      + [Integrazioni: problemi relativi all’integrazione del Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
+      + [Integrazioni: problemi relativi all’integrazione con Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)
-      + [Pianificazione delle risorse: [!UICONTROL Altro] non è visibile](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
+      + [Pianificazione delle risorse: pulsante [!UICONTROL Altro] non è visibile](known-issues-workfront/wf-resource-management-more-button-not-visible.md)
       + [Stati: impossibile riutilizzare lo stato eliminato in precedenza](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Home: impossibile rimuovere il widget Menzioni](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigazione: il pulsante Indietro non torna alla pagina precedente](known-issues-workfront/wf-navigation-back-button-not-work.md)
