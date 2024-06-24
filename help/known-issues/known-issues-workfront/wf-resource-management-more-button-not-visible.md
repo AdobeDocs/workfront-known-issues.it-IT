@@ -1,22 +1,22 @@
 ---
-title: "Pianificazione delle risorse: il pulsante Altro non è visibile"
-description: '"Quando un utente visualizza la pianificazione delle risorse e tenta di fare clic su [!UICONTROL Altro] pulsante, il pulsante non è visibile. È disponibile una soluzione alternativa.”'
+title: '“Pianificazione risorse: il pulsante Altro non è visibile”'
+description: Quando un utente visualizza la Pianificazione risorse e tenta di fare clic sul pulsante [!UICONTROL Altro], il pulsante non è visibile. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Resource Management
-source-git-commit: adfa446a98afa884e49823fbfbd21a83d6dddcc3
-workflow-type: tm+mt
+exl-id: 7aa5a227-cdbe-4131-921a-78a87235879a
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
+# Pianificazione risorse il pulsante: [!UICONTROL Altro] non è visibile
 
-# Pianificazione delle risorse: [!UICONTROL Altro] non è visibile
-
-Quando un utente visualizza la pianificazione delle risorse e tenta di fare clic su [!UICONTROL Altro] pulsante, il pulsante non è visibile.
+Quando un utente visualizza Pianificazione risorse e tenta di fare clic sul pulsante [!UICONTROL Altro], il pulsante non è visibile.
 
 **Soluzione alternativa**
 
-Fai clic sull’area in cui [!UICONTROL Altro] previsto. Il pulsante non è visibile, ma è possibile farvi clic.
+Fare clic sull’area in cui dovrebbe trovarsi il pulsante [!UICONTROL Altro]. Il pulsante non è visibile, ma è possibile farvi clic.
 
-_Segnalato per la prima volta l’giovedì 5 giugno 2024._
+_Segnalato per la prima volta il giovedì 5 giugno 2024._
