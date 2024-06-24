@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '1693'
-ht-degree: 94%
+source-wordcount: '1702'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrazioni: impossibile aggiungere una nuova versione di un documento da [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
       + [Bozze: facendo clic sul nome della bozza viene visualizzata una schermata vuota](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
       + [Report: il report non viene caricato quando la valuta predefinita è USD](known-issues-workfront/wf-reports-default-currency-error.md)
       + [Bacheche: la bacheca non viene visualizzata come utente quando si utilizza [!UICONTROL Accedi come]](known-issues-workfront/wf-boards-log-in-as.md)

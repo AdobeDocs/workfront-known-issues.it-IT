@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: d34df8cd575d6b17a02bc4ed25fa5ca891c2afe7
+source-git-commit: 81681ce1ed977fe43ae323d9d5d1bbe0b1d90d7d
 workflow-type: tm+mt
-source-wordcount: '848'
-ht-degree: 89%
+source-wordcount: '858'
+ht-degree: 88%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni: impossibile aggiungere una nuova versione di un documento da [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | martedì 24 giugno 2024 |
 | [Bozze: facendo clic sul nome della bozza viene visualizzata una schermata vuota](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | sabato 21 giugno 2024 |
 | [Bacheche: la bacheca non viene visualizzata come utente quando si utilizza [!UICONTROL Accedi come]](known-issues-workfront/wf-boards-log-in-as.md) | sabato 21 giugno 2024 |
 | [Report: &quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (/) avanti o indietro](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercoledì 18 giugno 2024 |
