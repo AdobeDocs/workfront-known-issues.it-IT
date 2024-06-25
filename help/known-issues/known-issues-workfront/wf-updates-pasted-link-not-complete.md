@@ -1,15 +1,15 @@
 ---
 title: "Aggiornamenti: il collegamento copiato non viene incollato correttamente"
-description: "Se un utente copia un collegamento da un aggiornamento facendo clic con il pulsante destro del mouse e selezionando Copia indirizzo collegamento, quindi incolla il collegamento in un aggiornamento, il collegamento non viene incollato correttamente. Solo la prima parte del collegamento è un collegamento e il resto dell’URL viene ignorato."
+description: Se un utente copia un collegamento da un aggiornamento facendo clic con il pulsante destro del mouse e selezionando Copia indirizzo collegamento, quindi incolla il collegamento in un aggiornamento, il collegamento non viene incollato correttamente. Solo la prima parte del collegamento è un collegamento e il resto dell’URL viene ignorato.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 865816354c9891a4ad15985e8679b59dcce8ad24
+exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
+source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 3%
 
 ---
-
 
 # Aggiornamenti: il collegamento copiato non viene incollato correttamente
 
