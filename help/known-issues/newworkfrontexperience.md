@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 931eafb88b877ec004dc360b9063a253de2bafbc
+source-git-commit: 0f4fc146fd36ce883ba9a738559bc8843bd73393
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 90%
+source-wordcount: '870'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni: collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
 | [Bozze: la chiusura di una bozza porta alla pagina Documenti del prodotto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | martedì 24 giugno 2024 |
 | [Integrazioni: impossibile aggiungere una nuova versione di un documento da [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | martedì 24 giugno 2024 |
 | [Bozze: facendo clic sul nome della bozza viene visualizzata una schermata vuota](known-issues-workfront/wf-proofs-go-to-blank-screen.md) | sabato 21 giugno 2024 |
