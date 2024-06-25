@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b48bf247fd2ccdffc996a8f205e3586aea1338c1
+source-git-commit: 7e617a611bf88f2133ba83746596f6336efa1593
 workflow-type: tm+mt
-source-wordcount: '4072'
+source-wordcount: '4124'
 ht-degree: 97%
 
 ---
@@ -39,6 +39,14 @@ Quando un utente cerca di visualizzare un rapporto la cui valuta predefinita è 
 Se un utente copia un collegamento da un aggiornamento facendo clic con il pulsante destro del mouse e selezionando &quot;[!UICONTROL Copia indirizzo collegamento]&quot;, quindi incolla il collegamento in un aggiornamento, il collegamento non viene incollato correttamente. Solo la prima parte del collegamento è un collegamento e il resto dell’URL viene ignorato.
 
 Copiare il collegamento utilizzando un metodo diverso da &quot;[!UICONTROL Copia indirizzo collegamento]&quot; consente di incollare il collegamento come previsto.
+
+#### Utenti
+
+**Utenti mancanti quando si effettuano assegnazioni in blocco**
+
+Quando un utente tenta di effettuare assegnazioni in blocco e all’attività viene assegnata una mansione, gli utenti con tale mansione non vengono visualizzati nell’elenco e l’utente che le assegna non può selezionarli.
+
+Questo comportamento è stato segnalato anche nel Bilanciatore dei carichi di lavoro.
 
 +++
 
