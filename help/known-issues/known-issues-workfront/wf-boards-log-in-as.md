@@ -1,18 +1,18 @@
 ---
-title: "Schede: la scheda non viene visualizzata come utente quando si utilizza Accedi come"
-description: '"Quando un amministratore o un amministratore di gruppo effettua l’accesso come altro utente e visualizza le bacheche, queste sono le bacheche dell’amministratore, non quelle dell’utente".'
+title: '“Bacheche: la bacheca non viene visualizzata come utente quando si utilizza Accedi come”'
+description: Quando un amministratore o un amministratore di gruppo effettua l’accesso come altro utente e visualizza le bacheche, tali bacheche sono quelle dell’amministratore e non quelle dell’utente.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 9b8060b70250b75f8777e8815af45ec525c4e860
-workflow-type: tm+mt
+exl-id: fe845e13-82fd-417b-8dd6-c40345c7c6da
+source-git-commit: 2ab561d9b97aea63728c811e310fd23d0f51c018
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-
 # Bacheche: la bacheca non viene visualizzata come utente quando si utilizza [!UICONTROL Accedi come]
 
-Quando un amministratore o un amministratore gruppo effettua l’accesso come altro utente e visualizza le bacheche, queste sono le bacheche dell’amministratore e non quelle dell’utente.
+Quando un amministratore o un amministratore di gruppo effettua l’accesso come altro utente e visualizza le bacheche, tali bacheche sono quelle dell’amministratore e non quelle dell’utente.
 
 _Segnalato per la prima volta il mercoledì 11 giugno 2024._

@@ -1,18 +1,18 @@
 ---
-title: "Report: nessun dato da visualizzare quando il nome del raggruppamento ha una barra (/) avanti o indietro"
-description: "Quando un utente visualizza un grafico in un rapporto e fa clic su un raggruppamento nel grafico, e tale raggruppamento presenta una barra (/) avanti o indietro nel nome, i dettagli aperti non visualizzano gli elementi nel raggruppamento e l’utente visualizza un messaggio Nessun dato da visualizzare."
+title: '“Rapporti: nessun dato da visualizzare quando il nome del raggruppamento ha una barra dritta o rovesciata”'
+description: Quando un utente visualizza un grafico in un rapporto e fa clic su un raggruppamento nel grafico che presenta una barra dritta o rovesciata nel nome, i dettagli aperti non mostrano gli elementi nel raggruppamento e l’utente visualizza il messaggio Nessun dato da visualizzare.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 08976071e8d1b25a8bc1e3e63b698e9d760d8f91
-workflow-type: tm+mt
+exl-id: 27b1ff30-ad5c-41f4-992b-56c87b939e69
+source-git-commit: e16d44c4b0fa446373bfe2032551498d03aca2c2
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# Rapporti: “Nessun dato da visualizzare” quando il nome del raggruppamento ha / o \
 
-# Report: &quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha / o \
-
-Quando un utente visualizza un grafico in un rapporto e fa clic su un raggruppamento nel grafico, e tale raggruppamento ha un / o \ nel nome, i dettagli aperti non visualizzano gli elementi nel raggruppamento e l’utente visualizza un messaggio &quot;Nessun dato da visualizzare&quot;.
+Quando un utente visualizza un grafico in un rapporto e fa clic su un raggruppamento nel grafico, che presenta una / o \ nel nome, i dettagli aperti non mostrano gli elementi nel raggruppamento e l’utente visualizza il messaggio “Nessun dato da visualizzare”.
 
 _Segnalato per la prima volta il martedì 17 giugno 2024._
