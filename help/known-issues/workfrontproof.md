@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 60c6e186749992b8e56efae2a1d7511c8bb5e4db
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 93%
+source-wordcount: '436'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: il conteggio dei documenti non è accurato](known-issues-workfront/wf-documents-count-only-root-folder.md) | sabato 28 giugno 2024 |
 | [Integrazioni: collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
 | [Bozze: la chiusura di una bozza porta alla pagina Documenti del prodotto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | martedì 24 giugno 2024 |
 | [Integrazioni: impossibile aggiungere una nuova versione di un documento da [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | martedì 24 giugno 2024 |

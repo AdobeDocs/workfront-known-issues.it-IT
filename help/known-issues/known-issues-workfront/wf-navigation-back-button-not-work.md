@@ -4,18 +4,22 @@ description: In Workfront, quando un utente fa clic sul pulsante Indietro del br
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: cba19c37-ca23-4eb6-93d5-b4ad7ab00c28
-source-git-commit: 1857044b49332a4c49fcc440d935937dc937c61d
+source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 71%
+source-wordcount: '91'
+ht-degree: 69%
 
 ---
 
 # Navigazione: il pulsante Indietro non torna alla pagina precedente
 
+<!--
+
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 20 giugno 2024.
+>This issue was fixed on June 20, 2024.
+
+-->
 
 Quando un utente in Workfront fa clic sul pulsante Indietro del browser, può verificarsi una delle seguenti situazioni.
 
