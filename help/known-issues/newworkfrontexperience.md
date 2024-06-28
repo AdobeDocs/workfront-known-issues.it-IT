@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
+source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
 workflow-type: tm+mt
-source-wordcount: '862'
-ht-degree: 95%
+source-wordcount: '872'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Record fatturazione: manca il pulsante Aggiungi altri record fatturazione](known-issues-workfront/wf-billing-records-new-button-missing.md) | sabato 28 giugno 2024 |
 | [Documenti: il conteggio dei documenti non è accurato](known-issues-workfront/wf-documents-count-only-root-folder.md) | sabato 28 giugno 2024 |
 | [Navigazione: il pulsante Indietro non torna alla pagina precedente](known-issues-workfront/wf-navigation-back-button-not-work.md) | sabato 28 giugno 2024 |
 | [Progetti: errore durante la modifica in blocco di progetti](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | venerdì 27 giugno 2024 |
