@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
+source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
 workflow-type: tm+mt
-source-wordcount: '4070'
+source-wordcount: '4096'
 ht-degree: 99%
 
 ---
@@ -25,6 +25,12 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 +++**Aggiornamento di manutenzione il venerdì 27 giugno 2024**
 
 ### Aggiornamento di manutenzione il venerdì 27 giugno 2024
+
+#### Bacheche
+
+**Solo il proprietario della scheda può aggiornare i filtri di configurazione**
+
+Per motivi di sicurezza, solo il proprietario di una scheda può modificare i filtri della scheda nel pannello Configura.
 
 #### Report
 
