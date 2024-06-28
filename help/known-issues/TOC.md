@@ -5,7 +5,7 @@ role: User
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '1744'
-ht-degree: 93%
+ht-degree: 97%
 
 ---
 
@@ -22,14 +22,14 @@ ht-degree: 93%
       + [Attività: la ricerca del nome nell’assegnazione dell’attività non restituisce gli utenti](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md)
       + [Integrazioni: collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md)
       + [Bozze: la chiusura di una bozza porta alla pagina Documenti del prodotto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md)
-      + [Integrazioni: impossibile aggiungere una nuova versione di un documento da [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
-      + [Bozze: facendo clic sul nome della bozza viene visualizzata una schermata vuota](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
-      + [Report: il report non viene caricato quando la valuta predefinita è USD](known-issues-workfront/wf-reports-default-currency-error.md)
+      + [Integrazioni: impossibile aggiungere una nuova versione di un documento da  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md)
+      + [Bozze: facendo clic sul nome della bozza si arriva ad una schermata vuota](known-issues-workfront/wf-proofs-go-to-blank-screen.md)
+      + [Rapporti: il rapporto non viene caricato quando la valuta predefinita è USD](known-issues-workfront/wf-reports-default-currency-error.md)
       + [Bacheche: la bacheca non viene visualizzata come utente quando si utilizza [!UICONTROL Accedi come]](known-issues-workfront/wf-boards-log-in-as.md)
-      + [Home: il widget Problemi personali non mostra i problemi chiusi o completati](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
+      + [Home: il widget I miei problemi non mostra i problemi chiusi o completati](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md)
       + [Approvazioni: troppi reindirizzamenti](known-issues-workfront/wf-approvals-redirect-too-many-times.md)
       + [Aggiornamenti: il collegamento copiato non viene incollato correttamente](known-issues-workfront/wf-updates-pasted-link-not-complete.md)
-      + [Report: &quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (/) avanti o indietro](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
+      + [Rapporti: “Nessun dato da visualizzare” quando il nome del raggruppamento ha una barra dritta o rovesciata](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md)
       + [Integrazioni: problemi relativi all’integrazione con Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md)
       + [Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata](known-issues-workfront/wf-reports-error-with-custom-date-field.md)
       + [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md)

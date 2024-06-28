@@ -1,5 +1,5 @@
 ---
-title: "Rapporti: il rapporto non viene caricato quando la valuta predefinita è USD"
+title: '“Rapporti: il rapporto non viene caricato quando la valuta predefinita è USD”'
 description: Quando un utente cerca di visualizzare un rapporto la cui valuta predefinita è USD, il rapporto non viene caricato.
 hidefromtoc: true
 feature: Reports and Dashboards
@@ -7,11 +7,11 @@ exl-id: b312cc55-78c3-4cf4-bb0c-5d8ba4d0600d
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
-# Report: il report non viene caricato quando la valuta predefinita è USD
+# Rapporti: il rapporto non viene caricato quando la valuta predefinita è USD
 
 >[!NOTE]
 >
@@ -21,6 +21,6 @@ Quando un utente cerca di visualizzare un rapporto la cui valuta predefinita è 
 
 **Soluzione alternativa**
 
-Cambia la valuta predefinita in &quot;[!UICONTROL Valuta predefinita del progetto].&quot;
+Cambia la valuta predefinita in “[!UICONTROL Valuta predefinita del progetto].”
 
 _Segnalato per la prima volta il venerdì 20 giugno 2024._

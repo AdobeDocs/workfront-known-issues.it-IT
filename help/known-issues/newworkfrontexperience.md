@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
 workflow-type: tm+mt
 source-wordcount: '862'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 
@@ -31,9 +31,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Attività: la ricerca del nome nell’assegnazione dell’attività non restituisce gli utenti](known-issues-workfront/wf-tasks-cannot-assign-by-first-name.md) | venerdì 27 giugno 2024 |
 | [Integrazioni: collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
 | [Bozze: la chiusura di una bozza porta alla pagina Documenti del prodotto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | martedì 24 giugno 2024 |
-| [Integrazioni: impossibile aggiungere una nuova versione di un documento da [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | martedì 24 giugno 2024 |
+| [Integrazioni: impossibile aggiungere una nuova versione di un documento da  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | martedì 24 giugno 2024 |
 | [Bacheche: la bacheca non viene visualizzata come utente quando si utilizza [!UICONTROL Accedi come]](known-issues-workfront/wf-boards-log-in-as.md) | sabato 21 giugno 2024 |
-| [Report: &quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (/) avanti o indietro](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercoledì 18 giugno 2024 |
+| [Rapporti: “Nessun dato da visualizzare” quando il nome del raggruppamento ha una barra dritta o rovesciata](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercoledì 18 giugno 2024 |
 | [Integrazioni: problemi relativi all’integrazione con Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sabato 14 giugno 2024 |
 | [Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sabato 14 giugno 2024 |
 | [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maggio 2024 |
@@ -61,7 +61,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Home: il widget Problemi personali non mostra i problemi chiusi o completati](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | venerdì 20 giugno 2024 |
+| [Home: il widget I miei problemi non mostra i problemi chiusi o completati](known-issues-workfront/inactive/wf-home-issues-widget-not-display-completed.md) | venerdì 20 giugno 2024 |
 | [Home: impossibile rimuovere il widget Menzioni](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md) | giovedì 12 giugno 2024 |
 | [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md) | 7 giugno 2024 |
 | [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md) | 7 giugno 2024 |

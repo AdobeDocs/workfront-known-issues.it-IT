@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
 workflow-type: tm+mt
 source-wordcount: '4070'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -36,9 +36,9 @@ Quando un utente cerca di visualizzare un rapporto la cui valuta predefinita è 
 
 **Il collegamento copiato non viene incollato correttamente**
 
-Se un utente copia un collegamento da un aggiornamento facendo clic con il pulsante destro del mouse e selezionando &quot;[!UICONTROL Copia indirizzo collegamento]&quot;, quindi incolla il collegamento in un aggiornamento, il collegamento non viene incollato correttamente. Solo la prima parte del collegamento è un collegamento e il resto dell’URL viene ignorato.
+Se un utente copia un collegamento da un aggiornamento facendo clic con il pulsante destro del mouse e seleziona “[!UICONTROL Copia indirizzo collegamento]”, quindi lo incolla in un aggiornamento, il collegamento non viene incollato correttamente. Solo la prima parte del collegamento è un collegamento e il resto dell’URL viene ignorato.
 
-Copiare il collegamento utilizzando un metodo diverso da &quot;[!UICONTROL Copia indirizzo collegamento]&quot; consente di incollare il collegamento come previsto.
+Copiare il collegamento utilizzando un metodo diverso da “[!UICONTROL Copia indirizzo collegamento]” consente di incollare il collegamento come previsto.
 
 +++
 
@@ -57,7 +57,7 @@ Quando un utente in Workfront fa clic sul pulsante Indietro del browser, può ve
 
 #### Bozze
 
-**Impossibile chiudere il visualizzatore bozze**
+**Impossibile chiudere il visualizzatore bozza**
 
 Quando si visualizza una bozza nel visualizzatore di bozze e si tenta di chiuderla facendo clic sul pulsante X in alto a destra, la bozza non si chiude.
 
