@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 04f96b95-19a3-476b-b2c1-6c6e439d437a
 source-git-commit: 786a543cd74e632b5a0777cfd93f8f8f4655b6f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 87%
 
 Se un utente copia un collegamento da un aggiornamento facendo clic con il pulsante destro del mouse e seleziona “[!UICONTROL Copia indirizzo collegamento]”, quindi lo incolla in un aggiornamento, il collegamento non viene incollato correttamente. Solo la prima parte del collegamento è un collegamento e il resto dell’URL viene ignorato.
 
-Copiare il collegamento utilizzando un metodo diverso da &quot;[!UICONTROL Copia indirizzo collegamento]&quot; consente di incollare il collegamento come previsto.
+Copiando il collegamento con un metodo diverso da “[!UICONTROL Copia indirizzo collegamento]” è possibile incollare il collegamento come previsto.
 
 **Soluzione alternativa**
 

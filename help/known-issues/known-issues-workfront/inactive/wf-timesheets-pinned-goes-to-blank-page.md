@@ -1,13 +1,13 @@
 ---
-title: "Schede orario: la scheda orario bloccata va a una pagina vuota"
-description: Quando un utente fa clic su un pin in Workfront che deve passare alla scheda orario, il pin viene invece visualizzato in una pagina vuota. È disponibile una soluzione alternativa.
+title: '“Schede orario: la scheda orario fissata passa in una pagina vuota”'
+description: Quando un utente fa clic su un pin in Workfront per passare alla scheda orario, il pin passa invece in una pagina vuota. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Timesheets
 exl-id: 684ccdfa-f419-451e-836a-11831fbc1816
 source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 

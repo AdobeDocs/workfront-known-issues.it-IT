@@ -1,13 +1,13 @@
 ---
 title: "Home: l’anteprima del nuovo widget Home non visualizza il nome corretto dell’oggetto"
-description: Quando un utente configura la propria home page nella nuova esperienza Home, nelle anteprime dei widget potrebbe non essere visualizzato il nome corretto dell’oggetto rappresentato dal widget. Questo perché Workfront consente la personalizzazione dei nomi degli oggetti. Tuttavia, le immagini di anteprima utilizzano il nome predefinito dell’oggetto. Ciò significa che se un’organizzazione ha personalizzato il nome di un oggetto, nell’anteprima viene visualizzato un nome di oggetto diverso da quello utilizzato dall’organizzazione.
+description: Quando un utente configura la pagina Home nella nuova esperienza Home, le anteprime dei widget potrebbero non visualizzare il nome corretto dell’oggetto rappresentato dal widget. Questo perché Workfront consente la personalizzazione dei nomi degli oggetti. Tuttavia, le immagini di anteprima utilizzano il nome predefinito dell’oggetto. Ciò significa che se un’organizzazione ha personalizzato il nome di un oggetto, nell’anteprima viene visualizzato un nome di oggetto diverso da quello utilizzato dall’organizzazione.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: fe9de49c-4eb4-4b90-9c86-4d6e1211bc6d
 source-git-commit: 1aed6a440155c99f8ce0b0f42c44dd9a3c660af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
