@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ad46cd2f9bfab7a64684cb4aca03257b2065d56a
-workflow-type: ht
-source-wordcount: '436'
-ht-degree: 100%
+source-git-commit: e64b507317a384626b33f81802737c17b210af24
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
+| [Moduli personalizzati: il modulo personalizzato non viene eliminato dal documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | martedì 8 luglio 2024 |
 | [Documenti: il conteggio del documento non è preciso](known-issues-workfront/wf-documents-count-only-root-folder.md) | sabato 28 giugno 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
 | [Bozze: la chiusura di una bozza porta alla pagina Documenti del prodotto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | martedì 24 giugno 2024 |

@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '872'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: impossibile aprire gli elementi da [!UICONTROL Calendario predefinito] o [!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | martedì 8 luglio 2024 |
+| [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
+| [Moduli personalizzati: il modulo personalizzato non viene eliminato dal documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | martedì 8 luglio 2024 |
 | [Record fatturazione: manca il pulsante Aggiungi altri record fatturazione](known-issues-workfront/wf-billing-records-new-button-missing.md) | sabato 28 giugno 2024 |
 | [Documenti: il conteggio del documento non è preciso](known-issues-workfront/wf-documents-count-only-root-folder.md) | sabato 28 giugno 2024 |
 | [Navigazione: il pulsante Indietro non torna alla pagina precedente](known-issues-workfront/wf-navigation-back-button-not-work.md) | sabato 28 giugno 2024 |
@@ -47,6 +50,10 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Problemi: errore durante l’assegnazione avanzata di un problema](known-issues-workfront/wf-issues-error-when-making-assignment.md) | martedì 8 luglio 2024 |
+| [Portfoli: l&#39;utente non può impostare il portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | martedì 8 luglio 2024 |
+| [Workfront: la terminologia personalizzata non viene applicata](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | martedì 8 luglio 2024 |
+| [Ora: il tipo di ora filtrata non è l’impostazione predefinita durante la registrazione dell’ora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | martedì 8 luglio 2024 |
 | [Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 giugno 2024 |
 | [Progetto: il problema non può essere convertito in progetto se ha un documento allegato](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 maggio 2024 |
 | [Utenti: utenti mancanti quando si effettuano assegnazioni in blocco](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 maggio 2024 |

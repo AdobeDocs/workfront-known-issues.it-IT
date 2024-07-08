@@ -4,14 +4,18 @@ description: '“A volte le connessioni Workfront Fusion a un account Workfront 
 hidefromtoc: true
 exl-id: 89b6331d-8e5e-4139-9359-0afa7be07d2f
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: e64b507317a384626b33f81802737c17b210af24
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# [!DNL Workfront Fusion]: Errore “Impossibile verificare la connessione”
+# [!DNL Workfront Fusion]: errore “Impossibile verificare la connessione”
+
+>[!NOTE]
+>
+>Questo problema è stato risolto.
 
 <!--This article is live by request for the workaround-->
 

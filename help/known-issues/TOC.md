@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '1753'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,13 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Home: impossibile aprire gli elementi da [!UICONTROL Calendario predefinito] o [!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
+      + [Moduli personalizzati: il modulo personalizzato non viene eliminato dal documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
+      + [Problemi: errore durante l’assegnazione avanzata di un problema](known-issues-workfront/wf-issues-error-when-making-assignment.md)
+      + [Portfoli: l&#39;utente non può impostare il portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Workfront: la terminologia personalizzata non viene applicata](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
+      + [Ora: il tipo di ora filtrata non è l’impostazione predefinita durante la registrazione dell’ora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Record fatturazione: manca il pulsante Aggiungi altri record fatturazione](known-issues-workfront/wf-billing-records-new-button-missing.md)
       + [Documenti: il conteggio del documento non è preciso](known-issues-workfront/wf-documents-count-only-root-folder.md)
       + [Progetti: errore durante la modifica in blocco di progetti](known-issues-workfront/wf-projects-error-when-bulk-editing.md)
