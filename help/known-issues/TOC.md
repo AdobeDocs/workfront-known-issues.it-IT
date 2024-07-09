@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '1811'
+source-wordcount: '1816'
 ht-degree: 96%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront Mobile: impossibile aprire le bozze](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [Home: impossibile aprire gli elementi da [!UICONTROL Calendario predefinito] o [!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Moduli personalizzati: il modulo personalizzato non viene eliminato dal documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)

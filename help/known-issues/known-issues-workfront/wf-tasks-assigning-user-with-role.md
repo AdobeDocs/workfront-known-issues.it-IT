@@ -4,14 +4,18 @@ description: Quando una mansione viene assegnata a un’attività e tale attivit
 hidefromtoc: true
 feature: Tasks
 exl-id: b73fef22-ffdd-4d8d-a30d-7804a6c85ef5
-source-git-commit: b62fa0af335bb0c075473feeecb8327a365fe483
-workflow-type: ht
-source-wordcount: '98'
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
 
 # Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 4 luglio 2024.
 
 Quando una mansione viene assegnata a un’attività e tale attività assegnata a un utente che dispone della mansione, quest’ultima non scompare dall’elenco delle assegnazioni.
 

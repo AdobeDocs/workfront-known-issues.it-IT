@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
-workflow-type: ht
-source-wordcount: '4096'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '4346'
+ht-degree: 97%
 
 ---
 
@@ -19,6 +19,56 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 >Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
 
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
+
+## Aggiornamenti di luglio 2024
+
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 11 luglio 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 11 luglio 2024
+
+#### Problemi
+
+**Errore durante un’assegnazione avanzata a un problema**
+
+Quando un utente cerca di effettuare un’assegnazione avanzata a un problema in Workfront, il problema non viene assegnato e l’utente visualizza il seguente messaggio di errore:
+
+&quot;[!UICONTROL APIModel INTERNAL non supporta la durata del campo (OpTask)]&quot;
+
+#### Report
+
+**Errore durante l’impostazione delle impostazioni della matrice nel rapporto Ore**
+
+Quando un utente cerca di impostare le impostazioni della matrice in un rapporto Ore, non può impostare le impostazioni e viene visualizzato il seguente errore:
+
+* “[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
+
+
++++
+
++++**Aggiornamento di manutenzione del venerdì 4 luglio 2024**
+
+### Aggiornamento di manutenzione del giovedì 4 luglio 2024
+
+#### Home
+
+**Il menu a tre punti non è efficace**
+
+Quando un utente fa clic sul menu Altro con tre punti nel Worklist predefinito, non viene attivata alcuna azione.
+
+#### Report
+
+**&quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (avanti o indietro)**
+
+Quando un utente visualizza un grafico in un rapporto e fa clic su un raggruppamento nel grafico, che presenta una / o \ nel nome, i dettagli aperti non mostrano gli elementi nel raggruppamento e l’utente visualizza il messaggio “Nessun dato da visualizzare”.
+
+#### Attività
+
+**Il Ruolo non scompare dall&#39;elenco quando l&#39;utente viene assegnato all&#39;attività**
+
+Quando una mansione viene assegnata a un’attività e tale attività assegnata a un utente che dispone della mansione, quest’ultima non scompare dall’elenco delle assegnazioni.
+
+
++++
 
 ## Aggiornamenti di giugno 2024
 

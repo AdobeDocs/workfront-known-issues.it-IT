@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '913'
 ht-degree: 93%
 
 ---
@@ -37,7 +37,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Bozze: la chiusura di una bozza porta alla pagina Documenti del prodotto](known-issues-workfront/wf-proofs-closing-leads-to-project-docs.md) | martedì 24 giugno 2024 |
 | [Integrazioni: impossibile aggiungere una nuova versione di un documento da  [!DNL Google Drive]](known-issues-workfront/wf-integrations-cannot-create-version-from-google-drive.md) | martedì 24 giugno 2024 |
 | [Bacheche: la bacheca non viene visualizzata come utente quando si utilizza [!UICONTROL Accedi come]](known-issues-workfront/wf-boards-log-in-as.md) | sabato 21 giugno 2024 |
-| [Rapporti: “Nessun dato da visualizzare” quando il nome del raggruppamento ha una barra dritta o rovesciata](known-issues-workfront/wf-reports-chart-drilldown-had-no-data.md) | mercoledì 18 giugno 2024 |
 | [Integrazioni: problemi relativi all’integrazione con Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sabato 14 giugno 2024 |
 | [Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sabato 14 giugno 2024 |
 | [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maggio 2024 |
@@ -50,11 +49,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Bozze: impossibile chiudere il visualizzatore di bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercoledì 9 luglio 2024 |
 | [Problemi: errore durante l’assegnazione avanzata di un problema](known-issues-workfront/wf-issues-error-when-making-assignment.md) | martedì 8 luglio 2024 |
 | [Portfoli: l&#39;utente non può impostare il portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | martedì 8 luglio 2024 |
 | [Workfront: la terminologia personalizzata non viene applicata](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | martedì 8 luglio 2024 |
 | [Ora: il tipo di ora filtrata non è l’impostazione predefinita durante la registrazione dell’ora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | martedì 8 luglio 2024 |
-| [Attività: la mansione non scompare dall’elenco quando l’utente viene assegnato all’attività](known-issues-workfront/wf-tasks-assigning-user-with-role.md) | 7 giugno 2024 |
 | [Progetto: il problema non può essere convertito in progetto se ha un documento allegato](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 29 maggio 2024 |
 | [Utenti: utenti mancanti quando si effettuano assegnazioni in blocco](known-issues-workfront/wf-users-bulk-assignments-not-display-user.md) | 28 maggio 2024 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 aprile 2024 |

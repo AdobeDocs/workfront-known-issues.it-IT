@@ -4,10 +4,10 @@ description: Rapporto Problemi noti nell’app mobile  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 726ac4d76d4600b1bea9a7db1571e41d6039dd00
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 92%
 
 ---
 
@@ -17,11 +17,11 @@ Questa pagina contiene i problemi attualmente identificati nell’app mobile [!D
 
 >[!IMPORTANT]
 >
->Per informazioni relative sui tempi di attività o sulle interruzioni del server, vedi [https://status.adobe.com/it](https://status.adobe.com/it). Per informazioni sui problemi risolti di recente, vedi [[!DNL Workfront] Aggiornamenti di manutenzione](../maintenance/current-updates.md).
+>Per informazioni relative sui tempi di attività o sulle interruzioni del server, vedi [https://status.adobe.com/it](https://status.adobe.com/it). Per informazioni sui problemi risolti di recente, consulta [[!DNL Workfront] Aggiornamenti di manutenzione](../maintenance/current-updates.md).
 
-**Nessun problema noto per[!DNL Workfront Mobile]**
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**
 
-<!--
+
 
 ## Current Issues
 
@@ -30,3 +30,11 @@ Questa pagina contiene i problemi attualmente identificati nell’app mobile [!D
 |Issue text  | YYYY/MM/DD  | 
 
 -->
+
+## Nuovo
+
+Questi problemi segnalati di recente sono attualmente sotto esame.
+
+| **Problema** | **Ultima modifica** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: impossibile aprire le bozze](known-issues-workfront/wf-mobile-proofs-not-open.md) | mercoledì 9 luglio 2024 |
