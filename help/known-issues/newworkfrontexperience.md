@@ -6,8 +6,8 @@ exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '937'
+ht-degree: 93%
 
 ---
 
@@ -28,7 +28,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Home: impossibile aprire gli elementi da [!UICONTROL Calendario predefinito] o [!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md) | martedì 8 luglio 2024 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
 | [Moduli personalizzati: il modulo personalizzato non viene eliminato dal documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | martedì 8 luglio 2024 |
-| [Record fatturazione: manca il pulsante Aggiungi altri record fatturazione](known-issues-workfront/wf-billing-records-new-button-missing.md) | sabato 28 giugno 2024 |
+| [Record fatturazione: il pulsante Aggiungi altri record fatturazione risulta mancante](known-issues-workfront/wf-billing-records-new-button-missing.md) | sabato 28 giugno 2024 |
 | [Documenti: il conteggio del documento non è preciso](known-issues-workfront/wf-documents-count-only-root-folder.md) | sabato 28 giugno 2024 |
 | [Navigazione: il pulsante Indietro non torna alla pagina precedente](known-issues-workfront/wf-navigation-back-button-not-work.md) | sabato 28 giugno 2024 |
 | [Progetti: errore durante la modifica in blocco di progetti](known-issues-workfront/wf-projects-error-when-bulk-editing.md) | venerdì 27 giugno 2024 |

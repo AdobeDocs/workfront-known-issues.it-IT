@@ -4,8 +4,8 @@ user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 6f802d32e74e3a567e2943ae837594809c703576
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1811'
+ht-degree: 96%
 
 ---
 
