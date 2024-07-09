@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 03957afbedfc08809d885f26239f47e09ca3f263
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4096'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 #### Bacheche
 
-**Solo il proprietario della scheda può aggiornare i filtri di configurazione**
+**Solo il proprietario della bacheca può aggiornare i filtri di configurazione**
 
-Per motivi di sicurezza, solo il proprietario di una scheda può modificare i filtri della scheda nel pannello Configura.
+Per motivi di sicurezza, solo il proprietario di una bacheca può modificarne i filtri nel pannello Configura.
 
 #### Report
 
