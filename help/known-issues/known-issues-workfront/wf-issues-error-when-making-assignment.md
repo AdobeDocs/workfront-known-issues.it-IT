@@ -3,15 +3,19 @@ title: "Problemi: errore durante l’assegnazione avanzata di un problema"
 description: "Quando un utente tenta di effettuare un’assegnazione avanzata a un problema in Workfront, il problema non viene assegnato e l’utente visualizza un messaggio di errore."
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # Problemi: errore durante l’assegnazione avanzata di un problema
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 11 luglio 2024.
 
 Quando un utente cerca di effettuare un’assegnazione avanzata a un problema in Workfront, il problema non viene assegnato e l’utente visualizza il seguente messaggio di errore:
 

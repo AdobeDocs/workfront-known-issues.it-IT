@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 92%
+source-wordcount: '912'
+ht-degree: 93%
 
 ---
 
@@ -51,7 +51,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 |----------------------------------| ----------------- |
 | [Utenti: la pagina del profilo utente viene caricata continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md) | giovedì 10 luglio 2024 |
 | [Bozze: impossibile chiudere il visualizzatore di bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercoledì 9 luglio 2024 |
-| [Problemi: errore durante l’assegnazione avanzata di un problema](known-issues-workfront/wf-issues-error-when-making-assignment.md) | martedì 8 luglio 2024 |
 | [Portfoli: l&#39;utente non può impostare il portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md) | martedì 8 luglio 2024 |
 | [Workfront: la terminologia personalizzata non viene applicata](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md) | martedì 8 luglio 2024 |
 | [Ora: il tipo di ora filtrata non è l’impostazione predefinita durante la registrazione dell’ora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md) | martedì 8 luglio 2024 |
