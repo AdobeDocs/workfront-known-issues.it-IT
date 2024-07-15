@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 609970f97b8b144543ab758039da5f778b3bb29e
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
-source-wordcount: '1831'
+source-wordcount: '1837'
 ht-degree: 95%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Impossibile creare la visualizzazione per l&#39;elenco Documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agile: la bacheca delle storie diventa vuota quando si aggiunge una sottoattività](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Utenti: la pagina del profilo utente viene caricata continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: impossibile aprire le bozze](known-issues-workfront/wf-mobile-proofs-not-open.md)

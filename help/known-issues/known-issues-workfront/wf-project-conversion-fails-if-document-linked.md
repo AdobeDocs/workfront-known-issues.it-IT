@@ -4,22 +4,19 @@ description: Quando un utente tenta di convertire in progetto un problema che ha
 hidefromtoc: true
 feature: Projects, Work Management, Digital Content and Documents
 exl-id: 9c133ddd-4001-4d1a-ad96-f7a0a57fe9a1
-source-git-commit: d23c66b7f7002647dc4ebb2adc02a6a75130515b
-workflow-type: ht
-source-wordcount: '119'
+source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
 
 # Progetto:il problema non può essere convertito in progetto se ha un documento allegato
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 23, 2024.
+>Questo problema è stato risolto il venerdì 27 giugno 2024.
 
--->
 
 Quando un utente tenta di convertire in progetto un problema che ha un documento, la conversione non riesce e il progetto non viene creato. L’utente visualizza il seguente errore:
 
