@@ -1,12 +1,12 @@
 ---
-title: "Ora: il tipo di ora filtrata non è l’impostazione predefinita durante la registrazione dell’ora"
-description: "Quando un utente registra l’ora, il tipo di ora preselezionato è Ora attività invece del tipo di ora filtrato per quel progetto."
+title: 'Ora: il tipo di ore filtrato non è l’impostazione predefinita durante la registrazione dell’ora'
+description: “Quando un utente registra l’ora, il tipo di ora preselezionato è Ora attività invece del tipo di ora filtrato per quel progetto.”
 hidefromtoc: true
 feature: Timesheets, Work Management
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
@@ -17,14 +17,14 @@ ht-degree: 14%
 >
 >Questo problema è stato risolto il mercoledì 9 luglio 2024.
 
-Quando un utente registra l&#39;ora, il tipo di ora preselezionato è &quot;[!UICONTROL Ora attività]&quot; invece del tipo di ora filtrato per quel progetto.
+Quando un utente registra l’ora, il tipo di ora preselezionato è “[!UICONTROL Ora attività]” invece del tipo di ora filtrato per quel progetto.
 
 L’utente può selezionare il tipo di ora corretto dal menu a discesa Tipo di ora, ma si tratta di un passaggio aggiuntivo.
 
 Questo problema è stato segnalato nelle seguenti aree:
 
-* Registrazione del tempo attraverso l’area Aggiornamenti
-* Registrazione del tempo attraverso un widget sulla Home
+* Registrazione dell’ora attraverso l’area Aggiornamenti
+* Registrazione dell’ora attraverso un widget nella Home
 
 **Soluzione alternativa**
 

@@ -5,7 +5,7 @@ role: User
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
 workflow-type: tm+mt
 source-wordcount: '1837'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 95%
       + [Agile: la bacheca delle storie diventa vuota quando si aggiunge una sottoattività](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
       + [Utenti: la pagina del profilo utente viene caricata continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: impossibile aprire le bozze](known-issues-workfront/wf-mobile-proofs-not-open.md)
-      + [Home: impossibile aprire gli elementi da [!UICONTROL Calendario predefinito] o [!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
+      + [Home: impossibile aprire gli elementi dal [!UICONTROL Calendario predefinito] o dall’[!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)
       + [Moduli personalizzati: il modulo personalizzato non viene eliminato dal documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md)
       + [Problemi: errore durante l’assegnazione avanzata di un problema](known-issues-workfront/wf-issues-error-when-making-assignment.md)
-      + [Portfoli: l&#39;utente non può impostare il portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
+      + [Portfolio: l’utente non può impostare il portfolio](known-issues-workfront/wf-portfolios-user-cannot-set-portfolio.md)
       + [Workfront: la terminologia personalizzata non viene applicata](known-issues-workfront/wf-workfront-custom-terminology-not-applied.md)
       + [Ora: il tipo di ora filtrata non è l’impostazione predefinita durante la registrazione dell’ora](known-issues-workfront/wf-time-filtered-hour-type-not-default.md)
       + [Record fatturazione: manca il pulsante Aggiungi altri record fatturazione](known-issues-workfront/wf-billing-records-new-button-missing.md)
