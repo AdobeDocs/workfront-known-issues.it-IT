@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4db36c0edb0710d933886aff2e7757c01bf2b6d9
+source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
 workflow-type: tm+mt
-source-wordcount: '4344'
+source-wordcount: '4508'
 ht-degree: 96%
 
 ---
@@ -22,21 +22,60 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 ## Aggiornamenti di luglio 2024
 
+
+
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 18 luglio 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 18 luglio 2024
+
+#### Agile
+
+**La bacheca delle storie rimane vuota quando si aggiunge una sottoattività**
+
+Quando un utente tenta di aggiungere un’attività secondaria a una bacheca delle storie mentre è selezionato un filtro, la schermata diventa vuota e l’utente non può aggiungere l’attività secondaria.
+
+#### Home
+
+**Impossibile aprire gli elementi da [!UICONTROL Calendario predefinito] o [!UICONTROL Elenco lavori]**
+
+Quando un utente cerca di aprire un elemento di lavoro o una bozza dal proprio [!UICONTROL calendario della Home] o dall’[!UICONTROL Elenco lavori della Home], l’elemento non si apre.
+
+#### Bozze
+
+**La chiusura di una bozza porta alla pagina Documenti prodotto**
+
+Quando un utente visualizza una bozza e la chiude, viene indirizzato alla pagina Documenti del progetto e non a quella da cui la bozza è stata aperta.
+
+#### Workfront
+
+**Terminologia personalizzata non applicata**
+
+La terminologia personalizzata impostata nel modello di layout non viene visualizzata in alcune aree di Workfront. Viene invece visualizzata la terminologia non personalizzata predefinita.
+
+Questo problema è stato segnalato nelle seguenti aree:
+
+* Schede del menu
+* Intestazioni pagina
+* Descrizioni in cui sono elencati i progetti
+
+
++++
+
 +++**Aggiornamento di manutenzione del venerdì 11 luglio 2024**
 
 ### Aggiornamento di manutenzione dell’giovedì 11 luglio 2024
 
 #### Problemi
 
-**Errore durante un’assegnazione avanzata a un problema**
+**Errore durante l&#39;assegnazione avanzata a un problema**
 
-Quando un utente cerca di effettuare un’assegnazione avanzata a un problema in Workfront, il problema non viene assegnato e l’utente visualizza il seguente messaggio di errore:
+Quando un utente cerca di effettuare un’assegnazione avanzata di un problema in Workfront, il problema non viene assegnato e l’utente visualizza il messaggio di errore seguente:
 
-&quot;[!UICONTROL APIModel INTERNAL non supporta la durata del campo (OpTask)]&quot;
+“[!UICONTROL APIModel INTERNAL non supporta la durata del campo (OpTask)]”
 
 #### Report
 
-**Errore durante l’impostazione delle impostazioni della matrice nel rapporto Ore**
+**Errore durante l&#39;impostazione delle impostazioni della matrice nel report Ore**
 
 Quando un utente cerca di impostare le impostazioni della matrice in un rapporto Ore, non può impostare le impostazioni e viene visualizzato il seguente errore:
 
@@ -51,19 +90,19 @@ Quando un utente cerca di impostare le impostazioni della matrice in un rapporto
 
 #### Home
 
-**Il menu a tre punti non è efficace**
+**Il menu a tre punti non è valido**
 
 Quando un utente fa clic sul menu Altro con tre punti nel Worklist predefinito, non viene attivata alcuna azione.
 
 #### Report
 
-**&quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (avanti o indietro)**
+**&quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (**)
 
 Quando un utente visualizza un grafico in un rapporto e fa clic su un raggruppamento nel grafico, che presenta una / o \ nel nome, i dettagli aperti non mostrano gli elementi nel raggruppamento e l’utente visualizza il messaggio “Nessun dato da visualizzare”.
 
 #### Attività
 
-**Il Ruolo non scompare dall&#39;elenco quando l&#39;utente viene assegnato all&#39;attività**
+**Il ruolo non scompare dall&#39;elenco quando l&#39;utente viene assegnato all&#39;attività**
 
 Quando una mansione viene assegnata a un’attività e tale attività assegnata a un utente che dispone della mansione, quest’ultima non scompare dall’elenco delle assegnazioni.
 

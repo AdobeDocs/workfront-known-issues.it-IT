@@ -1,15 +1,15 @@
 ---
-title: '“Aggiornamenti: gli elenchi numerati non vengono numerati correttamente”'
-description: “Quando un utente invia un commento che include un elenco numerato, nell’aggiornamento quest’ultimo mostra una numerazione errata.
+title: "Aggiornamenti: gli elenchi numerati non vengono numerati correttamente"
+description: Quando un utente invia un commento che include un elenco numerato, quest’ultimo mostra una numerazione errata nell’aggiornamento.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: a006b782841ed4dc7da667882aa9de73c871b07b
-workflow-type: ht
+exl-id: e753c392-846a-40f3-a957-fc0890fbda4c
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
-
 
 # Aggiornamenti: gli elenchi numerati non vengono numerati correttamente
 

@@ -1,15 +1,15 @@
 ---
-title: '“Aggiornamenti: i commenti al documento non vengono visualizzati negli aggiornamenti dell’oggetto principale”'
-description: “Quando un utente aggiunge un commento a un documento, tale commento non viene visualizzato immediatamente nell’area Aggiornamenti dell’oggetto principale del documento.”
+title: "Aggiornamenti: i commenti del documento non vengono visualizzati negli aggiornamenti dell’oggetto principale"
+description: Quando un utente aggiunge un commento a un documento, tale commento non viene visualizzato immediatamente nell’area Aggiornamenti dell’oggetto principale del documento.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 58d9dedba766417d68892c94d18d0ee4e9c03b51
-workflow-type: ht
+exl-id: a49b13cf-eddc-4cca-8c5a-2bda1cb1cc5e
+source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
-
 
 # Aggiornamenti: i commenti del documento non vengono visualizzati negli aggiornamenti dell’oggetto principale
 

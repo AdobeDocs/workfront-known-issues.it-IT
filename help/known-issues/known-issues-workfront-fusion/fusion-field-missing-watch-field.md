@@ -1,15 +1,15 @@
 ---
-title: '“Workfront Fusion: campo mancante nel modulo”'
-description: “Quando un utente configura un modulo in Workfront Fusion, potrebbe notare che manca un campo tra le opzioni disponibili. Ciò può verificarsi quando un utente aggiorna i propri campi personalizzati e ha utilizzato la progettazione dello scenario nelle ultime ore.”
+title: "Workfront Fusion: campo mancante dal modulo"
+description: Quando un utente configura un modulo in Workfront Fusion, potrebbe notare che manca un campo tra le opzioni disponibili. Ciò può verificarsi quando un utente aggiorna i propri campi personalizzati e ha utilizzato la progettazione dello scenario nelle ultime ore.
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: aad77d690cef72beb1543c442ee557e768777150
-workflow-type: ht
+exl-id: c5d2d11c-ff31-4189-a630-b0248c02134e
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
-
 
 # Workfront Fusion: campo mancante nel modulo
 

@@ -1,15 +1,15 @@
 ---
-title: '“Bacheche: le schede non vengono ordinate”'
-description: “Quando un utente cerca di ordinare le schede su una bacheca, queste non vengono ordinate. Ciò si verifica quando si utilizza qualsiasi opzione di ordinamento.”
+title: "Bacheche: le schede non vengono ordinate"
+description: Quando un utente cerca di ordinare le schede su una bacheca, queste non vengono ordinate. Ciò si verifica quando si utilizza qualsiasi opzione di ordinamento.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 3cbacf792432857389f34a80afe0e013a30b4092
-workflow-type: ht
+exl-id: 8cb4c535-73d6-40d7-aabc-0abd1f213fa6
+source-git-commit: 7aba3a4ce3e0436a8fd9850197bc44da9dafe347
+workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
-
 
 # Bacheche: le schede non vengono ordinate
 

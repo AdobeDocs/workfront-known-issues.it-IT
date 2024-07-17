@@ -4,7 +4,7 @@ description: “Se un utente visualizza un elenco di documenti e tenta di aggiun
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
 source-git-commit: 1d1f820d9f68a687df58d432b4d18dd91b2d2b13
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 

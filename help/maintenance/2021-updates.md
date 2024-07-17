@@ -4,7 +4,7 @@ description: Cronologia degli aggiornamenti di manutenzione del 2021 per [!DNL A
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
 source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '10060'
 ht-degree: 100%
 

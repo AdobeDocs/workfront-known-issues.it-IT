@@ -15,6 +15,6 @@ ht-degree: 5%
 
 Quando un utente cerca di visualizzare una pagina del profilo utente, questa sembra essere in fase di caricamento ma non è completamente caricata.
 
-Questo problema è stato segnalato quando si utilizza [!UICONTROL Accedi come] funzionalità.
+Questo problema è stato segnalato durante l&#39;utilizzo della funzionalità [!UICONTROL Accedi come].
 
 _Segnalato per la prima volta il martedì 8 luglio 2024._
