@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: b618463ab3321b711836c17e167fe34a5b859472
+source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
 workflow-type: tm+mt
-source-wordcount: '4508'
-ht-degree: 96%
+source-wordcount: '4535'
+ht-degree: 95%
 
 ---
 
@@ -24,9 +24,9 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 
 
-+++**(Pianificato) Aggiornamento di manutenzione del venerdì 18 luglio 2024**
++++**Aggiornamento di manutenzione del venerdì 18 luglio 2024**
 
-### (Pianificato) Aggiornamento di manutenzione del venerdì 18 luglio 2024
+### Aggiornamento di manutenzione del giovedì 18 luglio 2024
 
 #### Agile
 
@@ -39,6 +39,10 @@ Quando un utente tenta di aggiungere un’attività secondaria a una bacheca del
 **Impossibile aprire gli elementi da [!UICONTROL Calendario predefinito] o [!UICONTROL Elenco lavori]**
 
 Quando un utente cerca di aprire un elemento di lavoro o una bozza dal proprio [!UICONTROL calendario della Home] o dall’[!UICONTROL Elenco lavori della Home], l’elemento non si apre.
+
+**La home dell&#39;amministratore viene visualizzata quando si accede come altro utente**
+
+Quando un amministratore effettua l’accesso come altro utente e visualizza la Home dell’utente, viene visualizzata la Home dell’amministratore.
 
 #### Bozze
 
