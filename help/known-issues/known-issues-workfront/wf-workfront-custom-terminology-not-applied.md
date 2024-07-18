@@ -3,15 +3,19 @@ title: 'Workfront: la terminologia personalizzata non viene applicata'
 description: '"La terminologia personalizzata impostata nel modello di layout non viene visualizzata in alcune aree di Workfront. Viene invece visualizzata la terminologia non personalizzata predefinita. ”'
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
 
 
 # Workfront: la terminologia personalizzata non viene applicata
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 18 luglio 2024
 
 La terminologia personalizzata impostata nel modello di layout non viene visualizzata in alcune aree di Workfront. Viene invece visualizzata la terminologia non personalizzata predefinita.
 

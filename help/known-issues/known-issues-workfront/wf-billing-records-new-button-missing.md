@@ -3,15 +3,19 @@ title: '“Record fatturazione: manca il pulsante Aggiungi altri record fatturaz
 description: Quando un utente visualizza un elenco di record fatturazione e tenta di aggiungerne uno nuovo, nota che il pulsante Aggiungi nuovo record fatturazione non è presente nella parte superiore della pagina.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: 14981a2e9300b30b30f3b8a18d4518ec33f5a554
+source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '152'
 ht-degree: 100%
 
 ---
 
 
 # Record fatturazione: manca il pulsante Aggiungi altri record fatturazione
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 18 luglio 2024.
 
 Quando un utente visualizza un elenco di record fatturazione e tenta di aggiungerne uno nuovo, nota che il pulsante Aggiungi nuovo record fatturazione non è presente nella parte superiore della pagina.
 
