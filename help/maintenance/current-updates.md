@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
 workflow-type: tm+mt
-source-wordcount: '4535'
-ht-degree: 95%
+source-wordcount: '4620'
+ht-degree: 94%
 
 ---
 
@@ -23,6 +23,28 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 ## Aggiornamenti di luglio 2024
 
 
+
++++**Aggiornamento di manutenzione del venerdì 18 luglio 2024**
+
+### Aggiornamento di manutenzione del giovedì 18 luglio 2024
+
+#### Moduli personalizzati
+
+**Il menu a discesa si chiude quando si selezionano più valori**
+
+Quando un utente cerca di selezionare più valori in un campo modulo personalizzato, il menu a discesa si chiude dopo aver selezionato il primo valore.
+
+Ciò si verifica quando il campo è associato a una logica di visualizzazione nel modulo personalizzato.
+
+#### Notifiche
+
+**Miniature non visibili nelle notifiche e-mail**
+
+Quando un utente visualizza una notifica e-mail relativa all’approvazione di un documento, la miniatura del documento non è visibile nell’e-mail.
+
+Questo problema è stato segnalato in Gmail.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 18 luglio 2024**
 
