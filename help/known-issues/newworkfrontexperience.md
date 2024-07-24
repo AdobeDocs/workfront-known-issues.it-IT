@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 35106dcf97314734dec36ddc05a821aa2b54b234
+source-git-commit: 689e979b0598017911ad86f2f16e30733eadd2bb
 workflow-type: tm+mt
-source-wordcount: '861'
-ht-degree: 95%
+source-wordcount: '854'
+ht-degree: 96%
 
 ---
 
@@ -28,7 +28,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 luglio 2024 |
 | [Utenti: il livello di accesso dell’utente non può essere modificato](known-issues-workfront/wf-users-cannot-modify-access-level.md) | venerdì 18 luglio 2024 |
 | [Bacheche: errore durante il caricamento di una bacheca](known-issues-workfront/wf-boards-error-when-loading-board.md) | venerdì 18 luglio 2024 |
-| [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | venerdì 18 luglio 2024 |
 | [Documenti: il conteggio del documento non è preciso](known-issues-workfront/wf-documents-count-only-root-folder.md) | sabato 28 giugno 2024 |
 | [Navigazione: il pulsante Indietro non torna alla pagina precedente](known-issues-workfront/wf-navigation-back-button-not-work.md) | sabato 28 giugno 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
