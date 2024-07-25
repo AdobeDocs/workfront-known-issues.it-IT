@@ -1,17 +1,21 @@
 ---
-title: '“Integrazioni: impossibile aggiungere una nuova versione di un documento da  [!DNL Google Drive]”'
-description: “Se un utente visualizza un elenco di documenti e tenta di aggiungere una nuova versione di un documento da  [!DNL Google Drive], viene visualizzato un messaggio. È disponibile una soluzione alternativa.”
+title: "Integrazioni: impossibile aggiungere una nuova versione di un documento da  [!DNL Google Drive]"
+description: Se un utente visualizza un elenco di documenti e tenta di aggiungere una nuova versione di un documento da [!DNL Google Drive], visualizza un messaggio. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents
-source-git-commit: 1d1f820d9f68a687df58d432b4d18dd91b2d2b13
+exl-id: f3158228-7df2-4063-99f9-5d01a224ada4
+source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '117'
+ht-degree: 67%
 
 ---
 
-
 # Integrazioni: impossibile aggiungere una nuova versione di un documento da [!DNL Google Drive]
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso il giovedì 25 luglio 2024.
 
 Se un utente visualizza un elenco di documenti e tenta di aggiungere una nuova versione di un documento da [!DNL Google Drive], viene visualizzato il messaggio:
 
