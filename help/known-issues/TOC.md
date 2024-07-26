@@ -5,7 +5,7 @@ role: User
 source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
 source-wordcount: '1908'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 94%
       + [Moduli personalizzati: il menu a discesa si chiude quando si selezionano più valori](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [Bacheche: errore durante il caricamento di una scheda](known-issues-workfront/wf-boards-error-when-loading-board.md)
       + [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
-      + [Impossibile creare la visualizzazione per l&#39;elenco Documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md)
-      + [Agile: la bacheca delle storie diventa vuota quando si aggiunge una sottoattività](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
-      + [Utenti: la pagina del profilo utente viene caricata continuamente](known-issues-workfront/wf-users-profile-continuously-reloads.md)
+      + [Impossibile creare la vista per l’elenco dei documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md)
+      + [Agile: lo storyboard diventa vuoto quando si aggiunge un’attività secondaria](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)
+      + [Utenti: la pagina del profilo utente viene caricata in modo continuo](known-issues-workfront/wf-users-profile-continuously-reloads.md)
       + [Workfront Mobile: impossibile aprire le bozze](known-issues-workfront/wf-mobile-proofs-not-open.md)
       + [Home: impossibile aprire gli elementi dal [!UICONTROL Calendario predefinito] o dall’[!UICONTROL Elenco lavori]](known-issues-workfront/wf-home-cannot-open-items-from-legacy.md)
       + [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md)

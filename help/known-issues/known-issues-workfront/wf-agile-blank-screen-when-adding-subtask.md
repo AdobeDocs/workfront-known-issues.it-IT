@@ -1,23 +1,23 @@
 ---
 title: "Agile: la bacheca delle storie diventa vuota quando si aggiunge una sottoattività"
-description: "Quando un utente tenta di aggiungere un’attività secondaria a una bacheca delle storie mentre è selezionato un filtro, la schermata diventa vuota e l’utente non può aggiungere l’attività secondaria."
+description: Quando un utente tenta di aggiungere un’attività secondaria a uno storyboard mentre è selezionato un filtro, la schermata diventa vuota e l’utente non può aggiungerla.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 7b149f8f117d778efaa35ae650ed8b6f47c06311
+exl-id: 3d4ad64a-31a3-4205-a469-80bf680659b3
+source-git-commit: 18d44b25277610942a68227b9a3a9c17c874b966
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 11%
+ht-degree: 90%
 
 ---
 
-
-# Agile: la bacheca delle storie diventa vuota quando si aggiunge una sottoattività
+# Agile: lo storyboard diventa vuoto quando si aggiunge un’attività secondaria
 
 >[!NOTE]
 >
 >Questo problema è stato risolto il venerdì 18 luglio 2024.
 
-Quando un utente tenta di aggiungere un’attività secondaria a una bacheca delle storie mentre è selezionato un filtro, la schermata diventa vuota e l’utente non può aggiungere l’attività secondaria.
+Quando un utente tenta di aggiungere un’attività secondaria a uno storyboard mentre è selezionato un filtro, la schermata diventa vuota e l’utente non può aggiungerla.
 
 **Soluzione alternativa**
 

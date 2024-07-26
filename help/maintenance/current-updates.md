@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
 workflow-type: tm+mt
 source-wordcount: '4620'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -26,7 +26,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 +++**Aggiornamento di manutenzione del venerdì 25 luglio 2024**
 
-### Aggiornamento di manutenzione del giovedì 25 luglio 2024
+### Aggiornamento di manutenzione del venerdì 25 luglio 2024
 
 #### Moduli personalizzati
 
@@ -48,13 +48,13 @@ Questo problema è stato segnalato in Gmail.
 
 +++**Aggiornamento di manutenzione del venerdì 18 luglio 2024**
 
-### Aggiornamento di manutenzione del giovedì 18 luglio 2024
+### Aggiornamento di manutenzione del venerdì 18 luglio 2024
 
 #### Agile
 
 **La bacheca delle storie rimane vuota quando si aggiunge una sottoattività**
 
-Quando un utente tenta di aggiungere un’attività secondaria a una bacheca delle storie mentre è selezionato un filtro, la schermata diventa vuota e l’utente non può aggiungere l’attività secondaria.
+Quando un utente tenta di aggiungere un’attività secondaria a uno storyboard mentre è selezionato un filtro, la schermata diventa vuota e l’utente non può aggiungerla.
 
 #### Home
 
@@ -89,11 +89,11 @@ Questo problema è stato segnalato nelle seguenti aree:
 
 +++**Aggiornamento di manutenzione del venerdì 11 luglio 2024**
 
-### Aggiornamento di manutenzione dell’giovedì 11 luglio 2024
+### Aggiornamento di manutenzione dell’11 luglio 2024
 
 #### Problemi
 
-**Errore durante l&#39;assegnazione avanzata a un problema**
+**Errore quando effettuando l’assegnazione avanzata di un problema**
 
 Quando un utente cerca di effettuare un’assegnazione avanzata di un problema in Workfront, il problema non viene assegnato e l’utente visualizza il messaggio di errore seguente:
 
@@ -101,9 +101,9 @@ Quando un utente cerca di effettuare un’assegnazione avanzata di un problema i
 
 #### Report
 
-**Errore durante l&#39;impostazione delle impostazioni della matrice nel report Ore**
+**Errore Ops quando si configurano le impostazioni della matrice nel report delle ore**
 
-Quando un utente cerca di impostare le impostazioni della matrice in un rapporto Ore, non può impostare le impostazioni e viene visualizzato il seguente errore:
+Quando un utente tenta di configurare le impostazioni della matrice in un report delle ore, non le può configurare e viene visualizzato il seguente errore:
 
 * “[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
 
@@ -112,23 +112,23 @@ Quando un utente cerca di impostare le impostazioni della matrice in un rapporto
 
 +++**Aggiornamento di manutenzione del venerdì 4 luglio 2024**
 
-### Aggiornamento di manutenzione del giovedì 4 luglio 2024
+### Aggiornamento di manutenzione del 4 luglio 2024
 
 #### Home
 
-**Il menu a tre punti non è valido**
+**Il menu a tre punti non ha alcun effetto**
 
-Quando un utente fa clic sul menu Altro con tre punti nel Worklist predefinito, non viene attivata alcuna azione.
+Quando un utente fa clic sul menu a tre punti Altro nell’elenco lavori della Home precedente, non viene attivata alcuna azione.
 
 #### Report
 
-**&quot;Nessun dato da visualizzare&quot; quando il nome del raggruppamento ha una barra (**)
+**“Nessun dato da visualizzare” quando il nome del raggruppamento ha una barra dritta o rovesciata**
 
 Quando un utente visualizza un grafico in un rapporto e fa clic su un raggruppamento nel grafico, che presenta una / o \ nel nome, i dettagli aperti non mostrano gli elementi nel raggruppamento e l’utente visualizza il messaggio “Nessun dato da visualizzare”.
 
 #### Attività
 
-**Il ruolo non scompare dall&#39;elenco quando l&#39;utente viene assegnato all&#39;attività**
+**La mansione non scompare dall’elenco quando l’utente viene assegnato all’attività**
 
 Quando una mansione viene assegnata a un’attività e tale attività assegnata a un utente che dispone della mansione, quest’ultima non scompare dall’elenco delle assegnazioni.
 
