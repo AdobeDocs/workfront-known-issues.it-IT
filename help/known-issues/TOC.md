@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ad560adcf4230891bb31b82402d1ac77539d72fb
+source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
 workflow-type: tm+mt
-source-wordcount: '1864'
-ht-degree: 97%
+source-wordcount: '1908'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Aggiornamenti: gli utenti non ricevono notifiche sugli aggiornamenti diretti](known-issues-workfront/wf-updates-users-not-getting-email.md)
+      + [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md)
+      + [Accedi come: la pagina principale e i pin non vengono visualizzati correttamente quando si esce da &quot;Accedi come&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [Attività: autorizzazioni ereditate mancanti per le attività](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
+      + [Livelli di accesso: Duplicare i livelli di accesso nell’area Configurazione](known-issues-workfront/wf-access-duplicate-level.md)
       + [Progetti: il simbolo di valuta non è corretto durante l’esportazione](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [Moduli personalizzati: il menu a discesa si chiude quando si selezionano più valori](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
       + [Bacheche: errore durante il caricamento di una scheda](known-issues-workfront/wf-boards-error-when-loading-board.md)

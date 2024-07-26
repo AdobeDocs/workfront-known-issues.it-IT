@@ -1,17 +1,21 @@
 ---
-title: 'Portfolio: l’utente non può impostare il portfolio'
+title: "Portfoli: l’utente non può impostare il portfolio"
 description: Gli utenti non possono modificare i portfolio su un progetto se non vi hanno accesso.
 hidefromtoc: true
 feature: Work Management
-source-git-commit: e64b507317a384626b33f81802737c17b210af24
+exl-id: 38ad277a-2087-486c-8715-93e275488697
+source-git-commit: 83768065b8ab38a516a5f1a51039ad6df05b5788
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 97%
 
 ---
 
-
 # Portfolio: l’utente non può impostare il portfolio
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso perché il sistema funziona come previsto.
 
 Gli utenti non possono modificare i portfolio su un progetto se non vi hanno accesso.
 
