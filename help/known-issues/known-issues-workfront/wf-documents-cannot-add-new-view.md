@@ -1,19 +1,19 @@
 ---
-title: "Impossibile creare la visualizzazione per l'elenco Documenti"
-description: '"Quando un utente tenta di creare una nuova visualizzazione in un elenco Documenti, la schermata diventa vuota e l’utente non può crearla. ”'
+title: Impossibile creare la vista per l’elenco dei documenti
+description: Quando un utente tenta di creare una nuova vista in un elenco dei documenti, la schermata diventa vuota e l’utente non può crearla. ”
 hidefromtoc: true
 feature: Digital Content and Documents, Work Management
 source-git-commit: d5f8353a912c2e61d19692ee8987ee1cb8c8489d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Impossibile creare la visualizzazione per l&#39;elenco Documenti
+# Impossibile creare la vista per l’elenco dei documenti
 
-Quando un utente tenta di creare una nuova visualizzazione in un elenco Documenti, la schermata diventa vuota e l’utente non può crearla.
+Quando un utente tenta di creare una nuova vista in un elenco dei documenti, la schermata diventa vuota e l’utente non può crearla.
 
 Le viste esistenti funzionano come previsto.
 
