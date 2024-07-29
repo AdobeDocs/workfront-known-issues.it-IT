@@ -1,17 +1,21 @@
 ---
-title: "Accedi come: la pagina principale e i pin vengono visualizzati in modo errato quando si esce da Accedi come"
-description: "Quando un utente che ha effettuato l’accesso come altro utente si disconnette come tale utente, nella schermata iniziale vengono visualizzati i seguenti problemi."
+title: "Accedi come: la pagina principale e i pin non vengono visualizzati correttamente quando si esce da Accedi come"
+description: Quando un utente che ha effettuato l’accesso come altro utente si disconnette come tale utente, nella schermata iniziale vengono visualizzati i seguenti problemi.
 hidefromtoc: true
 feature: System Setup and Administration, Get Started with Workfront
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+exl-id: 3614563d-7f53-4632-b09f-2874133aa217
+source-git-commit: e3290a00e93e0faf6b944ac02c2820dc3a26fb4b
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '122'
+ht-degree: 11%
 
 ---
 
-
 # Accedi come: la pagina principale e i pin non vengono visualizzati correttamente quando si esce da &quot;Accedi come&quot;
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 25 luglio 2024.
 
 Quando un utente che ha effettuato l’accesso come altro utente si disconnette come tale utente, viene visualizzato quanto segue:
 
