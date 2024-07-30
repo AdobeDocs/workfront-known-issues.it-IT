@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 349f5a14e77cd710a3566ece5985caf731969f0f
+source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
-source-wordcount: '4620'
+source-wordcount: '4751'
 ht-degree: 97%
 
 ---
@@ -20,9 +20,34 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
+## Aggiornamenti di agosto 2024
+
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 1 agosto 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 1 agosto 2024
+
+#### Documenti
+
+**Impossibile creare la vista per l’elenco dei documenti**
+
+Quando un utente tenta di creare una nuova vista in un elenco dei documenti, la schermata diventa vuota e l’utente non può crearla.
+
+Le viste esistenti funzionano come previsto.
+
+#### Integrazioni
+
+**Problemi relativi all&#39;integrazione del Dropbox**
+
+I seguenti problemi sono stati riscontrati in relazione all’integrazione con Dropbox:
+
+* Quando un utente prova a cercare un file nel selettore di file di Dropbox, visualizza un messaggio di errore di autorizzazione e il file desiderato non viene recuperato dal selettore.
+* Quando un utente cerca di aprire una cartella collegata, visualizza un errore che indica che in Dropbox i file o la cartella non esistono più.
+
+Questi problemi sono dovuti a problemi con Dropbox, non con Workfront.
+
++++
+
 ## Aggiornamenti di luglio 2024
-
-
 
 +++**Aggiornamento di manutenzione del venerdì 25 luglio 2024**
 
