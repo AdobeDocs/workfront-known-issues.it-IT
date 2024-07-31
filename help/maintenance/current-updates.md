@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3d966ae45f5a1a6c6e34dc49c801186178e7635d
 workflow-type: tm+mt
 source-wordcount: '4751'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -63,7 +63,7 @@ Ciò si verifica quando il campo è associato a una logica di visualizzazione ne
 
 #### Notifiche
 
-**Miniature non visibili nelle notifiche e-mail**
+**Le miniature non sono visibili nelle notifiche e-mail**
 
 Quando un utente visualizza una notifica e-mail relativa all’approvazione di un documento, la miniatura del documento non è visibile nell’e-mail.
 
@@ -77,29 +77,29 @@ Questo problema è stato segnalato in Gmail.
 
 #### Agile
 
-**La bacheca delle storie rimane vuota quando si aggiunge una sottoattività**
+**Lo storyboard diventa vuoto quando si aggiunge un’attività secondaria**
 
 Quando un utente tenta di aggiungere un’attività secondaria a uno storyboard mentre è selezionato un filtro, la schermata diventa vuota e l’utente non può aggiungerla.
 
 #### Home
 
-**Impossibile aprire gli elementi da [!UICONTROL Calendario predefinito] o [!UICONTROL Elenco lavori]**
+**Impossibile aprire gli elementi dal [!UICONTROL Calendario della Home] o dall’[!UICONTROL Elenco lavori]**
 
 Quando un utente cerca di aprire un elemento di lavoro o una bozza dal proprio [!UICONTROL calendario della Home] o dall’[!UICONTROL Elenco lavori della Home], l’elemento non si apre.
 
-**La home dell&#39;amministratore viene visualizzata quando si accede come altro utente**
+**La Home dell’amministratore viene visualizzata quando si accede come altro utente**
 
 Quando un amministratore effettua l’accesso come altro utente e visualizza la Home dell’utente, viene visualizzata la Home dell’amministratore.
 
 #### Bozze
 
-**La chiusura di una bozza porta alla pagina Documenti prodotto**
+**La chiusura di una bozza porta alla pagina Documenti del prodotto**
 
 Quando un utente visualizza una bozza e la chiude, viene indirizzato alla pagina Documenti del progetto e non a quella da cui la bozza è stata aperta.
 
 #### Workfront
 
-**Terminologia personalizzata non applicata**
+**La terminologia personalizzata non viene applicata**
 
 La terminologia personalizzata impostata nel modello di layout non viene visualizzata in alcune aree di Workfront. Viene invece visualizzata la terminologia non personalizzata predefinita.
 
