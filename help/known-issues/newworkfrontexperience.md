@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 476d10ffa4de9094a76a011b69b9a7acd11b0339
+source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '821'
 ht-degree: 99%
 
 ---
@@ -31,7 +31,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Navigazione: il pulsante Indietro non torna alla pagina precedente](known-issues-workfront/wf-navigation-back-button-not-work.md) | sabato 28 giugno 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
 | [Bacheche: la bacheca non viene visualizzata come utente quando si utilizza [!UICONTROL Accedi come]](known-issues-workfront/wf-boards-log-in-as.md) | sabato 21 giugno 2024 |
-| [Integrazioni: problemi relativi all’integrazione con Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sabato 14 giugno 2024 |
 | [Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sabato 14 giugno 2024 |
 | [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maggio 2024 |
 
@@ -44,11 +43,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 luglio 2024 |
-| [Aggiornamenti: gli utenti non ricevono notifiche sugli aggiornamenti diretti](known-issues-workfront/wf-updates-users-not-getting-email.md) | venerdì 25 luglio 2024 |
 | [Livelli di accesso: livelli di accesso duplicati nell’area di configurazione](known-issues-workfront/wf-access-duplicate-level.md) | venerdì 25 luglio 2024 |
 | [Progetti: il simbolo valuta non è corretto durante l’esportazione](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | venerdì 18 luglio 2024 |
 | [Moduli personalizzati: il modulo personalizzato non viene eliminato dal documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | venerdì 18 luglio 2024 |
-| [Impossibile creare la vista per l’elenco dei documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martedì 15 luglio 2024 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 aprile 2024 |
 | [Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 aprile 2024 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di [!DNL Workfront]  su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
