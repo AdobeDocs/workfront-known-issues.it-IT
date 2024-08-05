@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '1908'
-ht-degree: 96%
+source-wordcount: '1991'
+ht-degree: 95%
 
 ---
 
@@ -17,14 +17,25 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Notifiche: errore Whoops durante l&#39;impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Moduli personalizzati: il browser si arresta in modo anomalo durante la creazione di moduli di grandi dimensioni](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
+      + [Rapporti: le consegne dei rapporti sono in ritardo o mancanti](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Attività: problemi con il ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Moduli personalizzati: il generatore di moduli si arresta in modo anomalo quando si immette la logica di visualizzazione](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Documenti: facendo clic sul nome di un documento viene visualizzata una pagina vuota](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Moduli personalizzati: impossibile scorrere il campo di ricerca esterno](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
+      + [Moduli personalizzati: campo calcolato che mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: impossibile autenticare una connessione utilizzando Workfront Accedere come funzionalità](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Configurazione: &quot;Accedi come&quot; porta alla schermata vuota](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md)
       + [Aggiornamenti: gli utenti non ricevono notifiche sugli aggiornamenti diretti](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md)
-      + [Accedi come: la pagina principale e i pin non vengono visualizzati correttamente quando si esce da &quot;Accedi come&quot;](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
+      + [Accedi come: la Home e i pin non vengono visualizzati correttamente quando si esce da “Accedi come”](known-issues-workfront/wf-login-as-displays-when-logged-out.md)
       + [Attività: autorizzazioni ereditate mancanti per le attività](known-issues-workfront/wf-tasks-inherited-permissions-missing.md)
-      + [Livelli di accesso: Duplicare i livelli di accesso nell’area Configurazione](known-issues-workfront/wf-access-duplicate-level.md)
-      + [Progetti: il simbolo di valuta non è corretto durante l’esportazione](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
+      + [Livelli di accesso: duplicare i livelli di accesso nell’area Configurazione](known-issues-workfront/wf-access-duplicate-level.md)
+      + [Progetti: il simbolo valuta non è corretto durante l’esportazione](known-issues-workfront/wf-projects-currency-symbol-incorrect.md)
       + [Moduli personalizzati: il menu a discesa si chiude quando si selezionano più valori](known-issues-workfront/wf-custom-forms-dropdown-closes.md)
-      + [Bacheche: errore durante il caricamento di una scheda](known-issues-workfront/wf-boards-error-when-loading-board.md)
+      + [Bacheche: errore durante il caricamento di una bacheca](known-issues-workfront/wf-boards-error-when-loading-board.md)
       + [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md)
       + [Impossibile creare la vista per l’elenco dei documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md)
       + [Agile: lo storyboard diventa vuoto quando si aggiunge un’attività secondaria](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md)

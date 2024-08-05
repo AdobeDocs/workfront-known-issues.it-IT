@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: e5895c67ae8b4f63bc9c1d4872521263909a8c6c
+source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
 workflow-type: tm+mt
-source-wordcount: '447'
-ht-degree: 100%
+source-wordcount: '459'
+ht-degree: 97%
 
 ---
 
@@ -40,6 +40,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: facendo clic sul nome di un documento viene visualizzata una pagina vuota](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5. agosto 2024 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
 | [Impossibile creare la vista per l’elenco dei documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martedì 15 luglio 2024 |
 | [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 giugno 2024 |
