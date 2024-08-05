@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 2ec952138a05cf003c1f9ab3f31304a53cb7bfc2
 workflow-type: tm+mt
-source-wordcount: '821'
-ht-degree: 99%
+source-wordcount: '924'
+ht-degree: 89%
 
 ---
 
@@ -25,6 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifiche: errore durante l&#39;impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md) | martedì 5 agosto 2024 |
+| [Attività: problemi con il ricalcolo della sequenza temporale](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | martedì 5 agosto 2024 |
+| [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | martedì 5 agosto 2024 |
 | [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md) | venerdì 25 luglio 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 luglio 2024 |
 | [Bacheche: errore durante il caricamento di una bacheca](known-issues-workfront/wf-boards-error-when-loading-board.md) | venerdì 18 luglio 2024 |
@@ -42,6 +45,14 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | 25 luglio 2024 |
+| [Moduli personalizzati: il browser si blocca durante la creazione di moduli di grandi dimensioni](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 agosto 2024 |
+| [Rapporti: consegne dei rapporti ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md) | 5 agosto 2024 |
+| [Moduli personalizzati: Arresto anomalo del generatore di moduli durante l&#39;immissione della logica di visualizzazione](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 agosto 2024 |
+| [Documenti: se si fa clic sul nome di un documento, viene visualizzata una pagina vuota](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 agosto 2024 |
+| [Moduli personalizzati: impossibile scorrere il campo di ricerca esterno](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md) | 5 agosto 2024 |
+| [Moduli personalizzati: il campo calcolato mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 agosto 2024 |
+| [Configurazione: l&#39;opzione &quot;Accedi come&quot; conduce a una schermata vuota](known-issues-workfront/wf-setup-blank-screen-for-login-as.md) | 5 agosto 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 25 luglio 2024 |
 | [Livelli di accesso: livelli di accesso duplicati nell’area di configurazione](known-issues-workfront/wf-access-duplicate-level.md) | venerdì 25 luglio 2024 |
 | [Progetti: il simbolo valuta non è corretto durante l’esportazione](known-issues-workfront/wf-projects-currency-symbol-incorrect.md) | venerdì 18 luglio 2024 |
