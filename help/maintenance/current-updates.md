@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 4a75c9135e2b1ba7dab0ab8d69d52b6d1469aa49
+source-git-commit: 6a969ff30fbc8299786ceda421f615c0c6322a4d
 workflow-type: tm+mt
-source-wordcount: '4749'
-ht-degree: 99%
+source-wordcount: '4858'
+ht-degree: 98%
 
 ---
 
@@ -21,6 +21,30 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di agosto 2024
+
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 8 agosto 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 8 agosto 2024
+
+#### Bacheche
+
+**La scheda non include le sottoattività**
+
+Quando un utente visualizza una scheda per un’attività che è un’attività principale, le attività secondarie di tale attività principale non vengono visualizzate sulla scheda. Invece, la scheda mostra che ci sono 0 attività secondarie.
+
+### Report
+
+**Consegne dei report ritardate o mancanti**
+
+I rapporti con consegne pianificate non vengono consegnati come previsto. Possono essere in ritardo o non essere consegnati affatto.
+
+#### Configura
+
+**&quot;Accedi come&quot; conduce a una schermata vuota**
+
+Quando un amministratore effettua l’accesso come altro utente, invece di visualizzare l’account dell’utente, visualizza una schermata vuota.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 1 agosto 2024**
 
