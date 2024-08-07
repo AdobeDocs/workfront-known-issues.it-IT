@@ -40,7 +40,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenti: facendo clic sul nome di un documento viene visualizzata una pagina vuota](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5. agosto 2024 |
+| [Documenti: se si fa clic sul nome di un documento, viene visualizzata una pagina vuota](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md) | 5 agosto 2024 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
 | [Impossibile creare la vista per l’elenco dei documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martedì 15 luglio 2024 |
 | [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 giugno 2024 |

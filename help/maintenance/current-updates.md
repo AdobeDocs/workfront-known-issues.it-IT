@@ -60,7 +60,7 @@ Le viste esistenti funzionano come previsto.
 
 #### Integrazioni
 
-**Problemi relativi all&#39;integrazione del Dropbox**
+**Problemi relativi all’integrazione con Dropbox**
 
 I seguenti problemi sono stati riscontrati in relazione all’integrazione con Dropbox:
 
@@ -105,7 +105,7 @@ Questo problema è stato segnalato in Gmail.
 
 Quando un utente tenta di aggiungere un’attività secondaria a uno storyboard mentre è selezionato un filtro, la schermata diventa vuota e l’utente non può aggiungerla.
 
-#### Home
+#### Pagina Home
 
 **Impossibile aprire gli elementi dal [!UICONTROL Calendario della Home] o dall’[!UICONTROL Elenco lavori]**
 
@@ -163,7 +163,7 @@ Quando un utente tenta di configurare le impostazioni della matrice in un report
 
 ### Aggiornamento di manutenzione del 4 luglio 2024
 
-#### Home
+#### Pagina Home
 
 **Il menu a tre punti non ha alcun effetto**
 
@@ -517,7 +517,7 @@ Una bozza che dovrebbe scomparire dal widget Le mie approvazioni rimane sul widg
 
 Le ore preventivate visualizzate in una delle seguenti aree potrebbero non corrispondere a quelle visualizzate in un’altra area tra queste:
 
-* Business Case
+* Caso di business
 * Report
 * Strumento Budget di risorse
 
@@ -607,7 +607,7 @@ Quando un utente visualizza un progetto e tenta di aggiungere un’attività a u
 
 Errore: “400: undefined /boards-service/graphql”
 
-#### Home
+#### Pagina Home
 
 **Errore durante la modifica in linea di un’attività nel widget Le mie attività**
 
@@ -652,7 +652,7 @@ Questo avviene perché l’utente non dispone dell’autorizzazione per visualiz
 
 ### Aggiornamento di manutenzione il 22 febbraio 2024
 
-#### Home
+#### Pagina Home
 
 **[!UICONTROL Home]: l’[!UICONTROL area di lavoro] e i pin non vengono caricati**
 
