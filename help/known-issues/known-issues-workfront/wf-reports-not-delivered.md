@@ -1,18 +1,22 @@
 ---
-title: "Rapporti: le consegne dei report sono in ritardo o mancanti"
-description: '"I rapporti con consegne programmate non vengono consegnati come previsto. Possono essere in ritardo o potrebbero non essere consegnati affatto".'
+title: "Rapporti: le consegne dei rapporti sono ritardate o mancanti"
+description: "I rapporti con consegne pianificate non vengono consegnati come previsto. Possono essere in ritardo o non essere consegnati affatto."
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 6%
+source-wordcount: '68'
+ht-degree: 14%
 
 ---
 
 
-# Rapporti: le consegne dei report sono in ritardo o mancanti
+# Rapporti: le consegne dei rapporti sono ritardate o mancanti
 
-I rapporti con consegne pianificate non vengono consegnati come previsto. Potrebbero essere in ritardo o potrebbero non essere consegnati affatto.
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 8 agosto 2024.
+
+I rapporti con consegne pianificate non vengono consegnati come previsto. Possono essere in ritardo o non essere consegnati affatto.
 
 _Segnalato per la prima volta il sabato 26 luglio 2024._

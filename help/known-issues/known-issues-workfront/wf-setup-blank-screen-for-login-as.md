@@ -1,22 +1,26 @@
 ---
-title: "Setup: Log in as leads to blank screen"
-description: "Quando un amministratore accede come un altro utente, invece di vedere che utente account, l'amministratore vede una schermata vuota."
+title: "Configurazione: accedi come porta a una schermata vuota"
+description: "Quando un amministratore effettua l’accesso come altro utente, invece di visualizzare l’account dell’utente, visualizza una schermata vuota."
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
+source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 7%
+source-wordcount: '75'
+ht-degree: 14%
 
 ---
 
 
-# Configurazione: &quot;Accedi come&quot; porta alla schermata vuota
+# Configurazione: l’opzione &quot;Accedi come&quot; porta a una schermata vuota
 
-Quando un amministratore accede come un altro utente, invece di vedere che utente account, l&#39;amministratore vede una schermata vuota.
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 8 agosto 2024.
+
+Quando un amministratore effettua l’accesso come altro utente, invece di visualizzare l’account dell’utente, visualizza una schermata vuota.
 
 **Soluzione alternativa**
 
-Aggiorna sullo schermo. Questo può richiedere diversi tentativi.
+Aggiorna lo schermo. Questo potrebbe richiedere diversi tentativi.
 
 _Segnalato per la prima volta il giovedì 17 luglio 2024._
