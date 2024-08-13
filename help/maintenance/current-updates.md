@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: da6a28494f7550727031bc4eee4947b86bfd9fea
+source-git-commit: 550eddafb8d52aae6eb89066d74907cd0bcbb4e9
 workflow-type: tm+mt
-source-wordcount: '4856'
-ht-degree: 98%
+source-wordcount: '4997'
+ht-degree: 97%
 
 ---
 
@@ -21,6 +21,41 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 ## Aggiornamenti di agosto 2024
+
++++**Aggiornamento di manutenzione del venerdì 15 agosto 2024**
+
+### Aggiornamento di manutenzione del giovedì 15 agosto 2024
+
+#### Bacheche
+
+**Problemi relativi alle schede duplicate**
+
+Sono stati segnalati i seguenti problemi relativi alle schede duplicate in Bacheche:
+
+* Una scheda viene visualizzata due volte. Per risolvere questo problema, aggiorna la pagina.
+* Se un utente elimina una delle schede duplicate, vengono eliminate tutte le relative istanze.
+
+#### Notifiche
+
+**Errore durante l&#39;impostazione delle preferenze di notifica**
+
+Quando un utente tenta di visualizzare le preferenze di notifica, viene visualizzato il seguente errore:
+
+“[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
+
+Questo problema è stato segnalato nelle seguenti aree:
+
+* Impostazioni di notifica su un profilo utente
+* Area Notifiche degli eventi in Configurazione
+
+#### Progetti
+
+**Il simbolo di valuta non è corretto durante l&#39;esportazione**
+
+Quando un utente esporta un problema, il simbolo di valuta nell’esportazione non corrisponde alla valuta impostata nel progetto o nel problema.
+
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 8 agosto 2024**
 
