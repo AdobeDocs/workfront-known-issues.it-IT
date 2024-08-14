@@ -1,17 +1,17 @@
 ---
-title: "Notifiche: errore Whoops durante l'impostazione delle preferenze di notifica"
-description: "Quando un utente tenta di visualizzare notifica preferenze, vede un errore."
+title: 'Notifiche: errore durante l’impostazione delle preferenze di notifica'
+description: Quando un utente tenta di visualizzare le preferenze di notifica, visualizza un errore.
 hidefromtoc: true
 feature: Updates and Notifications
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 
-# Notifiche: errore Whoops durante l&#39;impostazione delle preferenze di notifica
+# Notifiche: errore durante l’impostazione delle preferenze di notifica
 
 Quando un utente tenta di visualizzare le preferenze di notifica, visualizza il seguente errore:
 
@@ -19,7 +19,7 @@ Quando un utente tenta di visualizzare le preferenze di notifica, visualizza il 
 
 Questo problema è stato segnalato nelle seguenti aree:
 
-* Impostazioni di notifica in un profilo utente
-* Area Notifiche eventi in Setup
+* Impostazioni di notifica su un profilo utente
+* Area Notifiche degli eventi in configurazione
 
 _Segnalato per la prima volta il giovedì 31 luglio 2024._

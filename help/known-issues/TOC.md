@@ -3,9 +3,9 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1991'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,16 +17,16 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Notifiche: errore Whoops durante l&#39;impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md)
+      + [Notifiche: errore durante l’impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Moduli personalizzati: il browser si arresta in modo anomalo durante la creazione di moduli di grandi dimensioni](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
-      + [Rapporti: le consegne dei rapporti sono in ritardo o mancanti](known-issues-workfront/wf-reports-not-delivered.md)
-      + [Attività: problemi con il ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
-      + [Moduli personalizzati: il generatore di moduli si arresta in modo anomalo quando si immette la logica di visualizzazione](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
-      + [Documenti: facendo clic sul nome di un documento viene visualizzata una pagina vuota](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
+      + [Rapporti: le consegne dei rapporti sono ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md)
+      + [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md)
+      + [Moduli personalizzati: il generatore di moduli si arresta in modo anomalo durante l’immissione della logica di visualizzazione](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md)
+      + [Documenti: cliccando sul nome di un documento si arriva a una pagina vuota](known-issues-workfront/wf-documents-clicking-not-lead-to-details.md)
       + [Moduli personalizzati: impossibile scorrere il campo di ricerca esterno](known-issues-workfront/wf-custom-forms-cannot-scroll-external-lookup.md)
-      + [Moduli personalizzati: campo calcolato che mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
-      + [Workfront Fusion: impossibile autenticare una connessione utilizzando Workfront Accedere come funzionalità](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
-      + [Configurazione: &quot;Accedi come&quot; porta alla schermata vuota](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
+      + [Moduli personalizzati: il campo calcolato mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md)
+      + [Workfront Fusion: impossibile autenticare una connessione utilizzando la funzionalità Accedi come di Workfront](known-issues-workfront/wf-fusion-cannot-use-login-as.md)
+      + [Configurazione: l’opzione “Accedi come” porta a una schermata vuota](known-issues-workfront/wf-setup-blank-screen-for-login-as.md)
       + [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md)
       + [Aggiornamenti: gli utenti non ricevono notifiche sugli aggiornamenti diretti](known-issues-workfront/wf-updates-users-not-getting-email.md)
       + [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md)
