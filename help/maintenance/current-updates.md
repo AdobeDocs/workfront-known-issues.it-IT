@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '4999'
+source-wordcount: '5019'
 ht-degree: 99%
 
 ---
@@ -53,6 +53,12 @@ Questo problema è stato segnalato nelle seguenti aree:
 **Il simbolo di valuta non è corretto durante l&#39;esportazione**
 
 Quando un utente esporta un problema, il simbolo di valuta nell’esportazione non corrisponde alla valuta impostata nel progetto o nel problema.
+
+#### Bozze
+
+**I markup di bozza non sono accurati**
+
+I markup della bozza non sono allineati sulle stampe PDF ricevute tramite e-mail dalla funzione Proof Print (Stampa bozza).
 
 
 +++

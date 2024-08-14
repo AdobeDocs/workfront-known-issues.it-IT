@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '1991'
-ht-degree: 100%
+source-git-commit: dbbedf12a1af39e5668b7a5288c47f3be327555e
+workflow-type: tm+mt
+source-wordcount: '2058'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,14 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
+      + [Rapporti: impossibile fare clic su un rapporto dall’area Campi personalizzati della configurazione](known-issues-workfront/wf-reports-cannot-click-on-report.md)
+      + [Richieste: l’utente può cambiare stato nonostante la mancanza di autorizzazioni](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Bacheche: la scheda connessa si trova in una colonna errata](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
+      + [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
+      + [Report: errore durante l’esportazione del report](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Utenti: l’impostazione locale e-mail per l’utente non viene salvata](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [Integrazioni: errore durante la creazione di una richiesta da Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notifiche: errore durante l’impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Moduli personalizzati: il browser si arresta in modo anomalo durante la creazione di moduli di grandi dimensioni](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [Rapporti: le consegne dei rapporti sono ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md)

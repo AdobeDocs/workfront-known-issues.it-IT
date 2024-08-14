@@ -4,10 +4,10 @@ description: Rapporto Problemi noti nell’app mobile  [!DNL Adobe Workfront]
 keywords: nuovo file, aggiungi file
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 83%
 
 ---
 
@@ -17,25 +17,24 @@ Questa pagina contiene i problemi attualmente identificati nell’app mobile [!D
 
 >[!IMPORTANT]
 >
->Per informazioni relative sui tempi di attività o sulle interruzioni del server, vedi [https://status.adobe.com/it](https://status.adobe.com/it). Per informazioni sui problemi risolti di recente, vedi [[!DNL Workfront] Aggiornamenti di manutenzione](../maintenance/current-updates.md).
+>Per informazioni relative sui tempi di attività o sulle interruzioni del server, vedi [https://status.adobe.com/it](https://status.adobe.com/it). Per informazioni sui problemi risolti di recente, consulta [[!DNL Workfront] Aggiornamenti di manutenzione](../maintenance/current-updates.md).
 
-**Nessun problema noto per[!DNL Workfront Mobile]**
+<!--**There are currently no known issues for [!DNL Workfront Mobile]**
 
-
-
-<!--
-
-## New
-
-These recently reported issues are currently under review.
-
-| **Issue** | **Last Modified** |
-| -----------------------------------------------------------------| ----------------- |
-|Issue text  | YYYY/MM/DD  | 
-
-## Current Issues
-
-|Issue  |Last Modified   | 
-|---|---|
-|Issue text  | YYYY/MM/DD  | 
 -->
+
+
+
+## Nuovo
+
+Questi problemi segnalati di recente sono attualmente sotto esame.
+
+| **Problema** | **Ultima modifica** |
+| -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | giovedì 14 agosto 2024 |
+
+## Problemi attuali
+
+| Problema | Ultima Modifica |
+|---|---|
+| Testo problema | AAAA/MM/GG |
