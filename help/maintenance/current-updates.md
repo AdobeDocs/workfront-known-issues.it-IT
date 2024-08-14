@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3bd94e7fbed03e3394f01043b3af32f29cc6d09e
 workflow-type: tm+mt
 source-wordcount: '4999'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -39,14 +39,14 @@ Sono stati segnalati i seguenti problemi relativi alle schede duplicate in Bache
 
 **Errore durante l&#39;impostazione delle preferenze di notifica**
 
-Quando un utente tenta di visualizzare le preferenze di notifica, viene visualizzato il seguente errore:
+Quando un utente tenta di visualizzare le preferenze di notifica, visualizza il seguente errore:
 
 “[!UICONTROL Ops! Si è verificato un errore. Contatta Workfront per consentirci di individuare e risolvere il problema.]”
 
 Questo problema è stato segnalato nelle seguenti aree:
 
 * Impostazioni di notifica su un profilo utente
-* Area Notifiche degli eventi in Configurazione
+* Area Notifiche degli eventi in configurazione
 
 #### Progetti
 
@@ -63,21 +63,21 @@ Quando un utente esporta un problema, il simbolo di valuta nell’esportazione n
 
 #### Bacheche
 
-**La scheda non include le sottoattività**
+**La scheda non include le attività secondarie**
 
 Quando un utente visualizza una scheda per un’attività che è un’attività principale, le attività secondarie di tale attività principale non vengono visualizzate sulla scheda. Invece, la scheda mostra che ci sono 0 attività secondarie.
 
 ### Report
 
-**Consegne dei report ritardate o mancanti**
+**Consegne dei rapporti ritardate o mancanti**
 
 I rapporti con consegne pianificate non vengono consegnati come previsto. Possono essere in ritardo o non essere consegnati affatto.
 
 #### Configura
 
-**&quot;Accedi come&quot; conduce a una schermata vuota**
+**“Accedi come” porta a una schermata vuota**
 
-Quando un amministratore effettua l’accesso come altro utente, invece di visualizzare l’account dell’utente, visualizza una schermata vuota.
+Quando un amministratore effettua l’accesso come un altro utente, invece di visualizzare l’account dell’utente, visualizza una schermata vuota.
 
 +++
 
