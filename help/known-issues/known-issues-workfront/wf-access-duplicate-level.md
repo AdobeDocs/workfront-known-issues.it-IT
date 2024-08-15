@@ -1,19 +1,23 @@
 ---
-title: "Livelli di accesso: duplicare i livelli di accesso nell’area Configurazione"
-description: "Quando un utente visualizza l’elenco dei livelli di accesso nell’area Configura, nota che alcuni livelli di accesso sono duplicati. Questo vale solo per i livelli incorporati."
+title: 'Livelli di accesso: duplicare i livelli di accesso nell’area Configurazione'
+description: Quando un utente visualizza l’elenco dei livelli di accesso nell’area Configurazione, visualizza alcuni livelli di accesso sono duplicati. Questo vale solo per i livelli incorporati.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 9945058e30cb1ce26de88b211b4a6c5ad4ce3915
+exl-id: 26a131ae-91c9-4f81-baf5-7571213bcffc
+source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 4%
+source-wordcount: '90'
+ht-degree: 100%
 
 ---
 
+# Livelli di accesso: duplicare i livelli di accesso nell’area Configurazione
 
-# Livelli di accesso: Duplicare i livelli di accesso nell’area Configurazione
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 8 agosto 2024.
 
-Quando un utente visualizza l’elenco dei livelli di accesso nell’area Configura, nota che alcuni livelli di accesso sono duplicati. Questo vale solo per i livelli incorporati.
+Quando un utente visualizza l’elenco dei livelli di accesso nell’area Configurazione, visualizza alcuni livelli di accesso sono duplicati. Questo vale solo per i livelli incorporati.
 
 Questo problema è stato segnalato dopo le modifiche alle licenze di un’organizzazione.
 
