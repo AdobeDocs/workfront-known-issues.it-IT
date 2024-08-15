@@ -4,22 +4,19 @@ description: “Sono stati segnalati problemi relativi alle schede duplicate in 
 hidefromtoc: true
 feature: Agile
 exl-id: f08d6464-99df-4b49-be0f-becc8297c6c5
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '63'
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 # Bacheche: problemi relativi alle schede duplicate
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on May 2, 2024.
+>Questo problema è stato risolto il venerdì 15 agosto 2024.
 
--->
 
 Sono stati segnalati i seguenti problemi relativi alle schede duplicate in Bacheche:
 

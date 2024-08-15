@@ -3,15 +3,19 @@ title: 'Notifiche: errore durante l’impostazione delle preferenze di notifica'
 description: Quando un utente tenta di visualizzare le preferenze di notifica, visualizza un errore.
 hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 4e899660c21113491caf34ecfd52b6d3af48ec3f
-workflow-type: ht
-source-wordcount: '80'
+source-git-commit: dfecda276ab8f6da56bbe2442f09d0a6cb0c71de
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
 
 
 # Notifiche: errore durante l’impostazione delle preferenze di notifica
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 15 agosto 2024.
 
 Quando un utente tenta di visualizzare le preferenze di notifica, visualizza il seguente errore:
 
