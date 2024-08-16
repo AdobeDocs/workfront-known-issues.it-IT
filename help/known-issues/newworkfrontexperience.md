@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9f8167f06da0121f32f9fba22d51c667efd415e3
+source-git-commit: 654b13c25c7a69da5b14b2846cf1c1db4d527fba
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1007'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Home: si verificano arresti anomali della home con errore &quot;Memoria insufficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 15 agosto 2024 |
 | [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 15 agosto 2024 |
 | [Richieste: l&#39;utente può cambiare stato nonostante la mancanza di autorizzazioni](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | giovedì 14 agosto 2024 |
-| [Bacheche: la scheda connessa si trova in una colonna non corretta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | giovedì 14 agosto 2024 |
 | [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | giovedì 14 agosto 2024 |
 | [Report: errore durante l&#39;esportazione del report](known-issues-workfront/wf-reports-error-cache-content.md) | giovedì 14 agosto 2024 |
 | [Utenti: le impostazioni locali e-mail per l&#39;utente non vengono salvate](known-issues-workfront/wf-users-email-locale-not-saving.md) | giovedì 14 agosto 2024 |
