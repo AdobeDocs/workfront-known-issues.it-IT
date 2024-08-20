@@ -24,7 +24,7 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 +++**Aggiornamento di manutenzione del venerdì 15 agosto 2024**
 
-### Aggiornamento di manutenzione del giovedì 15 agosto 2024
+### Aggiornamento di manutenzione dell’venerdì 15 agosto 2024
 
 #### Bacheche
 
@@ -37,7 +37,7 @@ Sono stati segnalati i seguenti problemi relativi alle schede duplicate in Bache
 
 #### Notifiche
 
-**Errore durante l&#39;impostazione delle preferenze di notifica**
+**Errore durante l’impostazione delle preferenze di notifica**
 
 Quando un utente tenta di visualizzare le preferenze di notifica, visualizza il seguente errore:
 
@@ -50,7 +50,7 @@ Questo problema è stato segnalato nelle seguenti aree:
 
 #### Progetti
 
-**Il simbolo di valuta non è corretto durante l&#39;esportazione**
+**Il simbolo valuta non è corretto durante l’esportazione**
 
 Quando un utente esporta un problema, il simbolo di valuta nell’esportazione non corrisponde alla valuta impostata nel progetto o nel problema.
 
@@ -65,7 +65,7 @@ I markup della bozza non sono allineati sulle stampe PDF ricevute tramite e-mail
 
 +++**Aggiornamento di manutenzione del venerdì 8 agosto 2024**
 
-### Aggiornamento di manutenzione dell’giovedì 8 agosto 2024
+### Aggiornamento di manutenzione dell’8 agosto 2024
 
 #### Bacheche
 
