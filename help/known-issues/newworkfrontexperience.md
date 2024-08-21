@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 88%
+source-wordcount: '1051'
+ht-degree: 86%
 
 ---
 
@@ -25,6 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | giovedì 21 agosto 2024 |
+| [Home: &quot;widget.list.view&quot; creato quando l&#39;utente sposta le colonne nel widget Home](known-issues-workfront/wf-home-widget-list-view.md) | giovedì 21 agosto 2024 |
+| [Documenti: commenti della bozza non visualizzati negli aggiornamenti del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | giovedì 21 agosto 2024 |
 | [Home: &quot;Nessun accesso&quot; viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 15 agosto 2024 |
 | [Home: si verificano arresti anomali della home con errore &quot;Memoria insufficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 15 agosto 2024 |
 | [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 15 agosto 2024 |

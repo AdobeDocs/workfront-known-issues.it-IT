@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 32bed5a9c917cab2cc3a6ccd1065f38c074ca917
+source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
 workflow-type: tm+mt
-source-wordcount: '2113'
-ht-degree: 94%
+source-wordcount: '2139'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
+      + [Home: &quot;widget.list.view&quot; creato quando l’utente sposta le colonne nel widget Home](known-issues-workfront/wf-home-widget-list-view.md)
+      + [Documenti: i commenti della bozza non vengono visualizzati negli aggiornamenti del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [Home: il widget delle approvazioni in sospeso mostra i documenti eliminati](known-issues-workfront/wf-home-deleted-documents.md)
       + [Home: &quot;Nessun accesso&quot; viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md)
       + [Documenti: impossibile visualizzare in anteprima i documenti con il collegamento di anteprima](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
