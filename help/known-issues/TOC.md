@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
+source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 93%
+source-wordcount: '2146'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Moduli personalizzati: per impostazione predefinita, Forms utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Home: &quot;widget.list.view&quot; creato quando l’utente sposta le colonne nel widget Home](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documenti: i commenti della bozza non vengono visualizzati negli aggiornamenti del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
