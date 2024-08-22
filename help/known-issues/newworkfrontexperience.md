@@ -4,7 +4,7 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 88%
@@ -29,7 +29,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Documenti: commenti della bozza non visualizzati negli aggiornamenti del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | giovedì 21 agosto 2024 |
 | [Home: &quot;Nessun accesso&quot; viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 15 agosto 2024 |
 | [Home: si verificano arresti anomali della home con errore &quot;Memoria insufficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 15 agosto 2024 |
-| [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 15 agosto 2024 |
 | [Richieste: l&#39;utente può cambiare stato nonostante la mancanza di autorizzazioni](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | giovedì 14 agosto 2024 |
 | [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | giovedì 14 agosto 2024 |
 | [Report: errore durante l&#39;esportazione del report](known-issues-workfront/wf-reports-error-cache-content.md) | giovedì 14 agosto 2024 |
@@ -52,6 +51,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 22 agosto 2024 |
 | [Moduli personalizzati: per impostazione predefinita, Forms utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md) | venerdì 22 agosto 2024 |
 | [Home: il widget delle approvazioni in sospeso mostra i documenti eliminati](known-issues-workfront/wf-home-deleted-documents.md) | martedì 19 agosto 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | martedì 19 agosto 2024 |
