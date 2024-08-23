@@ -1,21 +1,21 @@
 ---
-title: "Moduli personalizzati: impossibile modificare i campi nella pagina elenco campi"
-description: '"Quando un utente tenta di modificare un campo di grandi dimensioni nella pagina dell’elenco dei campi, la pagina si blocca a causa di un errore. È disponibile una soluzione alternativa.”'
+title: '“Moduli personalizzati: impossibile modificare i campi nella pagina elenco campi”'
+description: '"Quando un utente tenta di modificare un campo di grandi dimensioni nella pagina dell’elenco dei campi, la pagina si arresta in modo anomalo con un errore. È disponibile una soluzione alternativa.”'
 hidefromtoc: true
 feature: Custom Forms
 source-git-commit: d74148711b4709355ca869f9808bed0cdcf6f6c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
 # Moduli personalizzati: impossibile modificare i campi nella pagina elenco campi
 
-Quando un utente cerca di modificare un campo di grandi dimensioni nella pagina dell’elenco di campi, la pagina si blocca con il seguente errore:
+Quando un utente cerca di modificare un campo di grandi dimensioni nella pagina dell’elenco dei campi, la pagina si arresta in modo anomalo con il seguente errore:
 
-&quot;[!UICONTROL Aww Snap, si è verificato un errore durante la visualizzazione della pagina. Codice errore 5]&quot;
+“[!UICONTROL Si è verificato un errore durante la visualizzazione di questa pagina. Codice errore 5]”
 
 Questo problema è stato segnalato con i browser basati su Chromium
 

@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
 source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Questa pagina contiene i problemi attualmente identificati nell’app mobile [!D
 
 >[!IMPORTANT]
 >
->Per informazioni relative sui tempi di attività o sulle interruzioni del server, vedi [https://status.adobe.com/it](https://status.adobe.com/it). Per informazioni sui problemi risolti di recente, consulta [[!DNL Workfront] Aggiornamenti di manutenzione](../maintenance/current-updates.md).
+>Per informazioni relative ai tempi di attività o sulle interruzioni del server, vedi [https://status.adobe.com/it](https://status.adobe.com/it). Per informazioni sui problemi risolti di recente, consulta [[!DNL Workfront] Aggiornamenti di manutenzione](../maintenance/current-updates.md).
 
 <!--**There are currently no known issues for [!DNL Workfront Mobile]**
 
@@ -37,4 +37,4 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | Problema | Ultima Modifica |
 |---|---|
-| Testo problema | AAAA/MM/GG |
+| Testo del problema | AAAA/MM/GG |

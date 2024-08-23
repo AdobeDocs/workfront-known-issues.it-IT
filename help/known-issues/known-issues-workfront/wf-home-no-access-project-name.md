@@ -1,18 +1,18 @@
 ---
-title: "Home: nessun accesso visualizzato come nome del progetto"
-description: "Quando un utente visualizza il proprio widget Attività personali nella home, nella colonna Nome progetto non viene visualizzato alcun accesso. Ciò si verifica anche se il nome del progetto è visibile nel widget Il mio lavoro."
+title: '“Home: nessun accesso visualizzato come nome di progetto”'
+description: '"Quando un utente visualizza il widget Le mie attività nella pagina Home, nella colonna Nome progetto viene visualizzato Nessun accesso. Ciò si verifica anche se il nome del progetto è visibile nel widget Il mio lavoro.”'
 hidefromtoc: true
 feature: Get Started with Workfront, Work Management
 source-git-commit: 2b59ae7d00646293934614924301822ce3ac8adf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Home: &quot;Nessun accesso&quot; viene visualizzato come nome del progetto
+# Home: “Nessun accesso” viene visualizzato come nome di progetto
 
-Quando un utente visualizza il widget &quot;Le mie attività&quot; nella home, nella colonna Nome progetto viene visualizzato &quot;Nessun accesso&quot;. Ciò si verifica anche se il nome del progetto è visibile nel widget &quot;Il mio lavoro&quot;.
+Quando un utente visualizza il widget “Le mie attività” nella Home, nella colonna Nome progetto viene visualizzato “Nessun accesso”. Ciò si verifica anche se il nome del progetto è visibile nel widget “Il mio lavoro”.
 
 _Segnalato per la prima volta il martedì 12 agosto 2024._
