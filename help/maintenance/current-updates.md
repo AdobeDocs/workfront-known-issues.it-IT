@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
 source-wordcount: '5121'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 **Impossibile fare clic su un report dall&#39;area Campi personalizzati dell&#39;installazione**
 
-Quando un utente visualizza l’area Forms personalizzato > Campi della configurazione e la visualizzazione include il campo Report nativo, i collegamenti ai report non funzionano. L’utente dovrebbe essere in grado di fare clic sul nome di un rapporto ed essere portato al rapporto, ma fare clic sul nome del rapporto non è efficace.
+Quando un utente visualizza l’area Moduli personalizzati > Campi della configurazione e la vista include il campo Rapporti nativi, i collegamenti ai rapporti non funzionano. L’utente dovrebbe essere in grado di fare clic sul nome di un rapporto ed essere portato al rapporto, ma cliccare nome del rapporto non ha alcun effetto.
 
 +++
 
@@ -74,7 +74,7 @@ Quando un utente esporta un problema, il simbolo di valuta nell’esportazione n
 
 **I markup di bozza non sono accurati**
 
-I markup della bozza non sono allineati sulle stampe PDF ricevute tramite e-mail dalla funzione Proof Print (Stampa bozza).
+I markup della bozza non sono allineati sulle stampe PDF ricevute tramite e-mail dalla funzione Stampa bozza.
 
 
 +++

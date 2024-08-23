@@ -5,7 +5,7 @@ role: User
 source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
 workflow-type: tm+mt
 source-wordcount: '2146'
-ht-degree: 92%
+ht-degree: 98%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 92%
       + [Home: &quot;widget.list.view&quot; creato quando l’utente sposta le colonne nel widget Home](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documenti: i commenti della bozza non vengono visualizzati negli aggiornamenti del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [Home: il widget delle approvazioni in sospeso mostra i documenti eliminati](known-issues-workfront/wf-home-deleted-documents.md)
-      + [Home: &quot;Nessun accesso&quot; viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md)
+      + [Home: “Nessun accesso” viene visualizzato come nome di progetto](known-issues-workfront/wf-home-no-access-project-name.md)
       + [Documenti: impossibile visualizzare in anteprima i documenti con il collegamento di anteprima](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md)
       + [Moduli personalizzati: errore di conversione del tipo di visualizzazione nei moduli personalizzati](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md)
       + [Moduli personalizzati: impossibile modificare i campi nella pagina elenco campi](known-issues-workfront/wf-custom-forms-large-field-causes-crash.md)
-      + [Home: si verifica un arresto anomalo della casa con errore &quot;Memoria insufficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md)
+      + [Home: arresti anomali della pagina Home con errore di memoria esaurita](known-issues-workfront/wf-home-crashes-with-error.md)
       + [Configurazione: problemi durante la disconnessione come altro utente](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md)
       + [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md)
       + [Rapporti: impossibile fare clic su un rapporto dall’area Campi personalizzati della configurazione](known-issues-workfront/wf-reports-cannot-click-on-report.md)
-      + [Richieste: l’utente può cambiare stato nonostante la mancanza di autorizzazioni](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
+      + [Richieste: l’utente può cambiare stato anche in assenza delle autorizzazioni necessarie](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md)
       + [Bacheche: la scheda connessa si trova in una colonna errata](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
-      + [Report: errore durante l’esportazione del report](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Utenti: l’impostazione locale e-mail per l’utente non viene salvata](known-issues-workfront/wf-users-email-locale-not-saving.md)
-      + [Integrazioni: errore durante la creazione di una richiesta da Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
+      + [Rapporti: errore durante l’esportazione del rapporto](known-issues-workfront/wf-reports-error-cache-content.md)
+      + [Utenti: le impostazioni internazionali dell’e-mail per l’utente non vengono salvate](known-issues-workfront/wf-users-email-locale-not-saving.md)
+      + [“Integrazioni: errore durante la creazione di una richiesta da Outlook ”](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notifiche: errore durante l’impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Moduli personalizzati: il browser si arresta in modo anomalo durante la creazione di moduli di grandi dimensioni](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
       + [Rapporti: le consegne dei rapporti sono ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md)

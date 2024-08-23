@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: f8183b30f86ffade75a6f80b2d5a4a7befd3b0ae
 workflow-type: tm+mt
 source-wordcount: '1025'
-ht-degree: 88%
+ht-degree: 97%
 
 ---
 
@@ -27,12 +27,12 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | -----------------------------------------------------------------| ----------------- |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | giovedì 21 agosto 2024 |
 | [Documenti: commenti della bozza non visualizzati negli aggiornamenti del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | giovedì 21 agosto 2024 |
-| [Home: &quot;Nessun accesso&quot; viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 15 agosto 2024 |
-| [Home: si verificano arresti anomali della home con errore &quot;Memoria insufficiente&quot;](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 15 agosto 2024 |
-| [Richieste: l&#39;utente può cambiare stato nonostante la mancanza di autorizzazioni](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | giovedì 14 agosto 2024 |
+| [Home: “Nessun accesso” viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 15 agosto 2024 |
+| [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 15 agosto 2024 |
+| [Richieste: l’utente può cambiare stato nonostante la mancanza di autorizzazioni](known-issues-workfront/wf-requests-user-can-change-status-without-permissions.md) | giovedì 14 agosto 2024 |
 | [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | giovedì 14 agosto 2024 |
-| [Report: errore durante l&#39;esportazione del report](known-issues-workfront/wf-reports-error-cache-content.md) | giovedì 14 agosto 2024 |
-| [Utenti: le impostazioni locali e-mail per l&#39;utente non vengono salvate](known-issues-workfront/wf-users-email-locale-not-saving.md) | giovedì 14 agosto 2024 |
+| [Rapporti: errore durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-error-cache-content.md) | giovedì 14 agosto 2024 |
+| [Utenti: le impostazioni internazionali e-mail per l&#39;utente non vengono salvate](known-issues-workfront/wf-users-email-locale-not-saving.md) | giovedì 14 agosto 2024 |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | martedì 5 agosto 2024 |
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | martedì 5 agosto 2024 |
 | [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md) | venerdì 25 luglio 2024 |
