@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2814d94459436c93607756b72cd7943a266fb676
+source-git-commit: 368856cd75b3c09c09442f4cb5ffe479425211af
 workflow-type: tm+mt
-source-wordcount: '1629'
+source-wordcount: '1643'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Utenti: impossibile riattivare l&#39;utente](known-issues-workfront/wf-users-reactivate-user.md)
+      + [Assegnazioni: l&#39;icona indisponibilità non viene visualizzata durante l&#39;assegnazione delle attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Moduli personalizzati: per impostazione predefinita, Forms utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Home: &quot;widget.list.view&quot; creato quando l’utente sposta le colonne nel widget Home](known-issues-workfront/wf-home-widget-list-view.md)
