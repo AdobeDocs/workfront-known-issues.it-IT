@@ -4,9 +4,9 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '467'
+source-git-commit: 6247cac863561cbe7a58dc61dff163356e8cd4c0
+workflow-type: tm+mt
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Moduli personalizzati: il modulo personalizzato non viene eliminato dal documento](known-issues-workfront/wf-custom-form-not-deleted-on-document.md) | martedì 8 luglio 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
 | [Integrazioni: problemi relativi all’integrazione con Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sabato 14 giugno 2024 |
-| [Notifiche: le notifiche provenienti da approvazioni di documenti beta non vengono formattate correttamente](known-issues-workfront/wf-notifications-document-beta-emails-not-formatted.md) | 22 aprile 2024 |
 
 {style="table-layout:auto"}
 
@@ -47,7 +46,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 giugno 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maggio 2024 |
 | [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md) | 22 marzo 2024 |
-| [Bozze: breadcrumb mancante durante l’accesso alla bozza dal collegamento e-mail](known-issues-workfront/wf-proofs-breadcrumb-missing.md) | 3 novembre 2023 |
 
 {style="table-layout:auto"}
 
@@ -80,7 +78,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
 | [[!DNL Workfront Proof]: impossibile aggiungere un’utente alla bozza assegnandoli un tag in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 marzo 2022 |
 | [[!UICONTROL Home]: il comportamento del pulsante [!UICONTROL Rispondi nella bozza] è incoerente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 giugno 2021 |
-| [[!DNL Workfront Proof]: l’accesso automatico alle bozze subisce ritardi](known-issues-workfront-proof/automatic-access-to-proofs-are-delayed.md) | 14 giugno 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Il rapporto Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 aprile 2021 |
 | [Documenti: l’icona del flusso di lavoro della bozza non viene visualizzata](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 marzo 2021 |
 

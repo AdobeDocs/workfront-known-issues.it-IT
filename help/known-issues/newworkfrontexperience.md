@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
+source-git-commit: c4fc593215be4064e68806eec1d913cc88e55297
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1005'
 ht-degree: 97%
 
 ---
@@ -97,7 +97,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 ottobre 2023 |
 | [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente è taggato](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md) | 25 settembre 2023 |
 | [[!UICONTROL Home]: la nuova anteprima del widget [!UICONTROL Home] non visualizza il nome dell’oggetto corretto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md) | 7 settembre 2023 |
-| [Bozze: le opzioni di approvazione non vengono visualizzate nel [!UICONTROL Proofing Viewer]](known-issues-workfront/inactive/wf-proofs-approval-options-not-appearing-in-proof-viewer.md) | 10 agosto 2023 |
 | [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 agosto 2023 |
 | [[!UICONTROL Configurazione]: impossibile esportare i registri di controllo](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md) | 20 luglio 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
