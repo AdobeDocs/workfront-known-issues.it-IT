@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7e512694b62cdcf9db71fe4d658855e7b7e8c335
+source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
-source-wordcount: '5121'
-ht-degree: 99%
+source-wordcount: '5247'
+ht-degree: 98%
 
 ---
 
@@ -26,9 +26,33 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 ## Aggiornamenti di agosto 2024
 
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 29 agosto 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 29 agosto 2024
+
+#### Moduli personalizzati
+
+**Forms utilizza Project Forms per impostazione predefinita**
+
+Quando un utente crea un modulo personalizzato e seleziona un tipo di oggetto per il modulo, il tipo di oggetto viene ignorato e il modulo viene creato come modulo personalizzato di Project.
+
+#### Documenti
+
+**Facendo clic sul nome di un documento si apre una pagina vuota**
+
+Quando un utente tenta di visualizzare i dettagli del documento facendo clic sul relativo nome in un elenco di documenti, l’elenco scompare e l’utente non viene indirizzato ai dettagli del documento.
+
+#### Pagina Home
+
+**Il widget delle approvazioni in sospeso mostra i documenti eliminati**
+
+Quando un utente visualizza il widget Approvazioni in sospeso su Home, i documenti mostrati sono quelli eliminati. Se l’utente fa clic su uno di questi documenti, viene visualizzata una pagina vuota.
+
++++
+
 +++**Aggiornamento di manutenzione del venerdì 22 agosto 2024**
 
-### Aggiornamento di manutenzione del 22 agosto,
+### Aggiornamento di manutenzione dell’venerdì 22 agosto 2024
 
 #### Report
 
