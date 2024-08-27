@@ -3,15 +3,19 @@ title: "Home: arresti anomali della pagina Home con errore di memoria esaurita"
 description: '"Quando un utente tenta di visualizzare la nuova pagina Home, il sito si arresta in modo anomalo con un messaggio di errore. È disponibile una soluzione alternativa.”'
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '100'
+source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+workflow-type: tm+mt
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
 
 # Home: arresti anomali della pagina Home con errore di memoria esaurita
+
+>[!NOTE]
+>
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
 Quando un utente tenta di visualizzare la nuova Home, il sito si arresta in modo anomalo con il seguente messaggio di errore:
 
