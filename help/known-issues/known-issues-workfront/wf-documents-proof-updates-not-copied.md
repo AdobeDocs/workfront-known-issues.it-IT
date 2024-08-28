@@ -1,12 +1,12 @@
 ---
-title: "Documenti: i commenti della bozza non vengono visualizzati negli aggiornamenti del documento"
-description: "Quando un utente aggiunge un commento a una bozza, tale commento non viene copiato nell’area di aggiornamento del documento della bozza in Workfront."
+title: 'Documenti: i commenti della bozza non vengono visualizzati negli aggiornamenti del documento'
+description: Quando un utente aggiunge un commento a una bozza, tale commento non viene copiato nell’area di aggiornamento del documento della bozza in Workfront.
 hidefromtoc: true
 feature: Digital Content and Documents, Updates and Notifications
 source-git-commit: 73dd7f585ad53937cbcfacf1fec92036be2cf3a1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
