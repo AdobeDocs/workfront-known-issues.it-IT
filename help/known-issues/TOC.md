@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
+source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
 workflow-type: tm+mt
-source-wordcount: '1651'
+source-wordcount: '1657'
 ht-degree: 98%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Gruppi: i sottogruppi non vengono visualizzati correttamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: impossibile utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Utenti: impossibile riattivare l&#39;utente](known-issues-workfront/wf-users-reactivate-user.md)
       + [Assegnazioni: l&#39;icona indisponibilità non viene visualizzata durante l&#39;assegnazione delle attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
