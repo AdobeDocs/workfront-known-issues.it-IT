@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
 source-wordcount: '1048'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -29,7 +29,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Rapporti: consegne dei rapporti ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md) | martedì 26 agosto 2024 |
 | [Assegnazioni: l&#39;icona indisponibilità non viene visualizzata quando si assegnano le attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martedì 26 agosto 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | giovedì 21 agosto 2024 |
-| [Documenti: commenti della bozza non visualizzati negli aggiornamenti del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | giovedì 21 agosto 2024 |
+| [Documenti: i commenti della bozza non vengono visualizzati negli aggiornamenti del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md) | giovedì 21 agosto 2024 |
 | [Home: “Nessun accesso” viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 15 agosto 2024 |
 | [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 15 agosto 2024 |
 | [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | giovedì 14 agosto 2024 |
@@ -56,7 +56,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Utenti: impossibile riattivare l&#39;utente](known-issues-workfront/wf-users-reactivate-user.md) | martedì 26 agosto 2024 |
 | [Bacheche: problemi relativi alle schede duplicate](known-issues-workfront/wf-boards-some-cards-duplicated.md) | martedì 26 agosto 2024 |
 | [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 22 agosto 2024 |
-| [Moduli personalizzati: per impostazione predefinita, Forms utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md) | venerdì 22 agosto 2024 |
+| [Moduli personalizzati: per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md) | venerdì 22 agosto 2024 |
 | [Home: il widget delle approvazioni in sospeso mostra i documenti eliminati](known-issues-workfront/wf-home-deleted-documents.md) | martedì 19 agosto 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | martedì 19 agosto 2024 |
 | [Documenti: impossibile visualizzare in anteprima i documenti con il collegamento di anteprima](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | venerdì 15 agosto 2024 |

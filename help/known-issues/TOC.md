@@ -5,7 +5,7 @@ role: User
 source-git-commit: fc7a07ee94217cbdbd9640e838ad54618dc310ba
 workflow-type: tm+mt
 source-wordcount: '1651'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 96%
       + [Workfront: impossibile utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Utenti: impossibile riattivare l&#39;utente](known-issues-workfront/wf-users-reactivate-user.md)
       + [Assegnazioni: l&#39;icona indisponibilità non viene visualizzata durante l&#39;assegnazione delle attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
-      + [Moduli personalizzati: per impostazione predefinita, Forms utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md)
+      + [Moduli personalizzati: per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
-      + [Home: &quot;widget.list.view&quot; creato quando l’utente sposta le colonne nel widget Home](known-issues-workfront/wf-home-widget-list-view.md)
+      + [Home: “widget.list.view” creato quando l’utente sposta le colonne nel widget della pagina Home](known-issues-workfront/wf-home-widget-list-view.md)
       + [Documenti: i commenti della bozza non vengono visualizzati negli aggiornamenti del documento](known-issues-workfront/wf-documents-proof-updates-not-copied.md)
       + [Home: il widget delle approvazioni in sospeso mostra i documenti eliminati](known-issues-workfront/wf-home-deleted-documents.md)
       + [Home: “Nessun accesso” viene visualizzato come nome di progetto](known-issues-workfront/wf-home-no-access-project-name.md)

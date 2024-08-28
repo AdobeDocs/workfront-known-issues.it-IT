@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
 workflow-type: tm+mt
 source-wordcount: '5247'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 98%
 
 >[!NOTE]
 >
->Per informazioni sulle interruzioni di manutenzione per tutti i prodotti Adobe, incluso Workfront, vedere la [pagina Stato Adobe](https://status.adobe.com/).
+>Per informazioni sulle interruzioni di manutenzione per tutti i prodotti Adobe, incluso Workfront, consulta la [pagina di stato Adobe](https://status.adobe.com/it).
 
 Questa pagina descrive i problemi risolti negli aggiornamenti settimanali di Workfront.
 
@@ -34,7 +34,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 **Forms utilizza Project Forms per impostazione predefinita**
 
-Quando un utente crea un modulo personalizzato e seleziona un tipo di oggetto per il modulo, il tipo di oggetto viene ignorato e il modulo viene creato come modulo personalizzato di Project.
+Quando un utente crea un modulo personalizzato e seleziona un tipo di oggetto per il modulo, il tipo di oggetto viene ignorato e il modulo viene creato come modulo personalizzato di Progetto.
 
 #### Documenti
 
@@ -56,7 +56,7 @@ Quando un utente visualizza il widget Approvazioni in sospeso su Home, i documen
 
 #### Report
 
-**Impossibile fare clic su un report dall&#39;area Campi personalizzati dell&#39;installazione**
+**Impossibile fare clic su un rapporto dall’area Campi personalizzati della configurazione**
 
 Quando un utente visualizza l’area Moduli personalizzati > Campi della configurazione e la vista include il campo Rapporti nativi, i collegamenti ai rapporti non funzionano. L’utente dovrebbe essere in grado di fare clic sul nome di un rapporto ed essere portato al rapporto, ma cliccare nome del rapporto non ha alcun effetto.
 
