@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 3748397ffac3bc93e59d51b5ef967bfa62a8b4f5
+source-git-commit: a24b19521ec110b10d0a6920c54300d0d22ceaba
 workflow-type: tm+mt
-source-wordcount: '5247'
-ht-degree: 99%
+source-wordcount: '5328'
+ht-degree: 98%
 
 ---
 
@@ -47,6 +47,14 @@ Quando un utente tenta di visualizzare i dettagli del documento facendo clic sul
 **Il widget delle approvazioni in sospeso mostra i documenti eliminati**
 
 Quando un utente visualizza il widget Approvazioni in sospeso su Home, i documenti mostrati sono quelli eliminati. Se l’utente fa clic su uno di questi documenti, viene visualizzata una pagina vuota.
+
+#### Utenti
+
+**Il campo Impostazioni locali e-mail del profilo utente è stato disabilitato**
+
+Per le organizzazioni su IMS, le preferenze di lingua sono memorizzate nel profilo Adobe Experience Cloud di ciascun utente. Il campo Impostazioni internazionali e-mail nel profilo utente di Workfront è stato disabilitato (solo per le organizzazioni IMS) e una descrizione comando su tale campo fornisce istruzioni su come accedere alle impostazioni della lingua nel profilo di Adobe.
+
+In questo modo si risolve un problema per il quale, quando un amministratore tenta di modificare l’impostazione delle impostazioni locali dell’e-mail di un utente, viene ripristinata la lingua inglese.
 
 +++
 
