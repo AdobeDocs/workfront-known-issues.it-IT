@@ -1,21 +1,25 @@
 ---
-title: 'Bacheche: la scheda connessa si trova in una colonna errata'
-description: Sono stati segnalati problemi relativi alle schede connesse nella colonna errata.
+title: "Bacheche: la scheda connessa si trova in una colonna errata"
+description: Sono stati segnalati problemi relativi alle schede collegate nella colonna errata.
 hidefromtoc: true
 feature: Agile
-source-git-commit: 5a6d6b7d8866d234340bb816531353495e1e7f1c
-workflow-type: ht
-source-wordcount: '85'
-ht-degree: 100%
+exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
+workflow-type: tm+mt
+source-wordcount: '79'
+ht-degree: 77%
 
 ---
 
-
 # Bacheche: la scheda connessa si trova in una colonna errata
+
+<!--
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 15 agosto 2024.
+>This issue was fixed on August 15, 2024.
+
+-->
 
 Sono stati segnalati i seguenti problemi relativi alle schede connesse nella colonna errata:
 

@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
 workflow-type: tm+mt
-source-wordcount: '1043'
-ht-degree: 96%
+source-wordcount: '1051'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bacheche: la scheda connessa si trova in una colonna non corretta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | giovedì 28 agosto 2024 |
 | [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | giovedì 28 agosto 2024 |
 | [Workfront: impossibile utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martedì 26 agosto 2024 |
 | [Rapporti: consegne dei rapporti ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md) | martedì 26 agosto 2024 |
