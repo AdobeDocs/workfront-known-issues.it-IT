@@ -1,17 +1,21 @@
 ---
-title: "Documenti: impossibile visualizzare l’anteprima dei documenti con il collegamento di anteprima"
-description: "Gli utenti non possono visualizzare l’anteprima di un documento."
+title: "Documenti: impossibile visualizzare in anteprima i documenti con il collegamento di anteprima"
+description: Gli utenti non possono visualizzare l'anteprima di un documento.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '67'
-ht-degree: 100%
+exl-id: ef149cc4-fe45-4f90-a0f8-850db9c33425
+source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 82%
 
 ---
 
-
 # Documenti: impossibile visualizzare in anteprima i documenti con il collegamento di anteprima
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 29 agosto 2024.
 
 Gli utenti non possono visualizzare l’anteprima di un documento nelle seguenti situazioni:
 
