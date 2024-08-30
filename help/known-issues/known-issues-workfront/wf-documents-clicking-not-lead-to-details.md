@@ -4,22 +4,20 @@ description: Quando un utente tenta di visualizzare i dettagli del documento fac
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 683b2066-9812-4a22-a40b-49f0cd6450a1
-source-git-commit: 5883bf2455640b180072be228eae4d11d1c7b6c9
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '88'
 ht-degree: 89%
 
 ---
 
 # Documenti: cliccando sul nome di un documento si arriva a una pagina vuota
 
-<!--
 
 >[!NOTE]
 >
->This issue was fixed on August 29, 2024.
+>Questo problema è stato risolto il venerdì 29 agosto 2024.
 
--->
 
 Quando un utente tenta di visualizzare i dettagli del documento facendo clic sul relativo nome in un elenco di documenti, l’elenco scompare e l’utente non viene indirizzato ai dettagli del documento.
 

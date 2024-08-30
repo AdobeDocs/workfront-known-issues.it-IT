@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: cc5305d58c51c2944c992682dedbcc61bce56166
+source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1662'
+ht-degree: 97%
 
 ---
 
@@ -40,7 +40,6 @@ ht-degree: 0%
       + [Bacheche: la scheda connessa si trova in una colonna errata](known-issues-workfront/wf-boards-connected-card-incorrect-column.md)
       + [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md)
       + [Rapporti: errore durante l’esportazione del rapporto](known-issues-workfront/wf-reports-error-cache-content.md)
-      + [Utenti: le impostazioni internazionali dell’e-mail per l’utente non vengono salvate](known-issues-workfront/wf-users-email-locale-not-saving.md)
       + [“Integrazioni: errore durante la creazione di una richiesta da Outlook ”](known-issues-workfront/wf-integrations-outlook-attachment-error.md)
       + [Notifiche: errore durante l’impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md)
       + [Moduli personalizzati: il browser si arresta in modo anomalo durante la creazione di moduli di grandi dimensioni](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md)
