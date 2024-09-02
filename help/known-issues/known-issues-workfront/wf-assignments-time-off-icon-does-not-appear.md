@@ -1,19 +1,19 @@
 ---
-title: "Assegnazioni: l’icona indisponibilità non viene visualizzata quando si assegnano le attività"
-description: "quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario che ha un’indisponibilità programmata durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona non viene visualizzata."
+title: '“Assegnazioni: l’icona indisponibilità non viene visualizzata quando si assegnano le attività”'
+description: “quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario che ha un’indisponibilità programmata durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona viene visualizzata.”
 hidefromtoc: true
 feature: Tasks, People Teams and Groups
 source-git-commit: 944b2342e35f70d095380312a8742e7e97734818
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Assegnazioni: l&#39;icona indisponibilità non viene visualizzata durante l&#39;assegnazione delle attività
+# Assegnazioni: l’icona indisponibilità non viene visualizzata durante l’assegnazione delle attività
 
-quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario per il quale è stata programmata un’indisponibilità durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona non viene visualizzata.
+quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario che ha un’indisponibilità programmata durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona viene visualizzata.
 
 **Soluzione alternativa**
 
