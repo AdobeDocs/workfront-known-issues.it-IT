@@ -1,15 +1,15 @@
 ---
 title: "Workfront: impossibile utilizzare SSO"
-description: "La funzionalità Workfront che utilizza SSO restituisce un errore Ops."
+description: La funzionalità Workfront che utilizza SSO restituisce un errore Ops.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: fd5f9e71787db377b5b1d8c9767036debccfc852
+exl-id: 372bab9a-fd77-41eb-a806-34e99ce55b17
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 33%
+ht-degree: 59%
 
 ---
-
 
 # Workfront: impossibile utilizzare SSO
 

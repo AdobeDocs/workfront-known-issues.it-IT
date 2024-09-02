@@ -5,7 +5,7 @@ role: User
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
 source-wordcount: '1662'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 97%
       + [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Gruppi: i sottogruppi non vengono visualizzati correttamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: impossibile utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
-      + [Utenti: impossibile riattivare l&#39;utente](known-issues-workfront/wf-users-reactivate-user.md)
-      + [Assegnazioni: l&#39;icona indisponibilità non viene visualizzata durante l&#39;assegnazione delle attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
+      + [Utenti: non si riesce a riattivare un utente](known-issues-workfront/wf-users-reactivate-user.md)
+      + [Assegnazioni: l’icona indisponibilità non viene visualizzata durante l’assegnazione delle attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md)
       + [Moduli personalizzati: per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md)
       + [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md)
       + [Home: “widget.list.view” creato quando l’utente sposta le colonne nel widget della pagina Home](known-issues-workfront/wf-home-widget-list-view.md)
@@ -214,7 +214,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
-      + [Workfront Fusion: errore 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
+      + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: campo mancante nel modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + [Workfront Fusion: formattazione dell’output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + [Workfront Fusion: RuntimeError con risposta 200 dal modulo Workfront](/help/known-issues/known-issues-workfront-fusion/fusion-200-runtime-error.md)

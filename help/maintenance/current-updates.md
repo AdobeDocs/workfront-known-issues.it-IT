@@ -32,13 +32,13 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 #### Moduli personalizzati
 
-**Forms utilizza Project Forms per impostazione predefinita**
+**Per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto**
 
 Quando un utente crea un modulo personalizzato e seleziona un tipo di oggetto per il modulo, il tipo di oggetto viene ignorato e il modulo viene creato come modulo personalizzato di Progetto.
 
 #### Documenti
 
-**Facendo clic sul nome di un documento si apre una pagina vuota**
+**Cliccando su un nome di un documento, si arriva a una pagina vuota**
 
 Quando un utente tenta di visualizzare i dettagli del documento facendo clic sul relativo nome in un elenco di documenti, l’elenco scompare e l’utente non viene indirizzato ai dettagli del documento.
 

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
 workflow-type: tm+mt
 source-wordcount: '1025'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -27,9 +27,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | -----------------------------------------------------------------| ----------------- |
 | [Bacheche: la scheda connessa si trova in una colonna non corretta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | giovedì 28 agosto 2024 |
 | [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | giovedì 28 agosto 2024 |
-| [Workfront: impossibile utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martedì 26 agosto 2024 |
-| [Rapporti: consegne dei rapporti ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md) | martedì 26 agosto 2024 |
-| [Assegnazioni: l&#39;icona indisponibilità non viene visualizzata quando si assegnano le attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martedì 26 agosto 2024 |
+| [Workfront: non si riesce a utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martedì 26 agosto 2024 |
+| [Rapporti: le consegne dei rapporti sono ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md) | martedì 26 agosto 2024 |
+| [Assegnazioni: l’icona indisponibilità non viene visualizzata durante l’assegnazione delle attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martedì 26 agosto 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | giovedì 21 agosto 2024 |
 | [Home: “Nessun accesso” viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 15 agosto 2024 |
 | [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 15 agosto 2024 |
@@ -54,7 +54,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Workfront: il formato della data non è corretto](known-issues-workfront/wf-home-crashes-with-error.md) | sabato 30 agosto 2024 |
 | [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 29 agosto 2024 |
 | [Gruppi: i sottogruppi non vengono visualizzati correttamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | giovedì 28 agosto 2024 |
-| [Utenti: impossibile riattivare l&#39;utente](known-issues-workfront/wf-users-reactivate-user.md) | martedì 26 agosto 2024 |
+| [Utenti: non si riesce a riattivare un utente](known-issues-workfront/wf-users-reactivate-user.md) | martedì 26 agosto 2024 |
 | [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 22 agosto 2024 |
 | [Moduli personalizzati: per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md) | venerdì 22 agosto 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | martedì 19 agosto 2024 |
