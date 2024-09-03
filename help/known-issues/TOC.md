@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 78c9f85a24c3343053e0862a847e6b6e9b0b2dfa
+source-git-commit: 8f0104f86d2dd3703b82bce8fc40dbbf58ad40f1
 workflow-type: tm+mt
-source-wordcount: '1662'
-ht-degree: 98%
+source-wordcount: '1694'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Mobile: impossibile disconnettersi e informazioni del profilo utente mancanti](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
+      + [Bacheche: lo stato della scheda non corrisponde all&#39;oggetto connesso e ignora il filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
+      + [Dashboard: selezionando il pulsante Esporta in un rapporto, si scorre verso l’inizio della pagina](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: la data viene visualizzata in un formato non corretto](known-issues-workfront/wf-workfront-date-format-incorrect.md)
       + [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
       + [Gruppi: i sottogruppi non vengono visualizzati correttamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
