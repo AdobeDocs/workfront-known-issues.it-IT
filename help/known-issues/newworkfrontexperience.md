@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 9da826677fc6a00f85d5add27c4fa73cf8fc3361
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '1060'
-ht-degree: 94%
+source-wordcount: '1031'
+ht-degree: 95%
 
 ---
 
@@ -25,17 +25,16 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Schede: impossibile visualizzare in anteprima o scaricare documenti dalla scheda](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | venerdì 5 settembre 2024 |
 | [Dispositivi mobili: impossibile disconnettersi e informazioni del profilo utente mancanti](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | mercoledì 3 settembre 2024 |
 | [Bacheche: lo stato della scheda non corrisponde all&#39;oggetto connesso e ignora il filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | mercoledì 3 settembre 2024 |
 | [Dashboard: selezionando il pulsante Esporta in un report, si scorre verso l&#39;inizio della pagina](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | mercoledì 3 settembre 2024 |
 | [Bacheche: la scheda connessa si trova in una colonna non corretta](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | giovedì 28 agosto 2024 |
-| [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md) | giovedì 28 agosto 2024 |
 | [Workfront: non si riesce a utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martedì 26 agosto 2024 |
 | [Rapporti: le consegne dei rapporti sono ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md) | martedì 26 agosto 2024 |
 | [Assegnazioni: l’icona indisponibilità non viene visualizzata durante l’assegnazione delle attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martedì 26 agosto 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | giovedì 21 agosto 2024 |
 | [Home: “Nessun accesso” viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 15 agosto 2024 |
-| [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 15 agosto 2024 |
 | [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | giovedì 14 agosto 2024 |
 | [Rapporti: errore durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-error-cache-content.md) | giovedì 14 agosto 2024 |
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | martedì 5 agosto 2024 |
@@ -54,10 +53,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sabato 30 agosto 2024 |
-| [Workfront: il formato della data non è corretto](known-issues-workfront/wf-home-crashes-with-error.md) | sabato 30 agosto 2024 |
 | [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 29 agosto 2024 |
-| [Gruppi: i sottogruppi non vengono visualizzati correttamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md) | giovedì 28 agosto 2024 |
-| [Utenti: non si riesce a riattivare un utente](known-issues-workfront/wf-users-reactivate-user.md) | martedì 26 agosto 2024 |
 | [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 22 agosto 2024 |
 | [Moduli personalizzati: per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md) | venerdì 22 agosto 2024 |
 | [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | martedì 19 agosto 2024 |
@@ -67,7 +63,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Notifiche: errore durante l’impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md) | venerdì 8 agosto 2024 |
 | [Bacheche: errore durante il caricamento di una bacheca](known-issues-workfront/wf-boards-error-when-loading-board.md) | venerdì 8 agosto 2024 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | venerdì 8 agosto 2024 |
-| [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 agosto 2024 |
 | [Moduli personalizzati: il browser si arresta in modo anomalo durante la creazione di moduli di grandi dimensioni](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 agosto 2024 |
 | [Moduli personalizzati: il generatore di moduli si arresta in modo anomali durante l’immissione della logica di visualizzazione](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 agosto 2024 |
 | [Moduli personalizzati: il campo calcolato mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 agosto 2024 |
@@ -142,6 +137,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Elenchi: il nome visualizzato non viene applicato al raggruppamento di campi personalizzati](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9 novembre 2020 |
 | [Home: le date relative alla delega di approvazione cambiano dopo l’aggiornamento e vengono inviate 2 e-mail](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 9 novembre 2020 |
 | [Calendario: attività non visualizzate](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 novembre 2020 |
+| [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 5 settembre 2024 |
 
 {style="table-layout:auto"}
 

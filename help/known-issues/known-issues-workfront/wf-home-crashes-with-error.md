@@ -4,14 +4,18 @@ description: Quando un utente cerca di visualizzare la nuova Home, il sito si bl
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
+source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 76%
+source-wordcount: '128'
+ht-degree: 81%
 
 ---
 
 # Home: arresti anomali della pagina Home con errore di memoria esaurita
+
+>[!NOTE]
+>
+>Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
 Quando un utente tenta di visualizzare la nuova Home, il sito si arresta in modo anomalo con il seguente messaggio di errore:
 
