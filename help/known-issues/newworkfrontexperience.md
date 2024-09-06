@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
+source-git-commit: 62011540c9d8a33335ddb97ed15033ff5614657d
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1014'
 ht-degree: 95%
 
 ---
@@ -39,7 +39,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Rapporti: errore durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-error-cache-content.md) | giovedì 14 agosto 2024 |
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | martedì 5 agosto 2024 |
 | [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md) | venerdì 25 luglio 2024 |
-| [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | 23 luglio 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
 | [Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | sabato 14 giugno 2024 |
 | [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maggio 2024 |
@@ -54,15 +53,14 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 |----------------------------------| ----------------- |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sabato 30 agosto 2024 |
 | [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 29 agosto 2024 |
-| [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 22 agosto 2024 |
+| [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | venerdì 22 agosto 2024 |
 | [Moduli personalizzati: per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md) | venerdì 22 agosto 2024 |
-| [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | martedì 19 agosto 2024 |
+| [Bacheche: la scheda non include le attività secondarie](known-issues-workfront/wf-boards-subtasks-do-not-display.md) | martedì 19 agosto 2024 |
 | [Moduli personalizzati: errore di conversione del tipo di visualizzazione nei moduli personalizzati](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | venerdì 15 agosto 2024 |
 | [Configurazione: problemi durante la disconnessione come altro utente](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 15 agosto 2024 |
 | [Integrazioni: errore durante la creazione di una richiesta da Outlook](known-issues-workfront/wf-integrations-outlook-attachment-error.md) | giovedì 14 agosto 2024 |
 | [Notifiche: errore durante l’impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md) | venerdì 8 agosto 2024 |
 | [Bacheche: errore durante il caricamento di una bacheca](known-issues-workfront/wf-boards-error-when-loading-board.md) | venerdì 8 agosto 2024 |
-| [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | venerdì 8 agosto 2024 |
 | [Moduli personalizzati: il browser si arresta in modo anomalo durante la creazione di moduli di grandi dimensioni](known-issues-workfront/wf-custom-forms-browser-crash-when-building.md) | 5 agosto 2024 |
 | [Moduli personalizzati: il generatore di moduli si arresta in modo anomali durante l’immissione della logica di visualizzazione](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 agosto 2024 |
 | [Moduli personalizzati: il campo calcolato mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 5 agosto 2024 |
