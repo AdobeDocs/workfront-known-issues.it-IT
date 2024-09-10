@@ -1,13 +1,13 @@
 ---
-title: "Home: si verificano arresti anomali della casa con errore Memoria insufficiente"
-description: Quando un utente cerca di visualizzare la nuova Home, il sito si blocca con un messaggio di errore. È disponibile una soluzione alternativa.
+title: 'Home: arresti anomali della pagina Home con errore di memoria esaurita'
+description: Quando un utente tenta di visualizzare la nuova pagina Home, il sito si arresta in modo anomalo con un messaggio di errore. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 

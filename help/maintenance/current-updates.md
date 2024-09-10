@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
 workflow-type: tm+mt
 source-wordcount: '5452'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 Quando un utente visualizza l’elenco Gruppi nell’area Configura, nota che i sottogruppi non sono elencati correttamente nel gruppo principale. Il sottogruppo viene salvato correttamente nel gruppo principale, ma l’elenco può causare confusione.
 
-Se l’utente apre il sottogruppo, può vedere nelle breadcrumb che il sottogruppo viene salvato correttamente nel gruppo principale.
+Se l’utente apre il sottogruppo, nelle breadcrumb può visualizzare che il sottogruppo viene salvato correttamente nel gruppo principale.
 
 #### Utenti
 
@@ -74,11 +74,11 @@ Quando un utente visualizza il widget Approvazioni in sospeso su Home, i documen
 
 #### Utenti
 
-**Il campo Impostazioni locali e-mail del profilo utente è stato disabilitato**
+**Il campo Impostazioni internazionali e-mail del profilo utente è stato disabilitato**
 
-Per le organizzazioni su IMS, le preferenze di lingua sono memorizzate nel profilo Adobe Experience Cloud di ciascun utente. Il campo Impostazioni internazionali e-mail nel profilo utente di Workfront è stato disabilitato (solo per le organizzazioni IMS) e una descrizione comando su tale campo fornisce istruzioni su come accedere alle impostazioni della lingua nel profilo di Adobe.
+Per le organizzazioni su IMS, le preferenze di lingua sono memorizzate nel profilo Adobe Experience Cloud di ciascun utente. Il campo Impostazioni internazionali e-mail nel profilo utente di Workfront è stato disabilitato (solo per le organizzazioni IMS) e una descrizione su tale campo fornisce istruzioni su come accedere alle impostazioni della lingua nel profilo di Adobe.
 
-In questo modo si risolve un problema per il quale, quando un amministratore tenta di modificare l’impostazione delle impostazioni locali dell’e-mail di un utente, viene ripristinata la lingua inglese.
+Questo risolvere il problema che si verifica quando un amministratore tenta di modificare le impostazioni internazionali dell’e-mail di un utente, viene ripristinata la lingua inglese.
 
 +++
 
