@@ -1,13 +1,13 @@
 ---
-title: "Bacheche: la scheda connessa si trova in una colonna errata"
-description: Sono stati segnalati problemi relativi alle schede collegate nella colonna errata.
+title: 'Bacheche: la scheda connessa si trova in una colonna errata'
+description: Sono stati segnalati problemi relativi alle schede connesse nella colonna errata.
 hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
 source-git-commit: c73aa8451c52e4c6f5091b549d9f0a35b8e8d1f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
