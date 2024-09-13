@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5452'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 +++**Aggiornamento di manutenzione del venerdì 5 settembre 2024**
 
-### Aggiornamento di manutenzione del giovedì 5 settembre 2024
+### Aggiornamento di manutenzione del 5 settembre 2024
 
 #### Gruppi
 
@@ -40,7 +40,7 @@ Se l’utente apre il sottogruppo, nelle breadcrumb può visualizzare che il sot
 
 #### Utenti
 
-**Impossibile riattivare l&#39;utente**
+**Non si riesce a riattivare un utente**
 
 Quando un utente tenta di riattivare un utente utilizzando l’opzione “Riattiva utente” nel menu Altro, può selezionare un livello di accesso, ma la modifica non viene salvata. Invece, l’utente visualizza il seguente errore:
 
