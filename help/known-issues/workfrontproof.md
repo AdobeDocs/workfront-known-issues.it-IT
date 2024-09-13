@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 98%
+source-wordcount: '418'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: gli utenti attivi appaiono disattivati](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | venerdì 12 settembre 2024 |
 | [Agile: lo storyboard diventa vuoto quando si aggiunge un’attività secondaria](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | sabato 26 luglio 2024 |
 | [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md) | venerdì 25 luglio 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
