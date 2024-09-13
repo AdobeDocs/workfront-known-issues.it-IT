@@ -1,17 +1,21 @@
 ---
-title: '“Integrazioni: errore durante la creazione di una richiesta da Outlook ”'
-description: '"Quando un utente tenta di creare una richiesta dall’integrazione di Workfront per Outlook e aggiunge un allegato, visualizza il messaggio Si è verificato un errore. Riprova più tardi.”'
+title: "Integrazioni: errore durante la creazione di una richiesta da Outlook"
+description: Quando un utente tenta di creare una richiesta dall’integrazione di Workfront per Outlook e aggiunge un allegato, visualizza il messaggio Si è verificato un errore. Riprova più tardi.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Work Management
-source-git-commit: bdf56413a3b704ef6020bd2093c6bddbb3b64913
-workflow-type: ht
-source-wordcount: '107'
-ht-degree: 100%
+exl-id: cd7e5de2-eb82-4cb6-a8e7-ed59b120fffd
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 90%
 
 ---
 
-
 # “Integrazioni: errore durante la creazione di una richiesta da Outlook ”
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 12 settembre 2024.
 
 Quando un utente tenta di creare una richiesta dall’integrazione di Workfront per Outlook e aggiunge un allegato, visualizza il messaggio “Si è verificato un errore. Riprova più tardi.”
 

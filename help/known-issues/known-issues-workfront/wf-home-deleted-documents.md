@@ -4,18 +4,14 @@ description: Quando un utente visualizza il widget Approvazioni in sospeso su Ho
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
 exl-id: 82fa6159-ae27-4391-9690-8d4679c5b91c
-source-git-commit: adfed546c37dc86b686598bb5b836838963e00e6
-workflow-type: ht
-source-wordcount: '90'
+source-git-commit: 73c65fa752d5bf75f4ec03c18bc06930fc1f4a7b
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
 
 # Home: il widget delle approvazioni in sospeso mostra i documenti eliminati
-
->[!NOTE]
->
->Questo problema è stato risolto il venerdì 29 agosto 2024.
 
 Quando un utente visualizza il widget Approvazioni in sospeso su Home, i documenti mostrati sono quelli eliminati. Se l’utente fa clic su uno di questi documenti, viene visualizzata una pagina vuota.
 
