@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 5e8dde28f6cc4e646e55eb2263211af5e7ce86df
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 96%
+source-wordcount: '1026'
+ht-degree: 97%
 
 ---
 
@@ -25,18 +25,15 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | venerdì 12 settembre 2024 |
 | [Agile: opzione Aggiungi a iterazione elencata due volte durante l&#39;assegnazione del team SCRUM](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | venerdì 12 settembre 2024 |
 | [Bozze: gli utenti attivi appaiono disattivati](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | venerdì 12 settembre 2024 |
 | [Schede: impossibile visualizzare in anteprima o scaricare documenti dalla scheda](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | venerdì 5 settembre 2024 |
 | [Mobile: impossibile disconnettersi e informazioni del profilo utente mancanti](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | mercoledì 3 settembre 2024 |
-| [Bacheche: lo stato della scheda non corrisponde all’oggetto connesso e ignora il filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | mercoledì 3 settembre 2024 |
 | [Dashboard: selezionando il pulsante Esporta in un rapporto, si scorre verso l’inizio della pagina](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md) | mercoledì 3 settembre 2024 |
 | [Bacheche: la scheda connessa si trova in una colonna errata](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | giovedì 28 agosto 2024 |
 | [Workfront: non si riesce a utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martedì 26 agosto 2024 |
 | [Rapporti: le consegne dei rapporti sono ritardate o mancanti](known-issues-workfront/wf-reports-not-delivered.md) | martedì 26 agosto 2024 |
 | [Assegnazioni: l’icona indisponibilità non viene visualizzata durante l’assegnazione delle attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martedì 26 agosto 2024 |
-| [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | giovedì 21 agosto 2024 |
 | [Home: “Nessun accesso” viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 15 agosto 2024 |
 | [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | giovedì 14 agosto 2024 |
 | [Rapporti: errore durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-error-cache-content.md) | giovedì 14 agosto 2024 |

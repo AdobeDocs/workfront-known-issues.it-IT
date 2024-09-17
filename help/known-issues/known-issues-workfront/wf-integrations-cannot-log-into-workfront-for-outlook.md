@@ -1,17 +1,21 @@
 ---
-title: 'Integrazioni: impossibile accedere a Workfront per Outlook'
+title: "Integrazioni: impossibile accedere a Workfront per Outlook"
 description: Quando un utente tenta di accedere a Workfront per Outlook, il pulsante non risponde e l’utente non può effettuare l’accesso.
 hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: 411c1488a5d7ba1c0065f96763c191d609059675
-workflow-type: ht
-source-wordcount: '62'
-ht-degree: 100%
+exl-id: 5ea65906-84c8-4aad-a4d9-a10b577a4c4c
+source-git-commit: c94e9f4cbe23fe5f9e681eb672585dca237f0c79
+workflow-type: tm+mt
+source-wordcount: '68'
+ht-degree: 88%
 
 ---
 
-
 # Integrazioni: impossibile accedere a Workfront per Outlook
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 12 settembre 2024.
 
 Quando un utente tenta di accedere a Workfront per Outlook, il pulsante non risponde e l’utente non può effettuare l’accesso.
 
