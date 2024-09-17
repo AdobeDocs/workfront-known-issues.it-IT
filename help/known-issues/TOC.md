@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
-source-wordcount: '1708'
-ht-degree: 100%
+source-wordcount: '1746'
+ht-degree: 97%
 
 ---
 
@@ -17,12 +17,17 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Assegnazioni: l’assegnazione dell’attività non riesce e le autorizzazioni ereditate vengono rimosse](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
+      + [Gruppi: viene nuovamente visualizzato lo stato del gruppo eliminato](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
+      + [Agile: l’opzione Add to Iteration (Aggiungi a iterazione) è elencata due volte durante l’assegnazione del team Scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [Bozze: gli utenti attivi appaiono disattivati](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [Bacheche: impossibile visualizzare in anteprima o scaricare documenti dalla scheda](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobile: impossibile disconnettersi e informazioni del profilo utente mancanti](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)
       + [Bacheche: lo stato della scheda non corrisponde all’oggetto connesso e ignora il filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md)
       + [Dashboard: selezionando il pulsante Esporta in un rapporto, si scorre verso l’inizio della pagina](known-issues-workfront/wf-dashboards-export-button-scrolls-to-top.md)
       + [Workfront: la data viene visualizzata in un formato non corretto](known-issues-workfront/wf-workfront-date-format-incorrect.md)
-      + [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notiications-email-daily-digest-contributors.md)
+      + [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [Gruppi: i sottogruppi non vengono visualizzati correttamente](known-issues-workfront/wf-groups-nested-subgroups-not-display-correctly.md)
       + [Workfront: impossibile utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
       + [Utenti: non si riesce a riattivare un utente](known-issues-workfront/wf-users-reactivate-user.md)
