@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 75149041b3a9b35079b7699d41b76166276106e8
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
-source-wordcount: '5452'
-ht-degree: 100%
+source-wordcount: '5578'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,32 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 ## Aggiornamenti di settembre 2024
+
++++**Aggiornamento di manutenzione del venerdì 19 settembre 2024**
+
+### Aggiornamento di manutenzione del venerdì 19 settembre 2024
+
+#### Dashboard
+
+**Selezionando il pulsante Esporta in un report si scorre verso l&#39;inizio della pagina**
+
+Quando si fa clic sul pulsante Esporta per un report in un dashboard, la finestra scorre fino alla parte superiore della pagina e richiede lo scorrimento verso il basso per trovare il menu delle opzioni di esportazione aperto.
+
++++
+
++++**Aggiornamento di manutenzione del venerdì 12 settembre 2024**
+
+### Aggiornamento di manutenzione del venerdì 12 settembre 2024
+
+#### Integrazioni
+
+**Errore durante la creazione di una richiesta da Outlook**
+
+Quando un utente tenta di creare una richiesta dall’integrazione di Workfront per Outlook e aggiunge un allegato, visualizza il messaggio “Si è verificato un errore. Riprova più tardi.”
+
+La richiesta viene creata e contiene una cartella per gli allegati e-mail, ma la cartella è vuota e l’allegato non è stato aggiunto alla richiesta.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 5 settembre 2024**
 

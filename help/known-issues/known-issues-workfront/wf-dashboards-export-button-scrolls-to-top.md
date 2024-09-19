@@ -4,14 +4,18 @@ description: Quando si fa clic sul pulsante Esporta per un report in un dashboar
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 620d7f58-fef2-41f5-90fa-c6f196f5bf54
-source-git-commit: 1564d40acb9cd6c9e6bbf8496aac7a8076ba5b35
-workflow-type: ht
-source-wordcount: '92'
+source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+workflow-type: tm+mt
+source-wordcount: '98'
 ht-degree: 100%
 
 ---
 
 # Dashboard: selezionando il pulsante Esporta in un rapporto, si scorre verso l’inizio della pagina
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 19 settembre 2024.
 
 Quando si fa clic sul pulsante Esporta per un report in un dashboard, la finestra scorre fino alla parte superiore della pagina e richiede lo scorrimento verso il basso per trovare il menu delle opzioni di esportazione aperto.
 
