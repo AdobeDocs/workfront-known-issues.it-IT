@@ -5,7 +5,7 @@ role: User
 source-git-commit: ae9a8c6a8186b240b5482f51a08565d222301843
 workflow-type: tm+mt
 source-wordcount: '1746'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,9 +18,9 @@ ht-degree: 97%
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Assegnazioni: l’assegnazione dell’attività non riesce e le autorizzazioni ereditate vengono rimosse](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
-      + [Gruppi: viene nuovamente visualizzato lo stato del gruppo eliminato](known-issues-workfront/wf-groups-deleted-status-reappears.md)
+      + [Gruppi: lo stato del gruppo eliminato viene visualizzato nuovamente](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
-      + [Agile: l’opzione Add to Iteration (Aggiungi a iterazione) è elencata due volte durante l’assegnazione del team Scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
+      + [Agile: l’opzione Aggiungi all’iterazione è elencata due volte durante l’assegnazione del team Scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md)
       + [Bozze: gli utenti attivi appaiono disattivati](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md)
       + [Bacheche: impossibile visualizzare in anteprima o scaricare documenti dalla scheda](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md)
       + [Mobile: impossibile disconnettersi e informazioni del profilo utente mancanti](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md)

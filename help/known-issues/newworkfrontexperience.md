@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 5346638be033d65ee86c7e991a70cea32fbbcc7f
 workflow-type: tm+mt
 source-wordcount: '1055'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | venerdì 12 settembre 2024 |
-| [Agile: opzione Aggiungi a iterazione elencata due volte durante l&#39;assegnazione del team SCRUM](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | venerdì 12 settembre 2024 |
+| [Agile: opzione Aggiungi all’iterazione elencata due volte durante l’assegnazione del team Scrum](known-issues-workfront/wf-agile-add-to-iteration-listed-twice.md) | venerdì 12 settembre 2024 |
 | [Bozze: gli utenti attivi appaiono disattivati](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | venerdì 12 settembre 2024 |
 | [Schede: impossibile visualizzare in anteprima o scaricare documenti dalla scheda](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | venerdì 5 settembre 2024 |
 | [Mobile: impossibile disconnettersi e informazioni del profilo utente mancanti](known-issues-workfront/wf-mobile-unable-to-log-out-and-missing-user-info.md) | mercoledì 3 settembre 2024 |
@@ -53,8 +53,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
-| [Assegnazioni: assegnazione attività non riuscita e autorizzazioni ereditate rimosse](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | venerdì 12 settembre 2024 |
-| [Gruppi: lo stato del gruppo eliminato viene nuovamente visualizzato](known-issues-workfront/wf-groups-deleted-status-reappears.md) | venerdì 12 settembre 2024 |
+| [Assegnazioni: l’assegnazione dell’attività non riesce e le autorizzazioni ereditate vengono rimosse](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md) | venerdì 12 settembre 2024 |
+| [Gruppi: lo stato del gruppo eliminato viene visualizzato nuovamente](known-issues-workfront/wf-groups-deleted-status-reappears.md) | venerdì 12 settembre 2024 |
 | [Home: il widget delle approvazioni in sospeso mostra i documenti eliminati](known-issues-workfront/wf-home-deleted-documents.md) | venerdì 12 settembre 2024 |
 | [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | venerdì 12 settembre 2024 |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | sabato 30 agosto 2024 |
