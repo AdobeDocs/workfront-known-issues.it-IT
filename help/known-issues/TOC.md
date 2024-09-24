@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 8641957b203a689fd881bc5a6b5979ca6372216b
 workflow-type: tm+mt
-source-wordcount: '1774'
-ht-degree: 98%
+source-wordcount: '1782'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bacheche: errore durante lo spostamento delle schede o l’assegnazione di utenti](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Report: impossibile scorrere per visualizzare l’intero report grafico](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Assegnazioni: l’assegnazione dell’attività non riesce e le autorizzazioni ereditate vengono rimosse](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
