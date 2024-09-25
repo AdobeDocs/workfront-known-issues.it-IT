@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8641957b203a689fd881bc5a6b5979ca6372216b
+source-git-commit: b0e11b04a2c76db4ca0f1f1c555a83fc068d8eeb
 workflow-type: tm+mt
-source-wordcount: '1782'
+source-wordcount: '1792'
 ht-degree: 97%
 
 ---
@@ -227,6 +227,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: impossibile aggiungere o eliminare utenti da Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: coda del webhook non in elaborazione](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + [Workfront Fusion: campo mancante nel modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
