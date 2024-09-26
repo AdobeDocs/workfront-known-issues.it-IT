@@ -1,13 +1,13 @@
 ---
-title: "Moduli personalizzati: impossibile scorrere il campo di ricerca esterno"
+title: 'Moduli personalizzati: impossibile scorrere il campo di ricerca esterno'
 description: Quando un utente cerca di visualizzare le opzioni in un campo di ricerca esterno, il menu a discesa delle opzioni non scorre e l’utente non può visualizzare l’intero elenco di opzioni
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 62cc8f6b-cc1a-4861-a470-de4769b46d75
 source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
