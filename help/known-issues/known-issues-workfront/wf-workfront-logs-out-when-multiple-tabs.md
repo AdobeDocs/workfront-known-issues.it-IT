@@ -1,5 +1,5 @@
 ---
-title: "Workfront: la disconnessione di Workfront è dovuta alla presenza di più schede del browser"
+title: 'Workfront: schede multiple nel browser causano la disconnessione di Workfront'
 description: Quando un utente ha più schede del browser aperte, Workfront potrebbe disconnettersi automaticamente.
 hidefromtoc: true
 feature: Get Started with Workfront
@@ -7,7 +7,7 @@ exl-id: e76b7127-a283-461b-af10-30640fe9e711
 source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Questo problema è stato segnalato con il browser Chrome.
 
 **Soluzione alternativa:**
 
-* Se è aperta una scheda Workfront attiva, ricaricare la scheda scaduta. Tornerà alla pagina aperta prima della scadenza.
-* Se non hai una scheda Workfront attiva aperta, accedi di nuovo a Workfront.
+* Se una scheda Workfront attiva è aperta, ricarica la scheda scaduta. Tornerà alla pagina aperta prima della scadenza.
+* Se non hai una scheda Workfront attiva aperta, accedi nuovamente a Workfront.
 
 _Segnalato per la prima volta il sabato 2 agosto 2024._
