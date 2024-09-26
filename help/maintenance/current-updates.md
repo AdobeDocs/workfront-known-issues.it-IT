@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
-source-wordcount: '5578'
-ht-degree: 99%
+source-wordcount: '5723'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,30 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 ## Aggiornamenti di settembre 2024
+
++++**Aggiornamento di manutenzione del venerdì 26 settembre 2024**
+
+### Aggiornamento di manutenzione del venerdì 26 settembre 2024
+
+#### Agile
+
+**Aggiungi all&#39;iterazione opzione elencata due volte quando si assegna il team SCRUM**
+
+Quando si assegna un’attività o un problema a un team agile Scrum, l’opzione “Aggiungi all’iterazione” viene visualizzata due volte nel menu Altro. Questo non influisce sulla possibilità di effettuare assegnazioni al team e non viene visualizzato per i team agile non Scrum.
+
+#### Moduli personalizzati
+
+**Elenco dei campi dell&#39;Editor calcoli limitato a 200 elementi**
+
+Nell’Editor di calcolo per i campi calcolati nei moduli personalizzati, l’elenco dei campi per un oggetto ora è limitato a 200 elementi per migliorare le prestazioni del sistema. Se conosci il nome del campo, puoi cercarlo utilizzando l’opzione typeahead invece di scorrere l’elenco.
+
+#### Report
+
+**Consegne dei rapporti ritardate o mancanti**
+
+I rapporti con consegne pianificate non vengono consegnati come previsto. Possono essere in ritardo o non essere consegnati affatto.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 19 settembre 2024**
 

@@ -1,17 +1,21 @@
 ---
-title: '“Workfront Mobile: impossibile accedere senza utilizzare SSO”'
-description: Quando un utente accede all’app Workfront Mobile, deve utilizzare SSO per accedere. L’utente non può utilizzare le credenziali Workfront o Adobe ID.”
+title: "Workfront Mobile: impossibile accedere senza utilizzare SSO"
+description: Quando un utente accede all’app Workfront Mobile, deve utilizzare SSO per accedere. L’utente non può utilizzare le credenziali Workfront o Adobe ID.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: b6ed840df25684f16f88bc30fe7a8138e37fbe53
-workflow-type: ht
-source-wordcount: '86'
-ht-degree: 100%
+exl-id: fd3d2bc1-cb0c-4cf6-be39-7c5c3f7ac74b
+source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 91%
 
 ---
 
-
 # Workfront Mobile: impossibile accedere senza utilizzare SSO
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 19 settembre 2024.
 
 Quando un utente accede all’app Workfront Mobile, deve utilizzare SSO per accedere. L’utente non può utilizzare le credenziali Workfront o Adobe ID.
 
