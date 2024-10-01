@@ -1,12 +1,12 @@
 ---
-title: "Workfront Fusion: impossibile aggiungere o eliminare utenti da Workfront Fusion"
-description: "Quando un utente tenta di aggiungere o eliminare un utente in Workfront Fusion, non è in grado di farlo."
+title: 'Workfront Fusion: impossibile aggiungere o eliminare utenti da Workfront Fusion'
+description: Quando un utente tenta di aggiungere o eliminare un utente in Workfront Fusion, non è in grado di farlo.
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: e39c40827508ace70eed836bc07f67ab11f40a15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ Gli utenti possono essere aggiunti o eliminati tramite Adobe Admin Console. Pert
 
 **Soluzione alternativa**
 
-Questo problema è un effetto collaterale temporaneo del processo di migrazione di un’organizzazione a Adobe Admin Console. Una volta completata la migrazione dell&#39;organizzazione, gli utenti possono essere gestiti in Adobe Admin Console e non sarà più necessario gestire gli utenti nell&#39;applicazione Workfront Fusion.
+Questo problema è un effetto secondario temporaneo del processo di migrazione di un’organizzazione a Adobe Admin Console. Una volta completata la migrazione dell’organizzazione, gli utenti possono essere gestiti in Adobe Admin Console e non sarà più necessario gestirli nell’applicazione Workfront Fusion.
 
 <!--_First reported on June 1, 2024._ -->
 
