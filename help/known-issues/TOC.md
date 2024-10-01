@@ -5,7 +5,7 @@ role: User
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
 source-wordcount: '1804'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 96%
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Bacheche: errore durante lo spostamento delle schede o l’assegnazione di utenti](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
-      + [Report: impossibile scorrere per visualizzare l’intero report grafico](known-issues-workfront/wf-reports-unable-to-scroll.md)
+      + [Rapporti: impossibile scorrere per visualizzare l’intero rapporto sul grafico](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Assegnazioni: l’assegnazione dell’attività non riesce e le autorizzazioni ereditate vengono rimosse](known-issues-workfront/wf-assignments-unable-assign-task-permissions-removed.md)
       + [Gruppi: lo stato del gruppo eliminato viene visualizzato nuovamente](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md)
@@ -201,7 +201,7 @@ ht-degree: 96%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [Workfront Proof: il contenuto viene incollato in modo errato nella sezione Aggiornamenti del Visualizzatore bozze desktop](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
+      + [Workfront Proof: il contenuto viene incollato in modo errato nella sezione Aggiornamenti del Visualizzatore bozza desktop](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: impossibile riordinare le risorse durante la creazione di una bozza](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md)

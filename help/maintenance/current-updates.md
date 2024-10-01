@@ -56,7 +56,7 @@ I rapporti con consegne pianificate non vengono consegnati come previsto. Posson
 
 #### Dashboard
 
-**Selezionando il pulsante Esporta in un report si scorre verso l&#39;inizio della pagina**
+**Selezionando il pulsante Esporta in un rapporto, si scorre verso l’inizio della pagina**
 
 Quando si fa clic sul pulsante Esporta per un report in un dashboard, la finestra scorre fino alla parte superiore della pagina e richiede lo scorrimento verso il basso per trovare il menu delle opzioni di esportazione aperto.
 

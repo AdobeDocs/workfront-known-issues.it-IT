@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
 workflow-type: tm+mt
 source-wordcount: '1021'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapporti: tempi di caricamento lunghi del generatore di rapporti](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 19 settembre 2024 |
+| [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 19 settembre 2024 |
 | [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | venerdì 12 settembre 2024 |
 | [Bozze: gli utenti attivi appaiono disattivati](known-issues-workfront/wf-proofs-active-users-appear-as-deactivated.md) | venerdì 12 settembre 2024 |
 | [Schede: impossibile visualizzare in anteprima o scaricare documenti dalla scheda](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | venerdì 5 settembre 2024 |
@@ -75,7 +75,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Report: impossibile scorrere per visualizzare l&#39;intero report grafico](known-issues-workfront/wf-reports-unable-to-scroll.md) | venerdì 19 settembre 2024 |
+| [Rapporti: impossibile scorrere per visualizzare l’intero rapporto sul grafico](known-issues-workfront/wf-reports-unable-to-scroll.md) | venerdì 19 settembre 2024 |
 | [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | giovedì 18 settembre 2024 |
 | [Moduli personalizzati: il campo calcolato mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | venerdì 12 settembre 2024 |
 | [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | venerdì 12 settembre 2024 |
