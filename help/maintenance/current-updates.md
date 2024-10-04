@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '5723'
-ht-degree: 98%
+source-wordcount: '5906'
+ht-degree: 97%
 
 ---
 
@@ -23,6 +23,47 @@ Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno i
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
+
+## Aggiornamenti di ottobre 2024
+
++++**Aggiornamento di manutenzione del venerdì 3 ottobre 2024**
+
+### Aggiornamento di manutenzione del 3 ottobre 2024
+
+#### Bacheche
+
+**Schede connesse archiviate non sincronizzate**
+
+Per risolvere i problemi di prestazioni, le schede connesse archiviate non vengono più sincronizzate. Le modifiche apportate all’attività o al problema di Workfront non vengono riportate sulle schede archiviate. Se si ripristina una scheda, questa verrà sincronizzata di nuovo.
+
+#### Moduli personalizzati
+
+**Errore di conversione dei tipi di visualizzazione nei moduli personalizzati**
+
+Nei moduli personalizzati, i campi RTF causano la visualizzazione del seguente errore:
+
+“Errore: le conversioni dei tipi di visualizzazione tra testo e RTF non sono consentite.”
+
+Ciò può verificarsi nelle seguenti condizioni:
+
+* L’utente inizia a modificare i moduli, ma fa clic su Applica senza apportare alcuna modifica.
+* L’utente sta creando un modulo personalizzato.
+
+In entrambi i casi, i problemi sono causati dai campi RTF.
+
+#### Notifiche
+
+**Gli utenti collaboratori non ricevono notifiche e-mail**
+
+Gli utenti con una licenza Collaboratore non ricevono le e-mail di notifica. Questo può interessare sia le e-mail di notifica istantanea che le e-mail del Riepilogo giornaliero.
+
+#### Bozze
+
+**Impossibile aggiungere firme elettroniche quando si utilizza SSO per la bozza**
+
+Quando si utilizza l’SSO per accedere a Proof, gli utenti non possono impostare una bozza in modo da richiedere firme elettroniche.
+
++++
 
 ## Aggiornamenti di settembre 2024
 

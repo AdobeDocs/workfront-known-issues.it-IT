@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 93%
+source-wordcount: '185'
+ht-degree: 94%
 
 ---
 
@@ -25,10 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: problemi relativi all&#39;archivio dati](known-issues-workfront-fusion/fusion-data-store-issues.md) | venerdì 26 settembre 2024 |
-| [Workfront Fusion: i dettagli di esecuzione vengono visualizzati durante l&#39;elaborazione](known-issues-workfront-fusion/fusion-execution-details-display-processing.md) | venerdì 26 settembre 2024 |
+| [Bozze: impossibile creare la bozza per i documenti collegati da AEM tramite Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | venerdì 3 ottobre 2024 |
 | [Workfront Fusion: coda del webhook non in elaborazione](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md) | venerdì 19 settembre 2024 |
-| [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md) | mercoledì 27 agosto 2024 |
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | martedì 5 agosto 2024 |
 
 {style="table-layout:auto"}

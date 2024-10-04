@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 99%
+source-wordcount: '1845'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Accedi come reindirizza all’accesso o causa un errore](known-issues-workfront/wf-login-as-redirects-to-login.md)
+      + [Home: &quot;Segna come completato&quot; chiude il riquadro di riepilogo per il widget Problemi personali](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Progetti: impossibile condividere i progetti a causa di un errore di tipo &quot;accesso per eliminare&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [Bozze: la creazione della bozza non riesce per i documenti collegati da AEM tramite Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Bacheche: errore durante lo spostamento delle schede o l’assegnazione di utenti](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Rapporti: impossibile scorrere per visualizzare l’intero rapporto sul grafico](known-issues-workfront/wf-reports-unable-to-scroll.md)

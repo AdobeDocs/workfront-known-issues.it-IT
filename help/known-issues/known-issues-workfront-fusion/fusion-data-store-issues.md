@@ -3,15 +3,19 @@ title: "Workfront Fusion: problemi relativi all’archivio dati"
 description: "Sono stati segnalati i seguenti problemi relativi ai campi booleani negli archivi dati: gli archivi dati non restituiscono alcun valore per i campi il cui valore è VUOTO e gli utenti non possono impostare i valori su FALSE direttamente nell’archivio dati."
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 2cbde79df7bb110e083f8e8b65b319d9c682e188
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 5%
+source-wordcount: '106'
+ht-degree: 10%
 
 ---
 
 
 # Workfront Fusion: problemi relativi all’archivio dati
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 26 settembre 2024.
 
 Sono stati segnalati i seguenti problemi relativi ai campi booleani negli archivi dati:
 

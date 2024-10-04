@@ -3,14 +3,18 @@ title: 'Bozze: gli utenti attivi vengono visualizzati come disattivati'
 description: Nonostante siano attivi, gli utenti appaiono disattivati in alcune bozze e non possono accedervi.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
+source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+workflow-type: tm+mt
+source-wordcount: '49'
+ht-degree: 89%
 
 ---
 
 # Bozze: gli utenti attivi appaiono disattivati
+
+>[!NOTE]
+>
+>Questo articolo è stato risolto.
 
 Nonostante siano attivi, gli utenti appaiono disattivati in alcune bozze e non possono accedervi.
 
