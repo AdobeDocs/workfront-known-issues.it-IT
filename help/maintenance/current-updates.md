@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
 workflow-type: tm+mt
 source-wordcount: '5906'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -73,15 +73,15 @@ Quando si utilizza l’SSO per accedere a Proof, gli utenti non possono impostar
 
 #### Agile
 
-**Aggiungi all&#39;iterazione opzione elencata due volte quando si assegna il team SCRUM**
+**Opzione Aggiungi all’iterazione elencata due volte durante l’assegnazione del team Scrum**
 
 Quando si assegna un’attività o un problema a un team agile Scrum, l’opzione “Aggiungi all’iterazione” viene visualizzata due volte nel menu Altro. Questo non influisce sulla possibilità di effettuare assegnazioni al team e non viene visualizzato per i team agile non Scrum.
 
 #### Moduli personalizzati
 
-**Elenco dei campi dell&#39;Editor calcoli limitato a 200 elementi**
+**Elenco dei campi dell’Editor di calcolo limitato a 200 elementi**
 
-Nell’Editor di calcolo per i campi calcolati nei moduli personalizzati, l’elenco dei campi per un oggetto ora è limitato a 200 elementi per migliorare le prestazioni del sistema. Se conosci il nome del campo, puoi cercarlo utilizzando l’opzione typeahead invece di scorrere l’elenco.
+Nell’Editor di calcolo per i campi calcolati nei moduli personalizzati, l’elenco dei campi per un oggetto ora è limitato a 200 elementi per migliorare le prestazioni del sistema. Se conosci il nome del campo, puoi cercarlo utilizzando l’opzione Automatico invece di scorrere l’elenco.
 
 #### Report
 

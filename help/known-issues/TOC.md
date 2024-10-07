@@ -232,7 +232,7 @@ ht-degree: 97%
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: problemi relativi all’archivio dati](known-issues-workfront-fusion/fusion-data-store-issues.md)
-      + [Workfront Fusion: i dettagli di esecuzione vengono visualizzati durante l’elaborazione](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
+      + [Workfront Fusion: i dettagli sull’esecuzione vengono visualizzati durante l’elaborazione](known-issues-workfront-fusion/fusion-execution-details-display-processing.md)
       + [Workfront Fusion: impossibile aggiungere o eliminare utenti da Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: coda del webhook non in elaborazione](known-issues-workfront-fusion/fusion-webhook-queue-not-processing.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
