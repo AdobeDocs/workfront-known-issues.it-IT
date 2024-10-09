@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 97%
+source-wordcount: '440'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront Mobile: i collegamenti e-mail per la bozza non si apriranno su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | giovedì 9 ottobre 2024 |
 | [Bozze: impossibile creare la bozza per i documenti collegati da AEM tramite Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | venerdì 3 ottobre 2024 |
 | [Agile: lo storyboard diventa vuoto quando si aggiunge un’attività secondaria](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | sabato 26 luglio 2024 |
 | [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md) | venerdì 25 luglio 2024 |

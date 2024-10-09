@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1845'
-ht-degree: 97%
+source-wordcount: '1888'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenti: impossibile spostare i documenti dalla scheda Documenti dell’oggetto](known-issues-workfront/wf-documents-cannot-move-from-object.md)
+      + [Bacheche: opzioni di stato duplicate per attività e problemi](known-issues-workfront/wf-boards-duplicate-status-options.md)
+      + [Home: i campi personalizzati eliminati persistono nei widget di progetto, attività e problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
+      + [Priorità: i raggruppamenti impediscono l’ordinamento e la modifica in linea](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Accedi come reindirizza all’accesso o causa un errore](known-issues-workfront/wf-login-as-redirects-to-login.md)
       + [Home: &quot;Segna come completato&quot; chiude il riquadro di riepilogo per il widget Problemi personali](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
       + [Progetti: impossibile condividere i progetti a causa di un errore di tipo &quot;accesso per eliminare&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
@@ -205,6 +209,7 @@ ht-degree: 97%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Mobile: i collegamenti e-mail delle bozze non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md)
       + [Workfront Proof: il contenuto viene incollato in modo errato nella sezione Aggiornamenti del Visualizzatore bozza desktop](known-issues-workfront-proof/proof-wrong-content-pastes-in-viewer-updates.md)
       + [[!UICONTROL Workfront Proof]: impossibile riordinare le risorse durante la creazione di una bozza](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)

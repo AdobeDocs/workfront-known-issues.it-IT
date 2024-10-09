@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
+source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
-source-wordcount: '1039'
-ht-degree: 96%
+source-wordcount: '1087'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: impossibile spostare i documenti dalla scheda Documenti dell&#39;oggetto](known-issues-workfront/wf-documents-cannot-move-from-object.md) | giovedì 9 ottobre 2024 |
+| [Schede: opzioni di stato duplicate per attività e problemi](known-issues-workfront/wf-boards-duplicate-status-options.md) | giovedì 9 ottobre 2024 |
+| [Workfront Mobile: i collegamenti e-mail per la bozza non si apriranno su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | giovedì 9 ottobre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 19 settembre 2024 |
 | [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | venerdì 12 settembre 2024 |
 | [Schede: impossibile visualizzare in anteprima o scaricare documenti dalla scheda](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | venerdì 5 settembre 2024 |
@@ -76,6 +79,8 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Home: i campi personalizzati eliminati persistono nei widget per progetti, attività e problemi](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | mercoledì 8 ottobre 2024 |
+| [Priorità: i raggruppamenti impediscono l&#39;ordinamento e la modifica in linea](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | mercoledì 8 ottobre 2024 |
 | [Rapporti: impossibile scorrere per visualizzare l’intero rapporto sul grafico](known-issues-workfront/wf-reports-unable-to-scroll.md) | venerdì 19 settembre 2024 |
 | [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | giovedì 18 settembre 2024 |
 | [Moduli personalizzati: il campo calcolato mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | venerdì 12 settembre 2024 |
