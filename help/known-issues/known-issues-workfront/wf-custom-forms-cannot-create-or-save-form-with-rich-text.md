@@ -1,17 +1,21 @@
 ---
 title: "Moduli personalizzati: errore di conversione del tipo di visualizzazione nei moduli personalizzati"
-description: “Nei moduli personalizzati, i campi RTF causano la visualizzazione di un errore.”
+description: I campi RTF causano la visualizzazione di un errore nei moduli personalizzati.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 056821393141c9604707f13b388cc1872bf6b961
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+exl-id: 60fc4472-292d-4910-8cde-1d39d8e8a1c8
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '103'
+ht-degree: 79%
 
 ---
 
-
 # Moduli personalizzati: errore di conversione del tipo di visualizzazione nei moduli personalizzati
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il giovedì 9 ottobre 2024.
 
 Nei moduli personalizzati, i campi RTF causano la visualizzazione del seguente errore:
 

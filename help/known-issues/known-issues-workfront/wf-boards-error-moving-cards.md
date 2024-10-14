@@ -3,15 +3,19 @@ title: 'Bacheche: errore durante lo spostamento delle schede o l’assegnazione 
 description: 'A volte, durante lo spostamento delle schede o l’assegnazione degli utenti, l’azione non viene eseguita e genera l’errore Risposta non riuscita: ricevuto il codice di stato 502 dopo un ritardo.'
 hidefromtoc: true
 feature: Agile
-source-git-commit: b9206238976884e19b286d3a401ec32b58c144a4
-workflow-type: ht
-source-wordcount: '76'
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
 
 
 # Bacheche: errore durante lo spostamento delle schede o l’assegnazione di utenti
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 10 ottobre 2024.
 
 A volte, durante lo spostamento delle schede o l’assegnazione degli utenti, l’azione non viene eseguita e genera l’errore “Risposta non riuscita: ricevuto il codice di stato 502” dopo un ritardo.
 

@@ -4,14 +4,18 @@ description: Quando si verifica un evento che dovrebbe attivare uno scenario web
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 3388eaae-61cf-4a86-a946-925892c9633a
-source-git-commit: 0f744c94a0694c8fcb9524614b2a2b458dfc6d29
-workflow-type: ht
-source-wordcount: '68'
+source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
 
 # Workfront Fusion: coda del webhook non in elaborazione
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il sabato 11 ottobre 2024.
 
 Quando si verifica un evento che dovrebbe attivare uno scenario webhook in Workfront Fusion, lo scenario non viene eseguito e l’evento rimane nella coda del webhook.
 
