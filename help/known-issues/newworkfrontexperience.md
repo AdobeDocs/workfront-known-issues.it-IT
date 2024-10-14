@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
 source-wordcount: '1087'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -52,9 +52,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
-| [Accedi come reindirizza all&#39;accesso o causa un errore](known-issues-workfront/wf-login-as-redirects-to-login.md) | venerdì 3 ottobre 2024 |
-| [Home: &quot;Contrassegna come completato&quot; chiude il riquadro di riepilogo per il widget Problemi personali](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | venerdì 3 ottobre 2024 |
-| [Progetti: impossibile condividere i progetti a causa dell&#39;errore &quot;accesso per eliminare&quot;](known-issues-workfront/wf-projects-sharing-access-error.md) | venerdì 3 ottobre 2024 |
+| [Accedi come reindirizza all’accesso o causa un errore](known-issues-workfront/wf-login-as-redirects-to-login.md) | venerdì 3 ottobre 2024 |
+| [Home: “Contrassegna come completato” chiude il riquadro di riepilogo per il widget I miei problemi](known-issues-workfront/wf-home-mark-as-done-closes-summary.md) | venerdì 3 ottobre 2024 |
+| [Progetti: impossibile condividere i progetti a causa dell’errore “Accedi per eliminare”](known-issues-workfront/wf-projects-sharing-access-error.md) | venerdì 3 ottobre 2024 |
 | [Bozze: impossibile creare la bozza per i documenti collegati da AEM tramite Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | venerdì 3 ottobre 2024 |
 | [Moduli personalizzati: errore di conversione del tipo di visualizzazione nei moduli personalizzati](known-issues-workfront/wf-custom-forms-cannot-create-or-save-form-with-rich-text.md) | venerdì 3 ottobre 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercoledì 24 settembre 2024 |

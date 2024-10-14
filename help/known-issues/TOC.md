@@ -5,7 +5,7 @@ role: User
 source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
 workflow-type: tm+mt
 source-wordcount: '1888'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 95%
       + [Home: i campi personalizzati eliminati persistono nei widget di progetto, attività e problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [Priorità: i raggruppamenti impediscono l’ordinamento e la modifica in linea](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Accedi come reindirizza all’accesso o causa un errore](known-issues-workfront/wf-login-as-redirects-to-login.md)
-      + [Home: &quot;Segna come completato&quot; chiude il riquadro di riepilogo per il widget Problemi personali](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
-      + [Progetti: impossibile condividere i progetti a causa di un errore di tipo &quot;accesso per eliminare&quot;](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [Bozze: la creazione della bozza non riesce per i documenti collegati da AEM tramite Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
+      + [Home: “Contrassegna come completato” chiude il riquadro di riepilogo per il widget I miei problemi](known-issues-workfront/wf-home-mark-as-done-closes-summary.md)
+      + [Progetti: impossibile condividere i progetti a causa dell’errore “accedi per eliminare”](known-issues-workfront/wf-projects-sharing-access-error.md)
+      + [Bozze: impossibile creare la bozza per i documenti collegati da AEM tramite Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md)
       + [Bacheche: errore durante lo spostamento delle schede o l’assegnazione di utenti](known-issues-workfront/wf-boards-error-moving-cards.md)
       + [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md)
       + [Rapporti: impossibile scorrere per visualizzare l’intero rapporto sul grafico](known-issues-workfront/wf-reports-unable-to-scroll.md)
