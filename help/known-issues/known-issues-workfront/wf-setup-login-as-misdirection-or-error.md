@@ -1,13 +1,13 @@
 ---
-title: "Configurazione: problemi durante la disconnessione come altro utente"
-description: Quando un amministratore effettua l’accesso come altro utente e tenta di disconnettersi, possono verificarsi dei problemi.
+title: 'Configurazione: problemi durante la disconnessione come un altro utente'
+description: Quando un amministratore è connesso come altro utente e tenta di disconnettersi, possono verificarsi problemi.
 hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 722f58b5-7fce-401d-8ae4-8c1522cfde6e
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 

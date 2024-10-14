@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5906'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -34,11 +34,11 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 **Schede connesse archiviate non sincronizzate**
 
-Per risolvere i problemi di prestazioni, le schede connesse archiviate non vengono più sincronizzate. Le modifiche apportate all’attività o al problema di Workfront non vengono riportate sulle schede archiviate. Se si ripristina una scheda, questa verrà sincronizzata di nuovo.
+Per risolvere i problemi di prestazioni, le schede connesse archiviate non vengono più sincronizzate. Le modifiche apportate all’attività o al problema di Workfront non vengono riportate sulle schede archiviate. Se una scheda viene ripristinata, questa verrà nuovamente sincronizzata.
 
 #### Moduli personalizzati
 
-**Errore di conversione dei tipi di visualizzazione nei moduli personalizzati**
+**Errore di conversione del tipo di visualizzazione nei moduli personalizzati**
 
 Nei moduli personalizzati, i campi RTF causano la visualizzazione del seguente errore:
 
@@ -61,7 +61,7 @@ Gli utenti con una licenza Collaboratore non ricevono le e-mail di notifica. Que
 
 **Impossibile aggiungere firme elettroniche quando si utilizza SSO per la bozza**
 
-Quando si utilizza l’SSO per accedere a Proof, gli utenti non possono impostare una bozza in modo da richiedere firme elettroniche.
+Quando si utilizza l’SSO per accedere alla bozza, gli utenti non possono impostare una bozza per richiedere firme elettroniche.
 
 +++
 

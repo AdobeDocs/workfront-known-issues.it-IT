@@ -4,7 +4,7 @@ description: Quando un utente tenta di visualizzare i dettagli di un’esecuzion
 hidefromtoc: true
 feature: Workfront Fusion
 source-git-commit: ac07686c60025fab3ab815a6321271cd401355f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
