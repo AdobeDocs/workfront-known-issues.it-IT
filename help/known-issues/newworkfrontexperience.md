@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
 workflow-type: tm+mt
 source-wordcount: '1028'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Schede: opzioni di stato duplicate per attività e problemi](known-issues-workfront/wf-boards-duplicate-status-options.md) | giovedì 9 ottobre 2024 |
-| [Workfront Mobile: i collegamenti e-mail per la bozza non si apriranno su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | giovedì 9 ottobre 2024 |
+| [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | giovedì 9 ottobre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 19 settembre 2024 |
 | [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | venerdì 12 settembre 2024 |
 | [Schede: impossibile visualizzare in anteprima o scaricare documenti dalla scheda](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | venerdì 5 settembre 2024 |
@@ -72,8 +72,8 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Rapporti: errore durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-error-cache-content.md) | martedì 14 ottobre 2024 |
-| [Home: i campi personalizzati eliminati persistono nei widget per progetti, attività e problemi](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | mercoledì 8 ottobre 2024 |
-| [Priorità: i raggruppamenti impediscono l&#39;ordinamento e la modifica in linea](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | mercoledì 8 ottobre 2024 |
+| [Home: i campi personalizzati eliminati persistono nei widget di progetto, attività e problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | mercoledì 8 ottobre 2024 |
+| [Priorità: i raggruppamenti impediscono l’ordinamento e la modifica in linea](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | mercoledì 8 ottobre 2024 |
 | [Rapporti: impossibile scorrere per visualizzare l’intero rapporto sul grafico](known-issues-workfront/wf-reports-unable-to-scroll.md) | venerdì 19 settembre 2024 |
 | [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | giovedì 18 settembre 2024 |
 | [Moduli personalizzati: il campo calcolato mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | venerdì 12 settembre 2024 |
