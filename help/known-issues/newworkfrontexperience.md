@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
 workflow-type: tm+mt
-source-wordcount: '1071'
+source-wordcount: '1068'
 ht-degree: 95%
 
 ---
@@ -47,7 +47,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
 | [Progetti: il diagramma di Gantt non è accurato](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | mercoledì 22 ottobre 2024 |
-| [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercoledì 22 ottobre 2024 |
+| [Bozze: impossibile chiudere il visualizzatore di bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercoledì 22 ottobre 2024 |
 | [Progetti: impossibile aggiungere problemi al progetto completato](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | mercoledì 22 ottobre 2024 |
 | [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | mercoledì 22 ottobre 2024 |
 | [Moduli personalizzati: impossibile aggiornare i dati personalizzati nei progetti completati](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | mercoledì 22 ottobre 2024 |
