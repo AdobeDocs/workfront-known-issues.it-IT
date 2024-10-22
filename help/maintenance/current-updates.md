@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2044929db057509bea6200631336e53b76d4a1ff
+source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
 workflow-type: tm+mt
-source-wordcount: '6368'
-ht-degree: 97%
+source-wordcount: '6375'
+ht-degree: 96%
 
 ---
 
@@ -67,7 +67,7 @@ Quando un utente cerca di registrare l’ora su una scheda orario nello stato In
 
 Questo è il comportamento previsto e non deve essere considerato un problema.
 
-In precedenza, gli utenti potevano registrare l’ora sulle schede orario inviate o chiuse.
+In precedenza, gli utenti potevano registrare l’ora sulle schede orario inviate o chiuse tramite l’API Workfront o Workfront Fusion.
 
 +++
 
