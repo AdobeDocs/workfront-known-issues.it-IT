@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: avviare l&#39;impostazione &quot;Da ora in poi&quot; per l&#39;elaborazione di tutti i dati](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | martedì 14 ottobre 2024 |
+| [Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati di tutti i dati ](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | martedì 14 ottobre 2024 |
 | [Bozze: impossibile creare la bozza per i documenti collegati da AEM tramite Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | venerdì 3 ottobre 2024 |
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | martedì 5 agosto 2024 |
 

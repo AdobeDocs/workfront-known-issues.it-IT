@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6157'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 #### Bacheche
 
-**Errore durante lo spostamento delle schede o l&#39;assegnazione di utenti**
+**Errore durante lo spostamento di schede o l’assegnazione di utenti**
 
 A volte, durante lo spostamento delle schede o l’assegnazione degli utenti, l’azione non viene eseguita e genera l’errore “Risposta non riuscita: ricevuto il codice di stato 502” dopo un ritardo.
 
@@ -40,23 +40,23 @@ A volte, durante lo spostamento delle schede o l’assegnazione degli utenti, l�
 
 Quando un utente cerca di caricare una bacheca, questa non viene caricata e l’utente visualizza il seguente messaggio:
 
-&quot;Errore durante il caricamento della bacheca&quot;
+“Errore durante il caricamento della bacheca”
 
-&quot;Si è verificato un errore durante il caricamento di questa bacheca. Aggiorna la pagina e riprova; se il problema persiste, contatta il supporto con l’ID errore seguente.&quot;
+“Si è verificato un errore durante il caricamento di questa bacheca. Aggiorna la pagina e riprova; se il problema persiste, contatta il supporto specificando il seguente ID errore.”
 
 #### Pagina Home
 
-**&quot;Contrassegna come completato&quot; chiude il riquadro di riepilogo per il widget Problemi personali**
+**“Contrassegna come completato” chiude il riquadro di riepilogo per il widget I miei problemi**
 
 Quando si tenta di utilizzare il pulsante “Contrassegna come completato” nel riquadro di riepilogo di un problema aperto tramite il widget I miei problemi, il riquadro di riepilogo si chiude in modo imprevisto.
 
-**Impossibile aggiungere la colonna** nelle impostazioni del widget del modello di layout
+**Impossibile aggiungere una colonna nelle impostazioni del widget Modello di layout**
 
 Quando si seleziona un campo da aggiungere a un widget tramite le impostazioni del widget Modello di layout, è possibile selezionare un campo ma la colonna corrispondente non viene visualizzata nel widget.
 
 #### Attività
 
-**Problemi con il ricalcolo della sequenza temporale**
+**Problemi relativi al ricalcolo della timeline**
 
 I seguenti problemi sono stati segnalati in relazione al ricalcolo della timeline:
 
@@ -65,7 +65,7 @@ I seguenti problemi sono stati segnalati in relazione al ricalcolo della timelin
 
 **Spese attività non visualizzate**
 
-Dopo aver aggiunto una spesa a un&#39;attività, la spesa non viene visualizzata nelle informazioni sull&#39;attività nonostante la conferma API che è stata immessa.
+Dopo aver aggiunto una spesa a un’attività, la spesa non viene visualizzata nelle informazioni sull’attività nonostante la conferma API della sua immessione.
 
 +++
 
