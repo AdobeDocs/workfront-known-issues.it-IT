@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: ht
-source-wordcount: '1028'
+source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+workflow-type: tm+mt
+source-wordcount: '1010'
 ht-degree: 100%
 
 ---
@@ -25,11 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Schede: opzioni di stato duplicate per attività e problemi](known-issues-workfront/wf-boards-duplicate-status-options.md) | giovedì 9 ottobre 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | giovedì 9 ottobre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 19 settembre 2024 |
 | [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | venerdì 12 settembre 2024 |
-| [Schede: impossibile visualizzare in anteprima o scaricare documenti dalla scheda](known-issues-workfront/wf-boards-cannot-preview-or-download-document.md) | venerdì 5 settembre 2024 |
 | [Bacheche: lo stato della scheda non corrisponde all’oggetto connesso e ignora il filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | mercoledì 3 settembre 2024 |
 | [Bacheche: la scheda connessa si trova in una colonna errata](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | giovedì 28 agosto 2024 |
 | [Workfront: non si riesce a utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martedì 26 agosto 2024 |

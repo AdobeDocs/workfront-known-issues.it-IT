@@ -4,14 +4,18 @@ description: Non è possibile visualizzare in anteprima o scaricare documenti di
 hidefromtoc: true
 feature: Agile
 exl-id: 2fd644b6-b7c0-47b1-9de5-93fc35069b63
-source-git-commit: dfb51d03698d0bdbc08ab202bec5f8df133f3c55
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 # Bacheche: impossibile visualizzare in anteprima o scaricare documenti dalla scheda
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 17 ottobre 2024.
 
 Non è possibile visualizzare in anteprima o scaricare documenti di Word (.docx) dalla sezione documenti della visualizzazione completa di una scheda.
 
