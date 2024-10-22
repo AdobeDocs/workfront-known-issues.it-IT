@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8e095890454b39f046eb8ea2ee9505bdf25c8237
-workflow-type: ht
-source-wordcount: '6157'
-ht-degree: 100%
+source-git-commit: c97902d01cc405c209eda11c53eb8b55ec5f9a6c
+workflow-type: tm+mt
+source-wordcount: '6368'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,51 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 ## Aggiornamenti di ottobre 2024
+
++++**(Pianificato) Aggiornamento di manutenzione del venerdì 24 ottobre 2024**
+
+### (Pianificato) Aggiornamento di manutenzione del venerdì 24 ottobre 2024
+
+#### Moduli personalizzati
+
+**Impossibile aggiornare i dati personalizzati nei progetti completati**
+
+Quando un utente cerca di aggiornare i dati personalizzati in un progetto completato, non può aggiornare i dati e visualizza il seguente messaggio:
+
+&quot;Impossibile completare l&#39;operazione per un progetto con stato Completato.&quot;
+
+#### Progetti
+
+**Impossibile aggiungere problemi al progetto completato**
+
+Quando un utente tenta di aggiungere un problema a un progetto che si trova nello stato Complete (Completato), l’operazione ha esito negativo. Ciò può verificarsi anche se l’opzione &quot;Aggiungi e modifica problemi&quot; è abilitata
+
+**Il grafico di Gantt non è accurato**
+
+Quando un utente visualizza il Grafico di Gantt e cambia visualizzazione, il Grafico di Gantt non mostra dati precisi o potrebbe non mostrare alcun dato.
+
++++
+
+
++++**Aggiornamento di manutenzione del venerdì 17 ottobre 2024**
+
+### Aggiornamento di manutenzione del venerdì 17 ottobre 2024
+
+#### Bozze
+
+**Le bozze mostrano una data imprecisa**
+
+Le date elencate nell&#39;elenco dei documenti indicano la data di creazione della prima versione del documento, anziché la data di creazione della versione più recente.
+
+### Schede orario
+
+Quando un utente cerca di registrare l’ora su una scheda orario nello stato Inviato o Chiuso, non può registrare l’ora.
+
+Questo è il comportamento previsto e non deve essere considerato un problema.
+
+In precedenza, gli utenti potevano registrare l’ora sulle schede orario inviate o chiuse.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 10 ottobre 2024**
 
