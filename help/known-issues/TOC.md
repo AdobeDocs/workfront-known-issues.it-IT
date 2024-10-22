@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0ab00df7f9b96ce840139a852345c3f9fff0ebe8
-workflow-type: ht
-source-wordcount: '1898'
-ht-degree: 100%
+source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+workflow-type: tm+mt
+source-wordcount: '1944'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Progetti: il diagramma di Gantt non è accurato](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [Progetti: impossibile aggiungere problemi a un progetto completato](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
+      + [Moduli personalizzati: impossibile aggiornare i dati personalizzati nei progetti completati](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
+      + [Home: è possibile accedere all’area Priorità quando è stata disabilitata](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [Home: il widget Le mie approvazioni non funziona](known-issues-workfront/wf-home-my-approval-not-working.md)
+      + [Bozze: impossibile creare le bozze nell’ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Documenti: impossibile spostare i documenti dall’oggetto scheda Documenti](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [Bacheche: opzioni di stato duplicate per attività e problemi](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Home: i campi personalizzati eliminati persistono nei widget di progetto, attività e problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
