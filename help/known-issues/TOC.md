@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: cfdbb6026edc39df8c89a100d6e6366216fd9bf7
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1944'
-ht-degree: 97%
+source-wordcount: '1958'
+ht-degree: 96%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Report: opzione Mostra filtro/Nascondi filtro mancante](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [Home: la percentuale di completamento è tagliata](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
       + [Progetti: il diagramma di Gantt non è accurato](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [Progetti: impossibile aggiungere problemi a un progetto completato](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [Moduli personalizzati: impossibile aggiornare i dati personalizzati nei progetti completati](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)

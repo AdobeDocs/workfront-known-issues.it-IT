@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2f464b30a14ac8e8b8ce862e818c4d30c7cdf66f
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '6375'
+source-wordcount: '6442'
 ht-degree: 96%
 
 ---
@@ -26,9 +26,15 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 ## Aggiornamenti di ottobre 2024
 
-+++**(Pianificato) Aggiornamento di manutenzione del venerdì 24 ottobre 2024**
++++**Aggiornamento di manutenzione del venerdì 24 ottobre 2024**
 
-### (Pianificato) Aggiornamento di manutenzione del venerdì 24 ottobre 2024
+### Aggiornamento di manutenzione del venerdì 24 ottobre 2024
+
+#### Assegnazioni
+
+**L&#39;icona dell&#39;indisponibilità non viene visualizzata durante l&#39;assegnazione delle attività**
+
+quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario che ha un’indisponibilità programmata durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona viene visualizzata.
 
 #### Moduli personalizzati
 

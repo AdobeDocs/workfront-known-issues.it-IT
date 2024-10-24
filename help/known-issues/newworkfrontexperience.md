@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f40e0fdd778b01e2fea1c5369bfbf979009cd839
+source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
 workflow-type: tm+mt
-source-wordcount: '1068'
-ht-degree: 95%
+source-wordcount: '1053'
+ht-degree: 96%
 
 ---
 
@@ -25,13 +25,14 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporti: opzione Mostra filtro/Nascondi filtro mancante](known-issues-workfront/wf-reports-show-filter-missing.md) | venerdì 24 ottobre 2024 |
+| [Home: la percentuale di completamento è tagliata](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | venerdì 24 ottobre 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | giovedì 9 ottobre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 19 settembre 2024 |
 | [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | venerdì 12 settembre 2024 |
 | [Bacheche: lo stato della scheda non corrisponde all’oggetto connesso e ignora il filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | mercoledì 3 settembre 2024 |
 | [Bacheche: la scheda connessa si trova in una colonna errata](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | giovedì 28 agosto 2024 |
 | [Workfront: non si riesce a utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | martedì 26 agosto 2024 |
-| [Assegnazioni: l’icona indisponibilità non viene visualizzata durante l’assegnazione delle attività](known-issues-workfront/wf-assignments-time-off-icon-does-not-appear.md) | martedì 26 agosto 2024 |
 | [Home: “Nessun accesso” viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 15 agosto 2024 |
 | [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | giovedì 14 agosto 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | mercoledì 25 giugno 2024 |
@@ -46,11 +47,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
-| [Progetti: il diagramma di Gantt non è accurato](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md) | mercoledì 22 ottobre 2024 |
+| [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | venerdì 24 ottobre 2024 |
 | [Bozze: impossibile chiudere il visualizzatore di bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercoledì 22 ottobre 2024 |
-| [Progetti: impossibile aggiungere problemi al progetto completato](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md) | mercoledì 22 ottobre 2024 |
 | [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | mercoledì 22 ottobre 2024 |
-| [Moduli personalizzati: impossibile aggiornare i dati personalizzati nei progetti completati](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md) | mercoledì 22 ottobre 2024 |
 | [Home: è possibile accedere all&#39;area delle priorità quando è stata disabilitata](known-issues-workfront/wf-home-priorities-accessible.md) | mercoledì 22 ottobre 2024 |
 | [Home: il widget Approvazioni personali non funziona](known-issues-workfront/wf-home-my-approval-not-working.md) | mercoledì 22 ottobre 2024 |
 | [Bozze: impossibile creare bozze nell&#39;ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | mercoledì 22 ottobre 2024 |
