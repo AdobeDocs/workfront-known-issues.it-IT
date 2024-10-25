@@ -4,7 +4,7 @@ description: Quando viene aggiornato lo stato di un’attività o di un problema
 hidefromtoc: true
 feature: Agile
 source-git-commit: e33394c2aede0544d104c2b115b9ca302dcdb465
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 
