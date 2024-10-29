@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
+source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
-source-wordcount: '1053'
-ht-degree: 96%
+source-wordcount: '1030'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Rapporti: opzione Mostra filtro/Nascondi filtro mancante](known-issues-workfront/wf-reports-show-filter-missing.md) | venerdì 24 ottobre 2024 |
 | [Home: la percentuale di completamento è tagliata](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | venerdì 24 ottobre 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | giovedì 9 ottobre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 19 settembre 2024 |
@@ -50,7 +49,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | venerdì 24 ottobre 2024 |
 | [Bozze: impossibile chiudere il visualizzatore di bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercoledì 22 ottobre 2024 |
 | [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | mercoledì 22 ottobre 2024 |
-| [Home: è possibile accedere all&#39;area delle priorità quando è stata disabilitata](known-issues-workfront/wf-home-priorities-accessible.md) | mercoledì 22 ottobre 2024 |
 | [Home: il widget Approvazioni personali non funziona](known-issues-workfront/wf-home-my-approval-not-working.md) | mercoledì 22 ottobre 2024 |
 | [Bozze: impossibile creare bozze nell&#39;ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | mercoledì 22 ottobre 2024 |
 | [Progetti: impossibile condividere i progetti a causa dell’errore “Accedi per eliminare”](known-issues-workfront/wf-projects-sharing-access-error.md) | venerdì 3 ottobre 2024 |
@@ -61,7 +59,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Moduli personalizzati: per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md) | venerdì 22 agosto 2024 |
 | [Configurazione: problemi durante la disconnessione come altro utente](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | venerdì 15 agosto 2024 |
 | [Notifiche: errore durante l’impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md) | venerdì 8 agosto 2024 |
-| [Moduli personalizzati: il generatore di moduli si arresta in modo anomali durante l’immissione della logica di visualizzazione](known-issues-workfront/wf-custom-forms-crash-when-inputting-logic.md) | 5 agosto 2024 |
 | [Livelli di accesso: livelli di accesso duplicati nell’area di configurazione](known-issues-workfront/wf-access-duplicate-level.md) | venerdì 25 luglio 2024 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 aprile 2024 |
 | [Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 4 aprile 2024 |
@@ -75,6 +72,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Notifiche: le e-mail di notifica del documento non consentono di visualizzare le anteprime delle immagini](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | mercoledì 29 ottobre 2024 |
 | [Rapporti: errore durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-error-cache-content.md) | martedì 14 ottobre 2024 |
 | [Home: i campi personalizzati eliminati persistono nei widget di progetto, attività e problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | mercoledì 8 ottobre 2024 |
 | [Priorità: i raggruppamenti impediscono l’ordinamento e la modifica in linea](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | mercoledì 8 ottobre 2024 |
