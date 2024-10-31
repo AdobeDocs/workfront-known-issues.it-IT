@@ -5,7 +5,7 @@ role: User
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '1967'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -18,14 +18,14 @@ ht-degree: 96%
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Notifiche: le e-mail di notifica del documento non consentono di visualizzare le anteprime delle immagini](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
-      + [Report: opzione Mostra filtro/Nascondi filtro mancante](known-issues-workfront/wf-reports-show-filter-missing.md)
+      + [Rapporti: l’opzione Mostra filtro/Nascondi filtro risulta mancante](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Home: la percentuale di completamento è tagliata](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
-      + [Progetti: il diagramma di Gantt non è accurato](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
+      + [Progetti: il grafico di Gantt non è preciso](known-issues-workfront/wf-projects-gantt-chart-not-accurate.md)
       + [Progetti: impossibile aggiungere problemi a un progetto completato](known-issues-workfront/wf-projects-cannot-add-issues-to-completed-project.md)
       + [Moduli personalizzati: impossibile aggiornare i dati personalizzati nei progetti completati](known-issues-workfront/wf-custom-forms-cannot-update-fields-in-completed-projects.md)
-      + [Home: è possibile accedere all’area Priorità quando è stata disabilitata](known-issues-workfront/wf-home-priorities-accessible.md)
+      + [Home: è possibile accedere all’area delle priorità quando è stata disabilitata](known-issues-workfront/wf-home-priorities-accessible.md)
       + [Home: il widget Le mie approvazioni non funziona](known-issues-workfront/wf-home-my-approval-not-working.md)
-      + [Bozze: impossibile creare le bozze nell’ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
+      + [Bozze: impossibile creare le bozze nell’ambiente di Anteprima](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Documenti: impossibile spostare i documenti dall’oggetto scheda Documenti](known-issues-workfront/wf-documents-cannot-move-from-object.md)
       + [Bacheche: opzioni di stato duplicate per attività e problemi](known-issues-workfront/wf-boards-duplicate-status-options.md)
       + [Home: i campi personalizzati eliminati persistono nei widget di progetto, attività e problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)

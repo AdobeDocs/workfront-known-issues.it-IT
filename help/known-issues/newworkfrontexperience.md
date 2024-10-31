@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
 workflow-type: tm+mt
 source-wordcount: '1030'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -49,8 +49,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | venerdì 24 ottobre 2024 |
 | [Bozze: impossibile chiudere il visualizzatore di bozze](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md) | mercoledì 22 ottobre 2024 |
 | [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | mercoledì 22 ottobre 2024 |
-| [Home: il widget Approvazioni personali non funziona](known-issues-workfront/wf-home-my-approval-not-working.md) | mercoledì 22 ottobre 2024 |
-| [Bozze: impossibile creare bozze nell&#39;ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | mercoledì 22 ottobre 2024 |
+| [Home: il widget Le mie approvazioni non funziona](known-issues-workfront/wf-home-my-approval-not-working.md) | mercoledì 22 ottobre 2024 |
+| [Bozze: impossibile creare le bozze nell’ambiente di Anteprima](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | mercoledì 22 ottobre 2024 |
 | [Progetti: impossibile condividere i progetti a causa dell’errore “Accedi per eliminare”](known-issues-workfront/wf-projects-sharing-access-error.md) | venerdì 3 ottobre 2024 |
 | [Bozze: impossibile creare la bozza per i documenti collegati da AEM tramite Fusion](known-issues-workfront/wf-proof-linked-aem-fusion-docs-dont-generate.md) | venerdì 3 ottobre 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercoledì 24 settembre 2024 |
