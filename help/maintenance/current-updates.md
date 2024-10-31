@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 37e53a6a9c0b4a138de94b0ecc05e9ca0de08338
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6442'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 #### Assegnazioni
 
-**L&#39;icona dell&#39;indisponibilità non viene visualizzata durante l&#39;assegnazione delle attività**
+**L’icona Indisponibilità non viene visualizzata durante l’assegnazione delle attività**
 
 quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario che ha un’indisponibilità programmata durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona viene visualizzata.
 
@@ -40,19 +40,19 @@ quando un utente assegna un’attività e inizia a digitare il nome dell’asseg
 
 **Impossibile aggiornare i dati personalizzati nei progetti completati**
 
-Quando un utente cerca di aggiornare i dati personalizzati in un progetto completato, non può aggiornare i dati e visualizza il seguente messaggio:
+Quando un utente tenta di aggiornare i dati personalizzati in un progetto completato, i dati non possono essere aggiornati e viene visualizzato il seguente messaggio:
 
-&quot;Impossibile completare l&#39;operazione per un progetto con stato Completato.&quot;
+“Impossibile completare l’operazione per un progetto con stato Completato.”
 
 #### Progetti
 
 **Impossibile aggiungere problemi al progetto completato**
 
-Quando un utente tenta di aggiungere un problema a un progetto che si trova nello stato Complete (Completato), l’operazione ha esito negativo. Ciò può verificarsi anche se l’opzione &quot;Aggiungi e modifica problemi&quot; è abilitata
+Quando un utente tenta di aggiungere un problema a un progetto con stato Completato, il problema non può essere aggiunto. Questo può verificarsi anche se l’opzione “Aggiungi e modifica problemi” è abilitata
 
-**Il grafico di Gantt non è accurato**
+**Il grafico di Gantt non è preciso**
 
-Quando un utente visualizza il Grafico di Gantt e cambia visualizzazione, il Grafico di Gantt non mostra dati precisi o potrebbe non mostrare alcun dato.
+Quando un utente visualizza il Grafico di Gantt e cambia vista, il Grafico di Gantt non mostra dati precisi o potrebbe non mostrare alcun dato.
 
 +++
 
@@ -65,15 +65,15 @@ Quando un utente visualizza il Grafico di Gantt e cambia visualizzazione, il Gra
 
 **Le bozze mostrano una data imprecisa**
 
-Le date elencate nell&#39;elenco dei documenti indicano la data di creazione della prima versione del documento, anziché la data di creazione della versione più recente.
+Le date elencate nell’elenco dei documenti mostrano la data di creazione della prima versione del documento, anziché la data di creazione della versione più recente.
 
 ### Schede orario
 
-Quando un utente cerca di registrare l’ora su una scheda orario nello stato Inviato o Chiuso, non può registrare l’ora.
+Quando un utente tenta di registrare l’ora su una scheda orario con lo stato Inviata o Chiusa, l’ora non può essere registrata.
 
 Questo è il comportamento previsto e non deve essere considerato un problema.
 
-In precedenza, gli utenti potevano registrare l’ora sulle schede orario inviate o chiuse tramite l’API Workfront o Workfront Fusion.
+In precedenza, gli utenti potevano registrare l’ora in schede orario inviate o chiuse tramite l’API Workfront o Workfront Fusion.
 
 +++
 
