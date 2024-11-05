@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
+source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
 workflow-type: tm+mt
-source-wordcount: '1030'
-ht-degree: 99%
+source-wordcount: '1071'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,10 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al riepilogo attività tramite il modello di layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | martedì 4 novembre 2024 |
+| [Home: il widget I miei aggiornamenti non funziona](known-issues-workfront/wf-home-my-updates-not-working.md) | martedì 4 novembre 2024 |
+| [Documenti: pulsante Opzioni di approvazione mancante nei documenti](known-issues-workfront/wf-documents-missing-approval-button.md) | martedì 4 novembre 2024 |
+| [Home: errori widget attività per attività nuove e completate](known-issues-workfront/wf-home-to-do-new-complete-error.md) | martedì 4 novembre 2024 |
 | [Home: la percentuale di completamento è tagliata](known-issues-workfront/wf-home-percent-complete-inaccurate.md) | venerdì 24 ottobre 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | giovedì 9 ottobre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 19 settembre 2024 |
