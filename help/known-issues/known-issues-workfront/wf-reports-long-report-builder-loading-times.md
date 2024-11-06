@@ -4,15 +4,15 @@ description: Il caricamento di Report Builder richiede molto tempo, in alcuni ca
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 
 # Rapporti: tempi di caricamento lunghi per i rapporti
 
-Il caricamento dei rapporti richiede molto tempo. Questo influisce sulla visualizzazione dei rapporti e sulla modifica e creazione di rapporti nel Report Builder.
+Il caricamento dei rapporti richiede molto tempo. Questo influisce sulla visualizzazione dei rapporti e sulla modifica e creazione di questi nel Report Builder.
 
 _Segnalato per la prima volta il giovedì 11 settembre 2024._
