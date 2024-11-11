@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6472'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -26,17 +26,17 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 ## Aggiornamenti di ottobre 2024
 
-+++**Aggiornamento di manutenzione del venerdì 31 ottobre 2024**
++++**Aggiornamento di manutenzione del 31 ottobre 2024**
 
-### Aggiornamento di manutenzione del venerdì 31 ottobre 2024
+### Aggiornamento di manutenzione del 31 ottobre 2024
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il Supporto Workfront ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 24 ottobre 2024**
++++**Aggiornamento di manutenzione del 24 ottobre 2024**
 
-### Aggiornamento di manutenzione del venerdì 24 ottobre 2024
+### Aggiornamento di manutenzione del 24 ottobre 2024
 
 #### Assegnazioni
 
@@ -64,9 +64,9 @@ Quando un utente visualizza il Grafico di Gantt e cambia vista, il Grafico di Ga
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 17 ottobre 2024**
++++**Aggiornamento di manutenzione del 17 ottobre 2024**
 
-### Aggiornamento di manutenzione del venerdì 17 ottobre 2024
+### Aggiornamento di manutenzione del 17 ottobre 2024
 
 #### Bozze
 
@@ -84,9 +84,9 @@ In precedenza, gli utenti potevano registrare l’ora in schede orario inviate o
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 10 ottobre 2024**
++++**Aggiornamento di manutenzione del 10 ottobre 2024**
 
-### Aggiornamento di manutenzione del venerdì 10 ottobre 2024
+### Aggiornamento di manutenzione del 10 ottobre 2024
 
 #### Bacheche
 
@@ -127,7 +127,7 @@ Dopo aver aggiunto una spesa a un’attività, la spesa non viene visualizzata n
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 3 ottobre 2024**
++++**Aggiornamento di manutenzione del 3 ottobre 2024**
 
 ### Aggiornamento di manutenzione del 3 ottobre 2024
 
@@ -168,9 +168,9 @@ Quando si utilizza l’SSO per accedere alla bozza, gli utenti non possono impos
 
 ## Aggiornamenti di settembre 2024
 
-+++**Aggiornamento di manutenzione del venerdì 26 settembre 2024**
++++**Aggiornamento di manutenzione del 26 settembre 2024**
 
-### Aggiornamento di manutenzione del venerdì 26 settembre 2024
+### Aggiornamento di manutenzione del 26 settembre 2024
 
 #### Agile
 
@@ -192,9 +192,9 @@ I rapporti con consegne pianificate non vengono consegnati come previsto. Posson
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 19 settembre 2024**
++++**Aggiornamento di manutenzione del 19 settembre 2024**
 
-### Aggiornamento di manutenzione del venerdì 19 settembre 2024
+### Aggiornamento di manutenzione del 19 settembre 2024
 
 #### Dashboard
 
@@ -204,9 +204,9 @@ Quando si fa clic sul pulsante Esporta per un report in un dashboard, la finestr
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 12 settembre 2024**
++++**Aggiornamento di manutenzione del 12 settembre 2024**
 
-### Aggiornamento di manutenzione del venerdì 12 settembre 2024
+### Aggiornamento di manutenzione del 12 settembre 2024
 
 #### Integrazioni
 
@@ -218,7 +218,7 @@ La richiesta viene creata e contiene una cartella per gli allegati e-mail, ma la
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 5 settembre 2024**
++++**Aggiornamento di manutenzione del 5 settembre 2024**
 
 ### Aggiornamento di manutenzione del 5 settembre 2024
 
@@ -242,9 +242,9 @@ Quando un utente tenta di riattivare un utente utilizzando l’opzione “Riatti
 
 ## Aggiornamenti di agosto 2024
 
-+++**Aggiornamento di manutenzione del venerdì 29 agosto 2024**
++++**Aggiornamento di manutenzione del 29 agosto 2024**
 
-### Aggiornamento di manutenzione dell’venerdì 29 agosto 2024
+### Aggiornamento di manutenzione dell’29 agosto 2024
 
 #### Moduli personalizzati
 
@@ -274,9 +274,9 @@ Questo risolvere il problema che si verifica quando un amministratore tenta di m
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 22 agosto 2024**
++++**Aggiornamento di manutenzione del 22 agosto 2024**
 
-### Aggiornamento di manutenzione dell’venerdì 22 agosto 2024
+### Aggiornamento di manutenzione dell’22 agosto 2024
 
 #### Report
 
@@ -286,9 +286,9 @@ Quando un utente visualizza l’area Moduli personalizzati > Campi della configu
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 15 agosto 2024**
++++**Aggiornamento di manutenzione del 15 agosto 2024**
 
-### Aggiornamento di manutenzione dell’venerdì 15 agosto 2024
+### Aggiornamento di manutenzione dell’15 agosto 2024
 
 #### Bacheche
 
@@ -327,7 +327,7 @@ I markup della bozza non sono allineati sulle stampe PDF ricevute tramite e-mail
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 8 agosto 2024**
++++**Aggiornamento di manutenzione del 8 agosto 2024**
 
 ### Aggiornamento di manutenzione dell’8 agosto 2024
 
@@ -351,7 +351,7 @@ Quando un amministratore effettua l’accesso come un altro utente, invece di vi
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 1 agosto 2024**
++++**Aggiornamento di manutenzione del 1 agosto 2024**
 
 ### Aggiornamento di manutenzione del 1° agosto 2024
 
@@ -378,9 +378,9 @@ Questi problemi sono dovuti a problemi con Dropbox, non con Workfront.
 
 ## Aggiornamenti di luglio 2024
 
-+++**Aggiornamento di manutenzione del venerdì 25 luglio 2024**
++++**Aggiornamento di manutenzione del 25 luglio 2024**
 
-### Aggiornamento di manutenzione del venerdì 25 luglio 2024
+### Aggiornamento di manutenzione del 25 luglio 2024
 
 #### Moduli personalizzati
 
@@ -400,9 +400,9 @@ Questo problema è stato segnalato in Gmail.
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 18 luglio 2024**
++++**Aggiornamento di manutenzione del 18 luglio 2024**
 
-### Aggiornamento di manutenzione del venerdì 18 luglio 2024
+### Aggiornamento di manutenzione del 18 luglio 2024
 
 #### Agile
 
@@ -441,7 +441,7 @@ Questo problema è stato segnalato nelle seguenti aree:
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 11 luglio 2024**
++++**Aggiornamento di manutenzione del 11 luglio 2024**
 
 ### Aggiornamento di manutenzione dell’11 luglio 2024
 
@@ -464,7 +464,7 @@ Quando un utente tenta di configurare le impostazioni della matrice in un report
 
 +++
 
-+++**Aggiornamento di manutenzione del venerdì 4 luglio 2024**
++++**Aggiornamento di manutenzione del 4 luglio 2024**
 
 ### Aggiornamento di manutenzione del 4 luglio 2024
 
@@ -491,9 +491,9 @@ Quando una mansione viene assegnata a un’attività e tale attività assegnata 
 
 ## Aggiornamenti di giugno 2024
 
-+++**Aggiornamento di manutenzione il venerdì 27 giugno 2024**
++++**Aggiornamento di manutenzione il 27 giugno 2024**
 
-### Aggiornamento di manutenzione il venerdì 27 giugno 2024
+### Aggiornamento di manutenzione il 27 giugno 2024
 
 #### Bacheche
 
@@ -517,9 +517,9 @@ Copiare il collegamento utilizzando un metodo diverso da “[!UICONTROL Copia in
 
 +++
 
-+++**Aggiornamento di manutenzione il venerdì 20 giugno 2024**
++++**Aggiornamento di manutenzione il 20 giugno 2024**
 
-### Aggiornamento di manutenzione il venerdì 20 giugno 2024
+### Aggiornamento di manutenzione il 20 giugno 2024
 
 #### Navigazione
 
@@ -538,9 +538,9 @@ Quando si visualizza una bozza nel visualizzatore di bozze e si tenta di chiuder
 
 +++
 
-+++**Aggiornamento di manutenzione il venerdì 13 giugno 2024**
++++**Aggiornamento di manutenzione il 13 giugno 2024**
 
-### **Aggiornamento di manutenzione il venerdì 13 giugno 2024**
+### **Aggiornamento di manutenzione il 13 giugno 2024**
 
 #### Gruppi
 

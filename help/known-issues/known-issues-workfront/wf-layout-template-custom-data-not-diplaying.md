@@ -1,17 +1,17 @@
 ---
-title: "Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al riepilogo delle attività tramite il modello di layout"
-description: Quando un amministratore aggiunge un campo dati personalizzato alla sezione Riepilogo attività tramite un modello di layout, il campo viene visualizzato come vuoto per gli utenti che visualizzano la sezione Riepilogo dell'attività.
+title: "Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al Riepilogo Attività tramite il modello layout"
+description: Quando un amministratore aggiunge un campo dati personalizzato alla sezione Riepilogo Attività tramite un modello layout, il campo viene visualizzato come vuoto per gli utenti che visualizzano la sezione Riepilogo Attività.
 hidefromtoc: true
 feature: System Setup and Administration
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al riepilogo attività tramite il modello di layout
+# Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al riepilogo Attività tramite il modello layout
 
-Quando un amministratore aggiunge un campo dati personalizzato alla sezione Riepilogo attività tramite un modello di layout, il campo viene visualizzato come vuoto per gli utenti che visualizzano la sezione Riepilogo dell&#39;attività.
+Quando un amministratore aggiunge un campo dati personalizzato alla sezione Riepilogo Attività tramite un modello layout, il campo viene visualizzato come vuoto per gli utenti che visualizzano la sezione Riepilogo Attività.
 
-_Segnalato per la prima volta il giovedì 2 ottobre 2024._
+_Segnalato per la prima volta il 2 ottobre 2024._

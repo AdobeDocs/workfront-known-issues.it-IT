@@ -3,9 +3,9 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2013'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al riepilogo attività tramite il modello di layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
+      + [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al riepilogo Attività tramite il modello layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Home: il widget I miei aggiornamenti non funziona](known-issues-workfront/wf-home-my-updates-not-working.md)
-      + [Documenti: pulsante Opzioni di approvazione mancante nei documenti](known-issues-workfront/wf-documents-missing-approval-button.md)
+      + [Documenti: il pulsante Opzioni di approvazione manca nei documenti](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [Home: errori del widget Attività per attività nuove e completate](known-issues-workfront/wf-home-to-do-new-complete-error.md)
-      + [Integrazioni: le integrazioni JumpSeat non riescono per le organizzazioni su Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
+      + [Integrazioni: le integrazioni JumpSeat non vengono completate per le organizzazioni su Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Notifiche: le e-mail di notifica del documento non consentono di visualizzare le anteprime delle immagini](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Rapporti: l’opzione Mostra filtro/Nascondi filtro risulta mancante](known-issues-workfront/wf-reports-show-filter-missing.md)
       + [Home: la percentuale di completamento è tagliata](known-issues-workfront/wf-home-percent-complete-inaccurate.md)
