@@ -1,17 +1,21 @@
 ---
-title: 'Home: il widget Le mie approvazioni non funziona'
-description: Quando un utente tenta di visualizzare il widget Le mie approvazioni nella home, il widget non viene visualizzato e l’utente visualizza un messaggio.
+title: "Home: il widget Le mie approvazioni non funziona"
+description: Quando un utente cerca di visualizzare il widget Le mie approvazioni nella home, il widget non viene visualizzato e l’utente visualizza un messaggio.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 6e06225c52775894d03605b0dbbf0182e43e53ed
-workflow-type: ht
-source-wordcount: '85'
-ht-degree: 100%
+exl-id: dcfa4c2a-da19-4e62-bcbe-e8f93a99eb0b
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 68%
 
 ---
 
-
 # Home: il widget Le mie approvazioni non funziona
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 24 ottobre 2024.
 
 Quando un utente cerca di visualizzare il widget Le mie approvazioni nella home, il widget non viene visualizzato e l’utente visualizza il seguente messaggio:
 

@@ -4,20 +4,19 @@ description: Quando si visualizza una bozza nel visualizzatore di bozze e si ten
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
-source-wordcount: '123'
-ht-degree: 100%
+source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 93%
 
 ---
 
 # Bozze: impossibile chiudere il visualizzatore bozza
 
-
 <!--
 >[!NOTE]
 >
->This issue was fixed on October 31, 2024.
+>This issue was fixed on October 24, 2024.
 -->
 
 Quando si visualizza una bozza nel visualizzatore di bozze e si tenta di chiuderla facendo clic sul pulsante X in alto a destra, la bozza non si chiude.
@@ -26,8 +25,8 @@ Quando si visualizza una bozza nel visualizzatore di bozze e si tenta di chiuder
 
 Prova a eseguire una delle operazioni seguenti:
 
-* Fai clic sul nome del documento nell’e-mail per passare al documento, quindi apri la bozza da lì. Questo consentirà al pulsante X di funzionare come previsto.
+* Accedere alla bozza tramite l&#39;elenco Documenti. Questo consentirà al pulsante X di funzionare come previsto.
 * Riprova a chiudere la bozza.
 * Per chiudere la bozza, chiudi la scheda del browser.
 
-_Segnalato per la prima volta il 31 maggio 2024._
+_Segnalato per la prima volta il mercoledì 5 novembre 2024._
