@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8b921bed9b740195decf545195baaa495c05c1e8
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '2120'
+source-wordcount: '2125'
 ht-degree: 94%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 94%
       + [Attività: la durata dei giorni trascorsi non è corretta per le attività padre con figli](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Rapporti: la modifica in blocco negli elenchi dei grafici non risponde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
       + [Workfront: impossibile caricare le schede del browser aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Rapporti: impossibile caricare i rapporti](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Pianificazione risorse: impossibile accedere alla Pianificazione risorse](known-issues-workfront/wf-resource-planner-inaccessible.md)
       + [Home: il widget Le mie attività non si carica](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al riepilogo Attività tramite il modello layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)

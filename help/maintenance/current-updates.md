@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
+source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
-source-wordcount: '6506'
-ht-degree: 99%
+source-wordcount: '6582'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,24 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 ## Aggiornamenti di novembre 2024
+
++++**Aggiornamento di manutenzione del venerdì 14 novembre 2024**
+
+### Aggiornamento di manutenzione del 14 novembre 2024
+
+#### Pagina Home
+
+**Errori di widget attività per attività nuove e completate**
+
+Quando tentano di creare una nuova attività o di completarne una esistente nel widget Attività della Home, gli utenti riscontrano un errore e non sono in grado di creare o completare l’attività.
+
+#### Utenti
+
+**casella di controllo &quot;Invia e-mail di invito a queste persone&quot; mancante**
+
+Quando si importano nuovi utenti in Workfront, la casella di controllo &quot;Send invite email to these people&quot; (Invia e-mail di invito a queste persone) non è presente nella finestra di dialogo.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 7 novembre 2024**
 
@@ -52,7 +70,7 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 **L’icona Indisponibilità non viene visualizzata durante l’assegnazione delle attività**
 
-quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario che ha un’indisponibilità programmata durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona viene visualizzata.
+Quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario per il quale è stata programmata un’indisponibilità durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona viene visualizzata.
 
 #### Moduli personalizzati
 
@@ -84,7 +102,7 @@ Quando un utente visualizza il Grafico di Gantt e cambia vista, il Grafico di Ga
 
 Le date elencate nell’elenco dei documenti mostrano la data di creazione della prima versione del documento, anziché la data di creazione della versione più recente.
 
-### Schede orario
+#### Schede orario
 
 Quando un utente tenta di registrare l’ora su una scheda orario con lo stato Inviata o Chiusa, l’ora non può essere registrata.
 
