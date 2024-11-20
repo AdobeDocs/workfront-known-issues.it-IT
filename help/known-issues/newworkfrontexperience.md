@@ -4,10 +4,10 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
 workflow-type: tm+mt
-source-wordcount: '1126'
-ht-degree: 100%
+source-wordcount: '1134'
+ht-degree: 99%
 
 ---
 
@@ -79,6 +79,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Workfront: le impostazioni ZScalar possono causare una riduzione delle prestazioni](known-issues-workfront//wf-workfront-zscalar.md) | giovedì 20 novembre 2024 |
 | [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md) | mercoledì 12 novembre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | mercoledì 12 novembre 2024 |
 | [Notifiche: le e-mail di notifica del documento non consentono di visualizzare le anteprime delle immagini](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md) | mercoledì 29 ottobre 2024 |
