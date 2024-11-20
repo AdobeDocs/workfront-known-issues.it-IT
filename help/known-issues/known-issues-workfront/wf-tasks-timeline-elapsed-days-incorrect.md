@@ -1,17 +1,17 @@
 ---
-title: "Attività: la durata dei giorni trascorsi non è corretta per le attività padre con figli"
-description: "Quando un'attività padre include attività figlio incluse in un calcolo dei giorni trascorsi, i giorni trascorsi per l'attività padre non sono correttamente inferiori ai giorni trascorsi combinati delle attività figlio."
+title: 'Attività: la durata di Giorni trascorsi non è corretta per le attività principali che contengono attività secondarie'
+description: Quando un’attività principale contiene attività secondarie incluse in un calcolo dei giorni trascorsi, i giorni trascorsi per l’attività principale risultano erroneamente inferiori a quelli combinati delle attività secondarie.
 hidefromtoc: true
 feature: Tasks
 source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Attività: la durata dei giorni trascorsi non è corretta per le attività padre con figli
+# Attività: la durata dei Giorni trascorsi non è corretta per le attività principali che contengono attività secondarie
 
-Quando un&#39;attività padre include attività figlio incluse in un calcolo dei giorni trascorsi, i giorni trascorsi per l&#39;attività padre non sono correttamente inferiori ai giorni trascorsi combinati delle attività figlio.
+Quando un’attività principale contiene attività secondarie incluse in un calcolo dei giorni trascorsi, i giorni trascorsi per l’attività principale risultano erroneamente inferiori ai quelli combinati delle attività secondarie.
 
 _Segnalato per la prima volta il mercoledì 22 ottobre 2024._

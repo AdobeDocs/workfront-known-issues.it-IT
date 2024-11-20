@@ -1,13 +1,13 @@
 ---
-title: "Rapporti: tempi di caricamento lunghi del generatore di rapporti"
+title: 'Rapporti: tempi di caricamento lunghi di Report Builder'
 description: Il caricamento di Report Builder richiede molto tempo, in alcuni casi fino a un minuto.
 hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: ca850f76-8cdb-47ac-8687-4a3c57deb1dd
 source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
