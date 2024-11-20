@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '1126'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -25,17 +25,17 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Schede orario: gli utenti collaboratori dispongono di un pulsante &quot;Invia per approvazione&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | giovedì 13 novembre 2024 |
+| [Schede orario: gli utenti collaboratori dispongono del pulsante “Invia per approvazione”](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md) | giovedì 13 novembre 2024 |
 | [Notifiche: le notifiche e-mail per gli aggiornamenti non vengono inviate](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | giovedì 13 novembre 2024 |
-| [Moduli personalizzati: impossibile aggiungere i campi attività &quot;estimateByHours&quot; o &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md) | giovedì 13 novembre 2024 |
-| [Documenti: l&#39;approvazione &quot;aggiunta rapida&quot; non include la voce di scadenza per le nuove versioni](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | giovedì 13 novembre 2024 |
-| [Modelli di layout: gli amministratori non possono modificare i modelli di layout Home](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | giovedì 13 novembre 2024 |
-| [Utenti: il tag &quot;Unregistered&quot; persiste dopo l&#39;accesso](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | giovedì 13 novembre 2024 |
-| [Workfront: gli utenti collaboratori non possono accedere a programmi o Portfoli](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | giovedì 13 novembre 2024 |
-| [Approvazioni: il filtro &quot;All&quot; esclude le approvazioni inviate personalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | giovedì 13 novembre 2024 |
-| [Attività: la durata dei giorni trascorsi non è corretta per le attività padre con figli](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | giovedì 13 novembre 2024 |
+| [Moduli personalizzati: impossibile aggiungere i campi attività “estimateByHours” o “hoursPerPoint”](known-issues-workfront/wf-custom-forms-invalid-fields.md) | giovedì 13 novembre 2024 |
+| [Documenti: l’approvazione “aggiunta rapida” non include l’inserimento della data di scadenza per le nuove versioni](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | giovedì 13 novembre 2024 |
+| [Modelli di layout: gli amministratori non possono modificare i modelli di layout della Home](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md) | giovedì 13 novembre 2024 |
+| [Utenti: il tag “Non registrato” persiste dopo l’accesso](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | giovedì 13 novembre 2024 |
+| [Workfront: gli utenti collaboratori non possono accedere a Programmi o Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | giovedì 13 novembre 2024 |
+| [Approvazioni: il filtro “Tutto” esclude le approvazioni inviate personalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | giovedì 13 novembre 2024 |
+| [Attività: la durata di Giorni trascorsi non è corretta per le attività principali che contengono attività secondarie](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | giovedì 13 novembre 2024 |
 | [Rapporti: la modifica in blocco negli elenchi dei grafici non risponde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | giovedì 13 novembre 2024 |
-| [Workfront: impossibile caricare le schede del browser aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | mercoledì 12 novembre 2024 |
+| [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | mercoledì 12 novembre 2024 |
 | [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al Riassunto Attività tramite il modello layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 novembre 2024 |
 | [Home: il widget I miei aggiornamenti non funziona](known-issues-workfront/wf-home-my-updates-not-working.md) | 4 novembre 2024 |
 | [Documenti: il pulsante delle opzioni di approvazione non è presente nei documenti](known-issues-workfront/wf-documents-missing-approval-button.md) | 4 novembre 2024 |

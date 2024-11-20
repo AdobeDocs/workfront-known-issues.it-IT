@@ -28,7 +28,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 +++**Aggiornamento di manutenzione del venerdì 14 novembre 2024**
 
-### Aggiornamento di manutenzione del 14 novembre 2024
+### Aggiornamento di manutenzione del venerdì 14 novembre 2024
 
 #### Pagina Home
 

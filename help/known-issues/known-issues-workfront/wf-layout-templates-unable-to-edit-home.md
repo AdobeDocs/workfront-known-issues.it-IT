@@ -1,18 +1,19 @@
 ---
-title: "Modelli di layout: gli amministratori non possono modificare i modelli di layout Home"
-description: Quando un amministratore tenta di modificare un modello di layout Home per un utente, l’interfaccia non risponde e le modifiche non possono essere salvate.
+title: 'Modelli di layout: gli amministratori non possono modificare i modelli di layout della Home'
+description: Quando un amministratore tenta di modificare un modello di layout della Home per un utente, l’interfaccia non risponde e le modifiche non possono essere salvate.
 hidefromtoc: true
 feature: System Setup and Administration
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+exl-id: c044ba60-b69d-454d-934e-aeb104b91e4d
+source-git-commit: 894de7cfbd8798d700cd7707edae4a3e86902bec
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 6%
+ht-degree: 88%
 
 ---
 
-# Modelli di layout: gli amministratori non possono modificare i modelli di layout Home
+# Modelli di layout: gli amministratori non possono modificare i modelli di layout della Home
 
-Quando un amministratore tenta di modificare un modello di layout Home per un utente, l’interfaccia non risponde e le modifiche non possono essere salvate.
+Quando un amministratore tenta di modificare un modello di layout della Home per un utente, l’interfaccia non risponde e le modifiche non possono essere salvate.
 
 **Soluzione alternativa**
 

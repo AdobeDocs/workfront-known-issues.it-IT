@@ -7,7 +7,7 @@ exl-id: b35d21a3-6d8b-48af-87fc-e0f63cf0194c
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Quando si visualizza una bozza nel visualizzatore di bozze e si tenta di chiuder
 
 Prova a eseguire una delle operazioni seguenti:
 
-* Accedere alla bozza tramite l&#39;elenco Documenti. Questo consentirà al pulsante X di funzionare come previsto.
+* Accedi alla bozza tramite l’elenco Documenti. Questo consentirà al pulsante X di funzionare come previsto.
 * Riprova a chiudere la bozza.
 * Per chiudere la bozza, chiudi la scheda del browser.
 

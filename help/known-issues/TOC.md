@@ -5,7 +5,7 @@ role: User
 source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
 workflow-type: tm+mt
 source-wordcount: '2125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,20 +17,20 @@ ht-degree: 94%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Schede orario: gli utenti collaboratori dispongono di un pulsante &quot;Invia per approvazione&quot;](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
-      + [Notifiche: notifiche e-mail per aggiornamenti non inviati](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
-      + [Moduli personalizzati: impossibile aggiungere i campi attività &quot;estimateByHours&quot; o &quot;hoursPerPoint&quot;](known-issues-workfront/wf-custom-forms-invalid-fields.md)
-      + [Documenti: l’approvazione &quot;aggiunta rapida&quot; non include la data di scadenza per le nuove versioni](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
-      + [Modelli di layout: gli amministratori non possono modificare i modelli di layout Home](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
-      + [Utenti: il tag &quot;Unregistered&quot; (Non registrato) persiste dopo l’accesso](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
-      + [Workfront: gli utenti collaboratori non possono accedere a programmi o Portfoli](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
-      + [Approvazioni: il filtro &quot;All&quot; (Tutti) esclude le approvazioni inviate personalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
-      + [Attività: la durata dei giorni trascorsi non è corretta per le attività padre con figli](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
+      + [Schede orario: gli utenti collaboratori dispongono del pulsante “Invia per approvazione”](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
+      + [Notifiche: le notifiche e-mail per gli aggiornamenti non vengono inviate](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
+      + [Moduli personalizzati: impossibile aggiungere i campi attività “estimateByHours” o “hoursPerPoint”](known-issues-workfront/wf-custom-forms-invalid-fields.md)
+      + [Documenti: l’approvazione “aggiunta rapida” non include l’inserimento della data di scadenza per le nuove versioni](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md)
+      + [Modelli di layout: gli amministratori non possono modificare i modelli di layout della Home](known-issues-workfront/wf-layout-templates-unable-to-edit-home.md)
+      + [Utenti: il tag “Non registrato” persiste dopo l’accesso](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md)
+      + [Workfront: gli utenti collaboratori non possono accedere a Programmi o Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
+      + [Approvazioni: il filtro “Tutto” esclude le approvazioni inviate personalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
+      + [Attività: la durata dei Giorni trascorsi non è corretta per le attività principali che contengono attività secondarie](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
       + [Rapporti: la modifica in blocco negli elenchi dei grafici non risponde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md)
-      + [Workfront: impossibile caricare le schede del browser aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md)
+      + [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [Rapporti: impossibile caricare i rapporti](known-issues-workfront/wf-reports-fail-to-load.md)
       + [Pianificazione risorse: impossibile accedere alla Pianificazione risorse](known-issues-workfront/wf-resource-planner-inaccessible.md)
-      + [Home: il widget Le mie attività non si carica](known-issues-workfront/wf-home-task-widget-wont-load.md)
+      + [Home: impossibile caricare il widget Le mie attività](known-issues-workfront/wf-home-task-widget-wont-load.md)
       + [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al riepilogo Attività tramite il modello layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Home: il widget I miei aggiornamenti non funziona](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [Documenti: il pulsante Opzioni di approvazione manca nei documenti](known-issues-workfront/wf-documents-missing-approval-button.md)
