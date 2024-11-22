@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 877d4ffe0a345655506414f880b8f1197d866245
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '6582'
-ht-degree: 98%
+source-wordcount: '6739'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,38 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 ## Aggiornamenti di novembre 2024
+
++++**Aggiornamento di manutenzione del venerdì 21 novembre 2024**
+
+### Aggiornamento di manutenzione del venerdì 21 novembre 2024
+
+#### Dashboard
+
+**Impossibile interagire con le barre del report del grafico a barre nei dashboard**
+
+Quando si tenta di fare clic o passare il puntatore del mouse su una barra in un rapporto di grafico a barre all’interno di un dashboard, il menu dei dettagli non si apre o non viene visualizzata alcuna descrizione comando, rispettivamente.
+
+#### Progetti
+
+**Impossibile caricare i progetti**
+
+Quando si passa a un progetto, a volte la pagina non riesce a caricare alcun contenuto.
+
+#### Report
+
+**La modifica in blocco negli elenchi dei grafici non risponde**
+
+Quando un utente visualizza un grafico in un rapporto e seleziona più elementi nell’elenco per la modifica in blocco, il cursore scompare e le caselle di testo per la modifica in blocco non rispondono.
+
+**I pulsanti Modifica ed Elimina non rispondono nei report delle schede orario**
+
+Quando si tenta di fare clic sulle icone Modifica o Elimina in un rapporto Scheda orario, non viene visualizzata alcuna risposta.
+
+**Impossibile caricare i report contenenti campi typeahead**
+
+All’apertura di un rapporto che contiene campi di completamento automatico personalizzati, a volte il rapporto non viene caricato e viene visualizzato un messaggio di errore.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 14 novembre 2024**
 

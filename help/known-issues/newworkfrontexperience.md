@@ -4,9 +4,9 @@ description: Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 77345937934851b8ebfdf257f44e25133eade971
+source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
-source-wordcount: '1134'
+source-wordcount: '1109'
 ht-degree: 99%
 
 ---
@@ -34,11 +34,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Workfront: gli utenti collaboratori non possono accedere a Programmi o Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | giovedì 13 novembre 2024 |
 | [Approvazioni: il filtro “Tutto” esclude le approvazioni inviate personalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md) | giovedì 13 novembre 2024 |
 | [Attività: la durata di Giorni trascorsi non è corretta per le attività principali che contengono attività secondarie](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md) | giovedì 13 novembre 2024 |
-| [Rapporti: la modifica in blocco negli elenchi dei grafici non risponde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | giovedì 13 novembre 2024 |
 | [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | mercoledì 12 novembre 2024 |
 | [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al Riassunto Attività tramite il modello layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 novembre 2024 |
-| [Home: il widget I miei aggiornamenti non funziona](known-issues-workfront/wf-home-my-updates-not-working.md) | 4 novembre 2024 |
-| [Documenti: il pulsante delle opzioni di approvazione non è presente nei documenti](known-issues-workfront/wf-documents-missing-approval-button.md) | 4 novembre 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 ottobre 2024 |
 | [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 settembre 2024 |
 | [Bacheche: lo stato della scheda non corrisponde all’oggetto connesso e ignora il filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 settembre 2024 |
@@ -58,8 +55,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 |----------------------------------| ----------------- |
+| [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 21 novembre 2024 |
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | 24 ottobre 2024 |
-| [Bozze: impossibile creare le bozze nell’ambiente di Anteprima](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md) | 22 ottobre 2024 |
 | [Progetti: impossibile condividere i progetti a causa dell’errore “Accedi per eliminare”](known-issues-workfront/wf-projects-sharing-access-error.md) | venerdì 3 ottobre 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercoledì 24 settembre 2024 |
 | [Gruppi: lo stato del gruppo eliminato viene visualizzato nuovamente](known-issues-workfront/wf-groups-deleted-status-reappears.md) | venerdì 12 settembre 2024 |
