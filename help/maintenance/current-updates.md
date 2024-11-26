@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
 workflow-type: tm+mt
 source-wordcount: '6739'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -64,15 +64,15 @@ All’apertura di un rapporto che contiene campi di completamento automatico per
 
 #### Pagina Home
 
-**Errori di widget attività per attività nuove e completate**
+**Errori del widget Attività per attività nuove e completate**
 
 Quando tentano di creare una nuova attività o di completarne una esistente nel widget Attività della Home, gli utenti riscontrano un errore e non sono in grado di creare o completare l’attività.
 
 #### Utenti
 
-**casella di controllo &quot;Invia e-mail di invito a queste persone&quot; mancante**
+**Casella di controllo “Invia e-mail di invito a queste persone” mancante**
 
-Quando si importano nuovi utenti in Workfront, la casella di controllo &quot;Send invite email to these people&quot; (Invia e-mail di invito a queste persone) non è presente nella finestra di dialogo.
+Quando vengono importati nuovi utenti in Workfront, la casella di controllo “Invia e-mail di invito a queste persone” non è presente nella finestra di dialogo.
 
 +++
 
@@ -102,7 +102,7 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 **L’icona Indisponibilità non viene visualizzata durante l’assegnazione delle attività**
 
-Quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario per il quale è stata programmata un’indisponibilità durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona viene visualizzata.
+Quando un utente assegna un’attività e inizia a digitare il nome dell’assegnatario che ha un’indisponibilità programmata durante l’attività, le icone utente nella sezione Assegnazioni suggerite non visualizzano l’icona dell’indisponibilità (aereo). Se l’utente continua a digitare in modo che il nome venga visualizzato nell’area Utenti e team, l’icona viene visualizzata.
 
 #### Moduli personalizzati
 
