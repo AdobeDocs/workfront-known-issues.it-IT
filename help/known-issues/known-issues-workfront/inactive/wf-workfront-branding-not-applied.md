@@ -1,5 +1,5 @@
 ---
-title: '“Workfront: il branding non viene applicato”'
+title: 'Workfront: il branding non viene applicato'
 description: Quando un utente carica i file nell’area Branding della configurazione, i file vengono visualizzati come caricati correttamente. Tuttavia, se un utente visualizza il Menu principale, il logo non viene mostrato. Invece, viene visualizzato un messaggio di errore.
 hidefromtoc: true
 feature: System Setup and Administration
@@ -7,7 +7,7 @@ exl-id: 0c7e5ebf-c09a-45fd-a017-c1607cef8b78
 source-git-commit: e21428ea574bbe10779cf2a348e01917af0a2640
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 

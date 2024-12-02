@@ -1,11 +1,11 @@
 ---
-title: '“Utenti: non si riesce a riattivare un utente”'
+title: 'Utenti: non si riesce a riattivare un utente'
 description: Quando si tenta di riattivare un utente utilizzando l’opzione “Riattiva utente” nel menu Altro, si può selezionare un livello di accesso, ma la modifica non viene salvata. Invece, l’utente visualizza un errore. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 771c1393-ed95-4556-b053-e3e91348f5ac
 source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 

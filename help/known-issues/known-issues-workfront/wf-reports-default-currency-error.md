@@ -1,5 +1,5 @@
 ---
-title: '“Rapporti: il rapporto non viene caricato quando la valuta predefinita è USD”'
+title: 'Rapporti: il rapporto non viene caricato quando la valuta predefinita è USD'
 description: Quando un utente cerca di visualizzare un rapporto la cui valuta predefinita è USD, il rapporto non viene caricato.
 hidefromtoc: true
 feature: Reports and Dashboards

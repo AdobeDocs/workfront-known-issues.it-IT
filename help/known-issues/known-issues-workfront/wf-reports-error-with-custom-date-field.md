@@ -1,5 +1,5 @@
 ---
-title: '“Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata”'
+title: 'Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata'
 description: Quando un utente sta visualizzando un rapporto e fa clic sui dettagli e il rapporto è raggruppato per un campo data personalizzato, i dettagli non vengono caricati e l’utente visualizza un errore.
 hidefromtoc: true
 feature: Reports and Dashboards

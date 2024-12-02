@@ -1,5 +1,5 @@
 ---
-title: "Problemi: errore durante l’assegnazione avanzata di un problema"
+title: 'Problemi: errore durante l’assegnazione avanzata di un problema'
 description: Quando un utente cerca di effettuare un’assegnazione avanzata a un problema in Workfront, il problema non viene assegnato e l’utente visualizza un messaggio di errore.
 hidefromtoc: true
 feature: Work Management
@@ -7,7 +7,7 @@ exl-id: d2064462-9e63-4eaf-bb01-4fa6b0f4205f
 source-git-commit: d88a785bb980ad4dcbb5ccb6b1b1bfb0cb61a161
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 

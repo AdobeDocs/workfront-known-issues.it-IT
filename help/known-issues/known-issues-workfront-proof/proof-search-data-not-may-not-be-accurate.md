@@ -1,5 +1,5 @@
 ---
-title: '“Workfront Proof: i dati di ricerca non sono sempre precisi”'
+title: 'Workfront Proof: i dati di ricerca non sono sempre precisi'
 description: I dati visualizzati nella pagina dei risultati all’interno della bozza non mostrano sempre le informazioni più aggiornate. È consigliabile creare una vista personalizzata e utilizzarla per ottenere le informazioni più aggiornate sui dati.
 hidefromtoc: true
 feature: Workfront Proof

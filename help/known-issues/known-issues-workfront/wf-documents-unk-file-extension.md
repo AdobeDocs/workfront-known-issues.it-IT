@@ -1,5 +1,5 @@
 ---
-title: '“Documenti: estensione di file UNK quando si collegano documenti dall’integrazione”'
+title: 'Documenti: estensione file UNK quando si collegano documenti dall’integrazione'
 description: Quando un utente collega un documento da un’integrazione di documenti, questo viene visualizzato in Workfront con estensione UNK.
 hidefromtoc: true
 feature: Workfront Integrations and Apps, Digital Content and Documents

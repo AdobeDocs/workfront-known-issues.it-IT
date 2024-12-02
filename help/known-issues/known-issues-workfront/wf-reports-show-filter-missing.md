@@ -3,13 +3,13 @@ title: 'Rapporti: l’opzione Mostra filtro/Nascondi filtro risulta mancante'
 description: Quando un utente visualizza un rapporto, le opzioni Mostra filtro e Nascondi filtro non sono visibili.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
+exl-id: 4bd85c63-c7d5-41af-8a2f-2ebcdba84ca4
+source-git-commit: 7194330acbc940d959cee30517a06adf272bb6c1
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
 ---
-
 
 # Rapporti: l’opzione Mostra filtro/Nascondi filtro risulta mancante
 

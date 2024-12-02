@@ -1,10 +1,10 @@
 ---
-title: '“Filtri: impossibile condividere un filtro da un rapporto su una dashboard”'
+title: 'Filtri: impossibile condividere un filtro da un rapporto su una dashboard'
 description: Quando un utente visualizza un rapporto su una dashboard e tenta di condividere un filtro da tale rapporto, non è in grado di condividere il filtro. Facendo clic sui tre punti la dashboard passa al rapporto successivo e quando l’utente torna al rapporto desiderato, vede che l’opzione Condividi non è stata aperta.
 hidefromtoc: true
 exl-id: 50c3f5c8-f4ba-4447-bfc8-5cdd56cc43b0
 feature: Reports and Dashboards
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 6b49eaecad3bb328815ff3e36c2157d94a97b568
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 100%

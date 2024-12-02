@@ -1,5 +1,5 @@
 ---
-title: '“Configurazione: il banner Accesso effettuato come non viene visualizzato quando l’accesso è stato eseguito come altro utente.”'
+title: 'Configurazione: l’accesso effettuato come banner non viene visualizzato se si è effettuato l’accesso come altro utente.'
 description: Quando un amministratore effettua l’accesso come altro utente, il banner Accesso effettuato come non viene visualizzato. All’utente non viene ricordato che ha effettuato l’accesso come altro utente e non riesce a disconnettersi da tale account.
 hidefromtoc: true
 feature: System Setup and Administration
@@ -7,7 +7,7 @@ exl-id: fc90bd88-933d-480b-a8c0-b653e6070625
 source-git-commit: 63268b35a81bc0f8ca1c91fddbbf3797eef99f1f
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 

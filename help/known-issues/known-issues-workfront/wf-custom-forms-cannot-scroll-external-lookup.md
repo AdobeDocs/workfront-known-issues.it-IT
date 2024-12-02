@@ -4,8 +4,8 @@ description: Quando un utente cerca di visualizzare le opzioni in un campo di ri
 hidefromtoc: true
 feature: Custom Forms
 exl-id: 62cc8f6b-cc1a-4861-a470-de4769b46d75
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
+source-git-commit: 6b49eaecad3bb328815ff3e36c2157d94a97b568
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 

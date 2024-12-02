@@ -1,15 +1,15 @@
 ---
-title: "Richieste: l’utente può cambiare stato anche in assenza delle autorizzazioni necessarie"
-description: "Gli utenti con l’accesso per contribuire e privi delle autorizzazioni per modificare lo stato del problema possono cambiare lo stato."
+title: 'Richieste: l’utente può cambiare stato anche in assenza delle autorizzazioni necessarie'
+description: Gli utenti con l’accesso per contribuire e privi delle autorizzazioni per modificare lo stato del problema possono modificare lo stato.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 400c115091c363914a27a6c4c0d90e04a5943aec
-workflow-type: ht
+exl-id: f557be03-d35d-4208-a672-1ceb9072ae24
+source-git-commit: 9a8c1695bc2469c3c29849e7ed735a71c347bcce
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
 ---
-
 
 # Richieste: l’utente può cambiare stato anche in assenza delle autorizzazioni necessarie
 
