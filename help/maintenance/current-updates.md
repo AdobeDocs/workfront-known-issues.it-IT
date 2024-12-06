@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c0bf0412970cb1bab476b59413ed44e0b432c9ec
-workflow-type: ht
-source-wordcount: '6739'
-ht-degree: 100%
+source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+workflow-type: tm+mt
+source-wordcount: '7142'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,77 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
+## Aggiornamenti di dicembre 2024
+
++++**Aggiornamento di manutenzione del venerdì 5 dicembre 2024**
+
+### Aggiornamento di manutenzione del giovedì 5 dicembre 2024
+
+#### Moduli personalizzati
+
+**Impossibile aggiungere i campi attività &quot;estimateByHours&quot; o &quot;hoursPerPoint&quot;**
+
+Quando un utente tenta di aggiungere i campi “estimateByHours” o “hoursPerPoint” a un modulo personalizzato nel generatore di moduli, viene visualizzato un messaggio di errore: “Questa è un’espressione personalizzata non valida. Riprova”.
+
+**La logica di visualizzazione non funziona nei moduli personalizzati**
+
+Quando un utente immette informazioni in un modulo personalizzato con logica di visualizzazione, i campi che devono essere visualizzati in base a tale logica non vengono visualizzati.
+
+#### Pagina Home
+
+**I collaboratori hanno visualizzato il pulsante &quot;Lavoraci&quot; non funzionante**
+
+Gli utenti collaboratori hanno accesso a un pulsante &quot;Lavoraci&quot; non funzionante nel widget Il mio lavoro nella Home.
+
+#### Report
+
+**I trimestri personalizzati non vengono visualizzati nei prompt dei report**
+
+Quando un utente esegue un rapporto con un prompt basato sulla data, i trimestri personalizzati non vengono visualizzati nell’elenco delle selezioni per il prompt.
+
++++
+
 ## Aggiornamenti di novembre 2024
+
++++**Aggiornamento di manutenzione del venerdì 28 novembre 2024**
+
+### Aggiornamento di manutenzione del venerdì 28 novembre 2024
+
+#### Progetti
+
+**Impossibile condividere i progetti a causa dell&#39;errore &quot;accesso per eliminare&quot;**
+
+Quando tenta di condividere un progetto, l’utente riceve un avviso di errore: “livello di accesso insufficiente per eliminare questo progetto”. Ciò si verifica nonostante l’utente non stia tentando di eliminare il progetto, sia proprietario del progetto e disponga dell’accesso a Condivisione e gestione del progetto.
+
+#### Report
+
+**Il campo Nome categoria non è collegato al modulo personalizzato**
+
+Quando si visualizza un elenco in un report contenente un campo Nome categoria, non è possibile fare clic sul contenuto della colonna Nome categoria per aprire il modulo personalizzato corrispondente.
+
+**I colori personalizzati del gruppo nei report non funzionano**
+
+Quando si assegna un colore personalizzato a un gruppo nel Report Builder, la selezione del colore non viene visualizzata durante l’esecuzione del report.
+
+**Tempi di caricamento lunghi per i report**
+
+Il caricamento dei rapporti richiede molto tempo. Questo influisce sulla visualizzazione dei rapporti e sulla modifica e creazione di questi nel Report Builder.
+
+**Campo ora mancante per i campi data/ora calcolati nei prompt dei report**
+
+Quando si esegue un report con un campo Data/ora personalizzato utilizzato come prompt, il campo di selezione dell&#39;ora non è presente nell&#39;interfaccia del prompt.
+
+**Impossibile visualizzare i report/dashboard condivisi**
+
+Quando un utente tenta di accedere a un report o a un dashboard condiviso con lui, non è possibile accedere al report o al dashboard.
+
+#### Schede orario
+
+**Gli utenti collaboratori dispongono di un pulsante &quot;Invia per approvazione&quot;**
+
+Sebbene gli utenti con livello di accesso Collaboratore non possano inserire le ore nelle schede orario, possono fare clic sul pulsante “Invia per approvazione” di cui dispongono.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 21 novembre 2024**
 
