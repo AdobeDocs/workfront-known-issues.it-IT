@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: f37ecfc5-30b9-4fe2-9e76-a97be0ae969f
 source-git-commit: 273f533553626082787f579b171ab4b314743d58
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -21,6 +21,6 @@ Quando un amministratore aggiunge un campo dati personalizzato alla sezione Riep
 
 **Soluzione alternativa**
 
-Evita di usare i punti &quot;.&quot; nei nomi dei campi personalizzati per evitare questo problema. Puoi rinominare il campo personalizzato nella sezione Riepilogo e includere un punto, se necessario.
+Non usare i punti “.” nei nomi dei campi personalizzati per evitare questo problema. Puoi rinominare il campo personalizzato nella sezione Riepilogo e includere un punto, se necessario.
 
 _Segnalato per la prima volta il 2 ottobre 2024._
