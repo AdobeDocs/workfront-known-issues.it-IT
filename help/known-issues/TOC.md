@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
+source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
 workflow-type: tm+mt
-source-wordcount: '2166'
-ht-degree: 98%
+source-wordcount: '2214'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Moduli personalizzati: i dati personalizzati non vengono visualizzati nel pannello Riepilogo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
+      + [Agile: impossibile modificare in blocco i brani in un’iterazione](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [Bozze: impossibile aggiungere destinatari alla bozza](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
+      + [Bozze: il nome della bozza non viene visualizzato nella scheda del browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
+      + [Attività: errore durante l’aggiunta di attività personali](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
+      + [Bozze: le bozze di Webcapture non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Approvazioni: le approvazioni delegate non vengono visualizzate per i delegati](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Documenti: errore &quot;Modifiche non salvate&quot; durante l’aggiunta di un modulo a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [Attività: il campo Pronto per iniziare non viene aggiornato nonostante i predecessori completati](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
@@ -170,7 +176,7 @@ ht-degree: 98%
       + [Aggiornamenti: il collegamento nel commento passa a una schermata vuota](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
-      + [Attività: errore Bizcontext durante l’aggiunta o l’eliminazione di un’attività](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
+      + [Attività: errore del database durante l’aggiunta o l’eliminazione di un’attività (in precedenza errore Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
       + [Modello di layout: pagina di destinazione non corretta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Rapporto: il filtro del rapporto non restituisce i risultati previsti](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Progetto: impossibile convertire il problema in progetto se è allegata una bozza web](known-issues-workfront/wf-project-conversion-fails-if-document-linked.md)
