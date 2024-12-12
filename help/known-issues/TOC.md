@@ -5,7 +5,7 @@ role: User
 source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
 workflow-type: tm+mt
 source-wordcount: '2214'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 95%
       + [Bozze: il nome della bozza non viene visualizzato nella scheda del browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
       + [Attività: errore durante l’aggiunta di attività personali](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
       + [Bozze: le bozze di Webcapture non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
-      + [Approvazioni: le approvazioni delegate non vengono visualizzate per i delegati](known-issues-workfront/wf-approvals-delegation-not-working.md)
-      + [Documenti: errore &quot;Modifiche non salvate&quot; durante l’aggiunta di un modulo a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md)
-      + [Attività: il campo Pronto per iniziare non viene aggiornato nonostante i predecessori completati](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
-      + [Workfront: modifiche al formato della data in tutta l’applicazione](known-issues-workfront/wf-workfront-date-format-changing.md)
+      + [Approvazioni: i delegati non visualizzano le approvazioni delegate](known-issues-workfront/wf-approvals-delegation-not-working.md)
+      + [Documenti: errore “Modifiche non salvate” durante l’aggiunta di un modulo a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md)
+      + [Attività: il campo Pronta per iniziare non viene aggiornato nonostante i predecessori completati](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)
+      + [Workfront: il formato della data cambia nel corso dell’applicazione](known-issues-workfront/wf-workfront-date-format-changing.md)
       + [Workfront: le impostazioni ZScaler possono causare una riduzione delle prestazioni](known-issues-workfront//wf-workfront-zscaler.md)
       + [Schede orario: gli utenti collaboratori dispongono del pulsante “Invia per approvazione”](known-issues-workfront/wf-timesheets-submit-button-for-contributors.md)
       + [Notifiche: le notifiche e-mail per gli aggiornamenti non vengono inviate](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md)
