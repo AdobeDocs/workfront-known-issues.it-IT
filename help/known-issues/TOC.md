@@ -3,9 +3,9 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2214'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 97%
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Moduli personalizzati: i dati personalizzati non vengono visualizzati nel pannello Riepilogo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
-      + [Agile: impossibile modificare in blocco i brani in un’iterazione](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
+      + [Agile: impossibile modificare in blocco le storie in un’iterazione](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [Bozze: impossibile aggiungere destinatari alla bozza](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
       + [Bozze: il nome della bozza non viene visualizzato nella scheda del browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md)
       + [Attività: errore durante l’aggiunta di attività personali](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md)
-      + [Bozze: le bozze di Webcapture non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
+      + [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
       + [Approvazioni: i delegati non visualizzano le approvazioni delegate](known-issues-workfront/wf-approvals-delegation-not-working.md)
       + [Documenti: errore “Modifiche non salvate” durante l’aggiunta di un modulo a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md)
       + [Attività: il campo Pronta per iniziare non viene aggiornato nonostante i predecessori completati](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md)

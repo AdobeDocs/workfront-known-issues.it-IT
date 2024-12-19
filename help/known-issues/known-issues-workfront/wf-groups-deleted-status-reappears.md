@@ -5,17 +5,17 @@ hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
 source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 # Gruppi: problemi durante l’eliminazione dello stato del gruppo
 
-Sono stati segnalati i seguenti problemi relativi all’eliminazione degli stati dei gruppi:
+I seguenti problemi sono stati riscontrati in relazione all’eliminazione degli stati del gruppo:
 
 * Dopo aver eliminato lo stato di un gruppo, nonostante il gruppo non mostri più lo stato e il tempo di rimozione visualizzati negli Aggiornamenti del gruppo, questo alla fine viene nuovamente visualizzato senza essere modificato da un utente.
-* Quando un utente cerca di eliminare uno stato di gruppo, il sistema non risponde, la finestra viene evidenziata e l’utente non può eliminare lo stato.
+* Quando un utente tenta di eliminare uno stato del gruppo, il sistema non risponde, la finestra viene evidenziata e l’utente non può eliminare lo stato.
 
 _Segnalato per la prima volta il giovedì 26 giugno 2024._

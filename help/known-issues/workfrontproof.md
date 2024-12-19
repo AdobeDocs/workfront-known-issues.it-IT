@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '452'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | -----------------------------------------------------------------| ----------------- |
 | [Bozze: impossibile aggiungere destinatari alla bozza](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | giovedì 11 dicembre 2024 |
 | [Bozze: il nome della bozza non viene visualizzato nella scheda del browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | giovedì 11 dicembre 2024 |
-| [Bozze: le bozze di Webcapture non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | giovedì 11 dicembre 2024 |
+| [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | giovedì 11 dicembre 2024 |
 | [Documenti: impossibile visualizzare in anteprima i documenti con il collegamento di anteprima](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | venerdì 15 agosto 2024 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
 | [Impossibile creare la vista per l’elenco dei documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martedì 15 luglio 2024 |
