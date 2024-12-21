@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: ht
-source-wordcount: '1165'
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '1135'
 ht-degree: 100%
 
 ---
@@ -25,14 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Agile: impossibile modificare in blocco le storie in un’iterazione](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md) | venerdì 5 dicembre 2024 |
-| [Approvazioni: i delegati non visualizzano le approvazioni delegate](known-issues-workfront/wf-approvals-delegation-not-working.md) | venerdì 5 dicembre 2024 |
 | [Documenti: errore “Modifiche non salvate” durante l’aggiunta di un modulo a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md) | venerdì 5 dicembre 2024 |
-| [Attività: il campo Pronta per iniziare non viene aggiornato nonostante i predecessori completati](known-issues-workfront/wf-tasks-ready-to-start-not-updating.md) | mercoledì 3 dicembre 2024 |
-| [Workfront: il formato della data cambia nel corso dell’applicazione](known-issues-workfront/wf-workfront-date-format-changing.md) | mercoledì 3 dicembre 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercoledì 3 dicembre 2024 |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | mercoledì 3 dicembre 2024 |
-| [Documenti: l’approvazione “aggiunta rapida” non include l’inserimento della data di scadenza per le nuove versioni](known-issues-workfront/wf-documents-quick-add-lacks-deadline.md) | giovedì 13 novembre 2024 |
 | [Utenti: il tag “Non registrato” persiste dopo l’accesso](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | giovedì 13 novembre 2024 |
 | [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | mercoledì 12 novembre 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 ottobre 2024 |
@@ -54,11 +49,10 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
+| [Moduli personalizzati: impossibile aggiungere i campi attività “estimateByHours” o “hoursPerPoint”](known-issues-workfront/wf-custom-forms-invalid-fields.md) | sabato 20 dicembre 2024 |
 | [Moduli personalizzati: i dati personalizzati non vengono visualizzati nel pannello Riepilogo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | giovedì 11 dicembre 2024 |
-| [Bozze: impossibile aggiungere destinatari alla bozza](known-issues-workfront/wf-proofs-cannot-add-recipients.md) | giovedì 11 dicembre 2024 |
 | [Bozze: il nome della bozza non viene visualizzato nella scheda del browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | giovedì 11 dicembre 2024 |
 | [Attività: errore durante l’aggiunta di attività personali](known-issues-workfront/wf-tasks-add-more-tasks-whoops.md) | giovedì 11 dicembre 2024 |
-| [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | giovedì 11 dicembre 2024 |
 | [Rapporti: la modifica in blocco negli elenchi dei grafici non risponde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | mercoledì 3 dicembre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | venerdì 21 novembre 2024 |
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | 24 ottobre 2024 |
@@ -79,6 +73,9 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sabato 20 dicembre 2024 |
+| [Workfront: il formato della data cambia nel corso dell’applicazione](known-issues-workfront/wf-workfront-date-format-changing.md) | sabato 20 dicembre 2024 |
+| [Approvazioni: i delegati non visualizzano le approvazioni delegate](known-issues-workfront/wf-approvals-delegation-not-working.md) | sabato 20 dicembre 2024 |
 | [Attività: errore del database durante l’aggiunta o l’eliminazione di un’attività (in precedenza errore Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | mercoledì 10 dicembre 2024 |
 | [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al Riassunto Attività tramite il modello layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 novembre 2024 |
 | [Notifiche: le notifiche e-mail per gli aggiornamenti non vengono inviate](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | venerdì 5 dicembre 2024 |

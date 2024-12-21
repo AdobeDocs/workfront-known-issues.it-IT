@@ -3,14 +3,19 @@ title: 'Attività: il campo Pronta per iniziare non viene aggiornato nonostante 
 description: Il campo Pronta per iniziare di un’attività con predecessori non viene aggiornato a true nonostante tutti i predecessori richiesti siano contrassegnati come Completati.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '70'
+exl-id: 1eb9441c-ffd0-4953-9e5c-61e8e32b8600
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
 
 # Attività: il campo Pronta per iniziare non viene aggiornato nonostante i predecessori completati
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il martedì 9 dicembre 2024.
 
 Il campo Pronta per iniziare di un’attività con predecessori non viene aggiornato a true nonostante tutti i predecessori richiesti siano contrassegnati come Completati.
 

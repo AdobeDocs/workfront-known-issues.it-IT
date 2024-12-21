@@ -3,20 +3,19 @@ title: 'Workfront: il formato della data cambia nel corso dell’applicazione'
 description: Quando nell’applicazione ci si sposta tra pagine diverse con elenchi, il formato della data cambia occasionalmente da MM/GG/AAAA a GG/MM/AAAA o viceversa.
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '68'
+exl-id: baeed4df-8b86-4767-9991-c0b947b07f3b
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
 
 # Workfront: il formato della data cambia nel corso dell’applicazione
 
-<!--
 >[!NOTE]
 >
->This issue was fixed on August 30, 2024.
--->
+>Questo problema è stato chiuso perché non è stato possibile riprodurlo.
 
 Quando nell’applicazione ci si sposta tra pagine diverse con elenchi, il formato della data cambia occasionalmente da MM/GG/AAAA a GG/MM/AAAA o viceversa.
 

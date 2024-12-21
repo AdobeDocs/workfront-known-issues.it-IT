@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '7142'
-ht-degree: 100%
+source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+workflow-type: tm+mt
+source-wordcount: '7288'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,36 @@ Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2024.
 
 ## Aggiornamenti di dicembre 2024
+
++++**Aggiornamento di manutenzione del venerdì 19 dicembre 2024**
+
+### Aggiornamento di manutenzione del venerdì 19 dicembre 2024
+
+Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
+
++++
+
++++**Aggiornamento di manutenzione del venerdì 12 dicembre 2024**
+
+### Aggiornamento di manutenzione del venerdì 12 dicembre 2024
+
+#### Dashboard
+
+**La colonna scompare quando viene utilizzata per l&#39;ordinamento in un report del dashboard**
+
+Quando si ordina un report posizionato in un dashboard in base a una colonna, la colonna scompare e il contenuto non viene ordinato.
+
+#### Report
+
+**L&#39;opzione Raggruppa colonna sotto il grafico causa un errore**
+
+Quando si abilita l’opzione &quot;Raggruppa colonna sotto grafico&quot; in un rapporto con un grafico, viene visualizzato il seguente messaggio di errore: &quot;Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.”
+
+**Icone di modifica ed eliminazione in blocco mancanti nei report**
+
+Quando si tenta di modificare o eliminare più elementi di un rapporto in blocco, occasionalmente non vengono visualizzate le icone Modifica ed Elimina.
+
++++
 
 +++**Aggiornamento di manutenzione del venerdì 5 dicembre 2024**
 
