@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '1135'
-ht-degree: 100%
+source-wordcount: '1195'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,11 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Aggiornamenti: le ore registrate non vengono visualizzate sull&#39;etichetta Ora registro nell&#39;area Aggiornamenti](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | mercoledì 2 gennaio 2024 |
+| [Rapporti: i prompt dei rapporti vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercoledì 2 gennaio 2024 |
+| [Notifiche: le notifiche push all&#39;app Workfront Mobile non funzionano](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | mercoledì 2 gennaio 2024 |
+| [Documenti: nell&#39;area Documenti non vengono visualizzati tutti i documenti](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | mercoledì 2 gennaio 2024 |
+| [Moduli personalizzati: errore durante la modifica del modulo personalizzato tramite la colonna](known-issues-workfront/wf-custom-forms-error-when-editing.md) | mercoledì 2 gennaio 2024 |
 | [Documenti: errore “Modifiche non salvate” durante l’aggiunta di un modulo a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md) | venerdì 5 dicembre 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | mercoledì 3 dicembre 2024 |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | mercoledì 3 dicembre 2024 |
@@ -49,6 +54,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
+| [Richieste e problemi: errore con assegnazioni utente avanzate](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | venerdì 2 gennaio 2025 |
 | [Moduli personalizzati: impossibile aggiungere i campi attività “estimateByHours” o “hoursPerPoint”](known-issues-workfront/wf-custom-forms-invalid-fields.md) | sabato 20 dicembre 2024 |
 | [Moduli personalizzati: i dati personalizzati non vengono visualizzati nel pannello Riepilogo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | giovedì 11 dicembre 2024 |
 | [Bozze: il nome della bozza non viene visualizzato nella scheda del browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | giovedì 11 dicembre 2024 |

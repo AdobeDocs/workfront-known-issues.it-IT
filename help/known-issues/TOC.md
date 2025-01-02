@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c99217ec17f8bacf7593c9e337c74952efb6c69b
-workflow-type: ht
-source-wordcount: '2214'
-ht-degree: 100%
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+workflow-type: tm+mt
+source-wordcount: '2268'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,12 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Aggiornamenti: le ore registrate non vengono visualizzate sull’etichetta Ora registro nell’area Aggiornamenti](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [Report: i prompt dei report vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md)
+      + [Notifiche: le notifiche push nell’app Workfront Mobile non funzionano](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
+      + [Documenti: nell&#39;area Documenti non vengono visualizzati tutti i documenti](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [Moduli personalizzati: errore durante la modifica del modulo personalizzato tramite colonna](known-issues-workfront/wf-custom-forms-error-when-editing.md)
+      + [Richieste e problemi: errore con le assegnazioni avanzate degli utenti](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Moduli personalizzati: i dati personalizzati non vengono visualizzati nel pannello Riepilogo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [Agile: impossibile modificare in blocco le storie in un’iterazione](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [Bozze: impossibile aggiungere destinatari alla bozza](known-issues-workfront/wf-proofs-cannot-add-recipients.md)

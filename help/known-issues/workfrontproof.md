@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
+source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 100%
+source-wordcount: '454'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Documenti: nell&#39;area Documenti non vengono visualizzati tutti i documenti](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | mercoledì 2 gennaio 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 ottobre 2024 |
 | [Agile: lo storyboard diventa vuoto quando si aggiunge un’attività secondaria](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | sabato 26 luglio 2024 |
 | [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md) | venerdì 25 luglio 2024 |
