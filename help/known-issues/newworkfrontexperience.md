@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
+source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 95%
+source-wordcount: '1230'
+ht-degree: 93%
 
 ---
 
@@ -54,6 +54,10 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
+| [Bacheche: impossibile spostare la scheda in un&#39;altra colonna](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | venerdì 2 gennaio 2025 |
+| [Moduli personalizzati: messaggio di &quot;campi non validi&quot; durante la modifica di un modulo personalizzato](known-issues-workfront/wf-custom-forms-blank-required-field.md) | venerdì 2 gennaio 2025 |
+| [Utenti: l&#39;aggiornamento collettivo degli utenti è molto lento](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | venerdì 2 gennaio 2025 |
+| [Moduli personalizzati: i pulsanti di scelta sono elencati orizzontalmente](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md) | venerdì 2 gennaio 2025 |
 | [Richieste e problemi: errore con assegnazioni utente avanzate](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | venerdì 2 gennaio 2025 |
 | [Moduli personalizzati: impossibile aggiungere i campi attività “estimateByHours” o “hoursPerPoint”](known-issues-workfront/wf-custom-forms-invalid-fields.md) | sabato 20 dicembre 2024 |
 | [Moduli personalizzati: i dati personalizzati non vengono visualizzati nel pannello Riepilogo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | giovedì 11 dicembre 2024 |
