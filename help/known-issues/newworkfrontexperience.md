@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '1230'
-ht-degree: 93%
+source-wordcount: '1246'
+ht-degree: 92%
 
 ---
 
@@ -25,6 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Moduli personalizzati: il modulo personalizzato viene visualizzato nel formato legacy](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | giovedì 3 gennaio 2024 |
+| [Record fatturazione: le ore non vengono salvate](known-issues-workfront/wf-billing-record-hours-not-saved.md) | giovedì 3 gennaio 2024 |
 | [Aggiornamenti: le ore registrate non vengono visualizzate sull&#39;etichetta Ora registro nell&#39;area Aggiornamenti](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md) | mercoledì 2 gennaio 2024 |
 | [Rapporti: i prompt dei rapporti vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercoledì 2 gennaio 2024 |
 | [Notifiche: le notifiche push all&#39;app Workfront Mobile non funzionano](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | mercoledì 2 gennaio 2024 |

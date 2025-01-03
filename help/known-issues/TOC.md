@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: be24594ee77ab33b5bec2e1fcd6219fa6ccebbe2
+source-git-commit: e35f7b857de061973467ddd90400dea51f3a2b59
 workflow-type: tm+mt
-source-wordcount: '2299'
-ht-degree: 96%
+source-wordcount: '2313'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 96%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Moduli personalizzati: il modulo personalizzato viene visualizzato in formato legacy](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
+      + [Record fatturazione: le ore non vengono salvate](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Bacheche: impossibile spostare la scheda in una colonna diversa](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
       + [Moduli personalizzati: messaggio di &quot;campi non validi&quot; durante la modifica di un modulo personalizzato](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [Utenti: l’aggiornamento in blocco degli utenti è molto lento](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
