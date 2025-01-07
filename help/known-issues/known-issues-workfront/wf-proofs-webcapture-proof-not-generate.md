@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 339c5a0a-cfc8-4cfc-946d-b87d760f9106
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Quando un utente tenta di creare una bozza di acquisizione web, la bozza non vie
 
 **Soluzione alternativa**
 
-Questo problema è causato dai lunghi tempi di generazione delle bozze per alcuni file PDF. Per aumentare il timeout di generazione dai 30 secondi predefiniti, modifica la proprietà seguente in Impostazioni di elaborazione a livello di account in Amministrazione bozze:
+Per alcuni file PDF, questo problema è causato dai lunghi tempi di generazione delle bozze. Per aumentare il timeout di generazione dai 30 secondi predefiniti, modifica la proprietà seguente in Impostazioni di elaborazione a livello di account in Amministrazione bozza:
 
 `WebCaptureNavigationTimeout -> 120`
 

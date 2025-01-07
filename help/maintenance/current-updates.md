@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 7b66d253831c83bf6166cc5be39e18be704503a6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7288'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -40,19 +40,19 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 #### Dashboard
 
-**La colonna scompare quando viene utilizzata per l&#39;ordinamento in un report del dashboard**
+**La colonna scompare quando viene utilizzata per l’ordinamento in un report della dashboard**
 
-Quando si ordina un report posizionato in un dashboard in base a una colonna, la colonna scompare e il contenuto non viene ordinato.
+Durante l’ordinamento di un report posizionato in una dashboard con una colonna, la colonna scompare e il contenuto non viene ordinato.
 
 #### Report
 
-**L&#39;opzione Raggruppa colonna sotto il grafico causa un errore**
+**L’opzione Raggruppa colonna sotto il grafico causa un errore**
 
-Quando si abilita l’opzione &quot;Raggruppa colonna sotto grafico&quot; in un rapporto con un grafico, viene visualizzato il seguente messaggio di errore: &quot;Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.”
+Abilitando l’opzione “Raggruppa colonna sotto grafico” in un rapporto con un grafico, viene visualizzato il seguente messaggio di errore: “Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.”
 
-**Icone di modifica ed eliminazione in blocco mancanti nei report**
+**Icone Modica ed Elimina in blocco mancanti nei report**
 
-Quando si tenta di modificare o eliminare più elementi di un rapporto in blocco, occasionalmente non vengono visualizzate le icone Modifica ed Elimina.
+Quando si tenta di modificare o eliminare più elementi di un rapporto in blocco, occasionalmente le icone Modifica ed Elimina non vengono visualizzate.
 
 +++
 
