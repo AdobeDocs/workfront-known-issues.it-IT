@@ -2,10 +2,10 @@
 user-guide-title: Versioni di manutenzione
 user-guide-description: Versioni di manutenzione per [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5888405d48bb6a271fcfe748d3cce99e2ccfadaf
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '15'
-ht-degree: 100%
+source-wordcount: '17'
+ht-degree: 88%
 
 ---
 
@@ -13,6 +13,7 @@ ht-degree: 100%
 # Versione di manutenzione {#releases}
 
 + [Aggiornamenti attuali](current-updates.md)
++ [Aggiornamenti del 2024](2024-updates.md)
 + [Aggiornamenti del 2023](2023-updates.md)
 + [Aggiornamenti del 2022](2022-updates.md)
 + [Aggiornamenti del 2021](2021-updates.md)

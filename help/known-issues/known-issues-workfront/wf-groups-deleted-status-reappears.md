@@ -4,14 +4,18 @@ description: Dopo aver eliminato lo stato di un gruppo, nonostante il gruppo non
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: ht
-source-wordcount: '111'
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
 
 # Gruppi: problemi durante l’eliminazione dello stato del gruppo
+
+>[!NOTE]
+>
+>Questo problema è stato chiuso perché non è stato possibile riprodurlo.
 
 I seguenti problemi sono stati riscontrati in relazione all’eliminazione degli stati del gruppo:
 

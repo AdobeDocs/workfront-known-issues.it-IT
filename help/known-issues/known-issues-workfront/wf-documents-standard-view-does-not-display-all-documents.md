@@ -3,15 +3,19 @@ title: 'Documenti: nell''area Documenti non vengono visualizzati tutti i documen
 description: Quando un utente visualizza l’area Documenti di un oggetto, non vengono visualizzati tutti i documenti allegati al documento. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 0031b3acdaba091cc83ae44b9d47fb473dae6053
+exl-id: 3c208da4-4f75-44ef-824e-50aff523e5aa
+source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 9%
+source-wordcount: '102'
+ht-degree: 14%
 
 ---
 
-
 # Documenti: nell&#39;area Documenti non vengono visualizzati tutti i documenti
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 9 gennaio 2025.
 
 Quando un utente visualizza l’area Documenti di un oggetto, non vengono visualizzati tutti i documenti allegati al documento.
 
