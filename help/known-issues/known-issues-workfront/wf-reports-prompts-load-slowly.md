@@ -3,13 +3,13 @@ title: 'Report: i prompt dei report vengono caricati lentamente'
 description: Quando un utente apre un report che include i prompt, questi vengono caricati lentamente. Il rapporto effettivo funziona come previsto.
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: tm+mt
+exl-id: a423177f-1ced-49e1-96ee-4c8527689f05
+source-git-commit: 583dbaaaf1c633fecf0c3440d1f7395148f88750
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
-
 
 # Report: i prompt dei report vengono caricati lentamente
 

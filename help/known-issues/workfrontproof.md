@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '454'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,12 +25,12 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Documenti: nell&#39;area Documenti non vengono visualizzati tutti i documenti](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | mercoledì 2 gennaio 2024 |
+| [Documenti: nell’area Documenti non vengono visualizzati tutti i documenti](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 gennaio 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 ottobre 2024 |
-| [Agile: lo storyboard diventa vuoto quando si aggiunge un’attività secondaria](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | sabato 26 luglio 2024 |
-| [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md) | venerdì 25 luglio 2024 |
+| [Agile: lo storyboard diventa vuoto quando si aggiunge un’attività secondaria](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 luglio 2024 |
+| [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 luglio 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
-| [Integrazioni: problemi relativi all’integrazione con Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | sabato 14 giugno 2024 |
+| [Integrazioni: problemi relativi all’integrazione con Dropbox](known-issues-workfront/wf-integrations-issues-with-dropbox.md) | 14 giugno 2024 |
 
 {style="table-layout:auto"}
 
@@ -40,8 +40,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: il nome della bozza non viene visualizzato nella scheda del browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | giovedì 11 dicembre 2024 |
-| [Documenti: impossibile visualizzare in anteprima i documenti con il collegamento di anteprima](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | venerdì 15 agosto 2024 |
+| [Bozze: il nome della bozza non viene visualizzato nella scheda del browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 dicembre 2024 |
+| [Documenti: impossibile visualizzare in anteprima i documenti con il collegamento di anteprima](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 agosto 2024 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
 | [Impossibile creare la vista per l’elenco dei documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martedì 15 luglio 2024 |
 | [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md) | 5 giugno 2024 |
@@ -56,7 +56,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | sabato 20 dicembre 2024 |
+| [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 dicembre 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 giugno 2024 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |
 | [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 ottobre 2023 |

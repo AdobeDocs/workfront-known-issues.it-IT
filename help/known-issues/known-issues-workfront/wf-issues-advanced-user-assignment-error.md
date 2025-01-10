@@ -1,22 +1,22 @@
 ---
-title: 'Richieste e problemi: errore con le assegnazioni avanzate degli utenti'
-description: Quando un utente cerca di effettuare un’assegnazione utente avanzata su una richiesta o un problema, l’utente non viene assegnato e viene visualizzato un errore.
+title: 'Richieste e problemi: errore con le assegnazioni avanzate di un utente'
+description: Quando un utente cerca di effettuare un’assegnazione avanzata a un problema o a una richiesta, l’utente non viene assegnato e visualizza un messaggio di errore.
 hidefromtoc: true
 feature: Requests, Work Management
-source-git-commit: 2a5e7d42014286c83f592dd14e8913c0db9e6fbf
-workflow-type: tm+mt
+exl-id: 9310726c-646e-46f0-a419-a232086f4738
+source-git-commit: 583dbaaaf1c633fecf0c3440d1f7395148f88750
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
+# Richieste e problemi: errore con le assegnazioni avanzate di un utente
 
-# Richieste e problemi: errore con le assegnazioni avanzate degli utenti
-
-Quando un utente tenta di effettuare un’assegnazione utente avanzata su una richiesta o un problema, l’utente non viene assegnato e viene visualizzato il seguente errore:
+Quando un utente cerca di effettuare un’assegnazione avanzata a un problema o a una richiesta, l’utente non viene assegnato e visualizza il seguente messaggio di errore:
 
 “Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.”
 
-L&#39;aggiornamento della pagina del browser non ha alcun effetto.
+L’aggiornamento della pagina del browser non ha alcun effetto.
 
 _Segnalato per la prima volta il venerdì 26 dicembre 2024._
