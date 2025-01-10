@@ -5,7 +5,7 @@ role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
 workflow-type: tm+mt
 source-wordcount: '2336'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -21,17 +21,17 @@ ht-degree: 94%
       + [Utenti: viene creato un account duplicato quando si cambia l’amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Progetti: la condizione di ritardo non si applica come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Moduli personalizzati: il modulo personalizzato viene visualizzato in formato legacy](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
-      + [Record fatturazione: le ore non vengono salvate](known-issues-workfront/wf-billing-record-hours-not-saved.md)
+      + [Record della fatturazione: le ore non vengono salvate](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Bacheche: impossibile spostare la scheda in una colonna diversa](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)
-      + [Moduli personalizzati: messaggio di &quot;campi non validi&quot; durante la modifica di un modulo personalizzato](known-issues-workfront/wf-custom-forms-blank-required-field.md)
+      + [Moduli personalizzati: messaggio di “campi non validi” durante la modifica di un modulo personalizzato](known-issues-workfront/wf-custom-forms-blank-required-field.md)
       + [Utenti: l’aggiornamento in blocco degli utenti è molto lento](known-issues-workfront/wf-users-bulk-update-takes-long-time.md)
       + [Moduli personalizzati: i pulsanti di scelta sono elencati orizzontalmente](known-issues-workfront/wf-custom-forms-radio-buttons-horizontal.md)
-      + [Aggiornamenti: le ore registrate non vengono visualizzate sull’etichetta Ora registro nell’area Aggiornamenti](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
+      + [Aggiornamenti: le ore registrate non vengono visualizzate sull’etichetta Regista ore nell’area Aggiornamenti](known-issues-workfront/wf-updates-logging-time-label-does-not-display-hours.md)
       + [Report: i prompt dei report vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Notifiche: le notifiche push nell’app Workfront Mobile non funzionano](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md)
-      + [Documenti: nell&#39;area Documenti non vengono visualizzati tutti i documenti](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
+      + [Documenti: nell’area Documenti non vengono visualizzati tutti i documenti](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md)
       + [Moduli personalizzati: errore durante la modifica del modulo personalizzato tramite colonna](known-issues-workfront/wf-custom-forms-error-when-editing.md)
-      + [Richieste e problemi: errore con le assegnazioni avanzate degli utenti](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
+      + [Richieste e problemi: errore con le assegnazioni avanzate di un utente](known-issues-workfront/wf-issues-advanced-user-assignment-error.md)
       + [Moduli personalizzati: i dati personalizzati non vengono visualizzati nel pannello Riepilogo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md)
       + [Agile: impossibile modificare in blocco le storie in un’iterazione](known-issues-workfront/wf-agile-cannot-bulk-edit-stories.md)
       + [Bozze: impossibile aggiungere destinatari alla bozza](known-issues-workfront/wf-proofs-cannot-add-recipients.md)
