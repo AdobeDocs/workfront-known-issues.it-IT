@@ -3,9 +3,9 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2336'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Home: mancano i pulsanti di approvazione nel widget In attesa di approvazione](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
-      + [Utenti: viene creato un account duplicato quando si cambia l’amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
-      + [Progetti: la condizione di ritardo non si applica come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
+      + [Home: pulsanti di approvazione mancanti nel widget In attesa di approvazione](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
+      + [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
+      + [Progetti: la condizione di ritardo non viene applicata come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Moduli personalizzati: il modulo personalizzato viene visualizzato in formato legacy](known-issues-workfront/wf-custom-forms-legacy-form-appears.md)
       + [Record della fatturazione: le ore non vengono salvate](known-issues-workfront/wf-billing-record-hours-not-saved.md)
       + [Bacheche: impossibile spostare la scheda in una colonna diversa](known-issues-workfront/wf-boards-cannot-move-card-to-column.md)

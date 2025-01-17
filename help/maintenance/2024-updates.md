@@ -2,10 +2,11 @@
 title: Aggiornamenti di manutenzione di Workfront nel 2024
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
+source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
+workflow-type: ht
 source-wordcount: '7353'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -55,9 +56,9 @@ Quando si tenta di modificare o eliminare più elementi di un rapporto in blocco
 
 **Errori nei report (dati finanziari) del progetto**
 
-Un errore viene visualizzato in modo intermittente per i report di Project (Financial Data) sia nella pagina dei dettagli che nella pagina della matrice.
+Un errore viene visualizzato in modo intermittente per i report (dati finanziari) del progetto, sia nella pagina dei dettagli che nella pagina matrice.
 
-Per risolvere questo problema, i progetti in questo tipo di report non vengono più ricalcolati automaticamente prima del caricamento dei dati. Gli utenti devono ricalcolare manualmente i dati finanziari sui singoli progetti per aggiornare i dati in un rapporto di dati finanziari.
+Per correggere questo problema, i progetti in questo tipo di report non vengono più ricalcolati automaticamente prima del caricamento dei dati. Gli utenti devono ricalcolare manualmente i dati sui singoli progetti per aggiornare i dati in un rapporto di dati finanziari.
 
 +++
 

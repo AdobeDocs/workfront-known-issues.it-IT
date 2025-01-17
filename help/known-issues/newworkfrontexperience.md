@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1217'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Home: pulsanti di approvazione mancanti nel widget Approvazione in attesa](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | venerdì 9 gennaio 2025 |
-| [Utenti: account duplicato creato durante la modifica dell&#39;amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |
-| [Progetti: la condizione di ritardo non si applica come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | venerdì 9 gennaio 2025 |
+| [Home: pulsanti di approvazione mancanti nel widget In attesa di approvazione](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | venerdì 9 gennaio 2025 |
+| [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |
+| [Progetti: la condizione di ritardo non viene applicata come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | venerdì 9 gennaio 2025 |
 | [Moduli personalizzati: il modulo personalizzato viene visualizzato nel formato legacy](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 3 gennaio 2024 |
 | [Record della fatturazione: le ore non vengono salvate](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 3 gennaio 2024 |
 | [Rapporti: i prompt dei rapporti vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2 gennaio 2024 |
