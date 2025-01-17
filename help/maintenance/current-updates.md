@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '138'
-ht-degree: 100%
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 77%
 
 ---
 
@@ -26,13 +26,37 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di gennaio 2025
 
-+++**Aggiornamento di manutenzione il venerdì 9 gennaio 2025**
++++**Aggiornamento di manutenzione il venerdì 16 gennaio 2025**
 
-<!-- Delete this entry when next is added, no updates were made. -->
+### Aggiornamento di manutenzione il venerdì 16 gennaio 2025
 
-### Aggiornamento di manutenzione il venerdì 9 gennaio 2025
+#### Documenti
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
+**Errore &quot;Modifiche non salvate&quot; durante l&#39;aggiunta di un modulo a un documento**
+
+Quando si aggiunge un modulo a un documento, viene visualizzato un errore “Modifiche non salvate” che non può essere chiuso e impedisce l’interazione con l’applicazione.
+
+#### Bozze
+
+**Il nome della bozza non viene visualizzato nella scheda del browser**
+
+Quando un utente visualizza una bozza, il nome della bozza non è visibile nella scheda del browser. Nella scheda del browser viene invece visualizzato “Workfront”.
+
+#### Richieste e problemi
+
+**Errore con assegnazioni utente avanzate**
+
+Quando un utente cerca di effettuare un’assegnazione avanzata a un problema o a una richiesta, l’utente non viene assegnato e visualizza il seguente messaggio di errore:
+
+“Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.”
+
+L’aggiornamento della pagina del browser non ha alcun effetto.
+
+#### Richieste
+
+**Impossibile creare richieste negli ambienti di anteprima**
+
+Quando si tenta di creare una nuova richiesta in un ambiente Sandbox di anteprima, viene visualizzato un errore che indica che la coda di richieste non è più disponibile e che non è possibile creare la richiesta.
 
 +++
 

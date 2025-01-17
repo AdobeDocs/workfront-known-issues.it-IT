@@ -3,20 +3,19 @@ title: 'Documenti: errore “Modifiche non salvate” durante l’aggiunta di un
 description: Quando si aggiunge un modulo a un documento, viene visualizzato un errore “Modifiche non salvate” che non può essere chiuso e impedisce l’interazione con l’applicazione.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '87'
+exl-id: 18911774-ab76-458a-8c59-87695e151d2c
+source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
 
 # Documenti: errore “Modifiche non salvate” durante l’aggiunta di un modulo a un documento
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 10, 2024.
--->
+>Questo problema è stato risolto il venerdì 16 gennaio 2025.
 
 Quando si aggiunge un modulo a un documento, viene visualizzato un errore “Modifiche non salvate” che non può essere chiuso e impedisce l’interazione con l’applicazione.
 

@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1a3bb95b27fb660011ac4b0380eb599f77319c2f
-workflow-type: ht
-source-wordcount: '1217'
-ht-degree: 100%
+source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
+workflow-type: tm+mt
+source-wordcount: '1179'
+ht-degree: 98%
 
 ---
 
@@ -25,15 +25,14 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Attività: l&#39;ora registrata rimane sul progetto precedente dopo lo spostamento](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | venerdì 16 gennaio 2025 |
+| [Rapporti: i filtri dei rapporti orari includono date non corrette](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | venerdì 16 gennaio 2025 |
+| [Schede orario: ore totali non corrette](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | venerdì 16 gennaio 2025 |
 | [Home: pulsanti di approvazione mancanti nel widget In attesa di approvazione](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | venerdì 9 gennaio 2025 |
 | [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |
 | [Progetti: la condizione di ritardo non viene applicata come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | venerdì 9 gennaio 2025 |
-| [Moduli personalizzati: il modulo personalizzato viene visualizzato nel formato legacy](known-issues-workfront/wf-custom-forms-legacy-form-appears.md) | 3 gennaio 2024 |
 | [Record della fatturazione: le ore non vengono salvate](known-issues-workfront/wf-billing-record-hours-not-saved.md) | 3 gennaio 2024 |
-| [Rapporti: i prompt dei rapporti vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | 2 gennaio 2024 |
 | [Notifiche: le notifiche push nell’app Workfront Mobile non funzionano](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 gennaio 2024 |
-| [Moduli personalizzati: errore durante la modifica del modulo personalizzato tramite colonna](known-issues-workfront/wf-custom-forms-error-when-editing.md) | 2 gennaio 2024 |
-| [Documenti: errore “Modifiche non salvate” durante l’aggiunta di un modulo a un documento](known-issues-workfront/wf-documents-unsaved-changes-error.md) | 5 dicembre 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 3 dicembre 2024 |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 dicembre 2024 |
 | [Utenti: il tag “Non registrato” persiste dopo l’accesso](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 13 novembre 2024 |
@@ -58,11 +57,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
 | [Bacheche: impossibile spostare la scheda in una colonna diversa](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2 gennaio 2025 |
-| [Moduli personalizzati: messaggio di “campi non validi” durante la modifica di un modulo personalizzato](known-issues-workfront/wf-custom-forms-blank-required-field.md) | 2 gennaio 2025 |
 | [Utenti: l’aggiornamento in blocco degli utenti è molto lento](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2 gennaio 2025 |
-| [Richieste e problemi: errore con le assegnazioni avanzate di un utente](known-issues-workfront/wf-issues-advanced-user-assignment-error.md) | 2 gennaio 2025 |
 | [Moduli personalizzati: i dati personalizzati non vengono visualizzati nel pannello Riepilogo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 dicembre 2024 |
-| [Bozze: il nome della bozza non viene visualizzato nella scheda del browser](known-issues-workfront/wf-proofs-browser-not-display-proof-name.md) | 11 dicembre 2024 |
 | [Rapporti: la modifica in blocco negli elenchi dei grafici non risponde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 dicembre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | 24 ottobre 2024 |
@@ -82,6 +78,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Rapporti: i prompt dei rapporti vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercoledì 16 gennaio 2024 |
 | [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 dicembre 2024 |
 | [Workfront: il formato della data cambia nel corso dell’applicazione](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 dicembre 2024 |
 | [Approvazioni: i delegati non visualizzano le approvazioni delegate](known-issues-workfront/wf-approvals-delegation-not-working.md) | 20 dicembre 2024 |
