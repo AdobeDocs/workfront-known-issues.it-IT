@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '281'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 #### Documenti
 
-**Errore &quot;Modifiche non salvate&quot; durante l&#39;aggiunta di un modulo a un documento**
+**Errore “Modifiche non salvate” durante l’aggiunta di un modulo a un documento**
 
 Quando si aggiunge un modulo a un documento, viene visualizzato un errore “Modifiche non salvate” che non può essere chiuso e impedisce l’interazione con l’applicazione.
 
@@ -44,7 +44,7 @@ Quando un utente visualizza una bozza, il nome della bozza non è visibile nella
 
 #### Richieste e problemi
 
-**Errore con assegnazioni utente avanzate**
+**Errore con le assegnazioni avanzate di un utente**
 
 Quando un utente cerca di effettuare un’assegnazione avanzata a un problema o a una richiesta, l’utente non viene assegnato e visualizza il seguente messaggio di errore:
 
@@ -54,9 +54,9 @@ L’aggiornamento della pagina del browser non ha alcun effetto.
 
 #### Richieste
 
-**Impossibile creare richieste negli ambienti di anteprima**
+**Impossibile creare richieste negli ambienti di Anteprima**
 
-Quando si tenta di creare una nuova richiesta in un ambiente Sandbox di anteprima, viene visualizzato un errore che indica che la coda di richieste non è più disponibile e che non è possibile creare la richiesta.
+Quando si tenta di creare una nuova richiesta in un ambiente sandbox di anteprima, viene visualizzato un errore che indica che la coda richieste non è più disponibile e che non è possibile creare la richiesta.
 
 +++
 

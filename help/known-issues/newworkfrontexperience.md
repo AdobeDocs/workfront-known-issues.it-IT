@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1179'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Attività: l&#39;ora registrata rimane sul progetto precedente dopo lo spostamento](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | venerdì 16 gennaio 2025 |
-| [Rapporti: i filtri dei rapporti orari includono date non corrette](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | venerdì 16 gennaio 2025 |
+| [Attività: una volta spostata, l’ora registrata rimane sul progetto precedente](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | venerdì 16 gennaio 2025 |
+| [Rapporti: i filtri del rapporto delle ore includono date non corrette](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | venerdì 16 gennaio 2025 |
 | [Schede orario: ore totali non corrette](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | venerdì 16 gennaio 2025 |
 | [Home: pulsanti di approvazione mancanti nel widget In attesa di approvazione](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | venerdì 9 gennaio 2025 |
 | [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |

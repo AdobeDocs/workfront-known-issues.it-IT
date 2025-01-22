@@ -3,9 +3,9 @@ user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
 source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2356'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Attività: dopo lo spostamento, l’ora registrata rimane sul progetto precedente](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
-      + [Rapporti: i filtri dei rapporti sulle ore includono date non corrette](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
-      + [Schede orario: ore totali errate](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
+      + [Attività: una volta spostata, l’ora registrata rimane sul progetto precedente](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
+      + [Rapporti: i filtri del rapporto delle ore includono date non corrette](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
+      + [Schede orario: ore totali non corrette](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)
       + [Home: pulsanti di approvazione mancanti nel widget In attesa di approvazione](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md)
       + [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md)
       + [Progetti: la condizione di ritardo non viene applicata come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
