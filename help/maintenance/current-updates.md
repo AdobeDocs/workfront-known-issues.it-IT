@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 81dba561f8116e5214d06b94c9a620e938b14310
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '337'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,24 @@ Per gli aggiornamenti di manutenzione precedenti al 2025, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di gennaio 2025
+
++++**Aggiornamento di manutenzione il venerdì 23 gennaio 2025**
+
+### Aggiornamento di manutenzione il venerdì 23 gennaio 2025
+
+#### Report
+
+**I campi di valuta personalizzati causano un errore di report**
+
+Quando una visualizzazione di report contiene due o più campi di valuta personalizzati, il report restituisce un errore.
+
+#### Utenti
+
+**tag &quot;Unregistered&quot; persiste dopo l&#39;accesso**
+
+Nonostante l’accesso sia riuscito almeno una volta, il tag “non registrato” non scompare come previsto per i nuovi utenti.
+
++++
 
 +++**Aggiornamento di manutenzione il venerdì 16 gennaio 2025**
 

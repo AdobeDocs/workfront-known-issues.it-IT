@@ -3,14 +3,19 @@ title: 'Utenti: il tag “Non registrato” persiste dopo l’accesso'
 description: Nonostante l’accesso sia riuscito almeno una volta, il tag “non registrato” non scompare come previsto per i nuovi utenti.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '54'
+exl-id: 74bfb5e2-d6a1-47c9-9972-f2167ee2909b
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
 # Utenti: il tag “Non registrato” persiste dopo l’accesso
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 23 gennaio 2025.
 
 Nonostante l’accesso sia riuscito almeno una volta, il tag “non registrato” non scompare come previsto per i nuovi utenti.
 

@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 72d8b7becf9d5a009c04108f3492bd19d1261a8c
-workflow-type: ht
-source-wordcount: '1179'
-ht-degree: 100%
+source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+workflow-type: tm+mt
+source-wordcount: '1189'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Rapporti: i campi di completamento automatico personalizzati nell&#39;espansione non rispondono](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | venerdì 23 gennaio 2025 |
+| [Accedi come: viene visualizzato il modello di layout Home dell&#39;amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | venerdì 23 gennaio 2025 |
+| [Utenti: errore durante la modifica della tariffa](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md) | venerdì 23 gennaio 2025 |
 | [Attività: una volta spostata, l’ora registrata rimane sul progetto precedente](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | venerdì 16 gennaio 2025 |
 | [Rapporti: i filtri del rapporto delle ore includono date non corrette](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md) | venerdì 16 gennaio 2025 |
 | [Schede orario: ore totali non corrette](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | venerdì 16 gennaio 2025 |
@@ -35,7 +38,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Notifiche: le notifiche push nell’app Workfront Mobile non funzionano](known-issues-workfront/wf-notifications-push-to-mobile-not-working.md) | 2 gennaio 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 3 dicembre 2024 |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 dicembre 2024 |
-| [Utenti: il tag “Non registrato” persiste dopo l’accesso](known-issues-workfront/wf-users-unregistered-tag-persists-after-login.md) | 13 novembre 2024 |
 | [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 novembre 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 ottobre 2024 |
 | [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 settembre 2024 |
@@ -57,7 +59,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
 | [Bacheche: impossibile spostare la scheda in una colonna diversa](known-issues-workfront/wf-boards-cannot-move-card-to-column.md) | 2 gennaio 2025 |
-| [Utenti: l’aggiornamento in blocco degli utenti è molto lento](known-issues-workfront/wf-users-bulk-update-takes-long-time.md) | 2 gennaio 2025 |
 | [Moduli personalizzati: i dati personalizzati non vengono visualizzati nel pannello Riepilogo](known-issues-workfront/wf-custom-forms-not-shown-in-summary.md) | 11 dicembre 2024 |
 | [Rapporti: la modifica in blocco negli elenchi dei grafici non risponde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 dicembre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |
