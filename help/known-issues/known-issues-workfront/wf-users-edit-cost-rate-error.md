@@ -3,14 +3,19 @@ title: 'Utenti: l’aggiornamento in blocco degli utenti è molto lento'
 description: 'Quando si tenta di modificare la tariffa per un utente, viene visualizzato il seguente errore: "Riproviamo. Per modificare le date in linea, definisci più di 1 tariffa per il ruolo".'
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+exl-id: ec7464c7-2952-4a4a-8fa1-594405a3ea84
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 13%
+source-wordcount: '86'
+ht-degree: 19%
 
 ---
 
 # Utenti: errore durante la modifica del tasso di costo
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il martedì 13 gennaio 2025.
 
 Quando si tenta di modificare la tariffa per un utente, viene visualizzato il seguente errore: &quot;Riproviamo. Per modificare le date in linea, definisci più di 1 tariffa per il ruolo&quot;.
 

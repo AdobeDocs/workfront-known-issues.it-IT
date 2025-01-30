@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
-source-wordcount: '2378'
-ht-degree: 99%
+source-wordcount: '2391'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: impossibile assegnare tag a determinati utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Report: i campi di completamento automatico personalizzati nel drill-down non rispondono](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [Accedi come: viene visualizzato il modello di layout Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [Utenti: errore durante la modifica del tasso di costo](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
@@ -173,7 +175,7 @@ ht-degree: 99%
       + [Stati: impossibile riutilizzare lo stato eliminato in precedenza](known-issues-workfront/wf-status-cannot-reuse-deleted-status.md)
       + [Home: impossibile rimuovere il widget Menzioni](known-issues-workfront/inactive/wf-home-cannot-remove-mentions.md)
       + [Navigazione: il pulsante Indietro non torna alla pagina precedente](known-issues-workfront/wf-navigation-back-button-not-work.md)
-      + [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](known-issues-workfront/wf-documents-public-link-not-working.md)
+      + [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md)
       + [Bozze: impossibile chiudere il visualizzatore bozza](known-issues-workfront/wf-proofs-cannot-close-proof-viewer.md)
       + [Progetti: il menu Condivisione non si carica](known-issues-workfront/wf-projects-cannot-share-task-issue.md)
       + [Rapporti: i collegamenti pubblici a un rapporto non funzionano](known-issues-workfront/wf-reports-public-link-not-working.md)

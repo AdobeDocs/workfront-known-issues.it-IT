@@ -4,21 +4,18 @@ description: Quando un utente visualizza un rapporto di approvazione della bozza
 hidefromtoc: true
 feature: Digital Content and Documents, Reports and Dashboards
 exl-id: 12bf8b0e-f31b-4320-b7f1-ea9964e86bf7
-source-git-commit: 15525c915fd95ffaf04f5ee4725c23856cabed1a
-workflow-type: ht
-source-wordcount: '84'
+source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # Bozze: le bozze approvate vengono visualizzate nei rapporti
 
-<!--
-
 >[!NOTE]
 >
->This issue has been closed because it is not an issue.
--->
+>Questo problema è stato risolto l’mercoledì 28 gennaio 2025.
 
 Quando un utente visualizza un rapporto di approvazione della bozza, è possibile che nel rapporto vengano visualizzate alcune bozze approvate. Ciò può verificarsi anche se il rapporto è filtrato in modo da visualizzare solo le bozze in attesa di approvazione.
 
