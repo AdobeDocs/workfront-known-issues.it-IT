@@ -5,7 +5,7 @@ role: User
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
 source-wordcount: '2391'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 98%
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Bozze: impossibile assegnare tag a determinati utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
-      + [Report: i campi di completamento automatico personalizzati nel drill-down non rispondono](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
+      + [Rapporti: i campi di completamento automatico personalizzati nel drill-down non sono dinamici](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [Accedi come: viene visualizzato il modello di layout Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
-      + [Utenti: errore durante la modifica del tasso di costo](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
+      + [Utenti: errore durante la modifica della tariffa](/help/known-issues/known-issues-workfront/wf-users-edit-cost-rate-error.md)
       + [Attività: una volta spostata, l’ora registrata rimane sul progetto precedente](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md)
       + [Rapporti: i filtri del rapporto delle ore includono date non corrette](/help/known-issues/known-issues-workfront/wf-reports-hour-report-filter-wrong-dates.md)
       + [Schede orario: ore totali non corrette](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md)

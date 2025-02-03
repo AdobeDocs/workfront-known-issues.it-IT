@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
 source-wordcount: '1174'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -28,7 +28,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | venerdì 30 gennaio 2025 |
 | [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | venerdì 30 gennaio 2025 |
 | [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | venerdì 30 gennaio 2025 |
-| [Rapporti: i campi di completamento automatico personalizzati nell&#39;espansione non rispondono](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | venerdì 23 gennaio 2025 |
+| [Rapporti: i campi di completamento automatico personalizzati nel drill down non sono dinamici](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md) | venerdì 23 gennaio 2025 |
 | [Attività: una volta spostata, l’ora registrata rimane sul progetto precedente](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | venerdì 16 gennaio 2025 |
 | [Schede orario: ore totali non corrette](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | venerdì 16 gennaio 2025 |
 | [Home: pulsanti di approvazione mancanti nel widget In attesa di approvazione](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | venerdì 9 gennaio 2025 |
@@ -76,7 +76,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Accedi come: viene visualizzato il modello di layout Home dell&#39;amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | venerdì 23 gennaio 2025 |
+| [Accedi come: viene visualizzato il modello di layout Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | venerdì 23 gennaio 2025 |
 | [Rapporti: i prompt dei rapporti vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercoledì 16 gennaio 2024 |
 | [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 dicembre 2024 |
 | [Workfront: il formato della data cambia nel corso dell’applicazione](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 dicembre 2024 |

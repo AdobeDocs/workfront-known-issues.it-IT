@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 85%
+ht-degree: 91%
 
 ---
 
@@ -50,13 +50,13 @@ Quando viene filtrato un rapporto delle ore in modo da visualizzare solo una dat
 
 #### Report
 
-**I campi di valuta personalizzati causano un errore di report**
+**I campi di valuta personalizzati causano un errore di rapporto**
 
-Quando una visualizzazione di report contiene due o più campi di valuta personalizzati, il report restituisce un errore.
+Quando una visualizzazione di rapporto contiene due o più campi di valuta personalizzati, il rapporto restituisce un errore.
 
 #### Utenti
 
-**tag &quot;Unregistered&quot; persiste dopo l&#39;accesso**
+**Il tag “Non registrato” persiste dopo l’accesso**
 
 Nonostante l’accesso sia riuscito almeno una volta, il tag “non registrato” non scompare come previsto per i nuovi utenti.
 
