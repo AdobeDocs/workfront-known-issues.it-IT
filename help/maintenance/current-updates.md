@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 91%
+source-wordcount: '458'
+ht-degree: 85%
 
 ---
 
@@ -23,6 +23,20 @@ Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno i
 Per gli aggiornamenti di manutenzione precedenti al 2025, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
+
+## Aggiornamenti di febbraio 2025
+
++++**Aggiornamento di manutenzione il venerdì 6 febbraio 2025**
+
+### Aggiornamento di manutenzione il venerdì 6 febbraio 2025
+
+#### Elenchi
+
+**Impossibile modificare l&#39;elenco attività dopo il caricamento della bozza**
+
+Durante il caricamento di una bozza in un progetto, l’elenco delle attività per quel progetto non può essere modificato in linea fino a quando la pagina non viene aggiornata o il caricamento della bozza termina.
+
++++
 
 ## Aggiornamenti di gennaio 2025
 

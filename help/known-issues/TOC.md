@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
+source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2413'
+ht-degree: 98%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 99%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Modelli di layout: le viste eliminate sono ancora disponibili](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
+      + [Moduli personalizzati: Aziende mancanti dal campo di completamento automatico personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
+      + [Documenti: impossibile caricare nell’elenco dei documenti della cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Bozze: impossibile assegnare tag a determinati utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Rapporti: i campi di completamento automatico personalizzati nel drill-down non sono dinamici](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
