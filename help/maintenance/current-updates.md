@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 85%
+source-wordcount: '545'
+ht-degree: 76%
 
 ---
 
@@ -25,6 +25,24 @@ Per gli aggiornamenti di manutenzione precedenti al 2025, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di febbraio 2025
+
++++**Aggiornamento di manutenzione il venerdì 13 febbraio 2025**
+
+### Aggiornamento di manutenzione il venerdì 13 febbraio 2025
+
+#### Moduli personalizzati
+
+**Dati personalizzati non visualizzati nel pannello Riepilogo**
+
+Quando un cliente visualizza il pannello Riepilogo di un’attività, i dati personalizzati che dovrebbero comparire nel pannello Riepilogo non sono presenti. Ciò può verificarsi anche se il modello di layout per le attività include i campi personalizzati.
+
+#### Report
+
+**Problemi di visualizzazione del prompt**
+
+Quando si accede a un report richiesto con un numero elevato di prompt, la finestra di dialogo del prompt non consente lo scorrimento per accedere a tutti i prompt o al pulsante Esegui report.
+
++++
 
 +++**Aggiornamento di manutenzione il venerdì 6 febbraio 2025**
 

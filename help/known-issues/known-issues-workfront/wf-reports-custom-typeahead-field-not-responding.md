@@ -3,14 +3,19 @@ title: 'Rapporti: i campi di completamento automatico personalizzati nel drill-d
 description: 'Quando un utente cerca di modificare un campo di completamento automatico personalizzato all’interno della tabella di drill down di un rapporto sui grafici, il campo non risponde correttamente: il testo non può essere inserito, viene sporadicamente eliminato o causa occasionalmente l’arresto anomalo della pagina.'
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: dc7c9cb7e7304bec9e68f3f2926ceeaad18e67ff
-workflow-type: ht
-source-wordcount: '104'
+exl-id: 7eee2b05-a7a1-4f45-94a6-2f771da9ba6d
+source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
 # Rapporti: i campi di completamento automatico personalizzati nel drill-down non sono dinamici
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 6 febbraio 2025.
 
 Quando un utente cerca di modificare un campo di completamento automatico personalizzato all’interno della tabella di drill down di un rapporto sui grafici, il campo non risponde correttamente: il testo non può essere inserito, viene sporadicamente eliminato o causa occasionalmente l’arresto anomalo della pagina.
 
