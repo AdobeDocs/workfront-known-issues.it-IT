@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Agile
 exl-id: adac7c77-8517-4b7e-ae55-ad72cace8d54
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 30 gennaio 2025.
+>Questo articolo è stato corretto il 30 gennaio 2025.
 
 Quando un utente tenta di spostare una scheda in un’altra colonna, la scheda non si sposta e l’utente visualizza il seguente messaggio:
 
@@ -25,4 +25,4 @@ Quando un utente tenta di spostare una scheda in un’altra colonna, la scheda n
 
 Assicurati che l’utente che tenta di spostare schede in una bacheca sia aggiunto alla bacheca, anche se è un amministratore.
 
-_Segnalato per la prima volta il giovedì 27 novembre 2024._
+_Segnalato per la prima volta il 27 novembre 2024._

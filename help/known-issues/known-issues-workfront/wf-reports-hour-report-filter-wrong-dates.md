@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 1a158dd0-8f24-4d2d-b8e6-36330d4131b4
 source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 30 gennaio 2025.
+>Questo articolo è stato corretto il 30 gennaio 2025.
 
 Quando viene filtrato un rapporto delle ore in modo da visualizzare solo una data specifica, in realtà nel rapporto viene inclusa una data adiacente diversa. Questo problema sembra essere relativo alle impostazioni del fuso orario.
 
