@@ -21,7 +21,7 @@ ht-degree: 98%
       + [Modelli di layout: le viste eliminate sono ancora disponibili](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Moduli personalizzati: Aziende mancanti dal campo di completamento automatico personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
       + [Documenti: impossibile caricare nell’elenco dei documenti della cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
-      + [Bozze: impossibile assegnare tag a determinati utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
+      + [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
       + [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md)
       + [Rapporti: i campi di completamento automatico personalizzati nel drill-down non sono dinamici](/help/known-issues/known-issues-workfront/wf-reports-custom-typeahead-field-not-responding.md)
       + [Accedi come: viene visualizzato il modello di layout Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)

@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
 workflow-type: tm+mt
 source-wordcount: '545'
-ht-degree: 76%
+ht-degree: 82%
 
 ---
 
@@ -36,7 +36,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 Quando un cliente visualizza il pannello Riepilogo di un’attività, i dati personalizzati che dovrebbero comparire nel pannello Riepilogo non sono presenti. Ciò può verificarsi anche se il modello di layout per le attività include i campi personalizzati.
 
-#### Report
+#### Rapporti
 
 **Problemi di visualizzazione del prompt**
 
@@ -58,19 +58,19 @@ Durante il caricamento di una bozza in un progetto, l’elenco delle attività p
 
 ## Aggiornamenti di gennaio 2025
 
-+++**Aggiornamento di manutenzione il venerdì 30 gennaio 2025**
++++**Aggiornamento di manutenzione del 30 gennaio 2025**
 
-### Aggiornamento di manutenzione il venerdì 30 gennaio 2025
+### Aggiornamento di manutenzione del 30 gennaio 2025
 
 #### Pagina Home
 
 **Le approvazioni non vengono visualizzate nel widget Home**
 
-Le approvazioni inviate da un utente non vengono visualizzate nel proprio widget Approvazioni, anche se filtrate per visualizzarle in modo specifico.
+Le approvazioni inviate da un utente non vengono visualizzate nel widget Le mie approvazioni, anche se filtrate per visualizzarle in modo specifico.
 
-#### Report
+#### Rapporti
 
-I filtri dei report **ore includono date non corrette**
+**I filtri per i rapporti delle ore includono date errate**
 
 Quando viene filtrato un rapporto delle ore in modo da visualizzare solo una data specifica, in realtà nel rapporto viene inclusa una data adiacente diversa. Questo problema sembra essere relativo alle impostazioni del fuso orario.
 
@@ -80,7 +80,7 @@ Quando viene filtrato un rapporto delle ore in modo da visualizzare solo una dat
 
 ### Aggiornamento di manutenzione il venerdì 23 gennaio 2025
 
-#### Report
+#### Rapporti
 
 **I campi di valuta personalizzati causano un errore di rapporto**
 
