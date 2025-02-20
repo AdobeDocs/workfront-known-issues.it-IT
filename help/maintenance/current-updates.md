@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '545'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di febbraio 2025
 
-+++**Aggiornamento di manutenzione il venerdì 13 febbraio 2025**
++++**Aggiornamento di manutenzione del 13 febbraio 2025**
 
-### Aggiornamento di manutenzione il venerdì 13 febbraio 2025
+### Aggiornamento di manutenzione del 13 febbraio 2025
 
 #### Moduli personalizzati
 
-**Dati personalizzati non visualizzati nel pannello Riepilogo**
+**I dati personalizzati non vengono visualizzati nel pannello Riepilogo**
 
 Quando un cliente visualizza il pannello Riepilogo di un’attività, i dati personalizzati che dovrebbero comparire nel pannello Riepilogo non sono presenti. Ciò può verificarsi anche se il modello di layout per le attività include i campi personalizzati.
 
@@ -40,19 +40,19 @@ Quando un cliente visualizza il pannello Riepilogo di un’attività, i dati per
 
 **Problemi di visualizzazione del prompt**
 
-Quando si accede a un report richiesto con un numero elevato di prompt, la finestra di dialogo del prompt non consente lo scorrimento per accedere a tutti i prompt o al pulsante Esegui report.
+Durante l’accesso a un rapporto richiesto con un numero elevato di prompt, la finestra di dialogo del prompt non consente lo scorrimento per accedere a tutti i prompt o al pulsante Esegui report.
 
 +++
 
-+++**Aggiornamento di manutenzione il venerdì 6 febbraio 2025**
++++**Aggiornamento di manutenzione del 6 febbraio 2025**
 
-### Aggiornamento di manutenzione il venerdì 6 febbraio 2025
+### Aggiornamento di manutenzione del 6 febbraio 2025
 
 #### Elenchi
 
-**Impossibile modificare l&#39;elenco attività dopo il caricamento della bozza**
+**Impossibile modificare l’elenco delle attività dopo il caricamento della bozza**
 
-Durante il caricamento di una bozza in un progetto, l’elenco delle attività per quel progetto non può essere modificato in linea fino a quando la pagina non viene aggiornata o il caricamento della bozza termina.
+Durante il caricamento di una bozza in un progetto, l’elenco delle attività per tale progetto non può essere modificato in linea fino a quando la pagina non viene aggiornata o il caricamento della bozza non è completato.
 
 +++
 

@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: impossibile aggiungere o eliminare utenti da Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | mercoledì 24 settembre 2024 |
+| [Workfront Fusion: impossibile aggiungere o eliminare utenti da Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md) | 24 settembre 2024 |
 
 {style="table-layout:auto"}
 
@@ -45,8 +45,8 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: impossibile creare bozze per video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | venerdì 13 febbraio 2025 |
-| [Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati di tutti i dati ](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | mercoledì 29 ottobre 2024 |
+| [Bozze: impossibile creare le bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 febbraio 2025 |
+| [Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati di tutti i dati ](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 ottobre 2024 |
 | [Workfront Fusion: campo mancante nel modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md) | martedì 5 febbraio 2024 |
 | [Workfront Fusion: formattazione dell’output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | giovedì 31 gennaio 2024 |
 | [Workfront Fusion: errore di memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md) | 16 novembre 2023 |

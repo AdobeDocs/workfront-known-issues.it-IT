@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '463'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | mercoledì 11 febbraio 2025 |
+| [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 febbraio 2025 |
 | [Documenti: impossibile visualizzare in anteprima i documenti con il collegamento di anteprima](known-issues-workfront/wf-documents-cannot-preview-by-pasting-link.md) | 15 agosto 2024 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
 | [Impossibile creare la vista per l’elenco dei documenti](known-issues-workfront/wf-documents-cannot-add-new-view.md) | martedì 15 luglio 2024 |
@@ -56,7 +56,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: impossibile creare bozze per video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | venerdì 13 febbraio 2025 |
+| [Bozze: impossibile creare le bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 febbraio 2025 |
 | [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 dicembre 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 giugno 2024 |
 | [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md) | 16 novembre 2023 |

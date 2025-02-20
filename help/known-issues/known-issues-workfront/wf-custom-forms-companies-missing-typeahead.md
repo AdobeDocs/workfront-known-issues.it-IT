@@ -1,17 +1,18 @@
 ---
-title: 'Moduli personalizzati: Aziende mancanti dal campo di completamento automatico personalizzato'
-description: Quando si tenta di trovare un’azienda in un campo typeahead personalizzato che fa riferimento all’oggetto dell’azienda, viene visualizzata solo l’azienda associata all’utente, nonostante quest’ultimo appartenga a un gruppo con altre aziende. In alcuni casi, non viene proposta alcuna società.
+title: 'Moduli personalizzati: aziende mancanti dal campo di digitazione personalizzato'
+description: Quando si tenta di trovare un’azienda in un campo di digitazione personalizzato che fa riferimento all’oggetto dell’azienda, viene visualizzata solo l’azienda associata all’utente, nonostante quest’ultimo appartenga a un gruppo con altre aziende. In alcuni casi, non viene suggerita alcuna azienda.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 54d74864ab127b5368a37340cb99571e5261f2f5
-workflow-type: tm+mt
+exl-id: ec96c136-3442-48d8-9ed1-38d169658c10
+source-git-commit: bdb326edb9de91906b8337bbe4c01c6a6feaa630
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Moduli personalizzati: Aziende mancanti dal campo di completamento automatico personalizzato
+# Moduli personalizzati: aziende mancanti dal campo di digitazione personalizzato
 
-Quando si tenta di trovare un’azienda in un campo typeahead personalizzato che fa riferimento all’oggetto dell’azienda, viene visualizzata solo l’azienda associata all’utente, nonostante quest’ultimo appartenga a un gruppo con altre aziende. In alcuni casi, non viene proposta alcuna società.
+Quando si tenta di trovare un’azienda in un campo di digitazione personalizzato che fa riferimento all’oggetto dell’azienda, viene visualizzata solo l’azienda associata all’utente, nonostante quest’ultimo appartenga a un gruppo con altre aziende. In alcuni casi, non viene suggerita alcuna azienda.
 
-_Segnalato per la prima volta il mercoledì 31 dicembre 2024._
+_Segnalato per la prima volta il 31 dicembre 2024._

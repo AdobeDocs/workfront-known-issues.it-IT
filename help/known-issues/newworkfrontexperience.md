@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
 source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1192'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Modelli di layout: le visualizzazioni eliminate sono ancora disponibili](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | mercoledì 11 febbraio 2025 |
-| [Moduli personalizzati: Aziende mancanti nel campo di completamento automatico personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | mercoledì 11 febbraio 2025 |
-| [Documenti: impossibile caricare nell&#39;elenco dei documenti della cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | mercoledì 11 febbraio 2025 |
+| [Modelli di layout: le visualizzazioni eliminate sono ancora disponibili](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 11 febbraio 2025 |
+| [Moduli personalizzati: aziende mancanti nel campo di digitazione personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 11 febbraio 2025 |
+| [Documenti: impossibile caricare l’elenco dei documenti nella cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 11 febbraio 2025 |
 | [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 30 gennaio 2025 |
 | [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 gennaio 2025 |
 | [Attività: una volta spostata, l’ora registrata rimane sul progetto precedente](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | venerdì 16 gennaio 2025 |
@@ -57,7 +57,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
-| [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | mercoledì 11 febbraio 2025 |
+| [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 febbraio 2025 |
 | [Rapporti: la modifica in blocco negli elenchi dei grafici non risponde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 dicembre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |
 | [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | 24 ottobre 2024 |
@@ -77,7 +77,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: impossibile creare bozze per video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | venerdì 13 febbraio 2025 |
+| [Bozze: impossibile creare le bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 febbraio 2025 |
 | [Accedi come: viene visualizzato il modello di layout Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | venerdì 23 gennaio 2025 |
 | [Rapporti: i prompt dei rapporti vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercoledì 16 gennaio 2024 |
 | [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 dicembre 2024 |
