@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: ht
-source-wordcount: '1192'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '1142'
 ht-degree: 100%
 
 ---
@@ -25,17 +25,10 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Modelli di layout: le visualizzazioni eliminate sono ancora disponibili](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md) | 11 febbraio 2025 |
-| [Moduli personalizzati: aziende mancanti nel campo di digitazione personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 11 febbraio 2025 |
+| [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | venerdì 20 febbraio 2025 |
 | [Documenti: impossibile caricare l’elenco dei documenti nella cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 11 febbraio 2025 |
-| [Documenti: errore durante l’utilizzo di un collegamento pubblico a un documento](/help/known-issues/known-issues-workfront/wf-documents-public-link-not-working.md) | 30 gennaio 2025 |
 | [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 gennaio 2025 |
-| [Attività: una volta spostata, l’ora registrata rimane sul progetto precedente](/help/known-issues/known-issues-workfront/wf-tasks-logged-hours-remain-on-project.md) | venerdì 16 gennaio 2025 |
-| [Schede orario: ore totali non corrette](/help/known-issues/known-issues-workfront/wf-timesheets-incorrect-sum.md) | venerdì 16 gennaio 2025 |
-| [Home: pulsanti di approvazione mancanti nel widget In attesa di approvazione](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | venerdì 9 gennaio 2025 |
 | [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |
-| [Progetti: la condizione di ritardo non viene applicata come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | venerdì 9 gennaio 2025 |
-| [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 3 dicembre 2024 |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 dicembre 2024 |
 | [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 novembre 2024 |
 | [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 ottobre 2024 |
@@ -58,9 +51,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
 | [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 febbraio 2025 |
-| [Rapporti: la modifica in blocco negli elenchi dei grafici non risponde](known-issues-workfront/wf-reports-chart-lists-bulk-edit-unresponsive.md) | 3 dicembre 2024 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |
-| [API: timeout delle richieste](known-issues-workfront/wf-api-request-timing-out.md) | 24 ottobre 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 settembre 2024 |
 | [Moduli personalizzati: per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 agosto 2024 |
 | [Configurazione: problemi durante la disconnessione come altro utente](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 agosto 2024 |
@@ -77,6 +68,9 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | venerdì 20 febbraio 2025 |
+| [Progetti: la condizione di ritardo non viene applicata come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | martedì 20 gennaio 2025 |
+| [Moduli personalizzati: aziende mancanti nel campo di digitazione personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | venerdì 20 febbraio 2025 |
 | [Bozze: impossibile creare le bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 febbraio 2025 |
 | [Accedi come: viene visualizzato il modello di layout Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | venerdì 23 gennaio 2025 |
 | [Rapporti: i prompt dei rapporti vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercoledì 16 gennaio 2024 |

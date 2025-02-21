@@ -4,20 +4,18 @@ description: Timeout delle richieste effettuate tramite l’API Workfront.
 hidefromtoc: true
 feature: Workfront API, Workfront Fusion
 exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
-source-wordcount: '44'
+source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+workflow-type: tm+mt
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
 
 # API: timeout delle richieste
 
-<!--
 >[!NOTE]
 >
->This article was fixed on October 9, 2024.
--->
+>Questo problema è stato risolto il giovedì 19 febbraio 2025.
 
 Timeout delle richieste effettuate tramite l’API Workfront.
 
