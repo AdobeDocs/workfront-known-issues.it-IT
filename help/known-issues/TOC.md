@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 10ff0d5ee972b5b0fa0eaa724ccc6aba9e74284f
-workflow-type: ht
-source-wordcount: '2424'
-ht-degree: 100%
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
+workflow-type: tm+mt
+source-wordcount: '2438'
+ht-degree: 99%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 100%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Modello di layout: sezione iterazioni personalizzate inaccessibile](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
+      + [Notifiche: e-mail duplicate](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
+      + [Workfront Fusion: errore di connessione allo scenario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
       + [Bozze: impossibile creare bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Modelli di layout: le visualizzazioni eliminate sono ancora disponibili](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Moduli personalizzati: aziende mancanti dal campo di digitazione personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)

@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
+source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
 workflow-type: tm+mt
-source-wordcount: '1142'
-ht-degree: 100%
+source-wordcount: '1153'
+ht-degree: 99%
 
 ---
 
@@ -25,6 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Modello di layout: sezione iterazioni personalizzate inaccessibile](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | martedì 24 febbraio 2025 |
+| [Notifiche: e-mail duplicate](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | martedì 24 febbraio 2025 |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | venerdì 20 febbraio 2025 |
 | [Documenti: impossibile caricare l’elenco dei documenti nella cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 11 febbraio 2025 |
 | [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 gennaio 2025 |
