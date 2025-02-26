@@ -4,9 +4,9 @@ description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '649'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di febbraio 2025
 
-+++**Aggiornamento di manutenzione del venerdì 20 febbraio 2025**
++++**Aggiornamento di manutenzione del 20 febbraio 2025**
 
-### Aggiornamento di manutenzione del venerdì 20 febbraio 2025
+### Aggiornamento di manutenzione del 20 febbraio 2025
 
 #### Notifiche
 
@@ -38,13 +38,13 @@ Quando si verifica un evento che dovrebbe attivare le notifiche e-mail o in-app,
 
 #### Attività
 
-**L&#39;ora registrata rimane sul progetto precedente dopo lo spostamento**
+**Una volta spostata, l’ora registrata rimane sul progetto precedente**
 
 Dopo lo spostamento delle attività in un nuovo progetto, il totale delle ore del progetto originale include anche le ore delle attività spostate. Le attività continuano a mantenere correttamente le ore registrate nel nuovo progetto.
 
 #### Schede orario
 
-**Totale ore errato**
+**Ore totali non corrette**
 
 Il calcolo delle ore totali delle schede orario mostra occasionalmente una somma non corretta.
 

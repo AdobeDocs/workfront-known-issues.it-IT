@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Workfront API, Workfront Fusion
 exl-id: 48cdb8e2-8409-4b0e-9c27-e494156bccc1
 source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il giovedì 19 febbraio 2025.
+>Questo problema è stato risolto il 19 febbraio 2025.
 
 Timeout delle richieste effettuate tramite l’API Workfront.
 
