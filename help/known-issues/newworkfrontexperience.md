@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
+source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
 workflow-type: tm+mt
-source-wordcount: '1162'
-ht-degree: 99%
+source-wordcount: '1171'
+ht-degree: 98%
 
 ---
 
@@ -69,6 +69,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Integrazioni: errore outlookIdentityToken durante l&#39;utilizzo di Workfront per Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | mercoledì 4 marzo 2025 |
 | [Notifiche: e-mail duplicate](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | venerdì 27 febbraio 2025 |
 | [Documenti: impossibile caricare l’elenco dei documenti nella cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | venerdì 27 febbraio 2025 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 20 febbraio 2025 |
