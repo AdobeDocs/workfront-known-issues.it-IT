@@ -18,9 +18,9 @@ ht-degree: 99%
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
       + [Integrazioni: errore outlookIdentityToken durante l’utilizzo di Workfront per Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
-      + [Modello di layout: sezione iterazioni personalizzate inaccessibile](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
+      + [Modello di layout: sezione Personalizzato delle iterazioni inaccessibile](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Notifiche: e-mail duplicate](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
-      + [Workfront Fusion: errore di connessione allo scenario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
+      + [Workfront Fusion: errore di connessione negli scenari](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md)
       + [Bozze: impossibile creare bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md)
       + [Modelli di layout: le visualizzazioni eliminate sono ancora disponibili](/help/known-issues/known-issues-workfront/wf-layout-templates-deleted-views-available.md)
       + [Moduli personalizzati: aziende mancanti dal campo di digitazione personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)

@@ -7,7 +7,7 @@ feature: Get Started with Workfront
 source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
 workflow-type: tm+mt
 source-wordcount: '1171'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Modello di layout: sezione iterazioni personalizzate inaccessibile](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | martedì 24 febbraio 2025 |
+| [Modello di layout: sezione Personalizzato delle iterazioni inaccessibile](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 24 febbraio 2025 |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
 | [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 gennaio 2025 |
 | [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |
