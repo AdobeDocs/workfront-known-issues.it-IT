@@ -5,9 +5,9 @@ keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
 source-git-commit: a2d7e98c114ca65872e60c4d9b507f90d663e5df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: errore di connessione dello scenario](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | martedì 24 febbraio 2025 |
+| [Workfront Fusion: errore di connessione negli scenari](/help/known-issues/known-issues-workfront/wf-fusion-scenario-connection-error.md) | 24 febbraio 2025 |
 
 {style="table-layout:auto"}
 
