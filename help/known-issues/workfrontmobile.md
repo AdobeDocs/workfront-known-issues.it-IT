@@ -4,9 +4,9 @@ description: 'Rapporto Problemi noti nell’app mobile  [!DNL Adobe Workfront] '
 keywords: nuovo file, aggiungi file
 exl-id: 9f48d0f8-b4e8-4bd8-b317-ff406e97cb1b
 feature: Work Management
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+workflow-type: tm+mt
+source-wordcount: '63'
 ht-degree: 100%
 
 ---
@@ -26,8 +26,8 @@ Questa pagina contiene i problemi attualmente identificati nell’app mobile [!D
 Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
-| -----------------------------------------------------------------| ----------------- ||
-| [Workfront Mobile: i collegamenti nelle e-mail di bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 ottobre 2024 |
+| -----------------------------------------------------------------| ----------------- |
+| Nessuno |  |
 
 <!--
 ## Current Issues

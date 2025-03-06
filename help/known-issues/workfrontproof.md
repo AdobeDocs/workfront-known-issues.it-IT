@@ -4,9 +4,9 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: ht
-source-wordcount: '469'
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+workflow-type: tm+mt
+source-wordcount: '459'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | -----------------------------------------------------------------| ----------------- |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
 | [Documenti: nell’area Documenti non vengono visualizzati tutti i documenti](known-issues-workfront/wf-documents-standard-view-does-not-display-all-documents.md) | 2 gennaio 2024 |
-| [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 ottobre 2024 |
 | [Agile: lo storyboard diventa vuoto quando si aggiunge un’attività secondaria](known-issues-workfront/wf-agile-blank-screen-when-adding-subtask.md) | 26 luglio 2024 |
 | [Bozze: l’apertura di una bozza apre più copie](known-issues-workfront/wf-proofs-two-proofs-open.md) | 25 luglio 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |

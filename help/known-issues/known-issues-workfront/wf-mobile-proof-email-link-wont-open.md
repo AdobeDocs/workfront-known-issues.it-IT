@@ -1,16 +1,21 @@
 ---
-title: 'Workfront Mobile: i collegamenti e-mail della bozza non possono essere aperti su iPhone'
+title: 'Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone'
 description: Quando un utente tenta di aprire una bozza tramite un collegamento e-mail sul telefono, viene reindirizzato a una pagina del browser in cui in seguito viene visualizzato un errore che indica che il collegamento non è valido.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e23074d92c2183758f432b2069c246bd5fa7d61b
-workflow-type: ht
-source-wordcount: '118'
+exl-id: 6279839d-6e91-4a5b-9acf-3afa1cb1c543
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+workflow-type: tm+mt
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
 
 # Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone
+
+>[!NOTE]
+>
+>Questo problema è stato risolto.
 
 Quando un utente tenta di aprire una bozza tramite un collegamento e-mail sul telefono, viene reindirizzato a una pagina del browser in cui in seguito viene visualizzato un errore che indica che il collegamento non è valido. Al momento questo problema riguarda solo gli utenti di iPhone.
 

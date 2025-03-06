@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 3b0bd3d5de463bc58c4bbbf54d407632dadab58d
+source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
 workflow-type: tm+mt
-source-wordcount: '1171'
+source-wordcount: '1122'
 ht-degree: 99%
 
 ---
@@ -27,15 +27,11 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | ----------------------------------------------------------------- | ----------------- |
 | [Modello di layout: sezione Personalizzato delle iterazioni inaccessibile](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md) | 24 febbraio 2025 |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
-| [Attività: filtri e visualizzazioni a livello di progetto disponibili per le attività](/help/known-issues/known-issues-workfront/wf-tasks-project-level-filters-views-available.md) | 30 gennaio 2025 |
 | [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |
 | [Attività: problemi relativi al ricalcolo della timeline](known-issues-workfront/wf-tasks-timeline-recalculation-issues.md) | 3 dicembre 2024 |
 | [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 novembre 2024 |
-| [Workfront Mobile: i collegamenti e-mail della bozza non si aprono su iPhone](known-issues-workfront/wf-mobile-proof-email-link-wont-open.md) | 9 ottobre 2024 |
 | [API: chiamata API non riuscita a causa di un errore SQL](known-issues-workfront/wf-api-call-failed-due-to-sql-error.md) | 12 settembre 2024 |
 | [Bacheche: lo stato della scheda non corrisponde all’oggetto connesso e ignora il filtro](known-issues-workfront/wf-boards-card-status-doesnt-match-connected-object.md) | 3 settembre 2024 |
-| [Bacheche: la scheda connessa si trova in una colonna errata](known-issues-workfront/wf-boards-connected-card-incorrect-column.md) | 28 agosto 2024 |
-| [Workfront: non si riesce a utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md) | 26 agosto 2024 |
 | [Home: “Nessun accesso” viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | 15 agosto 2024 |
 | [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 agosto 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
@@ -50,11 +46,9 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
-| [Home: pulsanti di approvazione mancanti nel widget In attesa di approvazione](/help/known-issues/known-issues-workfront/wf-home-approval-buttons-missing.md) | venerdì 27 febbraio 2025 |
 | [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 febbraio 2025 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 settembre 2024 |
-| [Moduli personalizzati: per impostazione predefinita, la sezione Moduli utilizza i moduli di progetto](known-issues-workfront/wf-custom-forms-default-to-project.md) | 22 agosto 2024 |
 | [Configurazione: problemi durante la disconnessione come altro utente](known-issues-workfront/wf-setup-login-as-misdirection-or-error.md) | 15 agosto 2024 |
 | [Notifiche: errore durante l’impostazione delle preferenze di notifica](known-issues-workfront/wf-notifications-whoops-error.md) | 8 agosto 2024 |
 | [Livelli di accesso: livelli di accesso duplicati nell’area di configurazione](known-issues-workfront/wf-access-duplicate-level.md) | 25 luglio 2024 |
