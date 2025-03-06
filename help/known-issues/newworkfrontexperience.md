@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
+source-git-commit: 2b7c3f6d18c70dc117688fe389e80d87c11c0cc4
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 99%
+source-wordcount: '1118'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | [Workfront Mobile: impossibile accedere senza utilizzare SSO](known-issues-workfront/wf-mobile-cannot-bypass-sso.md) | 14 agosto 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 | [Rapporti: errore durante la visualizzazione dei dettagli del rapporto raggruppati per data personalizzata](known-issues-workfront/wf-reports-error-with-custom-date-field.md) | 14 giugno 2024 |
-| [Configurazione: il banner “Accesso effettuato come” non viene visualizzato quando si è connessi come altro utente](known-issues-workfront/wf-setup-login-as-banner-not-present.md) | 7 maggio 2024 |
 
 {style="table-layout:auto"}
 
@@ -46,6 +45,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
+| [Accedi come: gli amministratori del gruppo non possono accedere come un altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | venerdì 6 marzo 2025 |
 | [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 febbraio 2025 |
 | [Rapporti: tempi di caricamento lunghi di Report Builder](known-issues-workfront/wf-reports-long-report-builder-loading-times.md) | 21 novembre 2024 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 settembre 2024 |
