@@ -1,13 +1,13 @@
 ---
-title: '“Home: impossibile visualizzare l’immagine del documento nell’Elenco di lavoro”'
+title: 'Home: impossibile visualizzare l’immagine del documento in Work List (Elenco di lavoro)'
 description: Quando un utente fa clic sulla miniatura di un .docx per visualizzare un’anteprima del documento, si apre un lettore video e l’utente non può vedere il documento.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '107'
+ht-degree: 81%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Il team di prodotto sta attualmente valutando la risoluzione di questo problema. Una volta avvenuta, la risoluzione del problema verrà comunicata negli annunci dei prodotti e non con gli aggiornamenti di manutenzione.
+>La funzionalità relativa a questo problema è stata dichiarata obsoleta.
 
 Quando un utente fa clic sulla miniatura di un [!UICONTROL .docx] per visualizzare un’anteprima del documento, si apre un lettore video e l’utente non può vedere il documento.
 

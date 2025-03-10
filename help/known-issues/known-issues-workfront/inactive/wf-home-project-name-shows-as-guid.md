@@ -4,10 +4,10 @@ description: Quando a un utente viene richiesto di approvare una bozza a cui non
 exl-id: ca75430f-42ea-4239-9756-fd8d4f4aba89
 hidefromtoc: true
 feature: Get Started with Workfront, Projects
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 91%
+source-wordcount: '117'
+ht-degree: 82%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->Il team di prodotto sta attualmente valutando la risoluzione di questo problema. Una volta avvenuta, la risoluzione del problema verrà comunicata negli annunci dei prodotti e non con gli aggiornamenti di manutenzione.
+>La funzionalità relativa a questo problema è stata dichiarata obsoleta.
 
 Quando a un utente viene richiesto di approvare una bozza a cui non ha accesso e il suo [!UICONTROL Work List] (Elenco di lavoro) nella [!UICONTROL Home] è ordinato per [!UICONTROL Project Name] (Nome del progetto), l’utente non è in grado di visualizzare il nome del progetto e viene visualizzato il GUID.
 

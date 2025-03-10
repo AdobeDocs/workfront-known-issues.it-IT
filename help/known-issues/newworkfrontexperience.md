@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Wo
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 10cc321822a7369abab69f75db1bf9a7995191c2
+source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
 workflow-type: tm+mt
-source-wordcount: '1036'
+source-wordcount: '979'
 ht-degree: 98%
 
 ---
@@ -77,6 +77,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Rapporti: errore durante l’esportazione di un rapporto](known-issues-workfront/wf-reports-error-cache-content.md) | martedì 14 ottobre 2024 |
 | [Home: i campi personalizzati eliminati persistono nei widget di progetto, attività e problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md) | 8 ottobre 2024 |
 | [Priorità: i raggruppamenti impediscono l’ordinamento e la modifica in linea](known-issues-workfront/wf-home-priorities-grouping-limitations.md) | 8 ottobre 2024 |
+| [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | 5 settembre 2024 |
 | [Rapporti: impossibile scorrere per visualizzare l’intero rapporto sul grafico](known-issues-workfront/wf-reports-unable-to-scroll.md) | 19 settembre 2024 |
 | [Workfront: più schede del browser causano la disconnessione di Workfront](known-issues-workfront/wf-workfront-logs-out-when-multiple-tabs.md) | 18 settembre 2024 |
 | [Moduli personalizzati: il campo calcolato mostra un valore errato](known-issues-workfront/wf-custom-forms-calculated-field-showing-one-multi.md) | 12 settembre 2024 |
@@ -119,27 +120,21 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro della bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 settembre 2022 |
 | [Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
 | [Dashboard: i colori dei grafici del rapporto mostrati in una dashboard sono diversi rispetto a quelli presenti nel rapporto](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 agosto 2022 |
-| [[!UICONTROL Home]: la terminologia personalizzata non viene applicata all’area Home](known-issues-workfront/inactive/wf-home-custom-term-not-applied-to-home.md) | 3 giugno 2022 |
 | [Agile: impossibile modificare i campi dai moduli personalizzati sulle schede](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md) | 11 maggio 2022 |
 | [Agile: problemi durante lo spostamento delle schede sulla bacheca [!UICONTROL Agile] ](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 aprile 2022 |
 | [Approvazioni: la delega di approvazione è impostata per un numero di giorni non corretto](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md) | 20 aprile 2022 |
 | [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 ottobre 2021 |
 | [Aggiornamenti: il nome del team non viene visualizzato in @mention](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 ottobre 2021 |
 | [Agile: discrepanza nei [!UICONTROL Punti completati] per un’iterazione](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 giugno 2021 |
-| [[!UICONTROL Home]: il comportamento del pulsante [!UICONTROL Rispondi nella bozza] è incoerente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 giugno 2021 |
 | [Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 giugno 2021 |
 | [Notifiche e-mail: l’utente non viene indirizzato al thread di commento](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 23 aprile 2021 |
 | [Calendari: l’istruzione di filtro  [!DNL OR] esclude la regola di filtro](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 23 aprile 2021 |
 | [[!UICONTROL Workfront Proof]: il rapporto [!UICONTROL Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 aprile 2021 |
-| [[!UICONTROL Home]: il nome del progetto viene visualizzato come GUID nell’[!UICONTROL Elenco lavori]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md) | 11 febbraio 2021 |
 | [Documenti: l’icona del flusso di lavoro della bozza non viene visualizzata](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 gennaio 2021 |
 | [Rapporti: il calendario utilizza date precedenti per impostazione predefinita](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 5 febbraio 2021 |
 | [Notifiche e-mail: le e-mail non vengono formattate correttamente in  [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md) | 30 marzo 2021 |
-| [[!UICONTROL Home]: impossibile visualizzare l’immagine del documento nell’[!UICONTROL Elenco lavori]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md) | 9 novembre 2020 |
 | [Elenchi: il nome visualizzato non viene applicato al raggruppamento di campi personalizzati](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md) | 9 novembre 2020 |
-| [Home: le date relative alla delega di approvazione cambiano dopo l’aggiornamento e vengono inviate 2 e-mail](known-issues-workfront/inactive/wf-home-approval-delegation-dates-changing.md) | 9 novembre 2020 |
 | [Calendario: attività non visualizzate](known-issues-workfront/inactive/wf-calendar-tasks-not-displaying.md) | 9 novembre 2020 |
-| [Home: si verificano arresti anomali della home con errore “Memoria esaurita”](known-issues-workfront/wf-home-crashes-with-error.md) | 5 settembre 2024 |
 
 {style="table-layout:auto"}
 
