@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione di Workfront nel 2022
 description: Aggiornamenti di manutenzione 2022 per  [!DNL Adobe Workfront]
 exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
-source-git-commit: 8dc177a194ae32bcb135910badc7fdb2c42e530d
+source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '16797'
-ht-degree: 100%
+source-wordcount: '16794'
+ht-degree: 99%
 
 ---
 
@@ -1079,14 +1079,13 @@ In seguito alla correzione di questi bug, l’indirizzo e-mail utilizzato per in
 
 In precedenza, gli indirizzi e-mail per le bozze contenevano il sottodominio della tua organizzazione. Ad esempio, notifications@[dominio dell’azienda].my.workfront.com
 
-Adesso, gli indirizzi e-mail per le bozze non contengono più il sottodominio delle organizzazioni, e tutte le notifiche e-mail delle bozze verranno inviate dal seguente indirizzo: notification@my.workfront.com
+Adesso, gli indirizzi e-mail per le bozze non contengono più il sottodominio delle organizzazioni, Tutte le notifiche e-mail delle bozze verranno inviate dal seguente indirizzo: `notification@my.workfront.com`
 
 Per questo, se non lo hai già fatto, ti consigliamo di effettuare le seguenti operazioni:
 
-* Aggiorna i filtri anti-spam per accettare le e-mail da notification@my.workfront.com
-* Aggiorna il tuo elenco di indirizzi consentiti per accettare le e-mail da notification@my.workfront.com
-
-**Non è possibile modificare le opzioni utente al termine della configurazione iniziale in Modelli del flusso di lavoro**
+* Aggiorna i filtri anti-spam per accettare le e-mail da `notification@my.workfront.com`
+* Inserire nell&#39;elenco Consentiti Aggiorna i tuoi per accettare le e-mail da `notification@my.workfront.com`
+  **Non è possibile modificare le opzioni utente al termine della configurazione iniziale in Modelli del flusso di lavoro**
 
 *[!DNL Workfront Proof]*
 
