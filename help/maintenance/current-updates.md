@@ -6,7 +6,7 @@ feature: Get Started with Workfront
 source-git-commit: 670de537b1a167ad682f6e74f5ef02e4f6691c46
 workflow-type: tm+mt
 source-wordcount: '727'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Per informazioni sulle interruzioni di manutenzione per tutti i prodotti Adobe, incluso Workfront, consulta la [pagina di stato Adobe](https://status.adobe.com/it).
+>Per informazioni sulle interruzioni di manutenzione per tutti i prodotti Adobe, incluso Workfront, consulta la [pagina di stato Adobe](https://status.adobe.com/it/).
 
 Questa pagina descrive i problemi risolti negli aggiornamenti settimanali di Workfront.
 
@@ -36,9 +36,9 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 ## Aggiornamenti di febbraio 2025
 
-+++**Aggiornamento di manutenzione del venerdì 27 febbraio 2025**
++++**Aggiornamento di manutenzione del 27 febbraio 2025**
 
-### Aggiornamento di manutenzione del venerdì 27 febbraio 2025
+### Aggiornamento di manutenzione del 27 febbraio 2025
 
 #### Gruppi
 

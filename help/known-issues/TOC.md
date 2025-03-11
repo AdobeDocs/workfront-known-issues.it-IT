@@ -175,9 +175,9 @@ ht-degree: 98%
       + [Agile: discrepanza nei [!UICONTROL Punti completati] per un’iterazione](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + [Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
       + [Notifiche e-mail: l’utente non viene indirizzato al thread di commento](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md)
-      + [Calendari: l’istruzione di filtro  [!DNL OR]  esclude la regola di filtro](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
+      + [Calendari: l’istruzione di filtro [!DNL OR] esclude la regola di filtro](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md)
       + [[!UICONTROL Home]: il nome del progetto viene visualizzato come GUID nell’[!UICONTROL Elenco lavori]](known-issues-workfront/inactive/wf-home-project-name-shows-as-guid.md)
-      + [“Rapporti: il calendario utilizza date precedenti per impostazione predefinita](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
+      + [Rapporti: il calendario utilizza date precedenti per impostazione predefinita](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md)
       + [Notifiche e-mail: le e-mail non vengono formattate correttamente in  [!DNL Outlook]](known-issues-workfront/inactive/wf-email-notif-not-formatting-in-outlook.md)
       + [[!UICONTROL Home]: impossibile visualizzare l’immagine del documento nell’[!UICONTROL Elenco lavori]](known-issues-workfront/inactive/wf-home-unable-to-view-document-image.md)
       + [Elenchi: il nome visualizzato non viene applicato al raggruppamento di campi personalizzati](known-issues-workfront/inactive/wf-lists-display-name-not-applied-to-grouping.md)
@@ -197,7 +197,7 @@ ht-degree: 98%
       + [Workfront Proof: i dati della dashboard non sono sempre precisi](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md)
       + [Workfront Proof: i dati di ricerca non sono sempre precisi](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md)
       + [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront-proof/proof-dependency-rules-multichoice.md)
-      + [[!DNL Workfront Proof]: errore 500 durante l’accesso a [!DNL Workfront Proof]  tramite API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
+      + [[!DNL Workfront Proof]: errore 500 durante l’accesso a [!DNL Workfront Proof]  tramite API o [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md)
       + [[!DNL Workfront Proof]: gli elenchi non sono ordinati correttamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md)
       + [[!DNL Workfront Proof]: l’area [!UICONTROL Rapporti] non è più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md)
       + [Bozze: l’utente non riceve un messaggio e-mail quando viene taggato in un commento di bozza](known-issues-workfront-proof/proof-user-not-emailed-when-tagged.md)
@@ -232,7 +232,7 @@ ht-degree: 98%
    + [Problemi noti in  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [Problemi noti in  [!DNL Workfront Library]](workfrontlibrary.md)
-+ App mobile di [!DNL Workfront] {#mobile}
++ [!DNL Workfront] App mobile di {#mobile}
    + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [Problemi noti in  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)

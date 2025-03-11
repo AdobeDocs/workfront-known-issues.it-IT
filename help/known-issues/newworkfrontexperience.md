@@ -1,6 +1,6 @@
 ---
-title: 'Problemi noti nella nuova esperienza di  [!DNL Adobe Workfront] '
-description: 'Problemi noti segnalati per la nuova esperienza di  [!DNL Adobe Workfront] '
+title: 'Problemi noti nella nuova esperienza di [!DNL Adobe Workfront] '
+description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Workfront] '
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
@@ -44,7 +44,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Accedi come: gli amministratori del gruppo non possono accedere come un altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | venerdì 6 marzo 2025 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 24 settembre 2024 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | 11 aprile 2024 |
-| [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di [!DNL Workfront]  su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
+| [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di [!DNL Workfront] su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
 {style="table-layout:auto"}
 
@@ -54,9 +54,9 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Integrazioni: errore outlookIdentityToken durante l&#39;utilizzo di Workfront per Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | mercoledì 4 marzo 2025 |
-| [Notifiche: e-mail duplicate](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | venerdì 27 febbraio 2025 |
-| [Documenti: impossibile caricare l’elenco dei documenti nella cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | venerdì 27 febbraio 2025 |
+| [Integrazioni: errore outlookIdentityToken durante l’utilizzo di Workfront per Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 marzo 2025 |
+| [Notifiche: e-mail duplicate](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27 febbraio 2025 |
+| [Documenti: impossibile caricare l’elenco dei documenti nella cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 febbraio 2025 |
 | [Integrazioni: impossibile accedere a Workfront per Outlook](known-issues-workfront/wf-integrations-cannot-log-into-workfront-for-outlook.md) | 20 febbraio 2025 |
 | [Progetti: la condizione di ritardo non viene applicata come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 20 gennaio 2025 |
 | [Moduli personalizzati: aziende mancanti nel campo di digitazione personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 20 febbraio 2025 |
@@ -127,7 +127,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Agile: discrepanza nei [!UICONTROL Punti completati] per un’iterazione](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 giugno 2021 |
 | [Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 giugno 2021 |
 | [Notifiche e-mail: l’utente non viene indirizzato al thread di commento](known-issues-workfront/inactive/wf-email-notif-user-not-directed-to-thread.md) | 23 aprile 2021 |
-| [Calendari: l’istruzione di filtro  [!DNL OR] esclude la regola di filtro](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 23 aprile 2021 |
+| [Calendari: l’istruzione di filtro [!DNL OR] esclude la regola di filtro](known-issues-workfront/inactive/wf-calendars-or-filter-statement.md) | 23 aprile 2021 |
 | [[!UICONTROL Workfront Proof]: il rapporto [!UICONTROL Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 aprile 2021 |
 | [Documenti: l’icona del flusso di lavoro della bozza non viene visualizzata](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 25 gennaio 2021 |
 | [Rapporti: il calendario utilizza date precedenti per impostazione predefinita](known-issues-workfront/inactive/wf-reports-caledar-defaults-to-old-dates.md) | 5 febbraio 2021 |
