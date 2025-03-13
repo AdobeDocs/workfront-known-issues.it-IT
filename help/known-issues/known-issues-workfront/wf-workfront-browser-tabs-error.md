@@ -1,16 +1,21 @@
 ---
 title: 'Workfront: impossibile caricare le schede del browser lasciate aperte'
-description: 'Quando un utente lascia aperte le schede del browser Workfront abbastanza a lungo da richiedere un nuovo accesso all’applicazione, invece di chiedere nuovamente all’utente di effettuare l’accesso, la pagina mostra l’errore: “500-001a: impossibile caricare la pagina”. '
+description: 'Quando un utente lascia aperte le schede del browser Workfront abbastanza a lungo da richiedere un nuovo accesso all’applicazione, invece di chiedere nuovamente all’utente di effettuare l’accesso, la pagina mostra l’errore: “500-001a: impossibile caricare la pagina”.'
 hidefromtoc: true
 feature: Get Started with Workfront
-source-git-commit: f15c76a622c02154c3aa1bec6be9603af18bbf91
-workflow-type: ht
-source-wordcount: '110'
-ht-degree: 100%
+exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
+source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+workflow-type: tm+mt
+source-wordcount: '120'
+ht-degree: 91%
 
 ---
 
 # Workfront: impossibile caricare le schede del browser lasciate aperte
+
+>[!NOTE]
+>
+>La correzione per questo problema viene implementata gradualmente.
 
 Quando un utente lascia aperte le schede del browser Workfront abbastanza a lungo da richiedere un nuovo accesso all’applicazione, invece di chiedere nuovamente all’utente di effettuare l’accesso, la pagina mostra l’errore: “500-001a: impossibile caricare la pagina”.
 
