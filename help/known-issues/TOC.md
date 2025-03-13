@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
+source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
-source-wordcount: '1701'
-ht-degree: 98%
+source-wordcount: '1716'
+ht-degree: 97%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 98%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Richieste: coda richieste non disponibile](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
+      + [Progetti: lo stato di avanzamento del progetto non viene aggiornato automaticamente a In ritardo](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Aggiornamenti: alcuni utenti non possono visualizzare immagini o documenti allegati ai commenti](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
       + [Accedi come: gli amministratori del gruppo non possono accedere come un altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integrazioni: errore outlookIdentityToken durante l’utilizzo di Workfront per Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
