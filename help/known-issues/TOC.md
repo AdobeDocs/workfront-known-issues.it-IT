@@ -5,7 +5,7 @@ role: User
 source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
 workflow-type: tm+mt
 source-wordcount: '1716'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 97%
       + [Richieste: coda richieste non disponibile](/help/known-issues/known-issues-workfront/wf-requests-queue-not-available.md)
       + [Progetti: lo stato di avanzamento del progetto non viene aggiornato automaticamente a In ritardo](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Aggiornamenti: alcuni utenti non possono visualizzare immagini o documenti allegati ai commenti](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md)
-      + [Accedi come: gli amministratori del gruppo non possono accedere come un altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
+      + [Accedi come: gli amministratori del gruppo non possono accedere come altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integrazioni: errore outlookIdentityToken durante l’utilizzo di Workfront per Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Modello di layout: sezione Personalizzato delle iterazioni inaccessibile](/help/known-issues/known-issues-workfront/wf-layout-templates-custom-iterations-inaccessible.md)
       + [Notifiche: e-mail duplicate](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -79,12 +79,12 @@ ht-degree: 97%
       + [Home: il widget I miei aggiornamenti non funziona](known-issues-workfront/wf-home-my-updates-not-working.md)
       + [Documenti: il pulsante Opzioni di approvazione manca nei documenti](known-issues-workfront/wf-documents-missing-approval-button.md)
       + [Integrazioni: le integrazioni JumpSeat non vengono completate per le organizzazioni su Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
-      + [Notifiche: le e-mail di notifica del documento non consentono di visualizzare le anteprime delle immagini](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
+      + [Notifiche: le e-mail di notifica del documento non consentono di mostrare le anteprime delle immagini](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
       + [Bozze: impossibile creare le bozze nell’ambiente di Anteprima](known-issues-workfront/wf-proofs-cannot-create-proofs-in-preview.md)
       + [Home: i campi personalizzati eliminati persistono nei widget di progetto, attività e problema](known-issues-workfront/wf-home-deleted-custom-field-persists-in-widget.md)
       + [Priorità: i raggruppamenti impediscono l’ordinamento e la modifica in linea](known-issues-workfront/wf-home-priorities-grouping-limitations.md)
       + [Progetti: impossibile condividere i progetti a causa dell’errore “accedi per eliminare”](known-issues-workfront/wf-projects-sharing-access-error.md)
-      + [Rapporti: impossibile scorrere per visualizzare l’intero rapporto sul grafico](known-issues-workfront/wf-reports-unable-to-scroll.md)
+      + [Rapporti: impossibile scorrere per visualizzare l’intero rapporto del grafico](known-issues-workfront/wf-reports-unable-to-scroll.md)
       + [Gruppi: lo stato del gruppo eliminato viene visualizzato nuovamente](known-issues-workfront/wf-groups-deleted-status-reappears.md)
       + [Notifiche: gli utenti collaboratori non ricevono notifiche e-mail](known-issues-workfront/wf-notifications-email-daily-digest-contributors.md)
       + [Workfront: impossibile utilizzare SSO](known-issues-workfront/wf-workfront-cannot-use-sso.md)
@@ -118,7 +118,7 @@ ht-degree: 97%
       + [La data di completamento effettiva viene visualizzata come N/D](known-issues-workfront/wf-projects-completion-date-is-na.md)
       + [Documenti: estensione file UNK quando si collegano documenti dall’integrazione](known-issues-workfront/wf-documents-unk-file-extension.md)
       + [Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata in esso](known-issues-workfront/wf-projects-priority-not-transfer.md)
-      + [Schede orario: la scheda orario fissata passa in una pagina vuota](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
+      + [Schede orario: la scheda orario fissata passa a una pagina vuota](known-issues-workfront/inactive/wf-timesheets-pinned-goes-to-blank-page.md)
       + [I moderatori della bozza non riescono a modificare le autorizzazioni](known-issues-workfront/wf-proofs-cannot-adjust-permissions.md)
       + [Aggiornamenti: il collegamento nel commento passa a una schermata vuota](known-issues-workfront/wf-updates-link-goes-to-blank-page.md)
       + [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)

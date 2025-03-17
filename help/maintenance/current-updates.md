@@ -26,9 +26,9 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di marzo 2025
 
-+++**Aggiornamento di manutenzione il venerdì 13 marzo 2025**
++++**Aggiornamento di manutenzione del venerdì 13 marzo 2025**
 
-### Aggiornamento di manutenzione il venerdì 13 marzo 2025
+### Aggiornamento di manutenzione del venerdì 13 marzo 2025
 
 #### Rapporti
 
@@ -38,9 +38,9 @@ In un rapporto del dashboard, fare clic su un risultato del grafico con più di 
 
 +++
 
-+++**Aggiornamento di manutenzione il venerdì 6 marzo 2025**
++++**Aggiornamento di manutenzione del 6 marzo 2025**
 
-### Aggiornamento di manutenzione il venerdì 6 marzo 2025
+### Aggiornamento di manutenzione del 6 marzo 2025
 
 Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
 
