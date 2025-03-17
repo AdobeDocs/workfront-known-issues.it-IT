@@ -3,15 +3,19 @@ title: 'Richieste: coda richieste non disponibile'
 description: Quando un utente cerca di selezionare una coda di richieste specifica, visualizza il messaggio La coda di richieste non è più disponibile. Ciò può verificarsi anche se la coda di richieste esiste ancora.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 592c51c774fcf9f6ff3e633fec7b2be559ea3158
+exl-id: 954b6647-3232-4340-9433-f7fcad0f6783
+source-git-commit: 7b4146154fa50c77daf237ec8c480b900c0aa277
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
 # Richieste: coda richieste non disponibile
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il sabato 14 marzo 2025.
 
 Quando un utente cerca di selezionare una coda di richieste specifica, visualizza il messaggio &quot;La coda di richieste non è più disponibile&quot;. Ciò può verificarsi anche se la coda di richieste esiste ancora.
 
