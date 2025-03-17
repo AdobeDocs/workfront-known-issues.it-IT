@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Reports and Dashboards
 exl-id: 9ab83394-c192-4a5f-922c-f0fef7df99ca
 source-git-commit: 88f86485714bb836ddd3f82f37452eb8d3d2e9bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 25 luglio 2024.
+>Questo problema è stato risolto il 25 luglio 2024.
 
 Quando un utente sta visualizzando un rapporto e fa clic sui dettagli e il rapporto è raggruppato per un campo data personalizzato, i dettagli non vengono caricati e l’utente visualizza il seguente errore:
 

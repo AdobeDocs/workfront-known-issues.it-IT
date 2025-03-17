@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: System Setup and Administration
 exl-id: 22b36104-8ec1-4a8c-9b50-58b0d0945598
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 6 marzo 2025.
+>Questo problema è stato risolto il 6 marzo 2025.
 
 Quando si tenta di passare alla sezione Personalizzato durante la modifica di un’iterazione in un modello di layout, la sezione non viene caricata e reindirizza alla sezione Aggiornamenti.
 

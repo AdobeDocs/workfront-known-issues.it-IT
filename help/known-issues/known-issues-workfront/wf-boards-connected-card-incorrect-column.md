@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Agile
 exl-id: 98c1c3d7-df14-4f4d-9970-f5326870e2e0
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 10 ottobre 2024.
+>Questo problema è stato risolto il 10 ottobre 2024.
 
 
 Sono stati segnalati i seguenti problemi relativi alle schede connesse nella colonna errata:

@@ -5,7 +5,7 @@ hidefromtoc: true
 feature: Tasks
 exl-id: 3f28e60d-8c19-432b-94af-be217d607cad
 source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il sabato 21 febbraio 2025.
+>Questo problema è stato risolto il 21 febbraio 2025.
 
 Quando si aprono gli elenchi di filtri o visualizzazioni per un’attività, i filtri e le visualizzazioni creati a livello di progetto vengono visualizzati nell’elenco delle opzioni.
 

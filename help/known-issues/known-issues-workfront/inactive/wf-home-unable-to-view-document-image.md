@@ -1,13 +1,13 @@
 ---
-title: 'Home: impossibile visualizzare l’immagine del documento in Work List (Elenco di lavoro)'
+title: 'Home: impossibile visualizzare l’immagine del documento in Elenco lavori'
 description: Quando un utente fa clic sulla miniatura di un .docx per visualizzare un’anteprima del documento, si apre un lettore video e l’utente non può vedere il documento.
 exl-id: 63b02355-0857-4da2-98d4-190ed4219b89
 hidefromtoc: true
 feature: Get Started with Workfront, Digital Content and Documents
 source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 

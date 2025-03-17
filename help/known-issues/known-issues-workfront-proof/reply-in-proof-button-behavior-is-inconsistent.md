@@ -1,13 +1,13 @@
 ---
-title: 'Home: il pulsante Reply in Proof (Rispondi in bozza) non si comporta come previsto'
+title: 'Home: il comportamento del pulsante Rispondi nella bozza è incoerente'
 description: All’interno della nuova esperienza [!DNL Adobe Workfront] , quando un utente visualizza una bozza nel pannello destro della pagina [!UICONTROL Home] e fa clic sul pulsante [!UICONTROL Reply in proof] (Rispondi in bozza) in un commento, visualizza una casella di testo in cui è possibile lasciare un aggiornamento nella sezione [!UICONTROL Aggiornamenti] del documento invece di essere indirizzato al Proofing Viewer (Visualizzatore di bozze) come previsto.
 exl-id: f9e08d81-135c-4b04-a239-2fb0fcc87ae5
 hidefromtoc: true
 feature: Workfront Proof
 source-git-commit: ddcea9054f51049698bbe7eb059efe304a31f7d9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
