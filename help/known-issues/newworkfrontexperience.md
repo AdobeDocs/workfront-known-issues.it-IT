@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 70391ab9ea91c84b22e23049bc1e791e55a8829f
+source-git-commit: 2fd0fec1215ca576b4873f84ed564f31650e3567
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 98%
+source-wordcount: '973'
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Bozze: la generazione della bozza è lenta](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md) | martedì 17 marzo 2025 |
-| [Progetti: lo stato di avanzamento del progetto non viene aggiornato automaticamente a In ritardo](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md) | venerdì 13 marzo 2025 |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
 | [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |
 | [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 novembre 2024 |
