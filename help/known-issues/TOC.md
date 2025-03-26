@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '1738'
+source-wordcount: '1745'
 ht-degree: 97%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 97%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Filtri: il menu a discesa scompare quando si fa clic sulla barra di scorrimento](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Home: impossibile inviare risposte dal widget Menzioni](/help/known-issues/known-issues-workfront/wf-home-mention-replies-not-sent.md)
       + [Aggiornamenti: gli aggiornamenti subiscono ritardi](known-issues-workfront/wf-updates-delay-in-updates.md)
       + [Bozze: la generazione di bozze è lenta](/help/known-issues/known-issues-workfront/wf-proofs-generation-very-slow.md)

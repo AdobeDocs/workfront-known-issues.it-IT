@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f9c3efc48b0a3978f38986959e52652bf3509daf
+source-git-commit: b1a44fbf96213a612d5667f49ed1757aac6a2345
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '983'
 ht-degree: 98%
 
 ---
@@ -52,6 +52,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Filtri: il menu a discesa scompare quando si fa clic sulla barra di scorrimento](known-issues-workfront/wf-filter-scroll-bar.md) | giovedì 26 marzo 2025 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | venerdì 13 marzo 2025 |
 | [Home: “Nessun accesso” viene visualizzato come nome del progetto](known-issues-workfront/wf-home-no-access-project-name.md) | venerdì 13 marzo 2025 |
 | [Integrazioni: errore outlookIdentityToken durante l’utilizzo di Workfront per Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 marzo 2025 |
