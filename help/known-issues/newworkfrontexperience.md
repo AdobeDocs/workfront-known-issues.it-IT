@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: f4dc1e1d5296a8fc10b25c30985fac9a578ce7d6
+source-git-commit: 1ffbb90dba272020f484e3f1d05fffbe88c55f64
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 96%
+source-wordcount: '995'
+ht-degree: 95%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Dashboard: dashboard personalizzato non aperto](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | venerdì 3 aprile 2025 |
 | [Richieste: gli URL del codice incorporato non caricano correttamente la coda di richieste](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | venerdì 27 marzo 2025 |
 | [Rapporti: gli utenti con fusi orari diversi ottengono risultati diversi](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | venerdì 27 marzo 2025 |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
@@ -41,7 +42,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
 | [Utenti: gli amministratori del gruppo non possono disattivare gli utenti](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | venerdì 27 marzo 2025 |
-| [Aggiornamenti: alcuni utenti non possono visualizzare immagini o documenti allegati ai commenti](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 marzo 2025 |
 | [Accedi come: gli amministratori del gruppo non possono accedere come altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 marzo 2025 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di [!DNL Workfront] su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
