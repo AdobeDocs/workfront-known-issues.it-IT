@@ -4,14 +4,18 @@ description: Quando un amministratore principale di sistema viene cambiato con u
 hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 93319b7b-a182-4149-a1c8-08f5f71df094
-source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
-workflow-type: ht
-source-wordcount: '78'
+source-git-commit: cb008302e356aebf208353058a6fada352155c61
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
 
 # Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 10 aprile 2025.
 
 Quando un amministratore principale di sistema viene cambiato con un altro utente, viene creato un duplicato dell’account di tale utente con il nome “Utente amministratore” e un indirizzo e-mail identico.
 

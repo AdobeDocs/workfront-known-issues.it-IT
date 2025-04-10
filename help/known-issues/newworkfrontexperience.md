@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
+source-git-commit: cb008302e356aebf208353058a6fada352155c61
 workflow-type: tm+mt
-source-wordcount: '968'
-ht-degree: 97%
+source-wordcount: '952'
+ht-degree: 98%
 
 ---
 
@@ -25,9 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Richieste: gli URL del codice incorporato non caricano correttamente la coda di richieste](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | venerdì 27 marzo 2025 |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
-| [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |
 | [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 novembre 2024 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
@@ -39,7 +37,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
-| [Utenti: gli amministratori del gruppo non possono disattivare gli utenti](known-issues-workfront/wf-users-group-admins-cannot-deactivate-users.md) | venerdì 27 marzo 2025 |
+| [Richieste: gli URL del codice incorporato non caricano correttamente la coda di richieste](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | venerdì 10 aprile 2025 |
 | [Accedi come: gli amministratori del gruppo non possono accedere come altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 marzo 2025 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di [!DNL Workfront] su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
