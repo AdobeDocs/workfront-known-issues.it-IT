@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '962'
 ht-degree: 87%
 
 ---
@@ -26,21 +26,21 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di aprile 2025
 
-+++**(Pianificato) Aggiornamento di manutenzione del venerdì 10 aprile 2025**
++++**Aggiornamento di manutenzione il venerdì 10 aprile 2025**
 
-### **(Pianificato) Aggiornamento di manutenzione del venerdì 10 aprile 2025**
+### **Aggiornamento di manutenzione il venerdì 10 aprile 2025**
 
 #### Dashboard
 
 **Il dashboard personalizzato non si apre**
 
-Quando un utente sta visualizzando un oggetto e tenta di aprire un dashboard personalizzato collegato all&#39;oggetto, il dashboard non si apre.
+Quando un utente visualizza un oggetto e tenta di aprire un dashboard personalizzato associato all’oggetto, il dashboard non si apre.
 
 #### Rapporti
 
-**Gli utenti con fusi orari diversi ottengono risultati di report diversi**
+**Utenti con fusi orari diversi ottengono risultati diversi**
 
-Gli utenti di fusi orari diversi che utilizzano il selettore data per ottenere un rapporto per una determinata data ottengono risultati diversi per tale rapporto.
+Gli utenti in fusi orari diversi che utilizzano il selettore data per ottenere un rapporto per una determinata data ottengono risultati diversi per quel rapporto.
 
 +++
 
@@ -76,9 +76,9 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 #### Rapporti
 
-**Il conteggio degli elementi nel grafico è impreciso**
+**Il numero di elementi nel grafico non è accurato**
 
-In un report dashboard, facendo clic su un risultato del grafico con più di 15 elementi e selezionando di visualizzarne solo 15 funziona come previsto. Tuttavia, se si apre lo stesso report all&#39;esterno del dashboard e si fa clic sullo stesso risultato del grafico, significa che tutti gli elementi vengono visualizzati, ma solo 15 vengono effettivamente visualizzati.
+In un rapporto del dashboard, fare clic su un risultato del grafico con più di 15 elementi e selezionare la visualizzazione solo 15 funziona come previsto. Tuttavia, se si apre lo stesso report all&#39;esterno del dashboard e si fa clic sullo stesso risultato del grafico, questo indica che vengono visualizzati tutti gli elementi, ma solo 15.
 
 +++
 

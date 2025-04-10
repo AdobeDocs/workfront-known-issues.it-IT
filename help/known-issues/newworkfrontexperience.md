@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 282c250c226a0024d0359bca938ad56d78026848
+source-git-commit: 1d6e079de904bba0142e73d01bbc3020aadf95df
 workflow-type: tm+mt
-source-wordcount: '986'
-ht-degree: 95%
+source-wordcount: '968'
+ht-degree: 97%
 
 ---
 
@@ -25,9 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Dashboard: dashboard personalizzato non aperto](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md) | venerdì 3 aprile 2025 |
 | [Richieste: gli URL del codice incorporato non caricano correttamente la coda di richieste](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md) | venerdì 27 marzo 2025 |
-| [Rapporti: gli utenti con fusi orari diversi ottengono risultati diversi](known-issues-workfront/wf-reports-inaccurate-results-based-on-time-zone.md) | venerdì 27 marzo 2025 |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
 | [Utenti: viene creato un account duplicato durante il cambio di amministratore di sistema](/help/known-issues/known-issues-workfront/wf-users-duplicate-account-when-changing-admin.md) | venerdì 9 gennaio 2025 |
 | [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md) | 12 novembre 2024 |
