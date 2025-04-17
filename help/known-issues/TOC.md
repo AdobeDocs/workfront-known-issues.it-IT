@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 769cf7631661402b5add6e719838358859e25a21
+source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1806'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 0%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenti: le miniature dei documenti non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Modelli: impossibile condividere con l&#39;accesso di Contribute](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Dashboard: il dashboard personalizzato non si apre](known-issues-workfront/wf-dashboards-custom-dashboard-not-open.md)
       + [Richieste: gli URL del codice incorporato non caricano correttamente la coda delle richieste](known-issues-workfront/wf-requests-embed-code-does-not-load-request-correctly.md)
@@ -220,7 +221,7 @@ ht-degree: 0%
       + [Il rapporto [!UICONTROL Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + [[!UICONTROL Home]: le bozze completate rimangono bloccate nell’[!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + [Documenti: l’icona del flusso di lavoro della bozza non viene visualizzata](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
-   + Problemi risolti nella Bozza di [!DNL Workfront] {#proof-resolved}
+   + Problemi risolti in [!DNL Workfront] Proof {#proof-resolved}
       + [Bozze: le bozze mostrano il messaggio “[!UICONTROL Generazione della bozza in corso]” per un periodo di tempo eccessivo](known-issues-workfront-proof/resolved-issues-proof/generating-proof-for-excessive-amounts-of-time.md)
 
 
@@ -241,11 +242,11 @@ ht-degree: 0%
       + [[!DNL Workfront Fusion]: il modulo di  [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Obiettivi di Adobe Workfront] {#goals}
++ [!UICONTROL Obiettivi Adobe Workfront] {#goals}
    + [Problemi noti in  [!DNL Workfront Goals]](workfrontgoals.md)
 + [!DNL Workfront Library] {#library}
    + [Problemi noti in  [!DNL Workfront Library]](workfrontlibrary.md)
-+ [!DNL Workfront] App mobile di {#mobile}
++ App mobile [!DNL Workfront] {#mobile}
    + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 + [!DNL Workfront Scenario Planner] {#scenarioplanner}
    + [Problemi noti in  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
