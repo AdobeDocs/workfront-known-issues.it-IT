@@ -4,9 +4,9 @@ description: Quando un utente visualizza un campo calcolato che fa riferimento a
 hidefromtoc: true
 feature: Custom Forms
 exl-id: a6768daa-f248-4311-8274-3ad4310faad7
-source-git-commit: 79ffb8fc61d5dd80b91a27b71018400c591da6aa
-workflow-type: ht
-source-wordcount: '132'
+source-git-commit: e32c9244e39877d2a541d4911348c5adee553c62
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
+>Questo problema è stato risolto il 10 ottobre 2024.
 
 Quando un utente visualizza un campo calcolato che fa riferimento a valori di campi di ricerca esterni a selezione multipla, nel campo calcolato viene visualizzato un solo valore selezionato. Ciò può verificarsi anche quando sono selezionati più valori e questi vengono visualizzati quando l’utente modifica il campo.
 
