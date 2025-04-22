@@ -4,8 +4,8 @@ description: Quando un utente tenta di aggiungere ore idonee a un record azienda
 hidefromtoc: true
 feature: Work Management
 exl-id: a199d943-69d7-4262-8fd8-ca8ff4f5ab33
-source-git-commit: 5e22dd915d5c6a7ca2d0285f83824d4df36af06e
-workflow-type: ht
+source-git-commit: 838c8ed34b72916597a4a28ec00a5711bba3fe23
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo articolo è stato corretto il 29 gennaio 2025.
+>Questo problema è stato risolto il giovedì 29 gennaio 2025.
 
 Quando un utente tenta di aggiungere le ore idonee su un record aziendale, le ore non vengono salvate e l’utente visualizza il seguente messaggio:
 
