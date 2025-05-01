@@ -4,10 +4,10 @@ description: 'Quando un utente lascia aperte le schede del browser Workfront abb
 hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: ac9ec88e-2edd-44de-9925-f2936a0feebf
-source-git-commit: 77776e8134a24a6b85a01ac97029306f389437ef
+source-git-commit: ef202b88d094e783b2b4e288aea68ccbb71c175f
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 91%
+source-wordcount: '115'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->La correzione per questo problema viene implementata gradualmente.
+>Questo problema è stato risolto.
 
 Quando un utente lascia aperte le schede del browser Workfront abbastanza a lungo da richiedere un nuovo accesso all’applicazione, invece di chiedere nuovamente all’utente di effettuare l’accesso, la pagina mostra l’errore: “500-001a: impossibile caricare la pagina”.
 
