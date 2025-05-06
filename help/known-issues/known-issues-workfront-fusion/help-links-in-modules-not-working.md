@@ -4,7 +4,7 @@ description: Attualmente i collegamenti della Guida in  [!DNL Workfront Fusion] 
 hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il 25 aprile 2023.
+>Questo problema è stato risolto il martedì 5 maggio 2025.
 
 Attualmente i collegamenti della Guida in [!DNL Workfront Fusion] non reindirizzano alle relative pagine di aiuto. Bensì alla [!DNL Fusion] pagina Home della documentazione di [!DNL Workfront]. Puoi cercare le informazioni necessarie da questa pagina di destinazione.
 

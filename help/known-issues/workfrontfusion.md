@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 7694737e6f8bc14d4c166be918bbe96948b930f8
+source-git-commit: 889157407be97219b0a258c038f5094b197238b1
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 92%
+source-wordcount: '185'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Workfront Fusion: le opzioni della versione 2 della sottoscrizione agli eventi di Workfront non sono disponibili durante la connessione a un ambiente sandbox](/help/known-issues/known-issues-workfront-fusion/fusion-event-subs-v1-sandbox.md) | venerdì 3 aprile 2025 |
+| Nessuno |  |
 
 {style="table-layout:auto"}
 
