@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: fe4f61bf23c2def29767fbccde8cc24a07a56b36
+source-git-commit: 62326cae8815b0ee835a882fbedd9b1615369a5f
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '922'
 ht-degree: 97%
 
 ---
@@ -25,8 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Modelli: impossibile condividere con l&#39;accesso di Contribute](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md) | sabato 11 aprile 2025 |
-| [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
+| [Pianificazione risorse: il pulsante Esporta è disabilitato](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | venerdì 22 maggio 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
 {style="table-layout:auto"}
@@ -38,7 +37,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
 | [Documenti: le miniature del documento non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | venerdì 17 aprile 2025 |
-| [Accedi come: gli amministratori del gruppo non possono accedere come altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md) | 6 marzo 2025 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di [!DNL Workfront] su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
 
 {style="table-layout:auto"}
