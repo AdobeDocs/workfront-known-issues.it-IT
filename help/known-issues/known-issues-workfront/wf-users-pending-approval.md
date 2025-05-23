@@ -42,7 +42,7 @@ Ciò si verifica quando gli utenti aggiunti a Workfront non eseguono la sincroni
 
 Per risolvere gli utenti che sono stati aggiunti in un batch di grandi dimensioni, puoi aggiungere direttamente il batch di utenti a Adobe Admin Console.
 
-Per istruzioni, vedere [Gestione di più utenti | Caricamento CSV in blocco](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html) nella documentazione di Adobe.
+Per istruzioni, vedere [Gestione di più utenti | Caricamento CSV in blocco](https://helpx.adobe.com/it/enterprise/using/bulk-upload-users.html) nella documentazione di Adobe.
 
 
 _Segnalato per la prima volta il venerdì 8 maggio 2025._
