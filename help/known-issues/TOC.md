@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 7b73c768009d730f95684e6cc3fb46dbd08c9afe
+source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
 workflow-type: tm+mt
-source-wordcount: '1643'
-ht-degree: 91%
+source-wordcount: '1651'
+ht-degree: 90%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 91%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Ricerca: la ricerca avanzata non restituisce i risultati previsti](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti](known-issues-workfront/wf-users-pending-approval.md)
       + [Pianificazione risorse: il pulsante Esporta è disabilitato](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [Bozze: la chiusura dell’elenco delle bozze viene reindirizzata ai documenti](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
