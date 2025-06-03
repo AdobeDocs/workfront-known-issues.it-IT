@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
+source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
 workflow-type: tm+mt
-source-wordcount: '1651'
+source-wordcount: '1656'
 ht-degree: 90%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Schede orario: schede orario non generate correttamente](known-issues-workfront/wf-timesheets-one-week-created.md)
       + [Ricerca: la ricerca avanzata non restituisce i risultati previsti](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti](known-issues-workfront/wf-users-pending-approval.md)
       + [Pianificazione risorse: il pulsante Esporta è disabilitato](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)

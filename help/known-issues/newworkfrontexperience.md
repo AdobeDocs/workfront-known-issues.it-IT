@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 624dbff910e8d2a8ae29704f94b3dc348a249be0
+source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '937'
 ht-degree: 95%
 
 ---
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Ricerca: la ricerca avanzata non restituisce i risultati previsti](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md) | venerdì 29 maggio 2025 |
+| [Schede orario: schede orario non generate correttamente](known-issues-workfront/wf-timesheets-one-week-created.md) | mercoledì 3 giugno 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
 {style="table-layout:auto"}
