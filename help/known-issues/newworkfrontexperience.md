@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
+source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 95%
+source-wordcount: '952'
+ht-degree: 94%
 
 ---
 
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Rapporti: l&#39;espansione del grafico include risultati imprecisi](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md) | martedì 9 giugno 2025 |
 | [Schede orario: schede orario non generate correttamente](known-issues-workfront/wf-timesheets-one-week-created.md) | mercoledì 3 giugno 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
@@ -36,6 +37,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
+| [Bozze: impossibile aprire la bozza dal collegamento diretto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | martedì 9 giugno 2025 |
 | [Pianificazione risorse: il pulsante Esporta è disabilitato](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md) | venerdì 29 maggio 2025 |
 | [Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti](known-issues-workfront/wf-users-pending-approval.md) | sabato 23 maggio 2025 |
 | [Documenti: le miniature del documento non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | venerdì 17 aprile 2025 |

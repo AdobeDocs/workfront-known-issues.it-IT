@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
+source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
 workflow-type: tm+mt
-source-wordcount: '1656'
-ht-degree: 90%
+source-wordcount: '1669'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 90%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: impossibile aprire la bozza da un collegamento diretto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
+      + [Report: l’espansione del grafico include risultati imprecisi](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
       + [Schede orario: schede orario non generate correttamente](known-issues-workfront/wf-timesheets-one-week-created.md)
       + [Ricerca: la ricerca avanzata non restituisce i risultati previsti](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti](known-issues-workfront/wf-users-pending-approval.md)
