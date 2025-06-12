@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 2d481e92c9f1ac680d0381970028a1e341cdfa65
+source-git-commit: 93003ab8b3f6b5fe38255c08e43da37ebcfd5887
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 94%
+source-wordcount: '393'
+ht-degree: 93%
 
 ---
 
@@ -40,7 +40,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Bozze: impossibile aprire la bozza dal collegamento diretto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | martedì 9 giugno 2025 |
 | [Documenti: le miniature del documento non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | venerdì 17 aprile 2025 |
 | [Aggiornamenti: alcuni utenti non possono visualizzare immagini o documenti allegati ai commenti](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 marzo 2025 |
-| [Bozze: le bozze approvate vengono visualizzate nei rapporti](known-issues-workfront/wf-proofs-approved-showing-on-reports.md) | 11 febbraio 2025 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maggio 2024 |
 
@@ -60,7 +59,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md) | 25 ottobre 2023 |
 | [Workfront Proof: i dati della dashboard non sono sempre precisi](known-issues-workfront-proof/proof-dashboard-data-may-not-be-accurate.md) | 19 settembre 2023 |
 | [Workfront Proof: i dati di ricerca non sono sempre precisi](known-issues-workfront-proof/proof-search-data-not-may-not-be-accurate.md) | 19 settembre 2023 |
-| [Bozze: le bozze non vengono visualizzate nei rapporti come approvate](known-issues-workfront/inactive/wf-proofs-not-showing-approved-in-report.md) | 3 agosto 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront-proof/proof-dependency-rules-multichoice.md) | 9 giugno 2023 |
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
 | [[!DNL Workfront Proof]: errore 500 durante l’accesso a  [!DNL Workfront Proof]  tramite API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maggio 2023 |
@@ -76,7 +74,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro della bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 settembre 2022 |
 | [Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
 | [[!DNL Workfront Proof]: impossibile aggiungere un’utente alla bozza assegnandoli un tag in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 marzo 2022 |
-| [[!UICONTROL Home]: il comportamento del pulsante [!UICONTROL Rispondi nella bozza] è incoerente](known-issues-workfront-proof/reply-in-proof-button-behavior-is-inconsistent.md) | 21 giugno 2021 |
 | [[!DNL Workfront Proof]: [!UICONTROL Il rapporto Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md) | 21 aprile 2021 |
 | [Documenti: l’icona del flusso di lavoro della bozza non viene visualizzata](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md) | 5 marzo 2021 |
 
