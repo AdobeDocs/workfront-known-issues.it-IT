@@ -3,15 +3,19 @@ title: 'Schede orario: schede orario non generate correttamente'
 description: Quando un utente cerca di generare le schede orario e la generazione è impostata su A settimane alterne, viene generata solo una settimana.
 hidefromtoc: true
 feature: Timesheets
-source-git-commit: 2366fa99ff22001b52a8cfc37526b1d3ab84e56e
+exl-id: cfc61613-57c7-477b-b448-d6f87fb4ca0d
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 7%
+source-wordcount: '73'
+ht-degree: 15%
 
 ---
 
-
 # Schede orario: schede orario non generate correttamente
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il mercoledì 10 giugno 2025.
 
 Quando un utente cerca di generare le schede orario e la generazione è impostata su &quot;A settimane alterne&quot;, viene generata solo una settimana.
 

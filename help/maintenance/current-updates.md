@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 6e9a1d2bc434be36549a91e692d4fa44db0f26cd
+source-git-commit: d4655e47130729985089c2ab6880e4db4f43294a
 workflow-type: tm+mt
-source-wordcount: '1248'
-ht-degree: 81%
+source-wordcount: '1321'
+ht-degree: 77%
 
 ---
 
@@ -26,9 +26,27 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di giugno 2025
 
-+++**Aggiornamenti di manutenzione del 2-6 giugno 2025**
++++**Aggiornamenti di manutenzione della settimana dal 9 al 13 giugno 2025**
 
-### Aggiornamento di manutenzione del 2-6 giugno 2025
+### Aggiornamento di manutenzione della settimana dal 9 al 13 giugno 2025
+
+#### Pianificazione risorse
+
+**Il pulsante Esporta è disabilitato**
+
+Quando un utente tenta di esportare da Pianificazione risorse, il pulsante è disattivato (non disponibile) e l’utente non può eseguire l’esportazione.
+
+#### Schede orario
+
+**Schede orario non generate correttamente**
+
+Quando un utente cerca di generare le schede orario e la generazione è impostata su &quot;A settimane alterne&quot;, viene generata solo una settimana.
+
++++
+
++++**Aggiornamenti di manutenzione della settimana dal 2 al 6 giugno 2025**
+
+### Aggiornamento di manutenzione della settimana dal 2 al 6 giugno 2025
 
 ### Ricerca
 
@@ -40,9 +58,9 @@ Quando un utente utilizza la Ricerca avanzata, i risultati previsti non vengono 
 
 ## Aggiornamenti di maggio 2025
 
-+++**Aggiornamenti di manutenzione del 26-30 maggio 2025**
++++**Aggiornamenti di manutenzione della settimana dal 26 al 30 maggio 2025**
 
-### Aggiornamento di manutenzione del 26-30 maggio 2025
+### Aggiornamento di manutenzione della settimana dal 26 al 30 maggio 2025
 
 Gli aggiornamenti di questa settimana includono solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
 
