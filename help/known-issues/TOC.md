@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: f12b3c44b09592dcd079286b40028b677e794f05
+source-git-commit: 76bdfa40874b920e2245c8e81d53068ca4055ac1
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 87%
+source-wordcount: '1403'
+ht-degree: 86%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 87%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: impossibile aggiungere utenti a una bozza per nome nell’ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [Bozze: impossibile aprire la bozza da un collegamento diretto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
       + [Report: l’espansione del grafico include risultati imprecisi](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
       + [Schede orario: schede orario non generate correttamente](known-issues-workfront/wf-timesheets-one-week-created.md)
