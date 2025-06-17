@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 1d882ff2e8415575e3658bc492aa24a7fc68687a
+source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
 workflow-type: tm+mt
-source-wordcount: '1413'
+source-wordcount: '1412'
 ht-degree: 86%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Utenti: gli utenti disattivati o eliminati vengono visualizzati come attivi in Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
+      + [Workfront: oggetti non sincronizzati tra Workfront e Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Bozze: impossibile aggiungere utenti a una bozza per nome nell’ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [Bozze: impossibile aprire la bozza da un collegamento diretto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
       + [Report: l’espansione del grafico include risultati imprecisi](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
