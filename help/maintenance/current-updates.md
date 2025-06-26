@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f1eb46ee67560fe897317c76eec9dfec801f21f7
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '1360'
-ht-degree: 76%
+source-wordcount: '1421'
+ht-degree: 72%
 
 ---
 
@@ -25,6 +25,18 @@ Per gli aggiornamenti di manutenzione precedenti al 2025, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di giugno 2025
+
++++**Aggiornamenti di manutenzione della settimana dal 22 al 27 giugno 2025**
+
+### Aggiornamento di manutenzione della settimana dal 22 al 27 giugno 2025
+
+#### Bozze
+
+**Impossibile aprire la bozza dal collegamento diretto**
+
+Quando un utente cerca di aprire una bozza da un collegamento diretto, la bozza non si apre. Ciò può verificarsi anche se l’utente fa parte di un flusso di lavoro per la bozza o se è un amministratore Workfront.
+
++++
 
 +++**Aggiornamenti di manutenzione - settimana dal 15 al 21 giugno 2025**
 

@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 90%
+source-wordcount: '399'
+ht-degree: 92%
 
 ---
 
@@ -37,7 +37,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Bozze: impossibile aprire la bozza dal collegamento diretto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | martedì 9 giugno 2025 |
 | [Documenti: le miniature del documento non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | venerdì 17 aprile 2025 |
 | [Aggiornamenti: alcuni utenti non possono visualizzare immagini o documenti allegati ai commenti](known-issues-workfront/wf-updates-some-users-cannot-see-images-document.md) | 10 marzo 2025 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |

@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
+source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
 workflow-type: tm+mt
-source-wordcount: '943'
-ht-degree: 92%
+source-wordcount: '935'
+ht-degree: 93%
 
 ---
 
@@ -38,7 +38,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | ---------------------------------- | ----------------- |
 | [Progetti: impossibile spostare il progetto nel programma specificato](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md) | sabato 20 giugno 2025 |
 | [Workfront: oggetti non sincronizzati tra Workfront e Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | mercoledì 17 giugno 2025 |
-| [Bozze: impossibile aprire la bozza dal collegamento diretto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md) | martedì 9 giugno 2025 |
 | [Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti](known-issues-workfront/wf-users-pending-approval.md) | sabato 23 maggio 2025 |
 | [Documenti: le miniature del documento non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | venerdì 17 aprile 2025 |
 | [[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di [!DNL Workfront] su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md) | 2 agosto 2022 |
