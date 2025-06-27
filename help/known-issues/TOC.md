@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: e1833c5e6ae78b2cfc174dbffb6c43d9597be2e1
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1426'
 ht-degree: 85%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 85%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: l’area Approvazioni scompare dalla navigazione a sinistra](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
       + [Progetti: impossibile spostare il progetto nel programma specificato](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront: oggetti non sincronizzati tra Workfront e Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Bozze: impossibile aggiungere utenti a una bozza per nome nell’ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)

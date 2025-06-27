@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e98c29b84e022c2c8101f21f2cae5b74bda3718e
+source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 72%
+source-wordcount: '1463'
+ht-degree: 70%
 
 ---
 
@@ -35,6 +35,14 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 **Impossibile aprire la bozza dal collegamento diretto**
 
 Quando un utente cerca di aprire una bozza da un collegamento diretto, la bozza non si apre. Ciò può verificarsi anche se l’utente fa parte di un flusso di lavoro per la bozza o se è un amministratore Workfront.
+
+#### Rapporti
+
+**L&#39;espansione del grafico include risultati imprecisi**
+
+Quando un utente visualizza un rapporto grafico e tenta di eseguire un drill-down in un raggruppamento specifico, i dettagli includono risultati che non sono nel raggruppamento selezionato.
+
+Questo problema è stato segnalato nei rapporti raggruppati per data.
 
 +++
 
