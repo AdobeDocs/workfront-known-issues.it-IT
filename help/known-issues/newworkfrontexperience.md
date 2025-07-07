@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: 3fbede430b19640e45981dd0771bc66d509f2e4f
 workflow-type: tm+mt
-source-wordcount: '936'
-ht-degree: 93%
+source-wordcount: '953'
+ht-degree: 91%
 
 ---
 
@@ -25,6 +25,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Configurazione: impossibile accedere come altro utente](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md) | martedì 7 luglio 2025 |
+| [Integrazioni: problemi relativi all&#39;integrazione di Workfront per Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md) | martedì 7 luglio 2025 |
 | [Attività: l&#39;area Approvazioni scompare dalla navigazione a sinistra](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | sabato 27 giugno 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
