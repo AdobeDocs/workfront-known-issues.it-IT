@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 833fe5b1c0483baa3243fc02679f5515ed75b67f
+source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
 workflow-type: tm+mt
-source-wordcount: '1463'
-ht-degree: 70%
+source-wordcount: '1522'
+ht-degree: 68%
 
 ---
 
@@ -23,6 +23,20 @@ Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno i
 Per gli aggiornamenti di manutenzione precedenti al 2025, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
+
+## Aggiornamenti di luglio 2025
+
++++**Aggiornamenti di manutenzione - settimana 6-12 luglio 2025**
+
+### Aggiornamenti di manutenzione - settimana del 6-12 luglio
+
+### Progetti
+
+**Impossibile spostare il progetto nel programma specificato**
+
+Quando un utente cerca di spostare un progetto in un programma, il progetto non viene spostato. Ciò può verificarsi anche se l’utente ha ricevuto un messaggio che informa che il progetto è stato spostato correttamente.
+
++++
 
 ## Aggiornamenti di giugno 2025
 
