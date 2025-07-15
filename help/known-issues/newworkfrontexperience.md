@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: ddb39855b501df99cd0ad13c72f53487839c45ca
+source-git-commit: 798be3dd7ef5e7bf0ecf14484242f7758ac9d9a4
 workflow-type: tm+mt
-source-wordcount: '955'
-ht-degree: 91%
+source-wordcount: '963'
+ht-degree: 90%
 
 ---
 
@@ -52,6 +52,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Autorizzazioni: le autorizzazioni dell&#39;oggetto non sono ereditate correttamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | mercoledì 15 luglio 2025 |
 | [Bozze: impossibile aggiungere utenti a una bozza per nome nell&#39;ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | martedì 16 giugno 2025 |
 | [Bozze: chiusura reindirizzamento bozza all&#39;elenco documenti](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | giovedì 14 maggio 2025 |
 | [Filtri: il menu a discesa scompare quando si fa clic sulla barra di scorrimento](known-issues-workfront/wf-filter-scroll-bar.md) | giovedì 26 marzo 2025 |
