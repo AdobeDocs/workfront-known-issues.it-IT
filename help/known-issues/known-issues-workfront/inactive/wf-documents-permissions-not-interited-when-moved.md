@@ -1,10 +1,10 @@
 ---
-title: '“Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto”'
-description: “Quando un utente sposta un documento in un progetto diverso, il documento non eredita le autorizzazioni di condivisione dal nuovo progetto.” Il documento non viene condiviso con gli utenti a cui è condiviso il progetto. ”
+title: 'Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto'
+description: 'Quando un utente sposta un documento in un progetto diverso, il documento non eredita le autorizzazioni di condivisione dal nuovo progetto. Il documento non viene condiviso con gli utenti a cui è condiviso il progetto. '
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 56dfaf55-7438-4569-b9a1-b62fbdd3f4d9
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
@@ -30,3 +30,7 @@ Quando un utente sposta un documento in un progetto diverso, il documento non er
 In alternativa, puoi annotare l’ID del documento (che si trova nell’URL della pagina [!UICONTROL Dettagli documento]) e contattare l’Assistenza clienti di [!DNL Workfront].
 
 _Segnalato per la prima volta il 6 gennaio 2023._
+
+
+
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->

@@ -4,10 +4,10 @@ description: Quando vengono visualizzate le approvazioni nel widget Le mie appro
 hidefromtoc: true
 feature: Updates and Notifications
 exl-id: 5b861fdd-0fcf-492a-ab32-3454c3cc5f21
-source-git-commit: 8a12bbfaf3f7cc01a8a717cbad8c62330cc690a3
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+workflow-type: tm+mt
+source-wordcount: '105'
+ht-degree: 94%
 
 ---
 
@@ -20,3 +20,5 @@ ht-degree: 100%
 Quando vengono visualizzate le approvazioni nel widget Le mie approvazioni nella Home o nella pagina I miei aggiornamenti, l’elenco non include le approvazioni inviate dall’utente anche quando il filtro è impostato su “Tutto”.
 
 _Segnalato per la prima volta il giovedì 16 ottobre 2024._
+
+&lt;!—CHECK ME—1 view Aprile-Giugno 2025—>

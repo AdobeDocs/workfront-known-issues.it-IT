@@ -1,10 +1,10 @@
 ---
-title: '“Rapporti: impossibile scorrere il report rapporto in orizzontale durante la visualizzazione nel dashboard”'
+title: 'Rapporti: impossibile scorrere nel rapporto in orizzontale durante la visualizzazione nella dashboard'
 description: Se un utente visualizza un rapporto su un dashboard e tenta di scorrerlo in orizzontale, il rapporto non scorre oppure le intestazioni di colonna si trovano dietro le colonne. Se il rapporto ha un numero elevato di colonne, lo scorrimento orizzontale potrebbe bloccare la pagina.
 exl-id: d308ee88-9265-4fa7-8574-ec7d5eb9d306
 hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
@@ -20,3 +20,6 @@ ht-degree: 100%
 Se un utente visualizza un rapporto su un dashboard e tenta di scorrerlo in orizzontale, il rapporto non scorre oppure le intestazioni di colonna si trovano dietro le colonne. Se il rapporto ha un numero elevato di colonne, lo scorrimento orizzontale potrebbe bloccare la pagina.
 
 _Segnalato per la prima volta il mercoledì 24 febbraio 2021._
+
+<!--CHECK ME - NO VIEWS APRIL-JUNE 2025-->
+
