@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 4d0ff9fa398a3daf22ffbf202073cde6b5e05458
+source-git-commit: 9c3e3f27f5e1bf4e221fbf7a5d6bad6a1bf94ebc
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1358'
 ht-degree: 86%
 
 ---
@@ -190,12 +190,8 @@ ht-degree: 86%
       + [[!DNL Workfront Fusion]: il modulo di  [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!UICONTROL Obiettivi Adobe Workfront] {#goals}
-   + [Problemi noti in  [!DNL Workfront Goals]](workfrontgoals.md)
 + App mobile [!DNL Workfront] {#mobile}
    + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
-+ [!DNL Workfront Scenario Planner] {#scenarioplanner}
-   + [Problemi noti in  [!DNL Workfront Scenario Planner]](workfrontscenarioplanner.md)
 
 <!--
 
