@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 26bd9f2b4dd14d378f555a63b6599a7cd8beeb58
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '960'
 ht-degree: 91%
 
 ---
@@ -25,6 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
+| [Bozze: impossibile assegnare tag agli utenti nei commenti della bozza](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | sabato 18 luglio 2025 |
 | [Autorizzazioni: le autorizzazioni dell&#39;oggetto non sono ereditate correttamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | giovedì 16 luglio 2025 |
 | [Attività: l&#39;area Approvazioni scompare dalla navigazione a sinistra](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | sabato 27 giugno 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
@@ -37,7 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
-| [Progetti: errore durante l&#39;aggiunta di un progetto a un programma](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md) | venerdì 10 luglio 2025 |
+| [Bozze: impossibile assegnare tag agli utenti nei commenti della bozza](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | venerdì 10 luglio 2025 |
 | [Workfront: oggetti non sincronizzati tra Workfront e Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | mercoledì 17 giugno 2025 |
 | [Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti](known-issues-workfront/wf-users-pending-approval.md) | sabato 23 maggio 2025 |
 | [Documenti: le miniature del documento non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | venerdì 17 aprile 2025 |

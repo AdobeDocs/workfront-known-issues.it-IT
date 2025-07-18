@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0e0043833ee2d6ab838157d99e20501f1ca58bf2
+source-git-commit: 69833d9af1ea8ca2eea02cf1e37ddcb7ed6b229e
 workflow-type: tm+mt
-source-wordcount: '1464'
-ht-degree: 83%
+source-wordcount: '1471'
+ht-degree: 82%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Bozze: impossibile assegnare tag agli utenti nei commenti della bozza](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Autorizzazioni: le autorizzazioni degli oggetti non vengono ereditate correttamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Autorizzazioni: le autorizzazioni degli oggetti non vengono ereditate correttamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
       + [Progetti: errore durante l’aggiunta di un progetto a un programma](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
