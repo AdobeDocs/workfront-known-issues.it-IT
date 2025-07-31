@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 5ec1db8c8e20fa50225e9dfba3b71c157c883587
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '1629'
-ht-degree: 64%
+source-wordcount: '1646'
+ht-degree: 63%
 
 ---
 
@@ -30,7 +30,11 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ### Aggiornamento di manutenzione della settimana dal 20 al 26 luglio 2025
 
-Gli aggiornamenti di questa settimana includono solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
+#### Bozze
+
+**Impossibile assegnare tag agli utenti nei commenti della bozza**
+
+Quando un utente tenta di assegnare un tag a un altro utente in un commento della bozza e inizia a digitare il nome dell’utente, quest’ultimo non viene visualizzato nell’elenco e non può essere selezionato per l’assegnazione di tag.
 
 +++
 

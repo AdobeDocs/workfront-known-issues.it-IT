@@ -3,15 +3,19 @@ title: 'Bozze: impossibile assegnare tag agli utenti nei commenti della bozza'
 description: Quando un utente tenta di assegnare un tag a un altro utente in un commento della bozza e inizia a digitare il nome dell’utente, quest’ultimo non viene visualizzato nell’elenco e non può essere selezionato per l’assegnazione di tag. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Digital Content and Documents, People Teams and Groups
-source-git-commit: 1417b3221de89b88ee718d632d3e8cd76f29d3ae
+exl-id: 5d31e7d5-147d-4a85-a832-5981a7135db4
+source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 7%
+source-wordcount: '127'
+ht-degree: 11%
 
 ---
 
-
 # Bozze: impossibile assegnare tag agli utenti nei commenti della bozza
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il sabato 25 luglio 2025.
 
 Quando un utente tenta di assegnare un tag a un altro utente in un commento della bozza e inizia a digitare il nome dell’utente, quest’ultimo non viene visualizzato nell’elenco e non può essere selezionato per l’assegnazione di tag.
 
