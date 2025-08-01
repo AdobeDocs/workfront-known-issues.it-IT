@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 32b7c00b3338bc4d1152b1b0748843daaa58a115
 workflow-type: tm+mt
-source-wordcount: '1646'
-ht-degree: 63%
+source-wordcount: '1740'
+ht-degree: 60%
 
 ---
 
@@ -29,6 +29,18 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 +++**Aggiornamenti di manutenzione della settimana dal 20 al 26 luglio 2025**
 
 ### Aggiornamento di manutenzione della settimana dal 20 al 26 luglio 2025
+
+#### Progetti
+
+**Viene visualizzato un avviso quando la sequenza temporale non è stata ricalcolata**
+
+Ora gli utenti visualizzano un’icona di avviso quando la timeline del progetto non è stata ricalcolata. Quando passa il puntatore del mouse su questa icona, l’utente visualizza il seguente messaggio:
+
+&quot;La timeline del progetto non è corretta. I project manager potrebbero dover ricalcolare manualmente la timeline.&quot;
+
+A volte, le timeline non possono essere ricalcolate perché un progetto è estremamente complesso. Ad esempio, un progetto con più dipendenze, un numero elevato di attività, più predecessori di progetti incrociati o più rientri di attività potrebbero essere interessati.
+
+In precedenza, non vi era alcuna indicazione che una sequenza temporale non fosse stata ricalcolata.
 
 #### Bozze
 
