@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0c440c0387e3d981351c943cdc097bb283b0e1de
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '1760'
-ht-degree: 59%
+source-wordcount: '1801'
+ht-degree: 58%
 
 ---
 
@@ -26,9 +26,9 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di agosto 2025
 
-+++**Aggiornamenti di manutenzione - settimana dal 27 luglio al 3 agosto 2025**
++++**Aggiornamenti di manutenzione - settimana dal 27 luglio al 2 agosto 2025**
 
-### Aggiornamenti di manutenzione della settimana dal 27 luglio al 3 agosto 2025
+### Aggiornamenti di manutenzione della settimana dal 27 luglio al 2 agosto 2025
 
 #### Progetti
 
@@ -41,6 +41,12 @@ Ora gli utenti visualizzano un’icona di avviso quando la timeline del progetto
 A volte, le timeline non possono essere ricalcolate perché un progetto è estremamente complesso. Ad esempio, un progetto con più dipendenze, un numero elevato di attività, più predecessori di progetti incrociati o più rientri di attività potrebbero essere interessati.
 
 In precedenza, non vi era alcuna indicazione che una sequenza temporale non fosse stata ricalcolata.
+
+#### Attività
+
+**L&#39;area Approvazioni scompare dal menu di navigazione a sinistra**
+
+Quando un utente visualizza un’attività, l’area Approvazioni potrebbe non essere più visibile nel menu di navigazione a sinistra. La rimozione e l’aggiunta dell’area Approvazioni al modello di layout risolve il problema, ma il problema potrebbe ripresentarsi.
 
 +++
 
