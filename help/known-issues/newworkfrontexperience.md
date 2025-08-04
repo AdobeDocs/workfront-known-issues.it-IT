@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 07785bc2688bd08ce2877bf37ddcf856467da24f
+source-git-commit: 17a909d31fc171dae062b760366ad2fed541883e
 workflow-type: tm+mt
-source-wordcount: '952'
-ht-degree: 91%
+source-wordcount: '944'
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Autorizzazioni: le autorizzazioni dell&#39;oggetto non sono ereditate correttamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | giovedì 16 luglio 2025 |
-| [Attività: l&#39;area Approvazioni scompare dalla navigazione a sinistra](known-issues-workfront/wf-tasks-approvals-tab-disappears.md) | sabato 27 giugno 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
 {style="table-layout:auto"}
