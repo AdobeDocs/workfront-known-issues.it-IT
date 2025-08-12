@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 8acb6274be323f577faa059a9c4f02ab8a887dd2
+source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 86%
+source-wordcount: '1378'
+ht-degree: 85%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 86%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Documenti: gli utenti aggiunti come approvatori dopo il completamento dell’approvazione non ricevono alcuna notifica](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
       + [Bozze: impossibile assegnare tag agli utenti nei commenti della bozza](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
       + [Autorizzazioni: le autorizzazioni degli oggetti non vengono ereditate correttamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Autorizzazioni: le autorizzazioni degli oggetti non vengono ereditate correttamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
