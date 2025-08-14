@@ -4,7 +4,7 @@ description: Durante la creazione di una connessione in Workfront Fusion, un ute
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
-source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 75%
@@ -21,5 +21,5 @@ Quando si crea una connessione Workfront in Workfront Fusion, un utente non può
 
 _Segnalato per la prima volta il venerdì 18 luglio 2024._
 
-<!--CHECK ME - 1 VIEW APRIL-JUNE 2025-->
+<!--CHECK ME - 1 VIEW APRIL-JUNE 2025 (June 23 and Aug 13)-->
 

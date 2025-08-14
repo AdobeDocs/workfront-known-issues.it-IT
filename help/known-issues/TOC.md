@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
 workflow-type: tm+mt
-source-wordcount: '1378'
+source-wordcount: '1370'
 ht-degree: 85%
 
 ---
@@ -108,7 +108,6 @@ ht-degree: 85%
       + [Bozze: errore durante la condivisione della bozza dal collegamento e-mail](known-issues-workfront/inactive/wf-proofs-error-when-sharing-proof-from-email.md)
       + [[!UICONTROL Home]: la nuova anteprima del widget [!UICONTROL Home] non visualizza il nome corretto dell’oggetto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
-      + [Modelli layout: i modelli layout causano incongruenze nei rapporti](known-issues-workfront/inactive/wf-layout-templates-classic.md)
       + [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente è taggato](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
       + [[!UICONTROL Configurazione]: impossibile esportare i registri di controllo](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
