@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '936'
 ht-degree: 91%
 
 ---
@@ -25,7 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Autorizzazioni: le autorizzazioni dell&#39;oggetto non sono ereditate correttamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md) | giovedì 16 luglio 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
 {style="table-layout:auto"}
@@ -68,7 +67,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 dicembre 2024 |
 | [Workfront: il formato della data cambia nel corso dell’applicazione](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 dicembre 2024 |
 | [Approvazioni: i delegati non visualizzano le approvazioni delegate](known-issues-workfront/wf-approvals-delegation-not-working.md) | 20 dicembre 2024 |
-| [Attività: errore del database durante l’aggiunta o l’eliminazione di un’attività (in precedenza errore Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md) | 10 dicembre 2024 |
 | [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al Riassunto Attività tramite il modello layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md) | 4 novembre 2024 |
 | [Notifiche: le notifiche e-mail per gli aggiornamenti non vengono inviate](known-issues-workfront/wf-notifications-emails-for-updates-not-sending.md) | 5 dicembre 2024 |
 | [Workfront: gli utenti collaboratori non possono accedere a Programmi o Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md) | 5 dicembre 2024 |
