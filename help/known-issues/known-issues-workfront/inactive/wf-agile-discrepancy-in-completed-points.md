@@ -1,10 +1,10 @@
 ---
-title: '“Agile: discrepanza in Completed Points (Punti completati) per un’iterazione”'
+title: 'Agile: discrepanza in Completed Points (Punti completati) per un’iterazione'
 description: Il numero visualizzato per Completed Points (Punti completati) nella bacheca delle storie a volte non corrisponde al numero effettivo di punti completati per le storie in un’iterazione
 exl-id: 65696b39-e2ab-409e-8bd3-811f399f4622
 feature: Agile
 hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 130e615f63c90d843f0f7f6e3adbea80c784164a
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
