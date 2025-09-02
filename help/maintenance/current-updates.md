@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 2b38481cecee37d6b1afcca93630566261378292
+source-git-commit: a66310d736a326ea77557db8547b232caff4ee60
 workflow-type: tm+mt
-source-wordcount: '1957'
-ht-degree: 54%
+source-wordcount: '2091'
+ht-degree: 52%
 
 ---
 
@@ -24,11 +24,33 @@ Per gli aggiornamenti di manutenzione precedenti al 2025, consulta [Aggiornament
 
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
+## Aggiornamenti di settembre 2025
+
++++**Aggiornamenti di manutenzione - settimana dal 31 agosto al 6 settembre 2025**
+
+### Aggiornamento di manutenzione della settimana dal 31 agosto al 6 settembre 2025
+
+#### API
+
+**Nuovi guardrail per evitare di sovraccaricare le sottoscrizioni eventi**
+
+Abbonamenti eventi è progettato per fornire una distribuzione affidabile degli eventi per tutti gli utenti. A tal fine, sono state introdotte misure di salvaguardia per impedire la produzione di eventi eccessivi da parte di un singolo utente, che potrebbero causare potenziali problemi di qualità del servizio per tutti gli utenti. Di conseguenza, un utente che produce troppi eventi a una velocità elevata in un breve arco di tempo può riscontrare ritardi nella sandboxing e nella consegna degli eventi.
+
++++
+
 ## Aggiornamenti di agosto 2025
+
++++**Aggiornamenti di manutenzione della settimana dal 24 al 30 agosto 2025**
+
+### Aggiornamento di manutenzione della settimana dal 24 al 30 agosto 2025
+
+Gli aggiornamenti di questa settimana includono solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
+
++++
 
 +++**Aggiornamenti di manutenzione della settimana dal 17 al 23 agosto 2025**
 
-### Aggiornamento di manutenzione della settimana dal 17 al 25 agosto 2025
+### Aggiornamento di manutenzione della settimana dal 17 al 23 agosto 2025
 
 #### Progetti
 
