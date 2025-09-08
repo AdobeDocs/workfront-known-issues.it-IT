@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 13a081ac430090ef3ac7f5c0e1ac1ba6a68227bd
+source-git-commit: 5468975035561c205f30fb2a92f6ad43346c0c2f
 workflow-type: tm+mt
-source-wordcount: '2091'
-ht-degree: 52%
+source-wordcount: '2133'
+ht-degree: 51%
 
 ---
 
@@ -35,6 +35,12 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 **Nuovi guardrail per evitare di sovraccaricare le sottoscrizioni eventi**
 
 Abbonamenti eventi è progettato per fornire una distribuzione affidabile degli eventi per tutti gli utenti. A tal fine, sono state introdotte misure di salvaguardia per impedire la produzione di eventi eccessivi da parte di un singolo utente, che potrebbero causare potenziali problemi di qualità del servizio per tutti gli utenti. Di conseguenza, un utente che produce troppi eventi a una velocità elevata in un breve arco di tempo può riscontrare ritardi nella sandboxing e nella consegna degli eventi.
+
+#### Documenti
+
+**Gli utenti aggiunti come approvatori dopo il completamento dell&#39;approvazione non ricevono alcuna notifica**
+
+Quando un utente ha approvato un documento e successivamente ne vengono aggiunti altri come approvatori, i nuovi approvatori aggiunti non ricevono le notifiche in-app o e-mail della richiesta di approvazione.
 
 +++
 
