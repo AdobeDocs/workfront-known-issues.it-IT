@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: e3e815c60625524fe6fef45c22d5421d4a9fa89a
+source-git-commit: 4f1d7936c677f102f32a4b6c480a7bf3f53962bd
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '991'
 ht-degree: 89%
 
 ---
@@ -35,6 +35,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
+| [Utenti: impossibile modificare l&#39;ID federazione di un utente](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | mercoledì 9 settembre 2025 |
 | [Documenti: gli utenti aggiunti come approvatori dopo il completamento dell&#39;approvazione non ricevono alcuna notifica](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | mercoledì 12 agosto 2025 |
 | [Bozze: impossibile assegnare tag agli utenti nei commenti della bozza](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | venerdì 10 luglio 2025 |
 | [Workfront: oggetti non sincronizzati tra Workfront e Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | mercoledì 17 giugno 2025 |
