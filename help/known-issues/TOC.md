@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0f4dba4664f645920752cc0c346782c9582b0e54
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 83%
+source-wordcount: '1423'
+ht-degree: 82%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 83%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Approvazioni: l’approvazione viene visualizzata come &quot;Nessuna scadenza&quot; quando l’ora non è inclusa nella scadenza](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Bozze: impossibile generare una bozza da un file di PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Utenti: impossibile modificare le impostazioni delle notifiche per un altro utente](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
       + [Utenti: impossibile modificare il livello di accesso di un utente](known-issues-workfront/wf-users-cannot-change-access-level.md)

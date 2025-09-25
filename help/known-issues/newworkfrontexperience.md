@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: 003b0e7c9b4f12ccefe534d91f06d254d26cb1a3
+source-git-commit: e8169129ed6b03ff7d6b58ee24521885d5dc1acd
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 87%
+source-wordcount: '1024'
+ht-degree: 86%
 
 ---
 
@@ -36,6 +36,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ---------------------------------- | ----------------- |
+| [Approvazioni: l&#39;approvazione viene visualizzata come &quot;Nessuna scadenza&quot; quando l&#39;ora non è inclusa nella scadenza](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | venerdì 25 settembre 2025 |
 | [Utenti: impossibile modificare l&#39;ID federazione di un utente](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md) | mercoledì 9 settembre 2025 |
 | [Documenti: gli utenti aggiunti come approvatori dopo il completamento dell&#39;approvazione non ricevono alcuna notifica](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | mercoledì 12 agosto 2025 |
 | [Bozze: impossibile assegnare tag agli utenti nei commenti della bozza](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | venerdì 10 luglio 2025 |
