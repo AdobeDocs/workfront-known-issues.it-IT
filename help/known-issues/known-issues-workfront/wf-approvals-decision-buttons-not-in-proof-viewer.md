@@ -1,17 +1,17 @@
 ---
-title: 'Approvazioni: i pulsanti di decisione Approvazione non vengono visualizzati in Proof Viewer (Visualizzatore di bozze)'
+title: 'Approvazioni: i pulsanti di decisione Approvazione non vengono visualizzati in Visualizzatore bozze per team'
 description: Quando un approvatore visualizza una bozza in Proof Viewer (Visualizzatore di bozze) e tenta di prendere una decisione, i pulsanti di decisione non sono disponibili. È disponibile una soluzione alternativa.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 173042f1f007ee7fa2ff9fcb7deee36390663b1d
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 8%
 
 ---
 
 
-# Approvazioni: i pulsanti di decisione Approvazione non vengono visualizzati in Proof Viewer (Visualizzatore di bozze)
+# Approvazioni: i pulsanti di decisione Approvazione non vengono visualizzati in Visualizzatore bozze per team
 
 Quando un approvatore visualizza una bozza in Proof Viewer (Visualizzatore di bozze) e tenta di prendere una decisione, i pulsanti di decisione non sono disponibili.
 
