@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 58539ae80132638236be9b90e0dad35be139f8ce
+source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 90%
+source-wordcount: '404'
+ht-degree: 88%
 
 ---
 
@@ -49,6 +49,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
+| [Approvazioni: i pulsanti di decisione di approvazione non vengono visualizzati nel Visualizzatore bozze](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | mercoledì 30 settembre 2025 |
 | [Bozze: impossibile aggiungere utenti a una bozza per nome nell&#39;ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | martedì 16 giugno 2025 |
 | [Bozze: chiusura reindirizzamento bozza all&#39;elenco documenti](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | giovedì 14 maggio 2025 |
 | [Bozze: impossibile creare le bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 febbraio 2025 |
