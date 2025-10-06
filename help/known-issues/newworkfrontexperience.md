@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
+source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
 workflow-type: tm+mt
-source-wordcount: '1034'
-ht-degree: 85%
+source-wordcount: '1017'
+ht-degree: 86%
 
 ---
 
@@ -25,7 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Programmi: impossibile salvare durante la modifica di un programma](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md) | mercoledì 30 settembre 2025 |
 | [Utenti: impossibile modificare il livello di accesso di un utente](known-issues-workfront/wf-users-cannot-change-access-level.md) | venerdì 11 settembre 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
@@ -57,7 +56,6 @@ Le correzioni per questi problemi non sono attualmente nella roadmap, ma sono di
 | [Bozze: impossibile generare una bozza da un file di PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | venerdì 11 settembre 2025 |
 | [Autorizzazioni: le autorizzazioni dell&#39;oggetto non sono ereditate correttamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | mercoledì 15 luglio 2025 |
 | [Filtri: il menu a discesa scompare quando si fa clic sulla barra di scorrimento](known-issues-workfront/wf-filter-scroll-bar.md) | giovedì 26 marzo 2025 |
-| [Integrazioni: errore outlookIdentityToken durante l’utilizzo di Workfront per Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md) | 4 marzo 2025 |
 | [Documenti: impossibile caricare l’elenco dei documenti nella cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md) | 27 febbraio 2025 |
 | [Bozze: impossibile creare le bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 febbraio 2025 |
 | [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 dicembre 2024 |

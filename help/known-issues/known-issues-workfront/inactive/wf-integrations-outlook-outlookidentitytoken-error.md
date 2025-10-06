@@ -4,14 +4,18 @@ description: Quando un utente utilizza l’integrazione Workfront per Outlook, p
 hidefromtoc: true
 feature: Workfront Integrations and Apps
 exl-id: a5abe90c-4583-467e-8131-60bead300673
-source-git-commit: fff5428fd0c9a50f20ded044bf0ab251dfde5a6e
-workflow-type: ht
-source-wordcount: '127'
-ht-degree: 100%
+source-git-commit: 87c56abf4a5020632877263329f1455bbf4cc7f3
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 87%
 
 ---
 
 # Integrazioni: errore outlookIdentityToken durante l’utilizzo di Workfront per Outlook
+
+>[!NOTE]
+>
+>L&#39;integrazione di Workfront for Outlook non è più disponibile. Questo articolo verrà rimosso a breve.
 
 Quando un utente utilizza l’integrazione Workfront per Outlook, potrebbe visualizzare il seguente errore:
 
