@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3df418a4700d52fbaf53122f251ab7c579e07369
+source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
 workflow-type: tm+mt
-source-wordcount: '1439'
-ht-degree: 81%
+source-wordcount: '1461'
+ht-degree: 80%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 81%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Utenti: impossibile utilizzare le opzioni avanzate durante la creazione degli utenti](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+      + [Moduli personalizzati: la logica di visualizzazione del campo non viene seguita correttamente](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+      + [Bozze: impossibile chiudere il visualizzatore bozza](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [Programmi: impossibile salvare durante la modifica di un programma](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
       + [Approvazioni: i pulsanti di decisione Approvazione non vengono visualizzati in Proof Viewer (Visualizzatore di bozze)](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
       + [Approvazioni: l’approvazione viene visualizzata come &quot;Nessuna scadenza&quot; quando l’ora non è inclusa nella scadenza](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
@@ -200,7 +203,7 @@ ht-degree: 81%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
