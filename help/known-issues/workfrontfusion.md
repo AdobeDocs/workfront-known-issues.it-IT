@@ -56,7 +56,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Bozze: impossibile creare le bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 febbraio 2025 |
-| [Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati di tutti i dati ](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 ottobre 2024 |
+| [Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati di tutti i dati &#x200B;](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 ottobre 2024 |
 | [Workfront Fusion: formattazione dell’output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | giovedì 31 gennaio 2024 |
 | [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 ottobre 2023 |
 | [[!DNL Workfront Proof]: errore 500 durante l’accesso a  [!DNL Workfront Proof]  tramite API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maggio 2023 |
