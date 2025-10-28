@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '1461'
+source-wordcount: '1467'
 ht-degree: 80%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 80%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Rapporti: problemi relativi ai menu a discesa nei grafici](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [Utenti: impossibile utilizzare le opzioni avanzate durante la creazione degli utenti](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
       + [Moduli personalizzati: la logica di visualizzazione del campo non viene seguita correttamente](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [Bozze: impossibile chiudere il visualizzatore bozza](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
@@ -203,7 +204,7 @@ ht-degree: 80%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

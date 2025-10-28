@@ -3,15 +3,19 @@ title: 'Moduli personalizzati: la logica di visualizzazione del campo non viene 
 description: Quando un utente compila un modulo personalizzato che include una logica di visualizzazione (in cui alcuni campi sono visualizzati o meno in base ai valori di altri campi), i campi non vengono visualizzati in modo da seguire tale logica.
 hidefromtoc: true
 feature: Custom Forms
-source-git-commit: 5c84b9ef86098c4ea9cc880d276ad7f73a395bec
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 3%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 
 
 # Moduli personalizzati: la logica di visualizzazione del campo non viene seguita correttamente
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il giovedì 22 ottobre 2025.
 
 Quando un utente compila un modulo personalizzato che include una logica di visualizzazione (in cui alcuni campi sono visualizzati o meno in base ai valori di altri campi), i campi non vengono visualizzati in modo da seguire tale logica.
 

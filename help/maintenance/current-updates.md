@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 932556d1c72aa33e9169034f41f6250d249a228b
+source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
 workflow-type: tm+mt
-source-wordcount: '2314'
-ht-degree: 48%
+source-wordcount: '2492'
+ht-degree: 47%
 
 ---
 
@@ -25,6 +25,40 @@ Per gli aggiornamenti di manutenzione precedenti al 2025, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di ottobre 2025
+
++++**Aggiornamenti di manutenzione della settimana dal 19 al 25 ottobre 2025**
+
+### Aggiornamenti di manutenzione della settimana dal 19 al 25 ottobre 2025
+
+#### Moduli personalizzati
+
+**Logica di visualizzazione del campo non seguita correttamente**
+
+Quando un utente compila un modulo personalizzato che include una logica di visualizzazione (in cui alcuni campi sono visualizzati o meno in base ai valori di altri campi), i campi non vengono visualizzati in modo da seguire tale logica.
+
+#### Bozze
+
+**Impossibile chiudere il visualizzatore bozza**
+
+Quando si visualizza una bozza nel visualizzatore di bozze e si tenta di chiuderla facendo clic sul pulsante X in alto a destra, la bozza non si chiude.
+
++++
+
++++**Aggiornamenti di manutenzione della settimana dal 12 al 18 ottobre 2025**
+
+### Aggiornamento di manutenzione della settimana dal 12 al 18 ottobre 2025
+
+Gli aggiornamenti di questa settimana includono solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
+
++++
+
++++**Aggiornamenti di manutenzione della settimana dal 5 all&#39;11 ottobre 2025**
+
+### Aggiornamento di manutenzione del 5-11 ottobre 2025
+
+Gli aggiornamenti di questa settimana includono solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
+
++++
 
 +++**Aggiornamenti di manutenzione - settimana dal 28 settembre al 4 ottobre 2025**
 
