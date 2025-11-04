@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
+source-git-commit: e18ef3485c84425e550a8edf4c1d25182307687b
 workflow-type: tm+mt
-source-wordcount: '1476'
-ht-degree: 79%
+source-wordcount: '1492'
+ht-degree: 78%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 79%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Approvazioni: collegamenti alle approvazioni non disponibili](known-issues-workfront/wf-approvals-link-not-appearing.md)
+      + [Richieste: il creatore del modulo di richiesta non ha accesso al modulo](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
       + [Utenti: è possibile cercare solo i ruoli in base alla prima parola](known-issues-workfront/wf-users-job-role-first-word.md)
       + [Rapporti: problemi relativi ai menu a discesa nei grafici](known-issues-workfront/wf-reports-dropdown-not-working.md)
       + [Utenti: impossibile utilizzare le opzioni avanzate durante la creazione degli utenti](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
@@ -205,7 +207,7 @@ ht-degree: 79%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
