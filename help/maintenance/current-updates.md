@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 0329ebb285dcf771bd23b0cebf93e36152d6587f
+source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
 workflow-type: tm+mt
-source-wordcount: '2646'
-ht-degree: 45%
+source-wordcount: '2712'
+ht-degree: 44%
 
 ---
 
@@ -27,6 +27,18 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 
 ## Aggiornamenti di novembre 2025
+
++++**Aggiornamenti di manutenzione della settimana dal 9 al 15 novembre 2025**
+
+### Aggiornamenti di manutenzione della settimana dal 9 al 15 novembre 2025
+
+#### Attività
+
+**L&#39;aggiunta di predecessori non dipende più dalle impostazioni secondarie Modifica delle attività nel livello di accesso**
+
+Gli utenti possono aggiungere predecessori alle attività quando l’accesso Modifica è abilitato per le attività nel loro livello di accesso, indipendentemente dalle impostazioni secondarie selezionate. Ciò è ora coerente con la funzionalità API esistente.
+
++++
 
 +++**Aggiornamenti di manutenzione della settimana dal 2 all&#39;8 novembre 2025**
 
