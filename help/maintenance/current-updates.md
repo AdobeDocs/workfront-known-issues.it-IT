@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: d632bcd074dcec7145a788ea5ad7e08c78ca9a57
+source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
 workflow-type: tm+mt
-source-wordcount: '2712'
-ht-degree: 44%
+source-wordcount: '2790'
+ht-degree: 43%
 
 ---
 
@@ -27,6 +27,18 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 
 ## Aggiornamenti di novembre 2025
+
++++**Aggiornamenti di manutenzione di Workfront Planning dal 9 al 15 novembre 2025**
+
+### Aggiornamenti di manutenzione alla pianificazione di Workfront, settimana dal 9 al 15 novembre 2025
+
+#### Tipi di record
+
+**L&#39;aggiunta di predecessori non dipende più dalle impostazioni secondarie Modifica delle attività nel livello di accesso**
+
+Sono state rimosse le opzioni Modifica e Impostazioni dal menu Altro di un tipo di record globale aggiunto a un’area di lavoro secondaria da un tipo di record globale esistente. Prima di questo aggiornamento, i menu erano oscurati e non funzionanti.
+
++++
 
 +++**Aggiornamenti di manutenzione della settimana dal 9 al 15 novembre 2025**
 
