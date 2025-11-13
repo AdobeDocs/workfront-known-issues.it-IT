@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f02312a28e7585e19c4718a71b5198e6e616660a
+source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
 workflow-type: tm+mt
-source-wordcount: '2790'
+source-wordcount: '2791'
 ht-degree: 43%
 
 ---
@@ -34,7 +34,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 #### Tipi di record
 
-**L&#39;aggiunta di predecessori non dipende più dalle impostazioni secondarie Modifica delle attività nel livello di accesso**
+**Le opzioni Modifiche e Impostazioni sono state rimosse dal menu Altro in un tipo di record**
 
 Sono state rimosse le opzioni Modifica e Impostazioni dal menu Altro di un tipo di record globale aggiunto a un’area di lavoro secondaria da un tipo di record globale esistente. Prima di questo aggiornamento, i menu erano oscurati e non funzionanti.
 
