@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
 workflow-type: tm+mt
-source-wordcount: '1500'
+source-wordcount: '1504'
 ht-degree: 78%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 78%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Schede orario: schede orario non generate](known-issues-workfront/wf-timesheets-not-generated.md)
       + [Attività: messaggio di &quot;accesso insufficiente&quot; quando si modificano attività in linea](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Approvazioni: collegamenti alle approvazioni non disponibili](known-issues-workfront/wf-approvals-link-not-appearing.md)
       + [Richieste: il creatore del modulo di richiesta non ha accesso al modulo](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
@@ -208,7 +209,7 @@ ht-degree: 78%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
