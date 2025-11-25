@@ -213,7 +213,7 @@ ht-degree: 76%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
 
 <!--
 
