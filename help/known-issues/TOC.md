@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: b321b403f73cc06c13341286b651f5df0a77add2
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '1504'
-ht-degree: 78%
+source-wordcount: '1534'
+ht-degree: 76%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 78%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Richieste: autorizzazioni non ereditate durante la creazione di una richiesta](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [Pianificazioni: autorizzazioni per la pianificazione revocate per un gruppo](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [Assegnazioni: le assegnazioni del team non vengono salvate](known-issues-workfront/wf-assignments-not-saved.md)
+      + [Attività: le ore pianificate non vengono salvate durante la creazione dell’attività](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
       + [Schede orario: schede orario non generate](known-issues-workfront/wf-timesheets-not-generated.md)
       + [Attività: messaggio di &quot;accesso insufficiente&quot; quando si modificano attività in linea](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Approvazioni: collegamenti alle approvazioni non disponibili](known-issues-workfront/wf-approvals-link-not-appearing.md)
@@ -209,7 +213,7 @@ ht-degree: 78%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

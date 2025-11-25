@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: ec8f8260e5ea153b05ca359e4466d98e0bfe4ac0
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '2791'
-ht-degree: 43%
+source-wordcount: '2900'
+ht-degree: 41%
 
 ---
 
@@ -27,6 +27,20 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 
 ## Aggiornamenti di novembre 2025
+
++++**Aggiornamenti di manutenzione di Workfront Planning dal 16 al 22 novembre 2025**
+
+### Aggiornamenti di manutenzione di Workfront Planning - Settimana dal 16 al 22 novembre 2025
+
+#### Moduli personalizzati
+
+**Indicatore attivo/inattivo aggiunto all&#39;elenco dei moduli personalizzati in cui viene utilizzato un campo**
+
+In Progettazione moduli personalizzati è possibile selezionare un campo e fare clic su **Visualizza Forms** correlato per visualizzare un elenco di tutti gli altri moduli in cui viene utilizzato il campo. Questo mostra quali altri moduli saranno interessati se si modifica il campo.
+
+Un miglioramento a questo elenco è un indicatore attivo/inattivo per ogni modulo. È possibile verificare immediatamente se il campo è attualmente utilizzato in moduli attivi o inattivi.
+
++++
 
 +++**Aggiornamenti di manutenzione di Workfront Planning dal 9 al 15 novembre 2025**
 

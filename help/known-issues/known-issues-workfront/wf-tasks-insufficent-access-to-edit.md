@@ -3,15 +3,19 @@ title: 'Attività: messaggio di accesso insufficiente quando si modificano attiv
 description: Quando un utente cerca di modificare in linea un’attività in un elenco o in un report, non può modificarla e viene visualizzato il messaggio Non si dispone dell’accesso sufficiente per effettuare assegnazioni a questa attività.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: ccf054641b3686bd490bda5e9fd2651194a9a31b
+source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 4%
+source-wordcount: '127'
+ht-degree: 8%
 
 ---
 
 
 # Attività: messaggio di &quot;accesso insufficiente&quot; quando si modificano attività in linea
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il sabato 21 novembre 2025.
 
 Quando un utente cerca di modificare in linea un’attività in un elenco o in un report, non può modificarla e viene visualizzato il messaggio &quot;Livello di accesso insufficiente per effettuare assegnazioni a questa attività&quot;.
 
