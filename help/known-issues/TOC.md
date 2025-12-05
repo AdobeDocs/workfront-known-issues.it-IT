@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 29a523089c599950569751be3e2dc214f5c1bb62
+source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
 workflow-type: tm+mt
-source-wordcount: '1570'
+source-wordcount: '1579'
 ht-degree: 74%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 74%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: le modifiche in linea apportate a un’attività non vengono salvate](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
       + [Utenti: la modifica in blocco degli utenti comporta la rimozione dei pool di risorse e dei referenti diretti](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
       + [Richieste: impossibile caricare il documento da richiedere a GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
       + [Attività: le modifiche apportate alla sezione Assegnazioni di un’attività non vengono salvate](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
@@ -217,7 +218,7 @@ ht-degree: 74%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
