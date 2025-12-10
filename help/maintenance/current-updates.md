@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 714d49f190bbe66d94c2cd86d68e46500f130d1a
+source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
 workflow-type: tm+mt
-source-wordcount: '2943'
-ht-degree: 41%
+source-wordcount: '3008'
+ht-degree: 40%
 
 ---
 
@@ -25,6 +25,20 @@ Per gli aggiornamenti di manutenzione precedenti al 2025, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di dicembre 2025
+
++++**Aggiornamenti di manutenzione della settimana dal 7 al 13 dicembre 2025**
+
+### Aggiornamenti di manutenzione della settimana dal 7 al 13 dicembre 2025
+
+#### Utenti
+
+**Utenti che eseguono modifiche in blocco rimuovono i pool di risorse e i referenti diretti**
+
+Quando un utente modifica in blocco gli utenti, fa clic sul campo Pool di risorse e non immette un valore, i Pool di Risorse per tutti gli utenti modificati vengono rimossi.
+
+La modifica in blocco può anche rimuovere i report diretti dagli utenti modificati.
+
++++
 
 +++**Aggiornamenti di manutenzione della settimana dal 30 novembre al 6 dicembre 2025**
 

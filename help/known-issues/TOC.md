@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: d01bdae322f5bf46acc55fd638df4cc995b4fe2a
+source-git-commit: 11232c4d8dcbd3aaad6221be6c06b2fed6b492be
 workflow-type: tm+mt
-source-wordcount: '1607'
-ht-degree: 73%
+source-wordcount: '1618'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 73%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Utenti: l’opzione per generare automaticamente le bozze non è presente nel profilo utente](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [Moduli personalizzati: impossibile modificare i campi in formato Rich Text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
       + [Utenti: errore durante l’apertura della pagina Utenti](known-issues-workfront/wf-users-cannot-open-user-tab.md)
       + [Attività: impossibile selezionare il ruolo utente durante la creazione di un’attività](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
@@ -222,7 +223,7 @@ ht-degree: 73%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
