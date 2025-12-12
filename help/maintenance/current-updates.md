@@ -3,9 +3,9 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
+source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
 workflow-type: tm+mt
-source-wordcount: '3008'
+source-wordcount: '3103'
 ht-degree: 40%
 
 ---
@@ -30,6 +30,13 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ### Aggiornamenti di manutenzione della settimana dal 7 al 13 dicembre 2025
 
+#### Richieste
+
+**Impossibile caricare il documento da GDrive**
+
+Quando un utente crea una richiesta nella nuova esperienza di richiesta e tenta di caricare un documento da GDrive, la finestra di GDrive non risponde. L’utente non può selezionare un file o chiudere la finestra.
+
+
 #### Utenti
 
 **Utenti che eseguono modifiche in blocco rimuovono i pool di risorse e i referenti diretti**
@@ -37,6 +44,12 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 Quando un utente modifica in blocco gli utenti, fa clic sul campo Pool di risorse e non immette un valore, i Pool di Risorse per tutti gli utenti modificati vengono rimossi.
 
 La modifica in blocco può anche rimuovere i report diretti dagli utenti modificati.
+
+**Errore durante l&#39;apertura della pagina Utenti**
+
+Quando un utente cerca di aprire la pagina Utenti dal menu principale, la pagina non si apre e l’utente visualizza il seguente messaggio:
+
+“Si è verificato un errore. Stiamo lavorando per risolvere il problema. Per continuare con il tuo lavoro, prova ad aggiornare la pagina del browser.”
 
 +++
 
