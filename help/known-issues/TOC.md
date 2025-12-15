@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c959c8460956a227157853d54f2f54d1a03229b4
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '1625'
+source-wordcount: '1632'
 ht-degree: 72%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 72%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Approvazioni: il widget Approvazioni personali mostra le approvazioni completate](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
       + [Workfront Planning: errore durante la rimozione del campo connesso](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
       + [Utenti: l’opzione per generare automaticamente le bozze non è presente nel profilo utente](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
       + [Moduli personalizzati: impossibile modificare i campi in formato Rich Text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
@@ -224,7 +225,7 @@ ht-degree: 72%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

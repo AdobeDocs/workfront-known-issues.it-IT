@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: e55fc268af331c75b7f2d1094edf483668e97080
+source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
 workflow-type: tm+mt
-source-wordcount: '3103'
-ht-degree: 40%
+source-wordcount: '3210'
+ht-degree: 38%
 
 ---
 
@@ -25,6 +25,30 @@ Per gli aggiornamenti di manutenzione precedenti al 2025, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di dicembre 2025
+
++++**Aggiornamenti di manutenzione della settimana dal 14 al 20 dicembre 2025**
+
+### Aggiornamenti di manutenzione della settimana dal 14 al 20 dicembre 2025
+
+#### Assegnazioni
+
+**Le assegnazioni del team non sono salvate**
+
+Quando un utente assegna un team a un elemento di lavoro in Workfront, l’assegnazione del team non viene salvata e il team non viene informato del lavoro.
+
+#### Attività
+
+**Le modifiche in linea apportate a un&#39;attività non vengono salvate**
+
+Quando un utente apporta modifiche in linea a un’attività nell’esperienza attività legacy e salva, le modifiche non vengono salvate.
+
+#### Schede orario
+
+**Schede orario non generate**
+
+Le schede orario non vengono generate automaticamente come previsto. Ciò può verificarsi anche se i profili delle schede orario sono accurati e le schede orario per altre settimane vengono generate correttamente.
+
++++
 
 +++**Aggiornamenti di manutenzione della settimana dal 7 al 13 dicembre 2025**
 
