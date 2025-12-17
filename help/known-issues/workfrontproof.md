@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 82%
+source-wordcount: '419'
+ht-degree: 85%
 
 ---
 
@@ -25,7 +25,6 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
-| [Utenti: problemi relativi alle modifiche apportate al profilo bozza](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md) | martedì 1 dicembre 2025 |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
@@ -38,7 +37,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | **Problema** | **Ultima modifica** |
 | -----------------------------------------------------------------| ----------------- |
 | [Approvazioni: il widget Approvazioni personali mostra le approvazioni completate](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | martedì 15 dicembre 2025 |
-| [Utenti: nel profilo utente manca l&#39;opzione per generare automaticamente le bozze](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md) | giovedì 10 dicembre 2025 |
 | [Bozze: le modifiche allo stato della bozza sono ritardate](known-issues-workfront/wf-proof-status-sync-delayed.md) | martedì 8 dicembre 2025 |
 | [Documenti: gli utenti aggiunti come approvatori dopo il completamento dell&#39;approvazione non ricevono alcuna notifica](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | mercoledì 12 agosto 2025 |
 | [Documenti: le miniature del documento non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | venerdì 17 aprile 2025 |
@@ -74,7 +72,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [[!DNL Workfront Proof]: l’area [!UICONTROL Rapporti] non è più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 marzo 2023 |
 | [Bozze: viene creata una nuova fase perché la scadenza non può corrispondere a quella della fase esistente](known-issues-workfront-proof/proof-new-stage-created.md) | 2 febbraio 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nell’[!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
-| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
+| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro della bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 settembre 2022 |
 | [Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
 | [[!DNL Workfront Proof]: impossibile aggiungere un’utente alla bozza assegnandoli un tag in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 marzo 2022 |
