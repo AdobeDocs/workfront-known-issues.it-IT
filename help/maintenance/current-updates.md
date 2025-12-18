@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
+source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
 workflow-type: tm+mt
-source-wordcount: '3210'
-ht-degree: 38%
+source-wordcount: '3378'
+ht-degree: 37%
 
 ---
 
@@ -36,6 +36,13 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 Quando un utente assegna un team a un elemento di lavoro in Workfront, l’assegnazione del team non viene salvata e il team non viene informato del lavoro.
 
+#### Schedule
+
+**Autorizzazioni revocate per la pianificazione per un gruppo**
+
+Quando un amministratore di un gruppo Workfront aggiunge un&#39;eccezione di data a una pianificazione e salva le modifiche, le autorizzazioni per tale pianificazione vengono rimosse dal gruppo e l&#39;amministratore di Workfront deve concedere l&#39;accesso al gruppo.
+
+
 #### Attività
 
 **Le modifiche in linea apportate a un&#39;attività non vengono salvate**
@@ -47,6 +54,20 @@ Quando un utente apporta modifiche in linea a un’attività nell’esperienza a
 **Schede orario non generate**
 
 Le schede orario non vengono generate automaticamente come previsto. Ciò può verificarsi anche se i profili delle schede orario sono accurati e le schede orario per altre settimane vengono generate correttamente.
+
+#### Utenti
+
+**Problemi con le modifiche al profilo bozza**
+
+Sono stati segnalati i seguenti problemi in merito alle modifiche al profilo di bozza di un utente:
+
+* Quando un utente assegna un Proof Profile diverso a un altro utente e lo salva, la modifica non viene salvata e l’utente conserva il Proof Profile precedente.
+* Il Profilo di bozza di un utente potrebbe essere visualizzato come profilo di bozza errato, anche se è stato assegnato il profilo di bozza corretto.
+* Quando vengono apportate altre modifiche a un utente, anche le relative autorizzazioni di bozza possono cambiare.
+
+**Opzione mancante nel profilo utente per la generazione automatica delle bozze**
+
+Quando un utente visualizza un profilo utente, l’opzione &quot;Genera automaticamente bozze durante il caricamento dei documenti&quot; non è disponibile. Ciò può verificarsi anche se sono stati soddisfatti tutti i prerequisiti per l’opzione.
 
 +++
 
