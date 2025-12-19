@@ -4,10 +4,10 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
+source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
 workflow-type: tm+mt
-source-wordcount: '1096'
-ht-degree: 80%
+source-wordcount: '1089'
+ht-degree: 81%
 
 ---
 
@@ -24,7 +24,7 @@ Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfr
 Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
-| ----------------------------------------------------------------- | ----------------- |
+| --- | --- |
 | [Pianificazione Workfront: errore durante la rimozione del campo connesso](known-issues-workfront/wf-planning-cannot-delete-connected-field.md) | sabato 12 dicembre 2025 |
 | [Moduli personalizzati: impossibile modificare i campi Rich Text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | martedì 8 dicembre 2025 |
 | [Attività: impossibile selezionare il ruolo utente durante la creazione di un&#39;attività](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | martedì 8 dicembre 2025 |
@@ -38,13 +38,12 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 Le correzioni per questi problemi sono attualmente in corso o sono previste per il prossimo futuro.
 
 | **Problema** | **Ultima modifica** |
-| ---------------------------------- | ----------------- |
+| --- | --- |
 | [Pianificazione Workfront: impossibile aggiungere un campo a una visualizzazione](known-issues-workfront/wf-planning-cannot-add-field.md) | martedì 15 dicembre 2025 |
 | [Approvazioni: il widget Approvazioni personali mostra le approvazioni completate](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | martedì 15 dicembre 2025 |
 | [Bozze: le modifiche allo stato della bozza sono ritardate](known-issues-workfront/wf-proof-status-sync-delayed.md) | martedì 8 dicembre 2025 |
 | [Attività: le modifiche apportate alla sezione Assegnazioni di un&#39;attività non vengono salvate](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | martedì 1 dicembre 2025 |
 | [Richieste: autorizzazioni non ereditate durante la creazione di una richiesta](known-issues-workfront/wf-requests-permissions-not-inherited.md) | mercoledì 25 novembre 2025 |
-| [Approvazioni: collegamenti alle approvazioni non disponibili](known-issues-workfront/wf-approvals-link-not-appearing.md) | venerdì 13 novembre 2025 |
 | [Approvazioni: l&#39;approvazione viene visualizzata come &quot;Nessuna scadenza&quot; quando l&#39;ora non è inclusa nella scadenza](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | venerdì 25 settembre 2025 |
 | [Documenti: gli utenti aggiunti come approvatori dopo il completamento dell&#39;approvazione non ricevono alcuna notifica](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md) | mercoledì 12 agosto 2025 |
 | [Bozze: impossibile assegnare tag agli utenti nei commenti della bozza](/help/known-issues/known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md) | venerdì 10 luglio 2025 |
@@ -60,7 +59,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 Le correzioni per questi problemi non sono attualmente nella roadmap, ma sono disponibili soluzioni alternative e descritte nell’articolo per ogni problema.
 
 | **Problema** | **Ultima modifica** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [Approvazioni: i pulsanti di decisione di approvazione non vengono visualizzati nel Visualizzatore bozze](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | mercoledì 30 settembre 2025 |
 | [Bozze: impossibile generare una bozza da un file di PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md) | venerdì 11 settembre 2025 |
 | [Autorizzazioni: le autorizzazioni dell&#39;oggetto non sono ereditate correttamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md) | mercoledì 15 luglio 2025 |
@@ -98,7 +97,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap, ma sono di
 Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni casi, questi problemi saranno risolti da nuove funzioni o aggiornamenti di funzionalità.
 
 | **Problema** | **Ultima modifica** |
-| -----------------------------------------------------------------| ----------------- |
+| --- | --- |
 | [Bozze: impossibile aggiungere utenti a una bozza per nome nell&#39;ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | martedì 16 giugno 2025 |
 | [Bozze: chiusura reindirizzamento bozza all&#39;elenco documenti](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | giovedì 14 maggio 2025 |
 | [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md) | venerdì 13 marzo 2025 |
@@ -134,12 +133,12 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
 | [Bozze: lo strumento di misurazione non accetta i punti decimali](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 marzo 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nell’[!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
-| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
+| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [API: impossibile ordinare per campi dinamici](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md) | 31 ottobre 2022 |
 | [[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md) | 28 ottobre 2022 |
 | [Dashboard: i colori dei grafici del rapporto mostrati in una dashboard sono diversi rispetto a quelli presenti nel rapporto](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 agosto 2022 |
 | [Agile: problemi durante lo spostamento delle schede sulla bacheca [!UICONTROL Agile]](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 aprile 2022 |
-| [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 ottobre 2021 |
+| [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 ottobre 2021 |
 | [Aggiornamenti: il nome del team non viene visualizzato in @mention](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 ottobre 2021 |
 | [Agile: discrepanza nei [!UICONTROL Punti completati] per un’iterazione](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 giugno 2021 |
 | [Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 giugno 2021 |
