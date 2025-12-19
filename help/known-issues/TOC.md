@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
 workflow-type: tm+mt
-source-wordcount: '1641'
-ht-degree: 71%
+source-wordcount: '1523'
+ht-degree: 76%
 
 ---
 
@@ -48,28 +48,13 @@ ht-degree: 71%
       + [Approvazioni: l’approvazione viene visualizzata come &quot;Nessuna scadenza&quot; quando l’ora non è inclusa nella scadenza](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
       + [Bozze: impossibile generare una bozza da un file di PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
       + [Utenti: impossibile modificare le impostazioni delle notifiche per un altro utente](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [Utenti: impossibile modificare il livello di accesso di un utente](known-issues-workfront/wf-users-cannot-change-access-level.md)
       + [Utenti: impossibile modificare l’ID federazione di un utente](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [Documenti: gli utenti aggiunti come approvatori dopo il completamento dell’approvazione non ricevono alcuna notifica](/help/known-issues/known-issues-workfront/wf-documents-users-added-after-approval-not-notified.md)
-      + [Bozze: impossibile assegnare tag agli utenti nei commenti della bozza](known-issues-workfront/wf-proofs-users-not-appear-when-tagging.md)
-      + [Autorizzazioni: le autorizzazioni degli oggetti non vengono ereditate correttamente](known-issues-workfront/wf-projects-export-has-wrong-actual-hours.md)
       + [Autorizzazioni: le autorizzazioni degli oggetti non vengono ereditate correttamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [Progetti: errore durante l’aggiunta di un progetto a un programma](/help/known-issues/known-issues-workfront/wf-projects-error-when-adding-to-program.md)
-      + [Configurazione: impossibile accedere come altro utente](known-issues-workfront/wf-setup-cannot-login-as-in-preview.md)
-      + [Integrazioni: problemi relativi all’integrazione di Workfront per Slack](known-issues-workfront/wf-integrations-slack-integration-not-working.md)
-      + [Attività: l’area Approvazioni scompare dalla navigazione a sinistra](known-issues-workfront/wf-tasks-approvals-tab-disappears.md)
-      + [Progetti: impossibile spostare il progetto nel programma specificato](/help/known-issues/known-issues-workfront/wf-projects-cannot-move-to-program.md)
       + [Workfront: oggetti non sincronizzati tra Workfront e Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
       + [Bozze: impossibile aggiungere utenti a una bozza per nome nell’ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
-      + [Bozze: impossibile aprire la bozza da un collegamento diretto](/help/known-issues/known-issues-workfront/wf-proofs-cannot-access-from-link.md)
-      + [Report: l’espansione del grafico include risultati imprecisi](known-issues-workfront/wf-reports-chart-drilldown-inaccurate.md)
-      + [Schede orario: schede orario non generate correttamente](known-issues-workfront/wf-timesheets-one-week-created.md)
-      + [Ricerca: la ricerca avanzata non restituisce i risultati previsti](/help/known-issues/known-issues-workfront/wf-search-advanced-not-working.md)
       + [Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti](known-issues-workfront/wf-users-pending-approval.md)
-      + [Pianificazione risorse: il pulsante Esporta è disabilitato](/help/known-issues/known-issues-workfront/wf-resourcing-export-button-disabled.md)
       + [Bozze: la chiusura dell’elenco delle bozze viene reindirizzata ai documenti](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Documenti: le miniature dei documenti non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md)
-      + [Modelli: impossibile condividere con l&#39;accesso di Contribute](/help/known-issues/known-issues-workfront/wf-templates-cannot-share-from-template-menu.md)
       + [Filtri: il menu a discesa scompare quando si fa clic sulla barra di scorrimento](known-issues-workfront/wf-filter-scroll-bar.md)
       + [Progetti: lo stato di avanzamento del progetto non viene aggiornato automaticamente a In ritardo](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Accedi come: gli amministratori del gruppo non possono accedere come altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
@@ -91,7 +76,6 @@ ht-degree: 71%
       + [Workfront: gli utenti collaboratori non possono accedere a Programmi o Portfolio](known-issues-workfront/wf-workfront-contributors-cant-access-programs-portfolios.md)
       + [Approvazioni: il filtro “Tutto” esclude le approvazioni inviate personalmente](known-issues-workfront/wf-approvals-all-filter-excludes-submitted-approvals.md)
       + [Attività: la durata dei Giorni trascorsi non è corretta per le attività principali che contengono attività secondarie](known-issues-workfront/wf-tasks-timeline-elapsed-days-incorrect.md)
-      + [Workfront: impossibile caricare le schede del browser lasciate aperte](known-issues-workfront/wf-workfront-browser-tabs-error.md)
       + [Modelli di layout: i campi dati personalizzati non vengono visualizzati quando vengono aggiunti al riepilogo Attività tramite il modello layout](known-issues-workfront/wf-layout-template-custom-data-not-diplaying.md)
       + [Integrazioni: le integrazioni JumpSeat non vengono completate per le organizzazioni su Unified Shell](known-issues-workfront/wf-integrations-jumpseat-error-with-unified-shell.md)
       + [Notifiche: le e-mail di notifica del documento non consentono di mostrare le anteprime delle immagini](known-issues-workfront/wf-notifications-document-emails-missing-image-previews.md)
@@ -142,7 +126,6 @@ ht-degree: 71%
       + [[!UICONTROL Home]: la nuova anteprima del widget [!UICONTROL Home] non visualizza il nome corretto dell’oggetto](known-issues-workfront/wf-home-new-home-widget-preview-not-localized.md)
       + [[!UICONTROL Home]: il widget [!UICONTROL Richieste] non visualizza tutti i team assegnati](known-issues-workfront/inactive/wf-home-request-shows-one-team.md)
       + [[!UICONTROL Home]: il widget “[!UICONTROL Menzioni]” nella nuova [!UICONTROL Home] non è limitato ai messaggi in cui l’utente è taggato](known-issues-workfront/inactive/wf-home-mentions-widget-new-home.md)
-      + [[!UICONTROL Configurazione]: impossibile esportare i registri di controllo](known-issues-workfront/inactive/wf-setup-cannot-export-audit-logs.md)
       + [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md)
       + [Moduli personalizzati: “[!UICONTROL Errore]” durante la configurazione di un campo calcolato](known-issues-workfront/inactive/wf-custom-forms-error-with-calculated-field.md)
       + [Bozze: la scheda [!UICONTROL Attività bozza] apre i [!UICONTROL Dettagli della bozza]](known-issues-workfront/inactive/wf-proofs-proofing-activity-redirects-to-details.md)
@@ -225,8 +208,11 @@ ht-degree: 71%
       + [[!DNL Workfront Fusion]: il modulo di  [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
++ [!DNL Workfront] pianificazione {#planning}
+   + [Problemi noti in [!DNL Workfront] Planning](workfrontplanning.md)
+
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
