@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: f10450876e7ccd1b308772778d1be0cd76f6e57e
+source-git-commit: 9b7fb2257432fae02c7ab8eba1aca5d05bfea90e
 workflow-type: tm+mt
-source-wordcount: '3415'
-ht-degree: 36%
+source-wordcount: '3664'
+ht-degree: 34%
 
 ---
 
@@ -26,6 +26,50 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2025.
 
 ## Aggiornamenti di dicembre 2025
 
++++**Aggiornamenti di manutenzione di Workfront Planning dal 21 al 27 dicembre 2025**
+
+### Aggiornamenti di manutenzione alla pianificazione di Workfront, settimana dal 21 al 27 dicembre 2025
+
+#### Errore durante la rimozione del campo connesso
+
+Quando un utente cerca di rimuovere un campo connesso in Workfront Planning, non può rimuovere il campo e visualizza il messaggio &quot;Impossibile eliminare il campo. Riprova.&quot;
+
++++
+
++++**Aggiornamenti di manutenzione della settimana dal 21 al 27 dicembre 2025**
+
+### Aggiornamenti di manutenzione della settimana dal 21 al 27 dicembre 2025
+
+#### Moduli personalizzati
+
+**Impossibile modificare i campi Rich Text**
+
+Quando un utente tenta di modificare un campo in formato Rich text all’interno di un modulo personalizzato, le modifiche non vengono salvate e il campo non viene aggiornato in modo da riflettere le modifiche.
+
+#### Attività
+
+**Impossibile selezionare il ruolo utente durante la creazione di un&#39;attività**
+
+Quando un utente crea un’attività e tenta di assegnare un ruolo utente, l’opzione per assegnare il ruolo non è presente e l’utente non può assegnare un ruolo utente.
+
++++
+
++++**Aggiornamenti di manutenzione di Workfront Planning dal 14 al 20 dicembre 2025**
+
+### Aggiornamenti di manutenzione di Workfront Planning - Settimana dal 14 al 20 dicembre 2025
+
+#### Impossibile aggiungere un campo a una visualizzazione
+
+>[!NOTE]
+>
+>* Questo problema è stato segnalato nella Sandbox di aggiornamento personalizzata.
+
+Quando un utente tenta di aggiungere un campo a una visualizzazione in Workfront Planning, il campo non viene aggiunto e l’utente visualizza il seguente messaggio:
+
+&quot;Impossibile creare la colonna del campo. Riprova.&quot;
+
++++
+
 +++**Aggiornamenti di manutenzione della settimana dal 14 al 20 dicembre 2025**
 
 ### Aggiornamenti di manutenzione della settimana dal 14 al 20 dicembre 2025
@@ -41,6 +85,12 @@ Quando un utente viene assegnato come approvatore a un oggetto, il collegamento 
 **Le assegnazioni del team non sono salvate**
 
 Quando un utente assegna un team a un elemento di lavoro in Workfront, l’assegnazione del team non viene salvata e il team non viene informato del lavoro.
+
+#### Richieste
+
+**Autorizzazioni non ereditate durante la creazione di una richiesta**
+
+Quando un utente crea una richiesta, questa non eredita le autorizzazioni. Ciò significa che gli utenti potrebbero non essere in grado di accedere alla richiesta.
 
 #### Schedule
 
@@ -632,7 +682,7 @@ Il calcolo delle ore totali delle schede orario mostra occasionalmente una somma
 
 **I dati personalizzati non vengono visualizzati nel pannello Riepilogo**
 
-Quando un cliente visualizza il pannello Riepilogo di un’attività, i dati personalizzati che dovrebbero comparire nel pannello Riepilogo non sono presenti. Ciò può verificarsi anche se il modello di layout per le attività include i campi personalizzati.
+Quando un cliente visualizza il pannello Riepilogo di un’attività, i dati personalizzati che dovrebbero comparire nel pannello Riepilogo non sono presenti. Ciò può verificarsi anche se il modello layout per le attività include dei campi personalizzati.
 
 #### Rapporti
 

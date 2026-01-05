@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
 workflow-type: tm+mt
-source-wordcount: '1533'
-ht-degree: 75%
+source-wordcount: '1553'
+ht-degree: 74%
 
 ---
 
@@ -17,6 +17,9 @@ ht-degree: 75%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Richieste: le code di richieste vengono visualizzate più volte](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [Utenti: impossibile aggiornare l’accesso utente](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
+      + [Report: la query del Data Lake non restituisce i risultati previsti](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
       + [Reporting: gli utenti possono visualizzare i dati finanziari nelle visualizzazioni del dashboard di Canvas](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
       + [Workfront Planning: impossibile aggiungere un campo a una visualizzazione](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [Approvazioni: il widget Approvazioni personali mostra le approvazioni completate](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
@@ -66,7 +69,7 @@ ht-degree: 75%
       + [Moduli personalizzati: aziende mancanti dal campo di digitazione personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md)
       + [Documenti: impossibile caricare l’elenco dei documenti nella cartella AEM](/help/known-issues/known-issues-workfront/wf-documents-cannot-upload-to-aem-folder.md)
       + [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md)
-      + [Accedi come: viene visualizzato il modello di layout Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
+      + [Accedi come: viene visualizzato il modello layout dell’area Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md)
       + [Progetti: la condizione di ritardo non viene applicata come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md)
       + [Report: i prompt dei report vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md)
       + [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md)
@@ -110,7 +113,7 @@ ht-degree: 75%
       + [Team: impossibile visualizzare il proprietario del team o eliminare il team](known-issues-workfront/inactive/wf-teams-owner-cannot-delete.md)
       + [Bozze: la bozza impedisce la conversione in progetto dell’attività o del problema](known-issues-workfront/wf-proofs-web-proof-prevents-conversion.md)
       + [Attività: errore del database durante l’aggiunta o l’eliminazione di un’attività (in precedenza errore Bizcontext)](known-issues-workfront/wf-tasks-bizcontext-adding-or-deleting.md)
-      + [Modello di layout: pagina di destinazione non corretta](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
+      + [Modello layout: pagina di destinazione errata](known-issues-workfront/wf-layout-template-set-to-home-not-request.md)
       + [Rapporto: il filtro del rapporto non restituisce i risultati previsti](known-issues-workfront/inactive/wf-reports-filter-not-pulling-in-redundant.md)
       + [Aggiornamenti: gli utenti richiedenti non possono aggiungere immagini agli aggiornamenti](known-issues-workfront/wf-updates-requestors-not-add-image.md)
       + [Bozze: impossibile generare bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md)
@@ -213,7 +216,7 @@ ht-degree: 75%
    + [Problemi noti in [!DNL Workfront] Planning](workfrontplanning.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

@@ -3,15 +3,19 @@ title: 'Richieste: autorizzazioni non ereditate durante la creazione di una rich
 description: Quando un utente crea una richiesta, questa non eredita le autorizzazioni. Ciò significa che gli utenti potrebbero non essere in grado di accedere alla richiesta.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 09e817418fe3c706c6e71ff5bba2ba4fa8864f91
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
 
 # Richieste: autorizzazioni non ereditate durante la creazione di una richiesta
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il sabato 19 dicembre 2025.
 
 Quando un utente crea una richiesta, questa non eredita le autorizzazioni. Ciò significa che gli utenti potrebbero non essere in grado di accedere alla richiesta.
 

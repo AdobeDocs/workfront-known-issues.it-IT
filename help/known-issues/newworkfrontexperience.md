@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: a76c92773d0c295c5fc726062f765ffd37611037
+source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1054'
 ht-degree: 83%
 
 ---
@@ -25,8 +25,9 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | --- | --- |
-| [Moduli personalizzati: impossibile modificare i campi Rich Text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md) | martedì 8 dicembre 2025 |
-| [Attività: impossibile selezionare il ruolo utente durante la creazione di un&#39;attività](known-issues-workfront/wf-tasks-cannot-assign-user-role.md) | martedì 8 dicembre 2025 |
+| [Richieste: le code di richieste vengono visualizzate più volte](known-issues-workfront/wf-requests-queues-duplicated.md) | 5 gennaio 2026 |
+| [Utenti: impossibile aggiornare l&#39;accesso utente](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md) | 5 gennaio 2026 |
+| [Rapporti: la query del Data Lake non restituisce i risultati previsti](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md) | 5 gennaio 2026 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
 {style="table-layout:auto"}
@@ -41,7 +42,6 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 | [Approvazioni: il widget Approvazioni personali mostra le approvazioni completate](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | martedì 15 dicembre 2025 |
 | [Bozze: le modifiche allo stato della bozza sono ritardate](known-issues-workfront/wf-proof-status-sync-delayed.md) | martedì 8 dicembre 2025 |
 | [Attività: le modifiche apportate alla sezione Assegnazioni di un&#39;attività non vengono salvate](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md) | martedì 1 dicembre 2025 |
-| [Richieste: autorizzazioni non ereditate durante la creazione di una richiesta](known-issues-workfront/wf-requests-permissions-not-inherited.md) | mercoledì 25 novembre 2025 |
 | [Approvazioni: l&#39;approvazione viene visualizzata come &quot;Nessuna scadenza&quot; quando l&#39;ora non è inclusa nella scadenza](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md) | venerdì 25 settembre 2025 |
 | [Workfront: oggetti non sincronizzati tra Workfront e Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md) | mercoledì 17 giugno 2025 |
 | [Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti](known-issues-workfront/wf-users-pending-approval.md) | sabato 23 maggio 2025 |
@@ -101,7 +101,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Notifiche: e-mail duplicate](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md) | 27 febbraio 2025 |
 | [Progetti: la condizione di ritardo non viene applicata come previsto](/help/known-issues/known-issues-workfront/wf-projects-late-condition-not-applying.md) | 20 gennaio 2025 |
 | [Moduli personalizzati: aziende mancanti nel campo di digitazione personalizzato](/help/known-issues/known-issues-workfront/wf-custom-forms-companies-missing-typeahead.md) | 20 febbraio 2025 |
-| [Accedi come: viene visualizzato il modello di layout Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | venerdì 23 gennaio 2025 |
+| [Accedi come: viene visualizzato il modello layout dell’area Home dell’amministratore](/help/known-issues/known-issues-workfront/wf-login-as-users-home-layout-not-displayed.md) | venerdì 23 gennaio 2025 |
 | [Rapporti: i prompt dei rapporti vengono caricati lentamente](known-issues-workfront/wf-reports-prompts-load-slowly.md) | mercoledì 16 gennaio 2024 |
 | [Workfront: il formato della data cambia nel corso dell’applicazione](known-issues-workfront/wf-workfront-date-format-changing.md) | 20 dicembre 2024 |
 | [Approvazioni: i delegati non visualizzano le approvazioni delegate](known-issues-workfront/wf-approvals-delegation-not-working.md) | 20 dicembre 2024 |
@@ -129,12 +129,12 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
 | [Bozze: lo strumento di misurazione non accetta i punti decimali](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 marzo 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nell’[!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
-| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
+| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [API: impossibile ordinare per campi dinamici](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md) | 31 ottobre 2022 |
 | [[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md) | 28 ottobre 2022 |
 | [Dashboard: i colori dei grafici del rapporto mostrati in una dashboard sono diversi rispetto a quelli presenti nel rapporto](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 agosto 2022 |
 | [Agile: problemi durante lo spostamento delle schede sulla bacheca [!UICONTROL Agile]](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 aprile 2022 |
-| [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 ottobre 2021 |
+| [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 ottobre 2021 |
 | [Aggiornamenti: il nome del team non viene visualizzato in @mention](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 ottobre 2021 |
 | [Agile: discrepanza nei [!UICONTROL Punti completati] per un’iterazione](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 giugno 2021 |
 | [Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 giugno 2021 |

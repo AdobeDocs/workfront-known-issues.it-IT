@@ -3,10 +3,10 @@ title: 'Workfront Planning: impossibile aggiungere un campo a una visualizzazion
 description: Quando un utente tenta di aggiungere un campo a una visualizzazione in Workfront Planning, il campo non viene aggiunto e l’utente visualizza un messaggio.
 hidefromtoc: true
 feature: Workfront Planning
-source-git-commit: fb31912bbb8e62578293dc0b4df3761f433913da
+source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 4%
+source-wordcount: '97'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->Questo problema è stato segnalato nella Sandbox di aggiornamento personalizzata.
+>* Questo problema è stato risolto il sabato 19 dicembre 2025.
+>* Questo problema è stato segnalato nella Sandbox di aggiornamento personalizzata.
 
 Quando un utente tenta di aggiungere un campo a una visualizzazione in Workfront Planning, il campo non viene aggiunto e l’utente visualizza il seguente messaggio:
 
