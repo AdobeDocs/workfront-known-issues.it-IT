@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 0dac0311dd76f0653d72f4d4a6e5a79c36f0679e
+source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1561'
 ht-degree: 74%
 
 ---
@@ -197,6 +197,7 @@ ht-degree: 74%
 + [!DNL Adobe Workfront Fusion] {#fusion}
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
+      + [Workfront Fusion: errore di intestazione mancante nei moduli AWS](known-issues-workfront-fusion/fusion-missing-header-aws.md)
       + [Workfront Fusion: il modulo di ricerca Jira restituisce un errore](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
       + [Workfront Fusion: gli aggiornamenti al webhook non si salvano automaticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + [Workfront Fusion: lo scenario non è in esecuzione](known-issues-workfront-fusion/fusion-scenario-not-running.md)
@@ -216,7 +217,7 @@ ht-degree: 74%
    + [Problemi noti in [!DNL Workfront] Planning](workfrontplanning.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
