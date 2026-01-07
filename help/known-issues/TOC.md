@@ -2,7 +2,7 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
+source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
 workflow-type: tm+mt
 source-wordcount: '1561'
 ht-degree: 74%
@@ -217,7 +217,7 @@ ht-degree: 74%
    + [Problemi noti in [!DNL Workfront] Planning](workfrontplanning.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
