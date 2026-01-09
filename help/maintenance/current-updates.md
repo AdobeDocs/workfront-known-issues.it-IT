@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: c2634db0768c32bb003d6401afc2239e941bf6d2
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 63%
+source-wordcount: '217'
+ht-degree: 52%
 
 ---
 
@@ -25,6 +25,18 @@ Per gli aggiornamenti di manutenzione precedenti al 2026, consulta [Aggiornament
 I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2026.
 
 ## Aggiornamenti di gennaio 2026
+
++++**Aggiornamenti di manutenzione di Workfront Fusion dal 4 al 10 gennaio 2026**
+
+### Aggiornamenti di manutenzione - settimana dal 4 al 10 gennaio 202
+
+**Errore di intestazione mancante nei moduli AWS**
+
+I moduli AWS hanno esito negativo con il seguente errore:
+
+&quot;Intestazione richiesta mancante per questa richiesta&quot;
+
++++
 
 +++**Aggiornamenti di manutenzione - settimana dal 4 al 10 gennaio 2026**
 

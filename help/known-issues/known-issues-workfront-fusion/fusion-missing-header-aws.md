@@ -3,15 +3,19 @@ title: 'Fusion: errore di intestazione mancante nei moduli AWS'
 description: 'I moduli AWS hanno esito negativo con l’errore: intestazione richiesta mancante per questa richiesta'
 hidefromtoc: true
 feature: Workfront Fusion
-source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 8%
+source-wordcount: '51'
+ht-degree: 19%
 
 ---
 
 
 # Fusion: errore di intestazione mancante nei moduli AWS
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il venerdì 8 gennaio 2026.
 
 I moduli AWS hanno esito negativo con il seguente errore:
 

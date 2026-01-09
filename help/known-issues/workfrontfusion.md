@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Fusion]
 keywords: nuovo file, aggiungi file
 exl-id: 28b7e449-3f35-4915-b32a-3872ac283b06
 feature: Workfront Fusion
-source-git-commit: 3af3819111daabfea1860179d7ba7529bae4c34a
+source-git-commit: 0bda09f90283710c8ad1e6275ba48ccf7455fbe1
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 79%
+source-wordcount: '224'
+ht-degree: 82%
 
 ---
 
@@ -25,7 +25,7 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Workfront Fusion: errore di intestazione mancante nei moduli AWS](known-issues-workfront-fusion/fusion-missing-header-aws.md) | mercoledì 6 gennaio 2026 |
+| Nessuno | |
 
 {style="table-layout:auto"}
 
@@ -56,7 +56,7 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
 | [Bozze: impossibile creare le bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 febbraio 2025 |
-| [Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati di tutti i dati &#x200B;](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 ottobre 2024 |
+| [Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati di tutti i dati ](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md) | 29 ottobre 2024 |
 | [Workfront Fusion: formattazione dell’output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md) | giovedì 31 gennaio 2024 |
 | [Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md) | 24 ottobre 2023 |
 | [[!DNL Workfront Proof]: errore 500 durante l’accesso a  [!DNL Workfront Proof]  tramite API o  [!DNL Workfront Fusion]](known-issues-workfront-proof/proof-500-error-getallproofs.md) | 25 maggio 2023 |
