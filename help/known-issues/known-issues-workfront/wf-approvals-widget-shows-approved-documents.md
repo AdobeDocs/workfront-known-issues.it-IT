@@ -3,19 +3,23 @@ title: 'Approvazioni: il widget Approvazioni personali mostra le approvazioni co
 description: Quando un utente visualizza il proprio widget Approvazioni personali nella Home, il widget include le bozze che sono già state approvate.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: fa4e4373f3f39973086a40fc66e0d307a996d38a
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 15%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
 
 # Approvazioni: il widget Approvazioni personali mostra le approvazioni completate
 
+<!--
+
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 8 gennaio 2026.
+>This issue was fixed on January 8, 2026.
+
+-->
 
 Quando un utente visualizza il proprio widget Approvazioni personali nella Home, il widget include le bozze che sono già state approvate.
 

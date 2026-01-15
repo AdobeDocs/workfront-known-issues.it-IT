@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 43a9d0627fdbb13c615d04e5f77e31a53520d9f9
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '1581'
-ht-degree: 73%
+source-wordcount: '1600'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 73%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Richieste: la bozza creata insieme alla richiesta causa problemi](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [Richieste: errore &quot;Devi essere un amministratore di sistema&quot; durante la copia delle richieste](known-issues-workfront/wf-requests-error-when-copying.md)
       + [Utenti: il provisioning degli utenti in Adobe Admin Console non è corretto](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
       + [Richieste: problemi relativi alle bozze nella nuova esperienza di richiesta](known-issues-workfront/wf-requests-issues-with-drafts.md)
       + [Richieste: le code di richieste vengono visualizzate più volte](known-issues-workfront/wf-requests-queues-duplicated.md)
@@ -219,7 +221,7 @@ ht-degree: 73%
    + [Problemi noti in [!DNL Workfront] Planning](workfrontplanning.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

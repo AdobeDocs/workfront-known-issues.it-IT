@@ -3,10 +3,10 @@ title: Le modifiche apportate nella finestra di dialogo Modifica di un’attivit
 description: Quando un utente apporta modifiche alla sezione Modifiche di un’attività nella finestra di dialogo delle attività legacy e le salva, le modifiche non vengono salvate.
 hidefromtoc: true
 feature: Tasks
-source-git-commit: 11192c5977f47ed04fd7cef0b059d20a8af29221
+source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 27%
 
 ---
 
@@ -15,7 +15,8 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Questo problema si applica all’esperienza attività legacy.
+>* Questo problema si applica all’esperienza attività legacy.
+>* Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
 Quando un utente apporta modifiche alla sezione Modifiche di un’attività nella finestra di dialogo delle attività legacy e le salva, le modifiche non vengono salvate.
 
