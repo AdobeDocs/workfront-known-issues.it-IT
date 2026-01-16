@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: 5b9f2008a89c95a723523a7fad8af006754d037c
 workflow-type: tm+mt
-source-wordcount: '1600'
-ht-degree: 72%
+source-wordcount: '1617'
+ht-degree: 71%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 72%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Moduli personalizzati: i campi calcolati non visualizzano i dati per i non amministratori](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [Richieste: la bozza creata insieme alla richiesta causa problemi](known-issues-workfront/wf-requests-draft-created-with-request.md)
       + [Richieste: errore &quot;Devi essere un amministratore di sistema&quot; durante la copia delle richieste](known-issues-workfront/wf-requests-error-when-copying.md)
       + [Utenti: il provisioning degli utenti in Adobe Admin Console non è corretto](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
@@ -177,6 +178,7 @@ ht-degree: 72%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
+      + [Workfront Proof: le bozze non vengono visualizzate nelle cartelle](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]: impossibile riordinare le risorse durante la creazione di una bozza](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -221,7 +223,7 @@ ht-degree: 72%
    + [Problemi noti in [!DNL Workfront] Planning](workfrontplanning.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
