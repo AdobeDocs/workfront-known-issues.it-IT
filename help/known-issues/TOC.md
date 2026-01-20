@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 2a8b9279bcffd316c9c4f2242633270ea076b1a4
+source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
 workflow-type: tm+mt
-source-wordcount: '1632'
-ht-degree: 71%
+source-wordcount: '1643'
+ht-degree: 70%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 71%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Richieste: errore &quot;Livello di accesso insufficiente&quot; durante la copia delle richieste](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
       + [Pianificazioni: impossibile visualizzare le eccezioni degli anni precedenti](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [Richieste: la vista &quot;All&quot; (Tutti) non mostra tutte le richieste](known-issues-workfront/wf-requests-not-showing-all.md)
       + [Moduli personalizzati: i campi calcolati non visualizzano i dati per i non amministratori](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
@@ -225,7 +226,7 @@ ht-degree: 71%
    + [Problemi noti in [!DNL Workfront] Planning](workfrontplanning.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
