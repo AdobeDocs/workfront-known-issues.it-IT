@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
+source-git-commit: 2a8b9279bcffd316c9c4f2242633270ea076b1a4
 workflow-type: tm+mt
-source-wordcount: '1625'
+source-wordcount: '1632'
 ht-degree: 71%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 71%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Pianificazioni: impossibile visualizzare le eccezioni degli anni precedenti](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
       + [Richieste: la vista &quot;All&quot; (Tutti) non mostra tutte le richieste](known-issues-workfront/wf-requests-not-showing-all.md)
       + [Moduli personalizzati: i campi calcolati non visualizzano i dati per i non amministratori](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
       + [Richieste: la bozza creata insieme alla richiesta causa problemi](known-issues-workfront/wf-requests-draft-created-with-request.md)
@@ -224,7 +225,7 @@ ht-degree: 71%
    + [Problemi noti in [!DNL Workfront] Planning](workfrontplanning.md)
 
 + App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

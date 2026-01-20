@@ -4,9 +4,9 @@ description: 'Problemi noti segnalati per la nuova esperienza di [!DNL Adobe Wor
 keywords: nuovo file, aggiungi file
 exl-id: 58f4b190-113c-49d4-99bd-0a7bc512dae5
 feature: Get Started with Workfront
-source-git-commit: c3a80db771b7b7132fee54d33f8f2a658bcd959c
+source-git-commit: 34cba5746ea94bbbc24e2dc6bd6541d210777024
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1104'
 ht-degree: 80%
 
 ---
@@ -38,6 +38,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | --- | --- |
+| [Pianificazioni: impossibile visualizzare le eccezioni degli anni precedenti](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md) | mercoledì 20 gennaio 2026 |
 | [Richieste: la visualizzazione &quot;All&quot; (Tutti) non mostra tutte le richieste](known-issues-workfront/wf-requests-not-showing-all.md) | sabato 16 gennaio 2026 |
 | [Moduli personalizzati: nei campi calcolati non vengono visualizzati i dati per gli utenti non amministratori](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md) | sabato 16 gennaio 2026 |
 | [Richieste: la bozza creata insieme alla richiesta causa problemi](known-issues-workfront/wf-requests-draft-created-with-request.md) | venerdì 15 gennaio 2026 |
@@ -133,12 +134,12 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Bozze: le bozze vengono create lentamente nell’ambiente di Anteprima](known-issues-workfront/inactive/wf-proofs-in-preview-created-slowly.md) | 8 giugno 2023 |
 | [Bozze: lo strumento di misurazione non accetta i punti decimali](known-issues-workfront/inactive/wf-proofs-measure-not-not-accepting-decimals.md) | 27 marzo 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nell’[!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
-| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
+| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [API: impossibile ordinare per campi dinamici](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md) | 31 ottobre 2022 |
 | [[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md) | 28 ottobre 2022 |
 | [Dashboard: i colori dei grafici del rapporto mostrati in una dashboard sono diversi rispetto a quelli presenti nel rapporto](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md) | 5 agosto 2022 |
 | [Agile: problemi durante lo spostamento delle schede sulla bacheca [!UICONTROL Agile]](known-issues-workfront/inactive/wf-agile-issues-moving-cards.md) | 27 aprile 2022 |
-| [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 ottobre 2021 |
+| [[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md) | 1 ottobre 2021 |
 | [Aggiornamenti: il nome del team non viene visualizzato in @mention](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md) | 1 ottobre 2021 |
 | [Agile: discrepanza nei [!UICONTROL Punti completati] per un’iterazione](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md) | 22 giugno 2021 |
 | [Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md) | 2 giugno 2021 |
