@@ -227,7 +227,7 @@ ht-degree: 70%
    + [Problemi noti nella [!DNL Workfront] pianificazione](workfrontplanning.md)
 
 + [!DNL Workfront] Mobile App {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
 
 <!--
 
