@@ -2,9 +2,9 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 9fa81ccc2d06489256f147b4d5e7f55156904158
+source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '1648'
 ht-degree: 70%
 
 ---
@@ -17,58 +17,59 @@ ht-degree: 70%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
-      + [Richieste: errore &quot;Livello di accesso insufficiente&quot; durante la copia delle richieste](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
-      + [Pianificazioni: impossibile visualizzare le eccezioni degli anni precedenti](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
-      + [Richieste: la vista &quot;All&quot; (Tutti) non mostra tutte le richieste](known-issues-workfront/wf-requests-not-showing-all.md)
-      + [Moduli personalizzati: i campi calcolati non visualizzano i dati per i non amministratori](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
-      + [Richieste: la bozza creata insieme alla richiesta causa problemi](known-issues-workfront/wf-requests-draft-created-with-request.md)
+      + [Documenti: il pannello Riepilogo è vuoto](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
+      + [Richieste: errore &quot;Non disponi di accesso sufficiente&quot; durante la copia delle richieste](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
+      + [Schedulazioni: non è possibile visualizzare le eccezioni degli anni precedenti](known-issues-workfront/wf-schedules-cannot-see-previous-year-exceptions.md)
+      + [Richieste: la vista &quot;Tutte&quot; non mostra tutte le richieste](known-issues-workfront/wf-requests-not-showing-all.md)
+      + [Moduli personalizzati: campi calcolati che non visualizzano dati per utenti non amministratori](known-issues-workfront/wf-custom-forms-calculated-fields-admin-only.md)
+      + [Richieste: la bozza creata insieme ai richiesta causa problemi](known-issues-workfront/wf-requests-draft-created-with-request.md)
       + [Richieste: errore &quot;Devi essere un amministratore di sistema&quot; durante la copia delle richieste](known-issues-workfront/wf-requests-error-when-copying.md)
-      + [Utenti: il provisioning degli utenti in Adobe Admin Console non è corretto](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
-      + [Richieste: problemi relativi alle bozze nella nuova esperienza di richiesta](known-issues-workfront/wf-requests-issues-with-drafts.md)
-      + [Richieste: le code di richieste vengono visualizzate più volte](known-issues-workfront/wf-requests-queues-duplicated.md)
-      + [Utenti: impossibile aggiornare l’accesso utente](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
-      + [Report: la query del Data Lake non restituisce i risultati previsti](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
-      + [Reporting: gli utenti possono visualizzare i dati finanziari nelle visualizzazioni del dashboard di Canvas](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
-      + [Workfront Planning: impossibile aggiungere un campo a una visualizzazione](known-issues-workfront/wf-planning-cannot-add-field.md)
+      + [Utenti: agli utenti non viene eseguito correttamente il provisioning sul Adobe Admin Console](known-issues-workfront/wf-users-on-other-consoles-not-provisioning.md)
+      + [Richieste: problemi con le bozze nella nuova esperienza di richiesta](known-issues-workfront/wf-requests-issues-with-drafts.md)
+      + [Richieste: le code delle richieste vengono visualizzate più volte](known-issues-workfront/wf-requests-queues-duplicated.md)
+      + [Utenti: Impossibile aggiornare utente accesso](known-issues-workfront/wf-users-no-access-to-view-finance-when-changing-access.md)
+      + [Rapporti: la query Data Lake non restituisce i risultati attesi](known-issues-workfront/wf-reports-data-lake-not-return-expected-results.md)
+      + [Reporting: gli utenti possono visualizzare i dati finanziari nelle visualizzazioni Dashboard Canvas](known-issues-workfront/wf-reporting-users-can-see-financial-data.md)
+      + [Pianificazione del fronte di lavoro: impossibile aggiungere un campo a una visualizzazione](known-issues-workfront/wf-planning-cannot-add-field.md)
       + [Approvazioni: il widget Approvazioni personali mostra le approvazioni completate](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md)
-      + [Workfront Planning: errore durante la rimozione del campo connesso](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
-      + [Utenti: l’opzione per generare automaticamente le bozze non è presente nel profilo utente](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
-      + [Moduli personalizzati: impossibile modificare i campi in formato Rich Text](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
-      + [Utenti: errore durante l’apertura della pagina Utenti](known-issues-workfront/wf-users-cannot-open-user-tab.md)
-      + [Attività: impossibile selezionare il ruolo utente durante la creazione di un’attività](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
-      + [Bozze: le modifiche allo stato della bozza subiscono ritardi](known-issues-workfront/wf-proof-status-sync-delayed.md)
-      + [Attività: le modifiche in linea apportate a un’attività non vengono salvate](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
-      + [Utenti: la modifica in blocco degli utenti comporta la rimozione dei pool di risorse e dei referenti diretti](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
-      + [Richieste: impossibile caricare il documento da richiedere a GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
-      + [Attività: le modifiche apportate alla sezione Assegnazioni di un’attività non vengono salvate](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
-      + [Utenti: problemi relativi alle modifiche al profilo bozza](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
-      + [Richieste: autorizzazioni non ereditate durante la creazione di una richiesta](known-issues-workfront/wf-requests-permissions-not-inherited.md)
-      + [Pianificazioni: autorizzazioni per la pianificazione revocate per un gruppo](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
+      + [Pianificazione del fronte di lavoro: Errore durante la rimozione del campo connesso](known-issues-workfront/wf-planning-cannot-delete-connected-field.md)
+      + [Utenti: nel utente profilo manca l&#39;opzione per generare automaticamente le prove](known-issues-workfront/wf-users-no-option-to-automatically-generate-proofs.md)
+      + [Moduli personalizzati: impossibile modificare i campi RTF](known-issues-workfront/wf-custom-forms-cannot-edit-rich-text-field.md)
+      + [Utenti: Errore all&#39;apertura della pagina Utenti](known-issues-workfront/wf-users-cannot-open-user-tab.md)
+      + [Attività: impossibile selezionare utente ruolo durante la creazione di un&#39;attività](known-issues-workfront/wf-tasks-cannot-assign-user-role.md)
+      + [Prove: le modifiche dello stato della prova sono ritardate](known-issues-workfront/wf-proof-status-sync-delayed.md)
+      + [Attività: le modifiche in linea a un&#39;attività non vengono salvate](known-issues-workfront/wf-tasks-inline-changes-not-saving.md)
+      + [Utenti: la modifica in blocco degli utenti rimuove i pool di risorse e i rapporti diretti](known-issues-workfront/wf-users-bulk-editing-clears-resource-pools.md)
+      + [Richieste: Impossibile caricare il documento da richiesta da GDrive](known-issues-workfront/wf-requests-cannot-upload-from-gdrive.md)
+      + [Attività: le modifiche alla sezione Assegnazioni di un&#39;attività non vengono salvate](known-issues-workfront/wf-tasks-assignments-changes-not-saved.md)
+      + [Utenti: problemi con le modifiche al profilo di prova](known-issues-workfront/wf-users-proof-profile-changes-not-retained.md)
+      + [Richieste: autorizzazioni non ereditate durante la creazione di un richiesta](known-issues-workfront/wf-requests-permissions-not-inherited.md)
+      + [Pianificazioni: le autorizzazioni programmare revocate per un gruppo](known-issues-workfront/wf-schedules-group-permissions-revoked.md)
       + [Assegnazioni: le assegnazioni del team non vengono salvate](known-issues-workfront/wf-assignments-not-saved.md)
-      + [Attività: le ore pianificate non vengono salvate durante la creazione dell’attività](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
-      + [Schede orario: schede orario non generate](known-issues-workfront/wf-timesheets-not-generated.md)
-      + [Attività: messaggio di &quot;accesso insufficiente&quot; quando si modificano attività in linea](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
+      + [Attività: ore pianificate non salvate durante la creazione dell&#39;attività](known-issues-workfront/wf-tasks-planned-hours-not-saving.md)
+      + [Schede attività: schede attività non generate](known-issues-workfront/wf-timesheets-not-generated.md)
+      + [Attività: messaggio &quot;accesso insufficiente&quot; durante le attività di modifica in linea](known-issues-workfront/wf-tasks-insufficent-access-to-edit.md)
       + [Approvazioni: collegamenti alle approvazioni non disponibili](known-issues-workfront/wf-approvals-link-not-appearing.md)
-      + [Richieste: il creatore del modulo di richiesta non ha accesso al modulo](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
-      + [Utenti: è possibile cercare solo i ruoli in base alla prima parola](known-issues-workfront/wf-users-job-role-first-word.md)
+      + [Richieste: il creatore del modulo di richiesta non dispone di accesso del modulo](/help/known-issues/known-issues-workfront/wf-requests-creator-does-not-have-access-to-form.md)
+      + [Utenti: possono ricerca ruoli lavorativi solo per prima parola](known-issues-workfront/wf-users-job-role-first-word.md)
       + [Rapporti: problemi relativi ai menu a discesa nei grafici](known-issues-workfront/wf-reports-dropdown-not-working.md)
-      + [Utenti: impossibile utilizzare le opzioni avanzate durante la creazione degli utenti](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
-      + [Moduli personalizzati: la logica di visualizzazione del campo non viene seguita correttamente](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
+      + [Utenti: non è possibile utilizzare le opzioni avanzate durante la creazione degli utenti](/help/known-issues/known-issues-workfront/wf-users-cannot-use-advanced-options.md)
+      + [Moduli personalizzati: la logica di visualizzazione dei campi non viene seguita correttamente](known-issues-workfront/wf-custom-forms-display-logic-triggering-incorrectly.md)
       + [Bozze: impossibile chiudere il visualizzatore bozza](known-issues-workfront/wf-cannot-close-proofing-viewer.md)
       + [Programmi: impossibile salvare durante la modifica di un programma](known-issues-workfront/wf-programs-cannot-save-when-editing-program.md)
-      + [Approvazioni: i pulsanti di decisione Approvazione non vengono visualizzati in Proof Viewer (Visualizzatore di bozze)](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
-      + [Approvazioni: l’approvazione viene visualizzata come &quot;Nessuna scadenza&quot; quando l’ora non è inclusa nella scadenza](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
-      + [Bozze: impossibile generare una bozza da un file di PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
-      + [Utenti: impossibile modificare le impostazioni delle notifiche per un altro utente](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
-      + [Utenti: impossibile modificare l’ID federazione di un utente](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
-      + [Autorizzazioni: le autorizzazioni degli oggetti non vengono ereditate correttamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
-      + [Workfront: oggetti non sincronizzati tra Workfront e Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
-      + [Bozze: impossibile aggiungere utenti a una bozza per nome nell’ambiente di anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
+      + [Approvazioni: i pulsanti di decisione di approvazione non vengono visualizzati nel visualizzatore di prove](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md)
+      + [Approvazioni: l&#39;approvazione viene visualizzata come &quot;Nessuna scadenza&quot; quando il tempo non è incluso nella scadenza](/help/known-issues/known-issues-workfront/wf-approvals-displays-no-deadline-if-no-time.md)
+      + [Prove: Impossibile generare una prova da un file PowerPoint](known-issues-workfront/wf-proofs-cannot-generate-from-pptx.md)
+      + [Utenti: non possono modificare le impostazioni di notifica per un altro utente](known-issues-workfront/wf-users-cannot-edit-another-users-notifications.md)
+      + [Utenti: non possono modificare l&#39;ID federazione di un utente](/help/known-issues/known-issues-workfront/wf-users-cannot-edit-fed-id.md)
+      + [Autorizzazioni: Le autorizzazioni per gli oggetti non vengono ereditate correttamente](known-issues-workfront/wf-permissions-not-inherited-correctly.md)
+      + [Workfront: oggetti fuori Sincronizzazione tra Workfront e Snowflake](/help/known-issues/known-issues-workfront/wf-users-deactivated-appear-in-snowflake.md)
+      + [Prove: non è possibile aggiungere utenti a una prova per nome nell&#39;ambiente Anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md)
       + [Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti](known-issues-workfront/wf-users-pending-approval.md)
-      + [Bozze: la chiusura dell’elenco delle bozze viene reindirizzata ai documenti](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
+      + [Prove: la prova di chiusura reindirizza all&#39;elenco dei documenti](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md)
       + [Documenti: le miniature dei documenti non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md)
       + [Filtri: il menu a discesa scompare quando si fa clic sulla barra di scorrimento](known-issues-workfront/wf-filter-scroll-bar.md)
-      + [Progetti: lo stato di avanzamento del progetto non viene aggiornato automaticamente a In ritardo](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
+      + [Progetti: lo stato di avanzamento del progetto non viene aggiornato automaticamente a Ritardo](/help/known-issues/known-issues-workfront/wf-projects-inaccurate-condition.md)
       + [Accedi come: gli amministratori del gruppo non possono accedere come altro utente](known-issues-workfront/wf-login-as-group-admin-cannot-login-as.md)
       + [Integrazioni: errore outlookIdentityToken durante l’utilizzo di Workfront per Outlook](/help/known-issues/known-issues-workfront/inactive/wf-integrations-outlook-outlookidentitytoken-error.md)
       + [Notifiche: e-mail duplicate](/help/known-issues/known-issues-workfront/wf-notifications-duplicate-emails.md)
@@ -181,7 +182,7 @@ ht-degree: 70%
 + [!DNL Workfront Proof] {#proof}
    + [Problemi noti in  [!DNL Workfront Proof]](workfrontproof.md)
    + Problemi attuali in [!DNL Workfront Proof] {#proof-current}
-      + [Workfront Proof: le bozze non vengono visualizzate nelle cartelle](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
+      + [Prova di fronte: le bozze non vengono visualizzate nelle cartelle](known-issues-workfront-proof/proof-folders-not-showing-proofs.md)
       + [[!UICONTROL Workfront Proof]: impossibile riordinare le risorse durante la creazione di una bozza](known-issues-workfront-proof/proof-cannot-reorder-assets-when-creating-proof.md)
       + [[!DNL Workfront Proof]: marca temporale imprecisa nel [!UICONTROL Riepilogo bozza]](known-issues-workfront-proof/proof-inaccurate-timestamp-proof-summary.md)
       + [[!DNL Workfront Proof]: impossibile espandere il flusso di lavoro](known-issues-workfront-proof/proof-cannot-view-workflow.md)
@@ -207,9 +208,9 @@ ht-degree: 70%
    + [Problemi noti in Workfront Fusion](workfrontfusion.md)
    + Problemi attuali in [!DNL Workfront Fusion] {#fusion-current}
       + [Workfront Fusion: errore di intestazione mancante nei moduli AWS](known-issues-workfront-fusion/fusion-missing-header-aws.md)
-      + [Workfront Fusion: il modulo di ricerca Jira restituisce un errore](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
-      + [Workfront Fusion: gli aggiornamenti al webhook non si salvano automaticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
-      + [Workfront Fusion: lo scenario non è in esecuzione](known-issues-workfront-fusion/fusion-scenario-not-running.md)
+      + [Workfront Fusion: il modulo Search Jira restituisce un errore](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
+      + [Workfront Fusion: gli aggiornamenti al webhook non vengono salvati automaticamente](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
+      + [Workfront Fusion: Lo scenario non è in esecuzione](known-issues-workfront-fusion/fusion-scenario-not-running.md)
       + [Workfront Fusion: inizia impostare a “Da ora in poi” per l’elaborazione di tutti i dati](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + [Workfront Fusion: impossibile aggiungere o eliminare utenti da Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + [Workfront Fusion: 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
@@ -222,11 +223,11 @@ ht-degree: 70%
       + [[!DNL Workfront Fusion]: il modulo di  [!DNL Fusion] restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
-+ [!DNL Workfront] pianificazione {#planning}
-   + [Problemi noti in [!DNL Workfront] Planning](workfrontplanning.md)
++ [!DNL Workfront] Pianificazione {#planning}
+   + [Problemi noti nella [!DNL Workfront] pianificazione](workfrontplanning.md)
 
-+ App mobile [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
++ [!DNL Workfront] Mobile App {#mobile}
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
