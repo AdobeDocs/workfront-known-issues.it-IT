@@ -7,7 +7,7 @@ feature: Workfront Proof
 source-git-commit: 0b5281162e06a95b3f4da1c566e890cfad956912
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 86%
+ht-degree: 96%
 
 ---
 
@@ -36,11 +36,11 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Documenti: il pannello Riepilogo è vuoto](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | giovedì 21 gennaio 2026 |
-| [Prova di fronte: le bozze non vengono visualizzate nelle cartelle](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | sabato 16 gennaio 2026 |
-| [Approvazioni: il widget Approvazioni personali mostra le approvazioni completate](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | venerdì 15 gennaio 2026 |
-| [Documenti: le miniature dei documenti non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | venerdì 17 aprile 2025 |
-| [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | martedì 8 luglio 2024 |
+| [Documenti: pannello di riepilogo vuoto](known-issues-workfront/wf-documents-summary-panel-is-blank.md) | giovedì 21 gennaio 2026 |
+| [Workfront Proof: le bozze non vengono visualizzate nelle cartelle](known-issues-workfront-proof/proof-folders-not-showing-proofs.md) | sabato 16 gennaio 2026 |
+| [Approvazioni: il widget Le mie approvazioni mostra le approvazioni completate](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | venerdì 15 gennaio 2026 |
+| [Documenti: le miniature dei documenti non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 aprile 2025 |
+| [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 luglio 2024 |
 | [Home: il widget Approvazioni non è accurato](known-issues-workfront/wf-home-approvals-widget-not-up-to-date.md) | 8 maggio 2024 |
 
 {style="table-layout:auto"}
@@ -51,9 +51,9 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Approvazioni: i pulsanti di decisione di approvazione non vengono visualizzati nel visualizzatore di prove](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | mercoledì 30 settembre 2025 |
-| [Prove: non è possibile aggiungere utenti a una prova per nome nell&#39;ambiente Anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | martedì 16 giugno 2025 |
-| [Prove: la prova di chiusura reindirizza all&#39;elenco dei documenti](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | giovedì 14 maggio 2025 |
+| [Approvazioni: i pulsanti di decisione delle approvazioni non vengono visualizzati nel visualizzatore bozze](known-issues-workfront/wf-approvals-decision-buttons-not-in-proof-viewer.md) | 30 settembre 2025 |
+| [Bozze: impossibile aggiungere utenti per nome a una bozza nell’ambiente Anteprima](known-issues-workfront/wf-proofs-cannot-add-users-by-name-in-preview.md) | 16 giugno 2025 |
+| [Bozze: la chiusura di una bozza reindirizza all’elenco dei documenti](known-issues-workfront/wf-proofs-x-goes-to-doc-list.md) | 14 maggio 2025 |
 | [Bozze: impossibile creare le bozze per i video collegati da AEM tramite Fusion](/help/known-issues/known-issues-workfront/wf-proof-cannot-generate-aem-video.md) | 13 febbraio 2025 |
 | [Bozze: le bozze di acquisizione web non vengono generate](known-issues-workfront/wf-proofs-webcapture-proof-not-generate.md) | 20 dicembre 2024 |
 | [Bozze: impossibile generare le bozze compresse](known-issues-workfront/wf-proofs-zipped-proofs-fail.md) | 7 giugno 2024 |
@@ -69,10 +69,10 @@ Le correzioni per questi problemi non sono attualmente nella roadmap. In alcuni 
 | [Documenti: problemi relativi all’elenco dei documenti](known-issues-workfront/inactive/wf-documents-list-missing-elements.md) | 23 marzo 2023 |
 | [[!DNL Workfront Proof]: gli elenchi non sono ordinati correttamente](known-issues-workfront-proof/proof-lists-not-sorted-correctly.md) | 23 marzo 2023 |
 | [Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md) | 7 marzo 2023 |
-| [[!DNL Workfront Proof]: l’area [!UICONTROL Rapporti] non è più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1 marzo 2023 |
+| [[!DNL Workfront Proof]: l’area [!UICONTROL Rapporti] non è più supportata](known-issues-workfront-proof/proof-reports-analytics-not-working.md) | 1° marzo 2023 |
 | [Bozze: viene creata una nuova fase perché la scadenza non può corrispondere a quella della fase esistente](known-issues-workfront-proof/proof-new-stage-created.md) | 2 febbraio 2023 |
 | [[!UICONTROL Home]: le bozze completate rimangono bloccate nell’[!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md) | 10 gennaio 2023 |
-| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
+| [Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md) | 5 dicembre 2022 |
 | [Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro della bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md) | 18 settembre 2022 |
 | [Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md) | 14 settembre 2022 |
 | [[!DNL Workfront Proof]: impossibile aggiungere un’utente alla bozza assegnandoli un tag in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md) | 23 marzo 2022 |

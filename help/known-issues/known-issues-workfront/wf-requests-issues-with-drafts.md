@@ -1,12 +1,12 @@
 ---
 title: 'Richieste: problemi relativi alle bozze nella nuova esperienza di richiesta'
-description: Sono stati segnalati più casi relativi a bozze nella nuova esperienza di richiesta.
+description: Sono stati segnalati più problemi relativi alle bozze nella nuova esperienza di richiesta.
 hidefromtoc: true
 feature: Requests
 source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il sabato 23 gennaio 2026.
+>Questo problema è stato risolto l’sabato 23 gennaio 2026.
 
 Sono stati segnalati i seguenti problemi relativi alle bozze nella nuova esperienza di richiesta:
 
-* Le richieste create come bozza e inviate mostrano solo la prima lettera dell&#39;oggetto nell&#39;elenco Richieste.
-* Le bozze scartate non vengono rimosse dall’elenco delle richieste e viene visualizzato l’errore &quot;Impossibile recuperare la bozza.&quot;
+* Per le richieste create come bozza e quindi inviate, nell’elenco Richieste viene mostrata solo la prima lettera dell’oggetto.
+* Le bozze rimosse non vengono eliminate dall’elenco delle richieste e causano l’errore “Impossibile recuperare la bozza”.
 
-_Segnalato per la prima volta il mercoledì 30 dicembre 2025._
+_Segnalato per la prima volta il 30 dicembre 2025._

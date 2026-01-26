@@ -1,12 +1,12 @@
 ---
 title: Aggiornamenti di manutenzione per Workfront
-description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
+description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
 source-git-commit: 614b2b8e71b244a90adddec2795c0a8b1f04b4a1
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 34%
+ht-degree: 81%
 
 ---
 
@@ -36,10 +36,10 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2026.
 
 Sono stati segnalati i seguenti problemi relativi alle bozze nella nuova esperienza di richiesta:
 
-* Le richieste create come bozza e inviate mostrano solo la prima lettera dell&#39;oggetto nell&#39;elenco Richieste.
+* Per le richieste create come bozza e quindi inviate, nell’elenco Richieste viene mostrata solo la prima lettera dell’oggetto.
 * Le bozze scartate non vengono rimosse dall’elenco delle richieste,
 
-#### Schedule
+#### Pianificazioni
 
 **Impossibile visualizzare le eccezioni degli anni precedenti**
 
@@ -55,39 +55,39 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 +++
 
-+++**Aggiornamenti di manutenzione di Workfront Fusion dal 4 al 10 gennaio 2026**
++++**Aggiornamenti di manutenzione di Workfront Fusion - Settimana dal 4 al 10 gennaio 2026**
 
-### Aggiornamenti di manutenzione della settimana dal 4 al 10 gennaio 2026
+### Aggiornamenti di manutenzione - Settimana dal 4 al 10 gennaio 2026
 
 **Errore di intestazione mancante nei moduli AWS**
 
 I moduli AWS hanno esito negativo con il seguente errore:
 
-&quot;Intestazione richiesta mancante per questa richiesta&quot;
+“Intestazione necessaria mancante per questa richiesta”
 
 +++
 
-+++**Aggiornamenti di manutenzione - settimana dal 4 al 10 gennaio 2026**
++++**Aggiornamenti di manutenzione - Settimana dal 4 al 10 gennaio 2026**
 
-### Aggiornamenti di manutenzione della settimana dal 4 al 10 gennaio 2026
+### Aggiornamenti di manutenzione - Settimana dal 4 al 10 gennaio 2026
 
 #### Approvazioni
 
-**Il widget Approvazioni personali mostra le approvazioni completate**
+**Il widget Le mie approvazioni mostra le approvazioni completate**
 
-Quando un utente visualizza il proprio widget Approvazioni personali nella Home, il widget include le bozze che sono già state approvate.
+Quando un utente visualizza il widget Le mie approvazioni nella pagina Home, questo include le bozze che sono già state approvate.
 
 #### Bozze
 
-**Le modifiche allo stato della bozza sono ritardate**
+**Le modifiche allo stato della bozza subiscono ritardi**
 
-Quando viene presa una decisione su una bozza, tale decisione non viene visualizzata nell’area Documenti di un progetto per un massimo di 24 ore. Ciò potrebbe causare confusione, perché lo stato viene comunque visualizzato come In sospeso o in un altro stato obsoleto, anche se è stata presa una decisione.
+Quando viene presa una decisione su una bozza, possono trascorrere fino a 24 ore prima che tale decisione venga visualizzata nell’area Documenti di un progetto. Questo potrebbe causare confusione, perché lo stato resta visualizzato come “In sospeso” o altro stato obsoleto, nonostante sia già stata presa una decisione.
 
 #### Richieste
 
-**Le code di richieste vengono visualizzate più volte**
+**Le code delle richieste vengono visualizzate più volte**
 
-Quando un utente inizia a creare una richiesta e seleziona una coda di richieste, la stessa coda di richieste viene visualizzata più volte nell’elenco a discesa.
+Quando un utente inizia a creare una richiesta e seleziona una coda di richieste, quest’ultima viene visualizzata più volte nell’elenco a discesa.
 
 
 +++
