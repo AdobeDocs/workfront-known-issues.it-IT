@@ -1,22 +1,22 @@
 ---
-title: 'Approvazioni: l’approvazione viene visualizzata come Nessuna scadenza quando l’ora non è inclusa nella scadenza'
-description: Quando una scadenza di approvazione include solo una data e non un’ora, viene visualizzata nel widget Home Approvazioni come una scadenza senza scadenza.
+title: 'Approvazioni: l’approvazione viene visualizzata con Nessuna scadenza se la scadenza è priva di ora'
+description: Se una scadenza di approvazione include solo una data e non l’ora, nel widget della pagina Home delle Approvazioni viene visualizzata con Nessuna scadenza.
 hidefromtoc: true
 feature: Digital Content and Documents, Get Started with Workfront
 source-git-commit: 67e4a2455c4bd3db0fa91625225066611ac8d864
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 
-# Approvazioni: l’approvazione viene visualizzata come &quot;Nessuna scadenza&quot; quando l’ora non è inclusa nella scadenza
+# Approvazioni: l’approvazione viene visualizzata con “Nessuna scadenza” se la scadenza è priva di ora
 
-Quando una scadenza di approvazione include solo una data e non un’ora, viene visualizzata nel widget Home Approvazioni come una scadenza &quot;Senza scadenza&quot;.
+Se una scadenza di approvazione include solo una data e non l’ora, nel widget della pagina Home delle Approvazioni viene visualizzata con “Nessuna scadenza”.
 
 **Soluzione alternativa**
 
 Includi un orario nella scadenza.
 
-_Segnalato per la prima volta il venerdì 21 agosto 2025._
+_Segnalato per la prima volta il 21 agosto 2025._

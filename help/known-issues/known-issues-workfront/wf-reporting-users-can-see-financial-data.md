@@ -1,22 +1,22 @@
 ---
-title: 'Rapporti: gli utenti possono visualizzare i dati finanziari nelle visualizzazioni del dashboard di Canvas'
-description: Gli utenti con l’accesso Visualizzazione o Modifica dei dati finanziari nel proprio livello di accesso possono visualizzare i dati finanziari nelle visualizzazioni del dashboard di Canvas, anche se l’autorizzazione Visualizza dati finanziari viene rimossa a livello di task o progetto.
+title: 'Reporting: gli utenti possono visualizzare dati finanziari nelle visualizzazioni di una dashboard dell’area di lavoro'
+description: Gli utenti con livello di accesso Visualizzazione o Modifica per i dati finanziari possono visualizzare i dati finanziari nelle visualizzazioni della dashboard dell’area di lavoro, anche se l’autorizzazione Visualizza dati finanziari viene rimossa a livello di attività o di progetto.
 hidefromtoc: true
 feature: Reports and Dashboards
 source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Reporting: gli utenti possono visualizzare i dati finanziari nelle visualizzazioni del dashboard di Canvas
+# Reporting: gli utenti possono visualizzare dati finanziari nelle visualizzazioni di una dashboard dell’area di lavoro
 
-Gli utenti con l’accesso Visualizzazione o Modifica dei dati finanziari nel proprio livello di accesso possono visualizzare i dati finanziari nelle visualizzazioni del dashboard di Canvas, anche se l’autorizzazione Visualizza dati finanziari viene rimossa a livello di task o progetto.
+Gli utenti con livello di accesso Visualizzazione o Modifica per i dati finanziari possono visualizzare i dati finanziari nelle visualizzazioni della dashboard dell’area di lavoro, anche se l’autorizzazione Visualizza dati finanziari viene rimossa a livello di attività o di progetto.
 
-Gli utenti che non dispongono dei diritti relativi ai dati finanziari a livello di accesso non visualizzeranno i dati finanziari nei rapporti.
+Gli utenti che non dispongono dei diritti relativi ai dati finanziari a livello di accesso non vedranno i dati finanziari nei rapporti.
 
-Gli utenti che visualizzano i dati finanziari sono limitati ai record per i quali dispongono già delle autorizzazioni di visualizzazione (progetti, attività, problemi, ecc.). Non vedranno i valori finanziari per i record a cui non possono accedere.
+Gli utenti che possono vedere i dati finanziari, li vedono solo per i record per i quali dispongono già delle autorizzazioni di visualizzazione (progetti, attività, problemi, ecc.). Non potranno vedere i valori finanziari per i record a cui non possono accedere.
 
-I creatori dei rapporti devono essere cauti nell’includere dati finanziari nelle dashboard e devono prestare attenzione a chi condividono le dashboard per evitare accessi involontari.
+Per evitare che persone non autorizzate possano accedere a dati finanziari, chi crea i rapporti deve valutare attentamente se includere dati finanziari nelle dashboard e con chi condividere le dashboard stesse.

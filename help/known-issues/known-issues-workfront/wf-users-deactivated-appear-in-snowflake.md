@@ -1,18 +1,18 @@
 ---
 title: 'Workfront: oggetti non sincronizzati tra Workfront e Snowflake'
-description: 'Gli oggetti in Workfront potrebbero non essere sincronizzati con Snowflake. Ciò significa che il conteggio degli oggetti può essere diverso tra Workfront e Snowflake e che le query su Snowflake potrebbero non restituire gli stessi oggetti di una ricerca o di un report in Workfront. '
+description: 'Gli oggetti in Workfront potrebbero non sincronizzarsi con Snowflake. Di conseguenza, il numero di oggetti può risultare diverso in Workfront e Snowflake e le query a Snowflake potrebbero non restituire gli stessi oggetti rispetto a quelli restituiti da una ricerca o un rapporto in Workfront. '
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 7924fcf0740229da5f7130691b1574aecf129eed
-workflow-type: tm+mt
+exl-id: c22a857a-69a1-46bf-b077-a171deb19a24
+source-git-commit: 9617ea0fd5bd9164db0b7da5ad78f512235a5754
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-
 # Workfront: oggetti non sincronizzati tra Workfront e Snowflake
 
-Gli oggetti in Workfront potrebbero non essere sincronizzati con Snowflake. Ciò significa che il conteggio degli oggetti può essere diverso tra Workfront e Snowflake e che le query su Snowflake potrebbero non restituire gli stessi oggetti di una ricerca o di un report in Workfront.
+Gli oggetti in Workfront potrebbero non sincronizzarsi con Snowflake. Di conseguenza, il numero di oggetti può risultare diverso in Workfront e Snowflake e le query a Snowflake potrebbero non restituire gli stessi oggetti rispetto a quelli restituiti da una ricerca o un rapporto in Workfront.
 
-_Segnalato per la prima volta il mercoledì 22 aprile 2025._
+_Segnalato per la prima volta il 22 aprile 2025._

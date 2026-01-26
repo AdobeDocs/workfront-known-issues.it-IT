@@ -1,17 +1,17 @@
 ---
-title: 'Workfront Fusion: impossibile autenticare una connessione utilizzando la funzionalità Accedi come di Workfront'
-description: Durante la creazione di una connessione in Workfront Fusion, un utente non può autenticare la connessione mentre è connesso come altro utente.
+title: 'Workfront Fusion: impossibile autenticare una connessione utilizzando la funzione “Accedi come” di Workfront'
+description: Durante la creazione di una connessione in Workfront Fusion, un utente non può autenticare la connessione se ha effettuato l’accesso come un altro utente.
 hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 2cd5e6df-d56c-43e1-948c-78c3c83dbbbb
 source-git-commit: 85b451aa1e811e9423c700bf2df36582665e0d2c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
-# Workfront Fusion: impossibile autenticare una connessione utilizzando la funzionalità Accedi come di Workfront
+# Workfront Fusion: impossibile autenticare una connessione utilizzando la funzione “Accedi come” di Workfront
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 75%
 
 Quando si crea una connessione Workfront in Workfront Fusion, un utente non può autenticare la connessione mentre è connesso come un altro utente.
 
-_Segnalato per la prima volta il venerdì 18 luglio 2024._
+_Segnalato per la prima volta il 18 luglio 2024._
 
 <!--CHECK ME - 1 VIEW APRIL-JUNE 2025 (June 23 and Aug 13)-->
 

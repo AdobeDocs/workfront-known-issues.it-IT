@@ -5,7 +5,7 @@ exl-id: 3edad5bb-7deb-45ea-a89c-6587c34bea12
 feature: Agile
 hidefromtoc: true
 source-git-commit: d9a6571d614a6bdead444b4b1d3f9d03c0963752
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
@@ -23,5 +23,5 @@ Quando un campo presente su una scheda della bacheca Kanban effettua l’estrazi
 
 Apri l’attività e modifica il campo dalla finestra [!UICONTROL Modifica attività].
 
-_Segnalato per la prima volta il martedì 12 aprile 2022._
+_Segnalato per la prima volta il 12 aprile 2022._
 

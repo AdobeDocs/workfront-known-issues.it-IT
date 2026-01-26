@@ -1,24 +1,24 @@
 ---
-title: 'Utenti: la modifica in blocco degli utenti comporta la rimozione dei pool di risorse e dei referenti diretti'
-description: Quando un utente modifica in blocco gli utenti, fa clic sul campo Pool di risorse e non immette un valore, i Pool di Risorse per tutti gli utenti modificati vengono rimossi. La modifica in blocco può anche rimuovere i report diretti dagli utenti modificati.
+title: 'Utenti: la modifica in blocco degli utenti rimuove i pool di risorse e i riporti diretti'
+description: Quando un utente modifica in blocco gli utenti, fa clic sul campo Pool di risorse e non immette un valore, vengono rimossi i pool di risorse per tutti gli utenti modificati. La modifica in blocco può anche rimuovere i riporti diretti dagli utenti modificati.
 hidefromtoc: true
 feature: People Teams and Groups
 source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
-# Utenti: la modifica in blocco degli utenti comporta la rimozione dei pool di risorse e dei referenti diretti
+# Utenti: la modifica in blocco degli utenti rimuove i pool di risorse e i riporti diretti
 
 >[!NOTE]
 >
->Questo problema è stato risolto il mercoledì 9 dicembre 2025.
+>Questo problema è stato risolto il 9 dicembre 2025.
 
-Quando un utente modifica in blocco gli utenti, fa clic sul campo Pool di risorse e non immette un valore, i Pool di Risorse per tutti gli utenti modificati vengono rimossi.
+Quando un utente modifica in blocco gli utenti, fa clic sul campo Pool di risorse e non immette un valore, vengono rimossi i pool di risorse per tutti gli utenti modificati.
 
-La modifica in blocco può anche rimuovere i report diretti dagli utenti modificati.
+La modifica in blocco può anche rimuovere i riporti diretti dagli utenti modificati.
 
-_Segnalato per la prima volta il sabato 21 novembre 2025._
+_Segnalato per la prima volta il 21 novembre 2025._

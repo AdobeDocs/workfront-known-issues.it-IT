@@ -1,18 +1,18 @@
 ---
 title: 'Documenti: le miniature dei documenti non vengono visualizzate'
-description: Le miniature del documento non vengono visualizzate se le dimensioni del documento sono superiori a 25 MB.
+description: Le miniature dei documenti non vengono visualizzate per i documenti che superano i 25 MB.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: e75c9fdb389dacf156c21a6a82f61470a4758375
-workflow-type: tm+mt
+exl-id: fe140496-b15d-4ced-a51f-d5ee8fadc842
+source-git-commit: a9635a33bbd8db12c6c49fea52669294154125ef
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-
 # Documenti: le miniature dei documenti non vengono visualizzate
 
-Le miniature del documento non vengono visualizzate se le dimensioni del documento sono superiori a 25 MB.
+Le miniature dei documenti non vengono visualizzate per i documenti che superano i 25 MB.
 
-_Segnalato per la prima volta il venerdì 17 aprile 2025._
+_Segnalato per la prima volta il 17 aprile 2025._

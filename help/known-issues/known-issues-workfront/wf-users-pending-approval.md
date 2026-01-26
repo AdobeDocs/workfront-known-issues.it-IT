@@ -1,48 +1,48 @@
 ---
-title: 'Utenti: il badge di approvazione in attesa viene visualizzato sui nuovi utenti'
-description: I nuovi utenti in Workfront possono essere visualizzati nell’elenco di utenti con un badge di approvazione In attesa. Il badge persiste per più di qualche minuto ed è ancora presente quando la pagina viene aggiornata.
+title: 'Utenti: il badge “In attesa di approvazione” viene visualizzato per nuovi utenti'
+description: I nuovi utenti in Workfront possono essere visualizzati nell’elenco di utenti con il badge “In attesa di approvazione". Il badge persiste per più di qualche minuto ed è visibile anche dopo che si aggiorna la pagina.
 hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 9c46f9006fa25481a012619a16d627e16f23c15e
-workflow-type: tm+mt
+exl-id: 27db1155-f6aa-465d-a42b-1147cf5431e1
+source-git-commit: 39a085b629d6d2afc5a198e47ca639d2bb431b0d
+workflow-type: ht
 source-wordcount: '245'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-
-# Utenti: il badge &quot;In attesa di approvazione&quot; viene visualizzato sui nuovi utenti
+# Utenti: il badge “In attesa di approvazione” viene visualizzato per nuovi utenti
 
 >[!NOTE]
 >
->Questo problema può essere presente nelle organizzazioni che sono state migrate a Adobe Admin Console.
+>Questo problema può essere presente nelle organizzazioni che sono state migrate ad Adobe Admin Console.
 
-I nuovi utenti in Workfront possono visualizzare nell’elenco utenti con un badge &quot;In attesa di approvazione&quot;. Il badge persiste per più di qualche minuto ed è ancora presente quando la pagina viene aggiornata.
+I nuovi utenti in Workfront possono essere visualizzati nell’elenco utenti con il badge “Approvazione in sospeso”. Il badge persiste per più di qualche minuto ed è visibile anche dopo che si aggiorna la pagina.
 
 Questo problema si aggrava quando gli utenti vengono caricati in batch di grandi dimensioni, ad esempio da un foglio di calcolo o da un Kick-Start di Workfront.
 
-Il comportamento previsto prevede che il badge scompaia dopo pochi minuti e non sia presente quando la pagina viene aggiornata.
+Il comportamento previsto prevede che il badge scompaia dopo pochi minuti e non sia più visibile una volta aggiornata la pagina.
 
 ## Soluzioni alternative
 
-Ciò si verifica quando gli utenti aggiunti a Workfront non eseguono la sincronizzazione con Adobe Admin Console.
+Questo si verifica quando gli utenti aggiunti a Workfront non vengono sincronizzati con Adobe Admin Console.
 
-È consigliabile adottare le seguenti soluzioni:
+Consigliamo le seguenti soluzioni alternative:
 
-### Risolvi singoli utenti
+### Risolvere i singoli utenti
 
-È possibile risolvere singoli utenti nell&#39;elenco Utenti.
+Puoi risolvere singoli utenti nell’elenco Utenti.
 
-1. Selezionare uno o più utenti nell&#39;elenco Utenti.
-1. Fai clic sul menu a tre punti nell’intestazione dell’elenco.
+1. Seleziona uno o più utenti nell’elenco Utenti.
+1. Fai clic sul menu con i tre punti nell’intestazione dell’elenco.
 1. Seleziona **Approva**.
 1. Dopo alcuni minuti, aggiorna la pagina.
 
-### Risolvi gli utenti aggiunti in un batch di grandi dimensioni
+### Risolvere utenti aggiunti in un batch di grandi dimensioni
 
-Per risolvere gli utenti che sono stati aggiunti in un batch di grandi dimensioni, puoi aggiungere direttamente il batch di utenti a Adobe Admin Console.
+Per risolvere gli utenti aggiunti in un batch di grandi dimensioni, puoi aggiungere direttamente il batch di utenti ad Adobe Admin Console.
 
-Per istruzioni, vedere [Gestione di più utenti | Caricamento CSV in blocco](https://helpx.adobe.com/it/enterprise/using/bulk-upload-users.html) nella documentazione di Adobe.
+Per istruzioni, consulta [Gestire più utenti   Caricamento in blocco di CSV](https://helpx.adobe.com/it/enterprise/using/bulk-upload-users.html) nella documentazione di Adobe.
 
 
-_Segnalato per la prima volta il venerdì 8 maggio 2025._
+_Segnalato per la prima volta l’8 maggio 2025._

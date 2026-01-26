@@ -1,13 +1,13 @@
 ---
-title: 'Bozze: le opzioni di approvazione non vengono visualizzate nel Visualizzatore bozze'
+title: 'Bozze: le opzioni di approvazione non vengono visualizzate nel visualizzatore di bozze'
 description: Quando si tenta di approvare una bozza in Desktop Proofing Viewer, subito dopo la richiesta di approvazione, le opzioni di approvazione non sono visibili e non è possibile approvare la bozza. Le opzioni di approvazione vengono visualizzate diverse ore dopo la richiesta di approvazione.
 hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 17e0aa9a-d7f6-490a-b491-ef74371b787e
 source-git-commit: 1940d4d2956d22237563eca55d1cb979603187b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

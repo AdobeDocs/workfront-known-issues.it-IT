@@ -1,24 +1,24 @@
 ---
-title: 'Bozze: impossibile aggiungere utenti a una bozza per nome nell’ambiente di anteprima'
-description: Quando un utente tenta di aggiungere un altro utente a una bozza e cerca tale utente per nome, il nome non viene visualizzato e l’utente non può selezionarlo per aggiungere l’altro utente alla bozza.
+title: 'Bozze: impossibile aggiungere utenti per nome a una bozza nell’ambiente Anteprima'
+description: Quando si tenta di aggiungere un utente a una bozza e lo si cerca per nome, il nome non viene visualizzato e quindi non può essere selezionato né aggiunto alla bozza.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c11e453722792402e6c4f0a1a7e993632856999b
-workflow-type: tm+mt
+exl-id: d9871cfc-41de-4d60-9dd6-a855436bf875
+source-git-commit: 9617ea0fd5bd9164db0b7da5ad78f512235a5754
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-
-# Bozze: impossibile aggiungere utenti a una bozza per nome nell’ambiente di anteprima
+# Bozze: impossibile aggiungere utenti per nome a una bozza nell’ambiente Anteprima
 
 >[!NOTE]
 >
->Questo problema è stato segnalato nell’ambiente Sandbox di anteprima
+>Questo problema è stato segnalato nell’ambiente sandbox di anteprima
 
-Quando un utente tenta di aggiungere un altro utente a una bozza e cerca tale utente per nome, il nome non viene visualizzato e l’utente non può selezionarlo per aggiungere l’altro utente alla bozza.
+Quando si tenta di aggiungere un utente a una bozza e lo si cerca per nome, il nome non viene visualizzato e quindi non può essere selezionato né aggiunto alla bozza.
 
-Ciò può verificarsi anche dopo l’aggiornamento dell’ambiente Sandbox di anteprima.
+Questo può verificarsi anche dopo l’aggiornamento dell’ambiente sandbox di anteprima.
 
-_Segnalato per la prima volta il martedì 5 maggio 2025._
+_Segnalato per la prima volta il 5 maggio 2025._

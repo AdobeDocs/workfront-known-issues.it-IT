@@ -1,25 +1,25 @@
 ---
-title: 'Workfront Planning: impossibile aggiungere un campo a una visualizzazione'
-description: Quando un utente tenta di aggiungere un campo a una visualizzazione in Workfront Planning, il campo non viene aggiunto e l’utente visualizza un messaggio.
+title: 'Funzione Pianificazione di Workfront: impossibile aggiungere un campo a una visualizzazione'
+description: Quando un utente tenta di aggiungere un campo a una visualizzazione nfunzione Pianificazione di Workfront, il campo non viene aggiunto e viene visualizzato un messaggio.
 hidefromtoc: true
 feature: Workfront Planning
 source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
-# Workfront Planning: impossibile aggiungere un campo a una visualizzazione
+# Funzione Pianificazione di Workfront: impossibile aggiungere un campo a una visualizzazione
 
 >[!NOTE]
 >
->* Questo problema è stato risolto il sabato 19 dicembre 2025.
->* Questo problema è stato segnalato nella Sandbox di aggiornamento personalizzata.
+>* Questo problema è stato risolto il 19 dicembre 2025.
+>* Questo problema è stato segnalato nella sandbox di aggiornamento personalizzata.
 
-Quando un utente tenta di aggiungere un campo a una visualizzazione in Workfront Planning, il campo non viene aggiunto e l’utente visualizza il seguente messaggio:
+Quando si tenta di aggiungere un campo a una visualizzazione nella funzione Pianificazione di Workfront, questo non viene aggiunto e viene visualizzato il seguente messaggio:
 
-&quot;Impossibile creare la colonna del campo. Riprova.&quot;
+“Impossibile creare la colonna del campo. Riprova.”
 
-_Segnalato per la prima volta il giovedì 10 dicembre 2025._
+_Segnalato per la prima volta il 10 dicembre 2025._

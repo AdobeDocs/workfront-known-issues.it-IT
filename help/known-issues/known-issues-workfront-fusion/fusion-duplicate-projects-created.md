@@ -5,9 +5,9 @@ hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 95cb41ab-aa1c-41a8-ad3d-bdc99f54e241
 source-git-commit: 1e1528b2fc0c2ffd8ec62eeb2ba3bedb5693ada9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 77%
 >
 >Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
-Quando si utilizza un modulo Crea progetto o quando un problema viene convertito in un progetto durante l’esecuzione di uno scenario, vengono creati due progetti identici. Questo può creare confusione durante l’utilizzo dei progetti in Workfront.
+Quando viene utilizzato un modulo Crea progetto o un problema viene convertito in un progetto durante l’esecuzione di uno scenario, vengono creati due progetti identici. Questo può creare confusione durante l’utilizzo dei progetti in Workfront.
 
 _Segnalato per la prima volta il 11 ottobre 2023._
