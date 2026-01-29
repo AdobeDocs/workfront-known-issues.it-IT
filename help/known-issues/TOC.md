@@ -227,10 +227,10 @@ ht-degree: 94%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Pianificazione di [!DNL Workfront] {#planning}
-   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] ](workfrontplanning.md)
+   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] &#x200B;](workfrontplanning.md)
 
 + App mobile di [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
 
 <!--
 
