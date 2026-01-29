@@ -3,23 +3,20 @@ title: 'Approvazioni: il widget Le mie approvazioni mostra le approvazioni compl
 description: Quando un utente visualizza il widget Le mie approvazioni nella pagina Home, questo include le bozze che sono già state approvate.
 hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
 
 # Approvazioni: il widget Le mie approvazioni mostra le approvazioni completate
 
-<!--
-
 >[!NOTE]
 >
->This issue was fixed on January 8, 2026.
+>Questo problema è stato risolto l’venerdì 29 gennaio 2026.
 
--->
 
 Quando un utente visualizza il widget Le mie approvazioni nella pagina Home, questo include le bozze che sono già state approvate.
 

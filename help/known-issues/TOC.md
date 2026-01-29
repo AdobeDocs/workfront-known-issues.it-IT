@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+source-git-commit: 0549c4661b03901a78f302b58b25c1b5ccb88df1
 workflow-type: tm+mt
-source-wordcount: '1657'
-ht-degree: 95%
+source-wordcount: '1675'
+ht-degree: 94%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 95%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Moduli personalizzati: la logica di visualizzazione non viene visualizzata correttamente nel modulo di richiesta](known-issues-workfront/wf-custom-forms-display-logic-not-triggering.md)
+      + [Accesso: Workfront non viene caricato dopo l’accesso](known-issues-workfront/wf-login-wf-does-not-load.md)
       + [Bilanciatore dei carichi di lavoro: le ore per utente non vengono calcolate correttamente](known-issues-workfront/wf-workload-balancer-hours-per-user-not-correct.md)
       + [Documenti: il pannello Riepilogo è vuoto](known-issues-workfront/wf-documents-summary-panel-is-blank.md)
       + [Richieste: errore &quot;Livello di accesso insufficiente&quot; durante la copia delle richieste](known-issues-workfront/wf-requests-do-not-have-sufficient-access.md)
@@ -225,10 +227,10 @@ ht-degree: 95%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Pianificazione di [!DNL Workfront] {#planning}
-   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] ](workfrontplanning.md)
 
 + App mobile di [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
