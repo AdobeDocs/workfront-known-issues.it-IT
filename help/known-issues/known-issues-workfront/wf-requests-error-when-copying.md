@@ -3,15 +3,19 @@ title: 'Richieste: è necessario essere un errore di amministratore di sistema d
 description: Quando un utente copia una richiesta e tenta di salvarla, la richiesta non viene salvata e viene visualizzato un messaggio di errore
 hidefromtoc: true
 feature: Requests
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 4%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # Richieste: errore &quot;Devi essere un amministratore di sistema&quot; durante la copia delle richieste
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il mercoledì 3 febbraio 2026.
 
 Quando un utente copia una richiesta e tenta di salvarla, la richiesta non viene salvata e l’utente visualizza il seguente messaggio:
 
