@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: adace5b91add331ee783d029763298b62d3ec8db
+source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 65%
+source-wordcount: '761'
+ht-degree: 52%
 
 ---
 
@@ -30,7 +30,21 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2026.
 
 ### Aggiornamento di manutenzione della settimana dal 1° al 7 febbraio 2026
 
+#### Documenti
+
+**Il pannello di riepilogo è vuoto**
+
+Quando un utente visualizza un elenco Documenti e fa clic su un documento, si apre il pannello Riepilogo, che rimane vuoto. L’utente non è in grado di chiudere il pannello Riepilogo.
+
+Se l’utente ricarica la pagina, il pannello Riepilogo potrebbe essere popolato come previsto. Tuttavia, se l’utente fa clic su un documento diverso, il pannello di riepilogo del documento è vuoto.
+
 #### Richieste
+
+**&quot;Nessun oggetto&quot; visualizzato nell&#39;elenco di richieste**
+
+Quando un utente visualizza l’elenco delle richieste nella nuova esperienza di richiesta, alcune di esse visualizzano &quot;Nessun oggetto&quot; nella colonna Oggetto.
+
+Se l’utente apre una di queste richieste, vede che la richiesta ha un oggetto.
 
 **Errore &quot;Livello di accesso insufficiente&quot; durante la copia delle richieste**
 
@@ -49,6 +63,12 @@ Quando un utente copia una richiesta e tenta di salvarla, la richiesta non viene
 **Il provisioning degli utenti in Adobe Admin Console** non è corretto
 
 Se un utente esiste già in una Adobe Admin Console ed è quindi assegnato con provisioning automatico a una console che include Workfront, il provisioning di tale utente non risulta corretto nella nuova console.
+
+#### Bilanciatore dei carichi di lavoro
+
+**Le ore per utente non sono calcolate correttamente**
+
+Le ore visualizzate da un utente nel Bilanciatore dei carichi di lavoro potrebbero non essere calcolate correttamente. Ad esempio, nella visualizzazione per settimana può essere visualizzato un calcolo delle ore, mentre nella visualizzazione per 4 settimane è visualizzato un numero diverso di ore per quella settimana.
 
 +++
 
