@@ -3,15 +3,19 @@ title: 'Richieste: problemi relativi alle bozze nella nuova esperienza di richie
 description: Sono stati segnalati più problemi relativi alle bozze nella nuova esperienza di richiesta.
 hidefromtoc: true
 feature: Requests
-source-git-commit: 3b8387b0412b69d303c3f848be361fd83f2c328b
+exl-id: 951ea13c-774d-484d-99fd-ca119d258870
+source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
 
-
 # Richieste: problemi relativi alle bozze nella nuova esperienza di richiesta
+
+>[!NOTE]
+>
+>Questo problema è stato risolto il martedì 9 febbraio 2026.
 
 Sono stati segnalati i seguenti problemi relativi alle bozze nella nuova esperienza di richiesta:
 
