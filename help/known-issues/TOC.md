@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '1697'
-ht-degree: 93%
+source-wordcount: '1709'
+ht-degree: 92%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 93%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Generazione rapporti: i campi di Workfront Planning non vengono visualizzati nel generatore di rapporti delle dashboard di Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + [Utenti: impossibile rimuovere i referenti diretti](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
       + [Richieste: impossibile caricare un documento durante la compilazione di una richiesta](known-issues-workfront/wf-request-cannot-submit-with-document.md)
       + [Richieste: nell’elenco delle richieste viene visualizzato &quot;Nessun oggetto&quot;](known-issues-workfront/wf-requests-no-subject.md)
@@ -230,10 +231,10 @@ ht-degree: 93%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Pianificazione di [!DNL Workfront] {#planning}
-   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] ](workfrontplanning.md)
 
 + App mobile di [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

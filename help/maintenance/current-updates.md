@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 50106ee9af1f41283cabe146785f0c792601ccf2
+source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
 workflow-type: tm+mt
-source-wordcount: '859'
-ht-degree: 53%
+source-wordcount: '951'
+ht-degree: 48%
 
 ---
 
@@ -37,6 +37,12 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2026.
 Quando viene eseguita una query al data lake, non vengono restituiti tutti i risultati previsti.
 
 #### Richieste
+
+**La bozza creata insieme alla richiesta causa problemi**
+
+Quando un utente crea e invia una nuova richiesta nella nuova esperienza di richiesta, viene creata anche una bozza. La bozza mostra solo la prima lettera del nome della richiesta inviata e il tentativo di aprirla genera un errore &quot;Impossibile recuperare&quot;.
+
+Inoltre, se la richiesta inviata viene successivamente eliminata, sembra che sia stata eliminata ma rimane visibile nell’area Richieste di Workfront. Se l’utente cerca di riaprire la richiesta, viene visualizzato un messaggio che indica che la richiesta non esiste.
 
 **Problemi relativi alle bozze nella nuova esperienza di richiesta**
 
