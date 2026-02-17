@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 798b9d8993fa7a8551b175c9ef87f5d0415b980d
+source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
 workflow-type: tm+mt
-source-wordcount: '1718'
-ht-degree: 92%
+source-wordcount: '1758'
+ht-degree: 89%
 
 ---
 
@@ -17,6 +17,11 @@ ht-degree: 92%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Home: le citazioni dalle bozze non vengono visualizzate nel widget Menzioni](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
+      + [Integrazioni: le notifiche di Slack da Workfront non vengono attivate](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
+      + [Approvazioni: impossibile approvare il documento dal widget Approvazioni personali nella Home](known-issues-workfront/wf-approval-not-work-from-widget.md)
+      + [Workfront Planning: errore &quot;Impossibile inviare la richiesta&quot;](/help/known-issues/known-issues-workfront/wf-planning-error-fail-to-submit-request.md)
+      + [Approvazioni: le approvazioni vengono bloccate automaticamente](known-issues-workfront/wf-approvals-are-locked.md)
       + [Assegnazioni: impossibile salvare la modifica di assegnazione avanzata da un report](known-issues-workfront/wf-assignments-cannot-save-advanced-from-report.md)
       + [Generazione rapporti: i campi di Workfront Planning non vengono visualizzati nel generatore di rapporti delle dashboard di Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md)
       + [Utenti: impossibile rimuovere i referenti diretti](known-issues-workfront/wf-users-cannot-remove-direct-reports.md)
@@ -232,10 +237,10 @@ ht-degree: 92%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Pianificazione di [!DNL Workfront] {#planning}
-   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] ](workfrontplanning.md)
 
 + App mobile di [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 
