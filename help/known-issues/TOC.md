@@ -2,10 +2,10 @@
 user-guide-title: Problemi noti
 user-guide-description: Problemi noti per  [!DNL Adobe Workfront]
 role: User
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1758'
-ht-degree: 89%
+source-wordcount: '1788'
+ht-degree: 88%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 89%
 + [!DNL Adobe Workfront] {#new-workfront-experience}
    + [Problemi noti in  [!DNL Adobe Workfront]](newworkfrontexperience.md)
    + Problemi attuali in [!DNL Adobe Workfront] {#wf-current}
+      + [Attività: un elenco di attività di grandi dimensioni si sposta in modo imprevisto in un punto diverso dell’elenco](known-issues-workfront/wf-tasks-large-task-list-jumps.md)
+      + [Approvazioni: il widget Approvazioni personali visualizza le bozze che non si trovano nella fase a cui è assegnato l’utente](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md)
       + [Home: le citazioni dalle bozze non vengono visualizzate nel widget Menzioni](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md)
       + [Integrazioni: le notifiche di Slack da Workfront non vengono attivate](known-issues-workfront/wf-integrations-slack-notifications-not-triggering.md)
       + [Approvazioni: impossibile approvare il documento dal widget Approvazioni personali nella Home](known-issues-workfront/wf-approval-not-work-from-widget.md)
@@ -237,10 +239,10 @@ ht-degree: 89%
       + [I collegamenti della Guida in-app di [!DNL Workfront Fusion] non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Pianificazione di [!DNL Workfront] {#planning}
-   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] &#x200B;](workfrontplanning.md)
+   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] ](workfrontplanning.md)
 
 + App mobile di [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
 
 <!--
 

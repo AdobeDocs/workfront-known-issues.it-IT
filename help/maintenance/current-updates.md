@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
 workflow-type: tm+mt
-source-wordcount: '1003'
-ht-degree: 46%
+source-wordcount: '1040'
+ht-degree: 44%
 
 ---
 
@@ -35,6 +35,13 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2026.
 **La logica di visualizzazione non viene visualizzata correttamente nel modulo di richiesta**
 
 Quando un utente compila un modulo personalizzato connesso a una richiesta, la logica di visualizzazione non viene seguita e alcuni campi potrebbero non essere visualizzati come previsto.
+
+#### Richieste
+
+La visualizzazione **&quot;All&quot; non mostra tutte le richieste**
+
+Quando un utente visualizza l’elenco delle richieste nella nuova esperienza di richiesta e la visualizzazione è impostata per mostrare tutte le richieste, vengono visualizzate solo alcune delle richieste.
+
 
 +++
 
