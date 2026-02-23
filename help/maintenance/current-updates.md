@@ -3,10 +3,10 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: 7cb718dba611fea9837171c8b0e1fbb56811c7e4
+source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 44%
+source-wordcount: '1265'
+ht-degree: 37%
 
 ---
 
@@ -26,15 +26,53 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2026.
 
 ## Aggiornamenti di febbraio 2026
 
++++**Aggiornamento di manutenzione della settimana dal 22 al 28 febbraio 2026**
+
+### Aggiornamento di manutenzione della settimana dal 22 al 28 febbraio 2026
+
+#### Richieste
+
+**Impossibile caricare un documento durante la compilazione di una richiesta**
+
+Quando un utente compila una richiesta e tenta di caricare un documento, l’operazione ha esito negativo e viene visualizzato il messaggio di errore seguente:
+
+&quot;Errore di caricamento: prova con un file più piccolo o allega un file dopo la creazione.&quot;
+
++++
+
 +++**Aggiornamento di manutenzione - settimana dal 15 al 21 febbraio 2026**
 
 ### Aggiornamento di manutenzione del 15-21 febbraio 2026
 
 #### Moduli personalizzati
 
+**Nei campi calcolati non vengono visualizzati i dati per gli utenti non amministratori**
+
+Quando un utente che non è amministratore di Workfront visualizza un modulo personalizzato con campi che estraggono dati da una sezione del modulo riservata all’amministratore, tale campo non visualizza il valore calcolato. Se l’utente esegue Ricalcola espressioni, il valore viene visualizzato ma non viene aggiornato.
+
+Gli amministratori di Workfront possono visualizzare i valori dei campi come previsto.
+
 **La logica di visualizzazione non viene visualizzata correttamente nel modulo di richiesta**
 
 Quando un utente compila un modulo personalizzato connesso a una richiesta, la logica di visualizzazione non viene seguita e alcuni campi potrebbero non essere visualizzati come previsto.
+
+#### Pagina Home
+
+**Le citazioni dalle bozze non vengono visualizzate nel widget delle citazioni**
+
+Quando un utente viene menzionato in un commento su una bozza, tale menzione non è inclusa nel widget Menzioni in Home.
+
+#### Accedi
+
+**Workfront non viene caricato dopo l&#39;accesso**
+
+Quando un utente accede a Workfront, Workfront non si carica. Se l’utente aggiorna la pagina, Workfront viene caricato come previsto.
+
+#### Generazione dei rapporti
+
+I campi di Workfront Planning non vengono visualizzati nel generatore di report dei dashboard di Canvas
+
+Quando un utente utilizza il generatore in Dashboard Canvas e tenta di fare riferimento a campi di Workfront Planning, tali campi non vengono visualizzati nel generatore.
 
 #### Richieste
 

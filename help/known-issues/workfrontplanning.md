@@ -4,10 +4,10 @@ description: Problemi noti segnalati per  [!DNL Adobe Workfront Planning]
 keywords: nuovo file, aggiungi file
 feature: Workfront Planning
 exl-id: 8827b3cd-c19a-4322-ac0d-6c54c9e1fd29
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 02f93911d8c8f9b90b0ae78216ccba8835f54e90
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 87%
+source-wordcount: '141'
+ht-degree: 95%
 
 ---
 
@@ -35,7 +35,7 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | --- | --- |
-| [Generazione rapporti: i campi di Workfront Planning non vengono visualizzati nel generatore di rapporti dei dashboard di Canvas](known-issues-workfront/wf-reporting-canvas-dashboards-no-planning.md) | giovedì 11 febbraio 2026 |
+| Nessuno | |
 
 {style="table-layout:auto"}
 
