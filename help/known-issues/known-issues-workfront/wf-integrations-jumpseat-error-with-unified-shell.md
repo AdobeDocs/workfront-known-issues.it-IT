@@ -1,11 +1,11 @@
 ---
 title: 'Integrazioni: le integrazioni JumpSeat non vengono completate per le organizzazioni su Unified Shell'
 description: Quando si esegue la migrazione dell’organizzazione di un utente in Adobe Unified Shell, le integrazioni JumpSeat esistenti non funzionano.
-hidefromtoc: true
 feature: Workfront Integrations and Apps
-source-git-commit: c11389a7dc7d6d62f1025c7c42f8b5e22204581d
-workflow-type: ht
-source-wordcount: '84'
+exl-id: 0476729e-4e25-4180-84b5-d6b59ae90de8
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
@@ -22,4 +22,4 @@ Quando si esegue la migrazione dell’organizzazione di un utente in Adobe Unifi
 
 Nel pannello di amministrazione JumpSeat, modifica l’URL dell’applicazione da `workfront.com` a `workfront.adobe.com`.
 
-_Segnalato per la prima volta il 30 ottobre 2024._
+_Segnalato per la prima volta il giovedì 30 ottobre 2024._

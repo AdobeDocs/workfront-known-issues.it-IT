@@ -1,12 +1,11 @@
 ---
-title: '“Configurazione: impossibile utilizzare [!UICONTROL Kick-Start] per impostare i raggruppamenti”'
+title: 'Configurazione: impossibile utilizzare [!UICONTROL Kick-Start] per impostare i raggruppamenti'
 description: Quando un utente tenta di utilizzare [!UICONTROL Kick-Start] per un raggruppamento, l’importazione non riesce e l’utente visualizza un messaggio di errore.
-hidefromtoc: true
 feature: System Setup and Administration
 exl-id: e1b0ba88-0af7-432f-89db-de4f50b20ff6
-source-git-commit: 9457b520c469c729f8727b1efd21bbde117b9546
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '171'
 ht-degree: 100%
 
 ---
@@ -24,4 +23,4 @@ Quando un utente tenta di utilizzare [!UICONTROL Kick-Start] per un raggruppamen
 
 Ciò può verificarsi anche se i filtri e le visualizzazioni utilizzano correttamente [!UICONTROL Kick-Start].
 
-_Segnalato per la prima volta il 1° giugno 2023._
+_Segnalato per la prima volta il venerdì 1 giugno 2023._

@@ -1,13 +1,12 @@
 ---
-title: "Bilanciamento del carico di lavoro: le ore non si adattano per tenere conto delle assenze degli utenti"
+title: 'Bilanciatore dei carichi di lavoro: le ore non vengono regolate per tenere conto del tempo libero dell’utente'
 description: Se un utente a cui sono sono state assegnate delle attività pianifica un periodo di assenza, il servizio di bilanciamento del carico di lavoro non aggiorna la timeline per tenere conto di tali assenze. Per i giorni di assenza pianificati, Bilanciamento del carico di lavoro mostra invece un’assegnazione eccessiva a tale utente. Per regolare le ore, l’amministratore deve accedere al progetto e ricalcolare la timeline.
-hidefromtoc: true
 exl-id: 0b3c75c4-43cf-4de2-a2ab-e67c24db6930
 feature: Resource Management
-source-git-commit: e21428ea574bbe10779cf2a348e01917af0a2640
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 

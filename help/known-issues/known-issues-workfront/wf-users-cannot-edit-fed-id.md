@@ -1,12 +1,11 @@
 ---
 title: 'Utenti: impossibile modificare l’ID federazione di un utente'
 description: Quando un amministratore tenta di aggiornare l’ID federazione di un utente, il campo relativo a queste informazioni non è disponibile e non è possibile aggiornarlo.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: cfb26af4-92ae-4f1c-a233-a626ce2b107e
-source-git-commit: db29bf0acb4baecaee208821d81318b15c74233b
-workflow-type: ht
-source-wordcount: '97'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---

@@ -1,13 +1,12 @@
 ---
 title: 'Moduli personalizzati: la logica di visualizzazione non viene visualizzata correttamente nel modulo di richiesta'
 description: Quando un utente compila un modulo personalizzato connesso a una richiesta, la logica di visualizzazione non viene seguita e alcuni campi potrebbero non essere visualizzati come previsto
-hidefromtoc: true
 feature: Custom Forms
 exl-id: f7e5f8e0-d4d5-4acc-865b-f459a2ca31ff
-source-git-commit: 997ff4f301c501bc8faaf780c4106128cec61b13
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 11%
+source-wordcount: '98'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 11%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il sabato 13 febbraio 2026.
+>Questo problema è stato risolto il giovedì 13 febbraio 2026.
 
 Quando un utente compila un modulo personalizzato connesso a una richiesta, la logica di visualizzazione non viene seguita e alcuni campi potrebbero non essere visualizzati come previsto.
 

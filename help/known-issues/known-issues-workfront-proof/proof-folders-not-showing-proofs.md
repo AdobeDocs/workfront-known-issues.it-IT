@@ -1,13 +1,12 @@
 ---
 title: 'Workfront Proof: le bozze non vengono visualizzate nelle cartelle'
 description: Quando un utente visualizza una cartella contenente delle risorse, queste non vengono visualizzate.
-hidefromtoc: true
 feature: Workfront Proof
 exl-id: a288781d-ef63-4e88-ab6c-3ce33eac3259
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 16%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 
@@ -16,7 +15,7 @@ ht-degree: 16%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il martedì 23 febbraio 2026.
+>Questo problema è stato risolto il giovedì 23 febbraio 2026.
 
 
 Quando un utente visualizza una cartella contenente delle risorse, queste non vengono visualizzate.

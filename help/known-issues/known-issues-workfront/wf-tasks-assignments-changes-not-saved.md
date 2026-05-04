@@ -1,15 +1,14 @@
 ---
 title: Le modifiche apportate nella finestra di dialogo Modifica di un’attività non vengono salvate
 description: Quando un utente apporta modifiche alla sezione Modifiche di un’attività nella precedente finestra di dialogo delle attività e le salva, le modifiche non vengono salvate.
-hidefromtoc: true
 feature: Tasks
-source-git-commit: c98508b66854edc5ca9c3c25751c27462dfaf9c8
+exl-id: c4b99e1c-1034-4638-8865-550f78b7ffa2
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '124'
+ht-degree: 100%
 
 ---
-
 
 # Attività: le modifiche apportate nella finestra di dialogo Modifica di un’attività non vengono salvate
 

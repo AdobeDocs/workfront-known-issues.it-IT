@@ -1,15 +1,14 @@
 ---
 title: 'Rapporti: problemi relativi ai menu a discesa nei grafici'
 description: Sono stati segnalati problemi relativi ai menu a discesa nei grafici.
-hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
-workflow-type: ht
-source-wordcount: '85'
+exl-id: daa55482-0816-4dae-9cb3-1fbde4978c9e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
-
 
 # Rapporti: problemi relativi ai menu a discesa nei grafici
 

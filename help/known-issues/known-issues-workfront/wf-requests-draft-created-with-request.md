@@ -1,13 +1,12 @@
 ---
 title: 'Richieste: la bozza creata insieme alla richiesta causa problemi'
 description: Quando un utente crea e invia una nuova richiesta nella nuova esperienza di richiesta, viene creata anche una bozza. La bozza mostra solo la prima lettera del nome della richiesta inviata e il tentativo di aprirla genera un errore Impossibile recuperare.
-hidefromtoc: true
 feature: Requests
 exl-id: ab7288a4-dfff-4b1d-96d6-f05f0a2c14cb
-source-git-commit: 926f7feb7e740d5a857cfa66ea186128ae6171b1
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '158'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il mercoledì 10 febbraio 2026.
+>Questo problema è stato risolto il lunedì 10 febbraio 2026.
 
 Quando un utente crea e invia una nuova richiesta nella nuova esperienza di richiesta, viene creata anche una bozza. La bozza mostra solo la prima lettera del nome della richiesta inviata e il tentativo di aprirla genera un errore &quot;Impossibile recuperare&quot;.
 

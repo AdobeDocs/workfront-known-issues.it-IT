@@ -1,12 +1,11 @@
 ---
 title: 'Bozze: la chiusura di una bozza reindirizza all’elenco dei documenti'
 description: Quando un utente visualizza una bozza e fa clic sull’icona X per chiuderla, viene reindirizzato all’elenco dei documenti invece che ai dettagli del documento.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 53c2c273-0677-4b31-8e19-6688505a085e
-source-git-commit: 460b7358b7d4ed77bc38f5b62fe961c7ea4d265e
-workflow-type: ht
-source-wordcount: '131'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '133'
 ht-degree: 100%
 
 ---

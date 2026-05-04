@@ -1,12 +1,11 @@
 ---
 title: 'Workfront Fusion: progetti duplicati creati da un singolo modulo'
 description: Quando si utilizza un modulo Crea progetto durante l’esecuzione di uno scenario, vengono creati due progetti identici. Questo può creare confusione durante l’utilizzo dei progetti in Workfront.
-hidefromtoc: true
 feature: Workfront Fusion
 exl-id: 95cb41ab-aa1c-41a8-ad3d-bdc99f54e241
-source-git-commit: 1e1528b2fc0c2ffd8ec62eeb2ba3bedb5693ada9
-workflow-type: ht
-source-wordcount: '108'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---

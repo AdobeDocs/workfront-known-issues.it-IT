@@ -1,13 +1,12 @@
 ---
-title: '“Configurazione: gli elenchi vengono caricati lentamente in Configurazione”'
+title: 'Configurazione: gli elenchi vengono caricati lentamente in Configurazione'
 description: Quando un utente si trova nell’area Configurazione e tenta di caricare un elenco, questo viene caricato molto lentamente. Questo problema è stato segnalato in diverse aree di Configurazione.
-hidefromtoc: true
 exl-id: 4b48b101-9c38-416a-a45b-203cf8f6eefc
 feature: System Setup and Administration
-source-git-commit: 52b204d63eda7752c90a4481aa2050e695cd4cc7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 94%
 
 ---
 
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 Quando un utente si trova nell’area [!UICONTROL Configurazione] e tenta di caricare un elenco, questo viene caricato molto lentamente. Questo problema è stato segnalato in diverse aree di [!UICONTROL Configurazione].
 
-_Segnalato per la prima volta il 20 ottobre 2022._
+_Segnalato per la prima volta il venerdì 20 ottobre 2022._

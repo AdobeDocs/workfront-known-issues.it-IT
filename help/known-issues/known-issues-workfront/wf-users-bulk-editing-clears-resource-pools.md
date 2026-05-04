@@ -1,15 +1,14 @@
 ---
 title: 'Utenti: la modifica in blocco degli utenti rimuove i pool di risorse e i riporti diretti'
 description: Quando un utente modifica in blocco gli utenti, fa clic sul campo Pool di risorse e non immette un valore, vengono rimossi i pool di risorse per tutti gli utenti modificati. La modifica in blocco può anche rimuovere i riporti diretti dagli utenti modificati.
-hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: bc0c04caa8b45bc8bd9e0417f4ca3713741ab852
-workflow-type: ht
-source-wordcount: '108'
+exl-id: 838b142d-9245-465d-a22c-883641215ef7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
-
 
 # Utenti: la modifica in blocco degli utenti rimuove i pool di risorse e i riporti diretti
 

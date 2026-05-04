@@ -1,12 +1,11 @@
 ---
 title: Problemi durante l’eliminazione dello stato del gruppo
 description: Dopo aver eliminato lo stato di un gruppo, nonostante il gruppo non mostri più lo stato e il tempo di rimozione visualizzati negli Aggiornamenti del gruppo, questo alla fine viene nuovamente visualizzato senza essere modificato da un utente.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: 061bfacc-5350-4e5f-91c1-89b32835d6e5
-source-git-commit: af98d8330ad3ab9a1c0b844ec84ea40dd87bbc14
-workflow-type: ht
-source-wordcount: '136'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '138'
 ht-degree: 100%
 
 ---
@@ -28,4 +27,4 @@ I seguenti problemi sono stati riscontrati in relazione all’eliminazione degli
 1. Cerca il gruppo corrispondente.
 1. Elimina lo stato.
 
-_Segnalato per la prima volta il 26 giugno 2024._
+_Segnalato per la prima volta il giovedì 26 giugno 2024._

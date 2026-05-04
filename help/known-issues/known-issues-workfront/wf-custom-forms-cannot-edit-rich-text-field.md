@@ -1,15 +1,14 @@
 ---
 title: 'Moduli personalizzati: impossibile modificare i campi formattati'
 description: Quando un utente tenta di modificare un campo formattato all’interno di un modulo personalizzato, le modifiche non vengono salvate e il campo non viene aggiornato con le modifiche.
-hidefromtoc: true
 feature: Custom Forms
-source-git-commit: a45a13fb18ae1753918819b89e8f2bb07065a733
-workflow-type: ht
-source-wordcount: '82'
+exl-id: 3bdea765-92e1-4a1e-a938-d3ce23eb2149
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
-
 
 # Moduli personalizzati: impossibile modificare i campi formattati
 

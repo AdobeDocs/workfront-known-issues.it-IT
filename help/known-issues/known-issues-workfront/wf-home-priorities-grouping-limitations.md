@@ -1,12 +1,11 @@
 ---
 title: 'Priorità: i raggruppamenti impediscono l’ordinamento e la modifica in linea'
 description: Quando all’elenco di lavoro delle priorità sono applicati dei raggruppamenti, l’elenco non può essere ordinato e la modifica in linea dei relativi campi non funziona.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 9b36df42-30ea-47d2-b791-114d59429480
-source-git-commit: feb1a6d8a0b4c28c035415302746dfc8a3ee7e0d
-workflow-type: ht
-source-wordcount: '90'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '92'
 ht-degree: 100%
 
 ---

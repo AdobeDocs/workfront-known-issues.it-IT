@@ -1,13 +1,12 @@
 ---
-title: '“Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso Gestisci o Modifica per la modifica dei campi”'
+title: 'Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso Gestisci o Modifica per la modifica dei campi'
 description: Quando un utente crea un modulo con più oggetti che consentono solo l’accesso Gestisci o Modifica e in seguito rimuove quel tipo di oggetto, il modulo personalizzato continua a richiedere l’accesso Gestisci o Modifica per la modifica dei campi. Non esiste alcuna indicazione visiva che i campi richiedano l’accesso Gestione o Modifica e non è possibile reimpostare il modulo in alcun modo.
-hidefromtoc: true
 feature: Custom Forms
 exl-id: 3f7ad4f5-1480-4514-8543-7e699743a8ef
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 92%
 
 ---
 
@@ -28,4 +27,4 @@ Quando un utente crea un modulo con più oggetti che consentono solo l’accesso
 3. Salvare il modulo.
 4. Rimuovere l’interruzione di sezione appena aggiunta e salva nuovamente il modulo.
 
-_Segnalato per la prima volta il 9 novembre 2022._
+_Segnalato per la prima volta il giovedì 9 novembre 2022._

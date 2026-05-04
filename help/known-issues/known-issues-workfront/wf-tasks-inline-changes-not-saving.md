@@ -1,15 +1,14 @@
 ---
 title: Le modifiche in linea apportate a un’attività non vengono salvate
 description: Quando un utente apporta modifiche alla sezione Modifiche di un’attività nella precedente finestra di dialogo delle attività e le salva, le modifiche non vengono salvate.
-hidefromtoc: true
 feature: Tasks
-source-git-commit: 7039085dbf83aa47d1ba70c8484e5d8572dee770
-workflow-type: ht
-source-wordcount: '91'
+exl-id: ebc1fec3-a0d8-4623-8e84-7e3878f9b716
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
-
 
 # Attività: le modifiche in linea apportate a un’attività non vengono salvate
 

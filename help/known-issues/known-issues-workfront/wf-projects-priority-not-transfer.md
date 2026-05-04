@@ -1,12 +1,11 @@
 ---
-title: '“Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata in esso”'
+title: 'Progetti: il progetto creato da un problema utilizzando un modello non riflette la priorità impostata in esso'
 description: Quando un utente converte un problema in un progetto utilizzando un modello, la priorità del progetto appena creato non corrisponde alla priorità impostata nel modello.
-hidefromtoc: true
 feature: Projects
 exl-id: 431a94ee-c73f-4536-b7ff-33f5b3870892
-source-git-commit: d023663855896059777698e470ed3e786fab0ce7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 100%
 
 ---
@@ -21,4 +20,4 @@ Quando un utente converte un problema in un progetto utilizzando un modello, la 
 
 Questo funziona come previsto. Quando si converte un problema in un progetto con o senza un modello, la priorità del problema viene trasferita al progetto creato.
 
-_Segnalato per la prima volta il venerdì 2 maggio 2024._
+_Segnalato per la prima volta l’venerdì 2 maggio 2024._

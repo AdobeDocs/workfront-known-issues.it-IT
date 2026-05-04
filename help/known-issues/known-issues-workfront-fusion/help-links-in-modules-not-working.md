@@ -1,12 +1,11 @@
 ---
 title: I collegamenti della Guida in-app di Fusion non conducono a pagine di aiuto specifiche
 description: Attualmente i collegamenti della Guida in  [!DNL Workfront Fusion]  non reindirizzano alle relative pagine di aiuto, bensì alla pagina Home della documentazione di Workfront. Puoi cercare le informazioni necessarie da questa pagina di destinazione.
-hidefromtoc: true
 exl-id: 3775d0c6-6bca-4727-b03e-4a0659cb3267
 feature: Workfront Fusion
-source-git-commit: 889157407be97219b0a258c038f5094b197238b1
-workflow-type: ht
-source-wordcount: '124'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
