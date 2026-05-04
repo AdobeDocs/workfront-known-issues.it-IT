@@ -1,13 +1,12 @@
 ---
-title: 'Home: arresti anomali della pagina Home con errore di memoria esaurita'
+title: 'Home: si verificano arresti anomali nella casa con errore Memoria insufficiente'
 description: Quando un utente tenta di visualizzare la nuova pagina Home, il sito si arresta in modo anomalo con un messaggio di errore. È disponibile una soluzione alternativa.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: befeb093-6376-4c91-a4c4-f956b85660aa
-source-git-commit: 484d7d4988d053a39e48e2347cb1892a2b62c772
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 93%
 
 ---
 

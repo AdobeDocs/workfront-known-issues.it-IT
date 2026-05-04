@@ -1,17 +1,16 @@
 ---
-title: 'Workfront Fusion: inizia a impostare Da ora in poi per l’elaborazione di tutti i dati'
-description: Dopo aver selezionato Da ora in poi come impostazione Scegli quando iniziare per uno scenario, se un utente ripristina la versione precedente dello scenario tenterà di elaborare tutti i dati indipendentemente dalla data invece di includere solo i dati dopo che l’opzione di inizio è stata selezionata.
-hidefromtoc: true
+title: 'Workfront Fusion: inizia l’impostazione Da ora in poi per l’elaborazione di tutti i dati'
+description: Dopo aver selezionato Da ora in poi l’impostazione Scegli quando iniziare per uno scenario, se un utente ripristina la versione precedente dello scenario tenterà di elaborare tutti i dati indipendentemente dalla data anziché includere solo i dati dopo che l’opzione di inizio è stata selezionata.
 feature: Workfront Fusion
-source-git-commit: 0d536411994520d2399935efc35cff66290ebf9b
-workflow-type: ht
-source-wordcount: '146'
-ht-degree: 100%
+exl-id: 498c7487-a828-4ed1-a38d-26c89d2a70dc
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '148'
+ht-degree: 61%
 
 ---
 
-
-# Workfront Fusion: inizia impostare a “Da ora in poi” per l’elaborazione di tutti i dati
+# Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati tutti i dati
 
 >[!NOTE]
 >

@@ -1,12 +1,11 @@
 ---
-title: '“Calendario: attività non visualizzate”'
+title: 'Calendario: attività non visualizzate'
 description: Quando un utente dispone di un rapporto elenco e di un report calendario contenenti gli stessi filtri, nota che alcune attività vengono visualizzate solo nel rapporto elenco.
 exl-id: 1c606629-0db5-4096-af13-5e637a16ea7c
 feature: Reports and Dashboards
-hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Quando un utente dispone di un rapporto elenco e di un report calendario contenenti gli stessi filtri, nota che alcune attività vengono visualizzate solo nel rapporto elenco.
 
-_Segnalato per la prima volta il giovedì 31 ottobre 2019._
+_Segnalato per la prima volta il venerdì 31 ottobre 2019._

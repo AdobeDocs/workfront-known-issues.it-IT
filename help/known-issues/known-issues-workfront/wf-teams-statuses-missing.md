@@ -1,12 +1,11 @@
 ---
-title: "Team: problemi relativi all’impostazione dello stato del team per il pulsante Fine"
+title: 'Team: problemi relativi all’impostazione dello stato del team per il pulsante Fine '
 description: Sono stati segnalati problemi relativi agli stati del pulsante [!UICONTROL Fine] durante la modifica o la creazione di un team. È disponibile una soluzione alternativa.
-hidefromtoc: true
 feature: People Teams and Groups
 exl-id: b5d1ed7c-02af-49d0-ac0e-284f615f4daa
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 78%
 
 ---

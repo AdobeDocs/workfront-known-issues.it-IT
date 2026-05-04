@@ -1,17 +1,16 @@
 ---
-title: '“Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto”'
+title: 'Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto'
 description: Quando un utente crea una bozza e la visualizza in un rapporto come [!UICONTROL Versione del documento] o [!UICONTROL Proof Approval] (Approvazione della bozza), può notare che il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto. Ciò si verifica quando la bozza viene creata dopo il caricamento del documento, come [!UICONTROL Simple Proof] (Bozza semplice) o [!UICONTROL Advanced Proof] (Bozza avanzata) con un [!UICONTROL Basic Workflow] (Flusso di lavoro di base).
 feature: Digital Content and Documents
-hidefromtoc: true
 exl-id: 1cd7baed-b561-48fa-ba58-e0533db01696
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '202'
 ht-degree: 100%
 
 ---
 
-# Bozze: il campo [!UICONTROL Active Proof Stages] (Fasi di bozza attive) è vuoto
+# Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto
 
 <!--Requested article. This Known Issue is on the TOC for both Workfront and Workfront Proof.-->
 
@@ -28,4 +27,4 @@ Esegui una delle operazioni seguenti:
 * Aggiungi un nuovo documento come bozza selezionando [!UICONTROL Aggiungi nuovo] > [!UICONTROL Proof] (Bozza).
 * Crea una bozza da un documento esistente come [!UICONTROL Advanced Proof] (Bozza avanzata) con un [!UICONTROL Automated Workflow] (Flusso di lavoro automatico).
 
-_Segnalato per la prima volta il mercoledì 31 agosto 2022._
+_Segnalato per la prima volta il giovedì 31 agosto 2022._

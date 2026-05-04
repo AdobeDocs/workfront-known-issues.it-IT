@@ -1,13 +1,12 @@
 ---
 title: 'Accesso: Workfront non viene caricato dopo l’accesso'
 description: Quando un utente accede a Workfront, Workfront non si carica. Se l’utente aggiorna la pagina, Workfront viene caricato come previsto.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 0f64201f-9030-4e13-a058-9e602d9e6905
-source-git-commit: 2b5a817ea5d3891fc3d344c746322c8c89e80e85
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 20%
+source-wordcount: '74'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 20%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 19 febbraio 2026.
+>Questo problema è stato risolto il lunedì 19 febbraio 2026.
 
 Quando un utente accede a Workfront, Workfront non si carica. Se l’utente aggiorna la pagina, Workfront viene caricato come previsto.
 
@@ -23,4 +22,4 @@ Quando un utente accede a Workfront, Workfront non si carica. Se l’utente aggi
 
 Aggiorna la pagina.
 
-_Segnalato per la prima volta il giovedì 14 gennaio 2026._
+_Segnalato per la prima volta il venerdì 14 gennaio 2026._

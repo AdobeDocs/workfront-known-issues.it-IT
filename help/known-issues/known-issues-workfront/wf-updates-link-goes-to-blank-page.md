@@ -1,13 +1,12 @@
 ---
-title: "Aggiornamenti: il collegamento nel commento apre una schermata vuota"
-description: Quando un utente fa clic su un collegamento che si trova all’interno di un commento, il collegamento indirizza l’utente a una schermata vuota. È disponibile una soluzione alternativa.
-hidefromtoc: true
+title: 'Aggiornamenti: il collegamento nel commento passa a una schermata vuota'
+description: Quando un utente fa clic su un collegamento che si trova all’interno di un commento, viene indirizzato a una schermata vuota. È disponibile una soluzione alternativa.
 feature: Updates and Notifications
 exl-id: db510b1b-84ff-4e77-b028-7acc55ce9832
-source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 64%
+source-wordcount: '83'
+ht-degree: 100%
 
 ---
 

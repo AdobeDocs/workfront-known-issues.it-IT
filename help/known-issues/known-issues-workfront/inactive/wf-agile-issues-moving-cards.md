@@ -1,12 +1,11 @@
 ---
-title: '“Agile: problemi durante lo spostamento delle schede sulla bacheca Agile”'
+title: 'Agile: problemi durante lo spostamento delle schede sulla bacheca Agile'
 description: Sono stati segnalati diversi problemi durante lo spostamento di schede sulla bacheca Agile.
 exl-id: ef347a24-efe6-4b11-b108-4db540005604
 feature: Agile
-hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
@@ -21,4 +20,4 @@ Sono stati segnalati i problemi seguenti durante lo spostamento di schede sulla 
 * La scheda torna alla colonna originale prima dello spostamento
 * La scheda viene spostata in una posizione imprevedibile nella nuova colonna
 
-_Segnalato per la prima volta il mercoledì 1 giugno 2022._
+_Segnalato per la prima volta il giovedì 1 giugno 2022._

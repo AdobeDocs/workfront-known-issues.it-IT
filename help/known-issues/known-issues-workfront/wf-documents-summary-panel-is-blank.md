@@ -1,13 +1,12 @@
 ---
 title: 'Documenti: il pannello Riepilogo è vuoto'
 description: Quando un utente visualizza un elenco Documenti e fa clic su un documento, si apre il pannello Riepilogo, che rimane vuoto. L’utente non è in grado di chiudere il pannello Riepilogo.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 475cda94-7329-4df9-b8db-819e4634bbd4
-source-git-commit: 90752886f1ea4a0388d50685a597a6aca7393949
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 9%
+source-wordcount: '121'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +14,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->Questo problema è stato risolto il venerdì 5 febbraio 2026.
+>Questo problema è stato risolto il giovedì 5 febbraio 2026.
 
 Quando un utente visualizza un elenco Documenti e fa clic su un documento, si apre il pannello Riepilogo, che rimane vuoto. L’utente non è in grado di chiudere il pannello Riepilogo.
 

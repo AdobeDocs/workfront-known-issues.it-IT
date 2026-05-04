@@ -1,12 +1,11 @@
 ---
 title: 'Moduli personalizzati: aziende mancanti dal campo di digitazione personalizzato'
 description: Quando si tenta di trovare un’azienda in un campo di digitazione personalizzato che fa riferimento all’oggetto dell’azienda, viene visualizzata solo l’azienda associata all’utente, nonostante quest’ultimo appartenga a un gruppo con altre aziende. In alcuni casi, non viene suggerita alcuna azienda.
-hidefromtoc: true
 feature: Custom Forms
 exl-id: ec96c136-3442-48d8-9ed1-38d169658c10
-source-git-commit: 18a1da2b653110f6320dd83d5bf4c31130cf6647
-workflow-type: ht
-source-wordcount: '113'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Quando si tenta di trovare un’azienda in un campo di digitazione personalizzato che fa riferimento all’oggetto dell’azienda, viene visualizzata solo l’azienda associata all’utente, nonostante quest’ultimo appartenga a un gruppo con altre aziende. In alcuni casi, non viene suggerita alcuna azienda.
 
-_Segnalato per la prima volta il 31 dicembre 2024._
+_Segnalato per la prima volta il mercoledì 31 dicembre 2024._

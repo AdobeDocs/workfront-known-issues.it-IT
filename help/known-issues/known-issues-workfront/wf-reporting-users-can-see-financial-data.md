@@ -1,15 +1,14 @@
 ---
 title: 'Reporting: gli utenti possono visualizzare dati finanziari nelle visualizzazioni di una dashboard dell’area di lavoro'
 description: Gli utenti con livello di accesso Visualizzazione o Modifica per i dati finanziari possono visualizzare i dati finanziari nelle visualizzazioni della dashboard dell’area di lavoro, anche se l’autorizzazione Visualizza dati finanziari viene rimossa a livello di attività o di progetto.
-hidefromtoc: true
 feature: Reports and Dashboards
-source-git-commit: fc6c4f1fa7f563ef7d7aa9335fb8b89025fcb572
-workflow-type: ht
+exl-id: 603d12f4-152e-45b9-aa7b-4dd42ad87c69
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
 ---
-
 
 # Reporting: gli utenti possono visualizzare dati finanziari nelle visualizzazioni di una dashboard dell’area di lavoro
 

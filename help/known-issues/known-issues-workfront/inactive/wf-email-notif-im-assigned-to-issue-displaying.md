@@ -1,17 +1,16 @@
 ---
-title: '“Notifiche e-mail: viene visualizzata l’impostazione Sono assegnato a un problema”'
-description: Nell’area [!UICONTROL Setup] (Configura), viene visualizzata l’impostazione Notifiche e-mail con “Sono assegnato a un problema” per gli utenti con licenze di revisione e richiesta. Questa impostazione non è disponibile per questi tipi di licenza e l’attivazione dell’impostazione non attiva le notifiche e-mail per questo evento.
+title: 'Notifiche e-mail: viene visualizzata l’impostazione Sono assegnato a un problema'
+description: Nell’area [!UICONTROL Setup] (Configura), viene visualizzata l’impostazione Notifiche e-mail con “Sono assegnato a un problema” per gli utenti con licenze di revisione e richiesta. Questa impostazione non è disponibile per questi tipi di licenza e, se si abilita l’impostazione,le notifiche e-mail per questo evento non vengono attivate.
 feature: Updates and Notifications
 exl-id: 2b8843e3-5f56-4a25-ba5f-2a8a503a1950
-hidefromtoc: true
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 100%
+source-wordcount: '140'
+ht-degree: 92%
 
 ---
 
-# Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL I’m assigned to an issue]” (Sono assegnato a un problema)
+# Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”
 
 <!--Article created by request-->
 
@@ -19,6 +18,6 @@ ht-degree: 100%
 >
 >Il team di prodotto sta attualmente valutando la risoluzione di questo problema, che potrebbe richiedere alcuni miglioramenti. I miglioramenti dei prodotti vengono comunicati negli annunci relativi al prodotto e non con gli aggiornamenti di manutenzione.I miglioramenti delle funzionalità del prodotto vengono comunicati nella sezione Annunci sui prodotti e non tramite gli aggiornamenti di manutenzione.
 
-Nell’area [!UICONTROL Setup] (Configura), viene visualizzata l’impostazione [!UICONTROL Email Notifications] (Notifiche e-mail) con “[!UICONTROL I’m assigned to an issue]” (Sono assegnato a un problema) per gli utenti con licenze di revisione e richiesta. Questa impostazione non è disponibile per questi tipi di licenza e l’attivazione dell’impostazione non attiva le notifiche e-mail per questo evento.
+Nell’area [!UICONTROL Setup] (Configura), viene visualizzata l’impostazione [!UICONTROL Email Notifications] (Notifiche e-mail) con “[!UICONTROL I’m assigned to an issue]” (Sono assegnato a un problema) per gli utenti con licenze di revisione e richiesta. Questa impostazione non è disponibile per questi tipi di licenza e, se si abilita l’impostazione,le notifiche e-mail per questo evento non vengono attivate.
 
-_Segnalato per la prima volta il giovedì 15 aprile 2021._
+_Segnalato per la prima volta il venerdì 15 aprile 2021._

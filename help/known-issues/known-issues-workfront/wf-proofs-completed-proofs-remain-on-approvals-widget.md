@@ -1,13 +1,12 @@
 ---
-title: 'Bozze: le bozze completate rimangono nel widget In attesa della mia approvazione'
+title: 'Bozze: le bozze completate rimangono sul widget In attesa della mia approvazione'
 description: Dopo che un utente prende una decisione su una bozza, tale bozza rimane nel widget [!UICONTROL In attesa della mia approvazione] sulla pagina [!UICONTROL Home] degli utenti nella nuova esperienza Home.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 38a0f678-3441-4a0b-a2ab-bc1d7c96c1d6
-source-git-commit: 510d269306ca0619435caba2682fd4fdccc4e1f9
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 90%
 
 ---
 
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Dopo che un utente prende una decisione su una bozza, tale bozza rimane nel widget [!UICONTROL In attesa della mia approvazione] sulla pagina [!UICONTROL Home] degli utenti nella nuova esperienza Home.
 
-_Segnalato per la prima volta il 21 settembre 2023._
+_Segnalato per la prima volta il venerdì 21 settembre 2023._

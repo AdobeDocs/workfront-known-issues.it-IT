@@ -1,13 +1,12 @@
 ---
-title: '“Calendari: l’istruzione di filtro OR esclude la regola di filtro”'
+title: 'Calendari: l’istruzione di filtro OR esclude la regola di filtro'
 description: Quando un utente configura un report calendario per restituire le attività in base alla selezione di campi personalizzati e aggiunge un’istruzione OR, gli oggetti che soddisfano i criteri della regola del filtro nella prima sezione vengono esclusi dai risultati.
 exl-id: d08d0a53-28c0-48bb-be89-701900b0f221
 feature: Reports and Dashboards
-hidefromtoc: true
-source-git-commit: 688d728782638489aacc76a1a12c38ab12215f8e
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 94%
 
 ---
 
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Quando un utente configura un report calendario per restituire le attività in base alla selezione di campi personalizzati e aggiunge un’istruzione [!DNL OR], gli oggetti che soddisfano i criteri della regola del filtro nella prima sezione vengono esclusi dai risultati.
 
-_Segnalato per la prima volta il martedì 23 marzo 2021._
+_Segnalato per la prima volta il mercoledì 23 marzo 2021._

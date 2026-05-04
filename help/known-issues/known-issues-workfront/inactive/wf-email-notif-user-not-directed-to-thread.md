@@ -1,17 +1,16 @@
 ---
-title: '“Notifiche e-mail: l’utente non indirizzato al thread di commenti”'
+title: 'Notifiche e-mail: l’utente non viene indirizzato al thread di commento'
 description: Quando un utente fa clic sul collegamento Commento in una notifica via e-mail, viene indirizzato alla parte superiore dell’area [!UICONTROL Aggiornamenti] invece che al thread di commenti a cui sta cercando di rispondere.
 exl-id: 335c2867-eae5-46e8-a7d5-8b9b35e66e31
 feature: Updates and Notifications
-hidefromtoc: true
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
 
-# Notifiche e-mail: l’utente non è diretto al thread di commenti
+# Notifiche e-mail: l’utente non viene indirizzato al thread di commento
 
 <!--Article created by request-->
 
@@ -21,4 +20,4 @@ ht-degree: 100%
 
 Quando un utente fa clic sul collegamento [!UICONTROL Comment] (Commento) in una notifica e-mail, viene indirizzato alla parte superiore dell’area [!UICONTROL Aggiornamenti] invece che al thread di commenti a cui sta cercando di rispondere.
 
-_Segnalato per la prima volta il mercoledì 24 marzo 2021._
+_Segnalato per la prima volta il giovedì 24 marzo 2021._

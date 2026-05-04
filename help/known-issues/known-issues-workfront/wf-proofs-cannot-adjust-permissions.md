@@ -1,12 +1,11 @@
 ---
 title: I moderatori della bozza non riescono a modificare le autorizzazioni
 description: Se un utente che è un moderatore della bozza tenta di modificare le autorizzazioni utente su un flusso di lavoro, la possibilità di selezionare o deselezionare le autorizzazioni è disabilitata.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: d34b4880-c7b7-48b8-89da-77b7293288ed
-source-git-commit: 6de2e70344be38b92d44c2ec90c6380a8ccc3140
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---

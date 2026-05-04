@@ -1,15 +1,14 @@
 ---
 title: 'Utenti: impossibile utilizzare le opzioni avanzate durante la creazione di utenti'
 description: Quando un amministratore di Workfront crea un utente e tenta di utilizzare le opzioni avanzate, non può utilizzarle e viene visualizzato un messaggio di errore
-hidefromtoc: true
 feature: People Teams and Groups
-source-git-commit: 21ce5890bfe3ca5bf5080fe3c0c8aec8dcb14e89
-workflow-type: ht
-source-wordcount: '78'
+exl-id: 5862c4a3-e614-480d-bc30-4521def14164
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
-
 
 # Utenti: impossibile utilizzare le opzioni avanzate durante la creazione di utenti
 

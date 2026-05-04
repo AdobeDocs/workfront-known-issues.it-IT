@@ -1,15 +1,14 @@
 ---
-title: '“Attività: la ricerca del nome nell’assegnazione dell’attività non restituisce gli utenti”'
-description: '"Quando un utente effettua un’assegnazione di attività e tenta di cercare l’assegnatario per nome, la ricerca non restituisce alcun utente e viene visualizzato il messaggio Nessun risultato trovato. È disponibile una soluzione alternativa.”'
-hidefromtoc: true
+title: 'Attività: la ricerca del nome nell’assegnazione dell’attività non restituisce gli utenti'
+description: Quando un utente effettua un’assegnazione di attività e tenta di cercare l’assegnatario per nome, la ricerca non restituisce alcun utente e lo stesso visualizza il messaggio “Nessun risultato trovato”. È disponibile una soluzione alternativa.
 feature: Tasks, People Teams and Groups
-source-git-commit: ecd8588333404b8effc26111f34618c8e9cec459
+exl-id: 0c31d1e4-7025-45a7-96ed-a7f9a4447eca
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
-
 
 # Attività: la ricerca del nome nell’assegnazione dell’attività non restituisce gli utenti
 

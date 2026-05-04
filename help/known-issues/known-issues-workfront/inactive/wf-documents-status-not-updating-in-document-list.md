@@ -1,13 +1,12 @@
 ---
-title: '“Bozze: lo stato della bozza non viene aggiornato negli elenchi Documento“'
+title: 'Bozze: lo stato della bozza non viene aggiornato negli elenchi Documento'
 description: Quando lo stato di una bozza cambia, un elenco Documento indica che la bozza non mostra il nuovo stato corretto.
-hidefromtoc: true
 exl-id: f5f9b16c-4ec5-4625-b8c6-277fdd080d45
 feature: Digital Content and Documents
-source-git-commit: d4dd73ea9edc802c945ee7b8aa478bf18b1c662c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '72'
+ht-degree: 87%
 
 ---
 
@@ -19,4 +18,4 @@ Quando lo stato di una bozza cambia, un elenco [!UICONTROL Documento] indica che
 
 La pagina [!UICONTROL Flusso di lavoro di bozza] in [!DNL Workfront] mostra lo stato corretto della bozza.
 
-_Segnalato per la prima volta il mercoledì 3 agosto 2022._
+_Segnalato per la prima volta il giovedì 3 agosto 2022._

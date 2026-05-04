@@ -1,15 +1,14 @@
 ---
 title: 'Pianificazioni: le autorizzazioni per la pianificazione vengono revocate per un gruppo'
 description: Quando un amministratore di un gruppo Workfront aggiunge un’eccezione di data a una pianificazione e salva le modifiche, le autorizzazioni per tale pianificazione vengono rimosse dal gruppo e l’amministratore di Workfront deve concedere l’accesso al gruppo.
-hidefromtoc: true
 feature: Timesheets
-source-git-commit: db432f61d90c0900d7522c64c7feb990268b5542
-workflow-type: ht
-source-wordcount: '98'
+exl-id: 7af9219d-82f6-4384-ad07-2833e181b106
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
-
 
 # Pianificazioni: le autorizzazioni per la pianificazione vengono revocate per un gruppo
 

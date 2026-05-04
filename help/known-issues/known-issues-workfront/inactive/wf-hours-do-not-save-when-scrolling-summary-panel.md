@@ -1,12 +1,11 @@
 ---
 title: 'Attività: le ore immesse nel [!UICONTROL pannello Riepilogo] dell’attività non vengono salvate'
 description: 'Quando un utente tenta di immettere ore per un’attività nel pannello Riepilogo dell’attività, le ore non vengono salvate. Ciò si verifica quando l’utente lascia il cursore nel quadrato in cui ha inserito le ore, e fa scorrere verso il basso il [!UICONTROL pannello Riepilogo].   '
-hidefromtoc: true
 feature: Tasks, Timesheets
 exl-id: edf5ea1f-a75f-4df4-987a-53d2d3563579
-source-git-commit: 374c88a6a4e8890968220ae51b3fea303e0d7628
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '155'
 ht-degree: 100%
 
 ---
@@ -25,4 +24,4 @@ Quando un utente tenta di immettere ore per un’attività nel pannello Riepilog
 
 Fai clic all’esterno del quadrato in cui vengono inserite le ore prima di far scorrere il [!UICONTROL pannello Riepilogo].
 
-_Segnalato per la prima volta il mercoledì 1 giugno 2022._
+_Segnalato per la prima volta il giovedì 1 giugno 2022._

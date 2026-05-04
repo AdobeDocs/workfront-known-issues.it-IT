@@ -1,15 +1,14 @@
 ---
 title: 'Notifiche: l’utente non riceve le notifiche previste'
 description: Quando si verifica un evento che deve inviare una notifica a un utente, l’utente non riceve la notifica. Ciò può verificarsi anche se l’impostazione di notifica dell’utente consente la notifica.
-hidefromtoc: true
 feature: Updates and Notifications
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+exl-id: 9e61c0b1-0d9f-4356-b69b-9aa077e5aef7
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
-
 
 # Notifiche: l’utente non riceve le notifiche previste
 

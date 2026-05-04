@@ -1,12 +1,11 @@
 ---
-title: '“Bozze: errore durante la condivisione della bozza dal collegamento e-mail”'
+title: 'Bozze: errore durante la condivisione della bozza dal collegamento e-mail'
 description: Quando una bozza viene condivisa con un ospite e quest’ultimo tenta di utilizzare l’opzione Condividi la bozza con un altro utente nell’e-mail e di inviare un indirizzo e-mail con cui condividere tale bozza, riceve un errore. Il campo e-mail diventa rosso e l’utente visualizza un errore.
-hidefromtoc: true
 feature: Digital Content and Documents
 exl-id: 0ab7a42f-f87e-49d1-b5e5-3d05f7764eab
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '173'
 ht-degree: 100%
 
 ---

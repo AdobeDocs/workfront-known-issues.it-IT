@@ -1,12 +1,11 @@
 ---
 title: 'Notifiche: e-mail duplicate'
 description: Quando viene inviata una notifica e-mail, a volte vengono inviate più copie dell’e-mail.
-hidefromtoc: true
 feature: Updates and Notifications
 exl-id: e72d7a3f-5d75-4433-8696-778d26c19c1d
-source-git-commit: 4b156962d5d83984311eb4a3124a6fc864d23249
-workflow-type: ht
-source-wordcount: '48'
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Quando viene inviata una notifica e-mail, a volte vengono inviate più copie dell’e-mail.
 
-_Segnalato per la prima volta il 7 febbraio 2025._
+_Segnalato per la prima volta il sabato 7 febbraio 2025._

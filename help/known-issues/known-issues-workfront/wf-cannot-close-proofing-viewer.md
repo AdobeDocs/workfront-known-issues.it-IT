@@ -1,15 +1,14 @@
 ---
 title: 'Bozze: impossibile chiudere il visualizzatore bozza'
 description: Quando un utente visualizza una bozza nel visualizzatore di bozze e tenta di chiuderla facendo clic sul pulsante X in alto a destra, la bozza non viene chiusa.
-hidefromtoc: true
 feature: Digital Content and Documents
-source-git-commit: fa2cfd357e63ec39c64926865584ba39a78f75a6
-workflow-type: ht
-source-wordcount: '82'
+exl-id: 18c71312-a0fe-4bb0-a27b-5faa77680c4b
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
+workflow-type: tm+mt
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
-
 
 # Bozze: impossibile chiudere il visualizzatore bozza
 

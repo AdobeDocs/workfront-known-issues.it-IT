@@ -1,17 +1,16 @@
 ---
-title: '“Elenchi: il nome visualizzato non viene applicato al raggruppamento di campi personalizzato”'
+title: 'Elenchi: il nome visualizzato non viene applicato al raggruppamento di campi personalizzati'
 description: Quando un utente raggruppa un elenco in base a un campo personalizzato e modifica il nome visualizzato in Modalità testo, viene invece visualizzato il nome originale del campo.
 exl-id: 70fda3fe-336c-4ee5-a47c-b1095e470865
-hidefromtoc: true
 feature: Text Mode Reporting
-source-git-commit: 2631a7a9cd6c07feae192cb0e29f168929fc9f3c
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
-# Elenchi: il nome visualizzato non viene applicato al raggruppamento di campi personalizzato
+# Elenchi: il nome visualizzato non viene applicato al raggruppamento di campi personalizzati
 
 >[!NOTE]
 >
@@ -19,4 +18,4 @@ ht-degree: 100%
 
 Quando un utente raggruppa un elenco in base a un campo personalizzato e modifica il nome visualizzato in [!UICONTROL Text Mode] (Modalità testo), viene invece visualizzato il nome originale del campo.
 
-_Segnalato per la prima volta il giovedì 13 agosto 2020._
+_Segnalato per la prima volta il venerdì 13 agosto 2020._

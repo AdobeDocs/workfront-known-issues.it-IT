@@ -1,12 +1,11 @@
 ---
-title: "Pagina Home: le attività nei progetti con stato Approvato o in Pianificazione non sono incluse in Le mie attività o nell’Elenco lavori della Home"
+title: 'Home: le attività nei progetti con stato Approvato o Pianificazione non sono incluse in Le mie attività o in Elenco di lavori dell’area Home'
 description: Le attività dei progetti con stato Approvato o in Pianificazione non sono visualizzate nella pagina Home. È disponibile una soluzione alternativa.
-hidefromtoc: true
 feature: Get Started with Workfront
 exl-id: 5994508b-ee9f-40a9-bca3-e17d7a7708b5
-source-git-commit: 036cedbdabb7dd32cd78cb0c924dbcefabeb05bb
+source-git-commit: 92419281092e3172a33499e288dd7867567a4ad5
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 100%
 
 ---
@@ -52,4 +51,4 @@ OR:1:task:statusEquatesWith=CPL
 OR:1:task:statusEquatesWith_Mod=ne
 ```
 
-_Segnalato per la prima volta il 6 novembre 2023._
+_Segnalato per la prima volta il martedì 6 novembre 2023._
