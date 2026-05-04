@@ -171,13 +171,13 @@ ht-degree: 52%
       + {hide-from-toc}[Documenti: le autorizzazioni non vengono ereditate quando un documento viene spostato in un nuovo progetto](known-issues-workfront/inactive/wf-documents-permissions-not-interited-when-moved.md)
       + {hide-from-toc}[Documenti: errore durante il caricamento di un file di grandi dimensioni](known-issues-workfront/inactive/wf-documents-large-uploads-fail.md)
       + {hide-from-toc}[Documenti: impossibile aggiungere documenti da [!DNL Google Drive]](known-issues-workfront/wf-documents-cannot-add-documents-from-google-drive.md)
-      + {hide-from-toc}[Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] ](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
+      + {hide-from-toc}[Bozze: lo stato della bozza non viene aggiornato negli elenchi [!UICONTROL Documento] &#x200B;](known-issues-workfront/inactive/wf-documents-status-not-updating-in-document-list.md)
       + {hide-from-toc}[Moduli personalizzati: i moduli personalizzati con più oggetti richiedono l’accesso [!UICONTROL Gestisci] o [!UICONTROL Modifica] per la modifica dei campi](known-issues-workfront/inactive/wf-custom-form-stuck-in-manage-edit-access.md)
       + {hide-from-toc}[Bozze: riepilogo Stampa non mostra la miniatura dell&#39;immagine](known-issues-workfront/inactive/wf-proofs-proof-summary-shows-placeholder-thumbnail.md)
       + {hide-from-toc}[Attività: impossibile modificare [!UICONTROL Data di completamento pianificata] di un&#39;attività](known-issues-workfront/inactive/wf-tasks-cannot-change-planned-completion-date.md)
       + {hide-from-toc}[API: impossibile ordinare per campi dinamici](known-issues-workfront/inactive/wf-api-cannot-sort-by-dynamic-fields.md)
       + {hide-from-toc}[[!UICONTROL Configurazione]: gli elenchi vengono caricati lentamente in [!UICONTROL Configurazione]](known-issues-workfront/inactive/wf-setup-lists-load-slowly.md)
-      + {hide-from-toc}[Attività: le ore immesse nel [!UICONTROL pannello Riepilogo]](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md) dell’Attività non vengono salvate
+      + {hide-from-toc}[Attività: le ore immesse nel [!UICONTROL pannello Riepilogo] dell’Attività non vengono salvate](known-issues-workfront/inactive/wf-hours-do-not-save-when-scrolling-summary-panel.md)
       + {hide-from-toc}[Bozze: il campo [!UICONTROL Fasi di bozza attive] è vuoto](known-issues-workfront/inactive/wf-documents-stages-do-not-populate-on-proof.md)
       + {hide-from-toc}[[!DNL Workfront]: problemi relativi all’invio di un caso di supporto di [!DNL Workfront] su Experience League](known-issues-workfront/inactive/wf-support-issues-submitting-support-case.md)
       + {hide-from-toc}[Dashboard: i colori dei grafici del rapporto mostrati in una dashboard sono diversi rispetto a quelli presenti nel rapporto](known-issues-workfront/inactive/wf-dashboard-reports-wrong-color.md)
@@ -185,7 +185,7 @@ ht-degree: 52%
       + {hide-from-toc}[Agile: impossibile modificare i campi dai moduli personalizzati sulle schede](known-issues-workfront/inactive/wf-agile-cannot-edit-fields-custom-cards.md)
       + {hide-from-toc}[Approvazioni: la delega di approvazione è impostata per un numero di giorni non corretto](known-issues-workfront/inactive/wf-approval-delegation-incorrect-number-of-days.md)
       + {hide-from-toc}[[!UICONTROL Home]: problemi relativi al riepilogo della [!UICONTROL Home] quando si utilizzano browser diversi da  [!DNL Chrome]](known-issues-workfront/inactive/wf-home-summary-issues-when-not-using-chrome.md)
-      + {hide-from-toc}[[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] ](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
+      + {hide-from-toc}[[!UICONTROL Home]: l’opzione Nuova attività mostra gli utenti disattivati nel campo [!UICONTROL Assegna a] &#x200B;](known-issues-workfront/inactive/wf-home-new-task-option-showing-deactivated-users.md)
       + {hide-from-toc}[Aggiornamenti: il nome del team non viene visualizzato in @mention](known-issues-workfront/inactive/wf-updates-team-name-not-in-mention.md)
       + {hide-from-toc}[Agile: discrepanza nei [!UICONTROL Punti completati] per un’iterazione](known-issues-workfront/inactive/wf-agile-discrepancy-in-completed-points.md)
       + {hide-from-toc}[Notifiche e-mail: viene visualizzata l’impostazione “[!UICONTROL Sono assegnato a un problema]”](known-issues-workfront/inactive/wf-email-notif-im-assigned-to-issue-displaying.md)
@@ -217,7 +217,7 @@ ht-degree: 52%
       + {hide-from-toc}[[!DNL Workfront Proof] API: &quot;[!UICONTROL Corpo non è un XML] valido&quot; errore](known-issues-workfront-proof/proof-error-body-is-not-a-valid-xml.md)
       + {hide-from-toc}[Bozze: la bozza non è condivisa con gli utenti nel flusso di lavoro della bozza](known-issues-workfront-proof/proof-user-in-stage-does-not-get-access.md)
       + {hide-from-toc}[Impossibile aggiungere un utente alla bozza assegnandogli un tag in un commento](known-issues-workfront-proof/cannot-add-user-to-proof.md)
-      + Il report {hide-from-toc}[[!UICONTROL Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
+      + {hide-from-toc}[Il report [!UICONTROL Approvazione bozza] non è in grado di determinare con precisione le scadenze](known-issues-workfront-proof/proof-approval-report-cant-accurately-determine-deadlines.md)
       + {hide-from-toc}[[!UICONTROL Home]: le bozze completate rimangono bloccate nell’[!UICONTROL Elenco lavori]](known-issues-workfront-proof/completed-proofs-stuck-in-the-work-list.md)
       + {hide-from-toc}[Documenti: l’icona del flusso di lavoro della bozza non viene visualizzata](known-issues-workfront-proof/proof-workflow-icon-is-not-displaying.md)
    + Problemi risolti in [!DNL Workfront] Proof {#proof-resolved}
@@ -231,23 +231,23 @@ ht-degree: 52%
       + {hide-from-toc}[Workfront Fusion: il modulo di ricerca Jira restituisce un errore](known-issues-workfront-fusion/fusion-error-in-jira-search.md)
       + {hide-from-toc}[Workfront Fusion: gli aggiornamenti al webhook non vengono salvati in automatico](/help/known-issues/known-issues-workfront-fusion/fusion-must-save-updated-webhook.md)
       + {hide-from-toc}[Workfront Fusion: lo scenario non è in esecuzione](known-issues-workfront-fusion/fusion-scenario-not-running.md)
-      + {hide-from-toc}[Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati di tutti i dati ](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
+      + {hide-from-toc}[Workfront Fusion: con l’impostazione di avvio “Da ora in poi” vengono elaborati di tutti i dati &#x200B;](known-issues-workfront-fusion/fusion-from-now-on-processing-all-data.md)
       + {hide-from-toc}[Workfront Fusion: impossibile aggiungere o eliminare utenti da Workfront Fusion](known-issues-workfront-fusion/fusion-cannot-manage-users.md)
       + {hide-from-toc}[Workfront Fusion: errore 401 InvalidAccessTokenError](known-issues-workfront-fusion/fusion-401-invalidaccesstoken.md)
       + {hide-from-toc}[Workfront Fusion: campo mancante nel modulo](known-issues-workfront-fusion/fusion-field-missing-watch-field.md)
       + {hide-from-toc}[Workfront Fusion: formattazione dell’output per le date](known-issues-workfront-fusion/fusion-output-formatting-for-dates.md)
       + {hide-from-toc}[Workfront Fusion: errore memoria insufficiente](known-issues-workfront-fusion/fusion-low-memory-error.md)
       + {hide-from-toc}[Workfront Fusion: progetti duplicati creati da un singolo modulo](known-issues-workfront-fusion/fusion-duplicate-projects-created.md)
-      + Il modulo {hide-from-toc}[[!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL  Chiamata API personalizzata] restituisce errori 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
+      + {hide-from-toc}[Il modulo [!DNL Workfront Fusion]: [!DNL Workfront] >[!UICONTROL &#x200B; Chiamata API personalizzata] restituisce errori 404 o 422](known-issues-workfront-fusion/fusion-api-reports-422-404-errors.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]: errore &quot;Impossibile verificare la connessione&quot;](known-issues-workfront-fusion/fusion-401-error-must-reauthenicate-connection.md)
       + {hide-from-toc}[[!DNL Workfront Fusion]: il modulo di  [!DNL Fusion]  restituisce soltanto un errore 404, senza ulteriori informazioni](known-issues-workfront-fusion/fusion-404-error-no-description.md)
       + {hide-from-toc}[[!DNL Workfront Fusion] i collegamenti di aiuto in-app non portano a pagine di aiuto specifiche](known-issues-workfront-fusion/help-links-in-modules-not-working.md)
 
 + Pianificazione di [!DNL Workfront] {#planning}
-   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] ](workfrontplanning.md)
+   + [Problemi noti nella funzione Pianificazione di [!DNL Workfront] &#x200B;](workfrontplanning.md)
 
 + App mobile di [!DNL Workfront] {#mobile}
-   + [Problemi noti nell’app mobile di  [!DNL Workfront] ](workfrontmobile.md)
+   + [Problemi noti nell’app mobile di  [!DNL Workfront] &#x200B;](workfrontmobile.md)
 
 <!--
 
