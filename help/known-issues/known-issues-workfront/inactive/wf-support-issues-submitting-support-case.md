@@ -14,7 +14,7 @@ ht-degree: 61%
 
 Se sei un Contatto di supporto autorizzato di [!DNL Workfront] e riscontri problemi durante l’invio di un caso di supporto, visita i seguenti blog della community per ricevere istruzioni:
 
-* [Come inviare un ticket di supporto su Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737)
+* [Come inviare un ticket di supporto su Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/how-to-submit-a-support-ticket-on-experience-league/ba-p/461737?profile.language=it)
 * [Accesso per la prima volta come membro della community Workfront Experience League nuovo o esistente](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/logging-in-for-the-first-time-as-a-new-or-existing-workfront/ba-p/461472)
 
 Se riscontri ancora problemi, chiamaci ai numeri indicati di seguito in modo che possiamo aiutarti.
