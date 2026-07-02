@@ -1,12 +1,12 @@
 ---
 title: Aggiornamenti di manutenzione di Workfront nel 2023
-description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
+description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 87d54104-38b7-4950-ab21-6524a14f7f2a
 source-git-commit: 1bc69d197e26e8c5543ad03164ebca1839789274
 workflow-type: tm+mt
-source-wordcount: '7701'
-ht-degree: 100%
+source-wordcount: '7893'
+ht-degree: 98%
 
 ---
 
@@ -16,7 +16,7 @@ I seguenti aggiornamenti di manutenzione sono stati effettuati nel 2023.
 
 >[!NOTE]
 >
->Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+>Questi aggiornamenti includono anche altre correzioni di bug minori o meno importanti. [!DNL Workfront] L’assistenza ti avvisa quando viene risolto un problema che hai segnalato.
 
 Per gli aggiornamenti di manutenzione precedenti al 2023, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
@@ -127,7 +127,7 @@ Questo problema è stato segnalato nei rapporti che utilizzano un `valueexpressi
 
 +++
 
-+++**Aggiornamento di manutenzione del 16 novembre 2023**
++++**Aggiornamento di manutenzione del venerdì 16 novembre 2023**
 
 **Le ore preventivate nel rapporto sull’utilizzo non corrispondono a quelle riportate tramite API**
 
@@ -153,7 +153,7 @@ Questo problema è stato segnalato nella nuova esperienza di commento.
 
 +++
 
-+++**Aggiornamento di manutenzione del 9 novembre 2023**
++++**Aggiornamento di manutenzione del venerdì 9 novembre 2023**
 
 **Oggetti mancanti nel widget Il mio lavoro quando non si trova nella parte superiore della pagina**
 
@@ -195,7 +195,7 @@ Quando un utente crea delle attività su un modello e le sposta sotto un’attiv
 
 +++
 
-+++**Aggiornamento di manutenzione del 2 novembre 2023**
++++**Aggiornamento di manutenzione del venerdì 2 novembre 2023**
 
 **Gli aggiornamenti privati vengono visualizzati nei campi dell’espressione di valore**
 
@@ -207,7 +207,7 @@ Quando un campo del rapporto include un’espressione di valore che fa riferimen
 
 _Bilanciamento del carico di lavoro_
 
-Nel Bilanciamento del carico di lavoro, un utente potrebbe essere visualizzato con un’assegnazione eccessiva. Passando il puntatore del mouse sull’assegnazione eccessiva, la capacità dell’utente è impostata su 0.
+Nel Bilanciamento del carico di lavoro, un utente potrebbe essere visualizzato con un’assegnazione eccessiva. Quando si passa il puntatore sull’assegnazione eccessiva, la capacità dell’utente è impostata su 0.
 
 Se l’utente modifica l’intervallo di date, l’assegnazione è precisa. Tuttavia, se l’utente aggiorna la pagina, la capacità potrebbe di nuovo essere imprecisa.
 
@@ -215,7 +215,7 @@ Se l’utente modifica l’intervallo di date, l’assegnazione è precisa. Tutt
 
 ## Aggiornamenti di ottobre 2023
 
-+++**Aggiornamento di manutenzione del 26 ottobre 2023**
++++**Aggiornamento di manutenzione del venerdì 26 ottobre 2023**
 
 **La ricerca non funziona**
 
@@ -257,7 +257,7 @@ Quando un utente visualizza un’attività, l’intestazione dell’attività no
 
 +++
 
-+++**Aggiornamento di manutenzione del 19 ottobre 2023**
++++**Aggiornamento di manutenzione del venerdì 19 ottobre 2023**
 
 Gli utenti non ricevono notifiche sulle risposte in un thread di commenti
 
@@ -293,7 +293,7 @@ Quando un utente che ha effettuato l’accesso come altro utente converte un pro
 
 +++
 
-+++**Aggiornamento di manutenzione del 12 ottobre 2023**
++++**Aggiornamento di manutenzione del venerdì 12 ottobre 2023**
 
 **Flussi di lavoro rimossi per account che non li utilizzano**
 
@@ -319,7 +319,7 @@ Quando un utente modifica i filtri nella [!UICONTROL Home], l’area della [!UIC
 
 +++
 
-+++**Aggiornamento di manutenzione del 5 ottobre 2023**
++++**Aggiornamento di manutenzione del venerdì 5 ottobre 2023**
 
 **La bacheca si carica lentamente**
 
@@ -361,7 +361,7 @@ Le e-mail di promemoria automatico non vengono inviate. È iniziato il 14 settem
 
 ## Aggiornamenti di settembre 2023
 
-+++**Aggiornamento di manutenzione del 28 settembre 2023**
++++**Aggiornamento di manutenzione del venerdì 28 settembre 2023**
 
 **Impossibile eliminare il campo personalizzato**
 
@@ -387,7 +387,7 @@ Quando un utente passa a una sezione personalizzata di un oggetto in [!DNL Workf
 
 +++
 
-+++**Aggiornamento di manutenzione del 21 settembre 2023**
++++**Aggiornamento di manutenzione del venerdì 21 settembre 2023**
 
 **Impossibile assegnare l’utente a una bacheca in un flusso di lavoro**
 
@@ -450,7 +450,7 @@ Quando un utente tenta di generare una bozza, tale processo richiede un tempo ec
 
 +++
 
-+++**Aggiornamento di manutenzione del 14 settembre 2023**
++++**Aggiornamento di manutenzione del venerdì 14 settembre 2023**
 
 **Errore “[!UICONTROL Nessuna factory]” durante l’aggiunta di un documento**
 
@@ -472,7 +472,7 @@ Ciò si verifica quando un rapporto viene raggruppato per intervalli di date.
 
 +++
 
-+++**Aggiornamento di manutenzione dell’11 settembre 2023**
++++**Aggiornamento di manutenzione del martedì 11 settembre 2023**
 
 **Le attività personali non vengono visualizzate nelle schede orario**
 
@@ -482,7 +482,7 @@ Le attività personali non vengono più visualizzate nella scheda orario per imp
 
 +++
 
-+++**Aggiornamento di manutenzione del 7 settembre 2023**
++++**Aggiornamento di manutenzione del venerdì 7 settembre 2023**
 
 **Il progetto è vuoto quando viene caricato da nuova esperienza [!UICONTROL Home]**
 
@@ -496,7 +496,7 @@ Ciò si verifica quando l’utente ha effettuato l’accesso come altro utente, 
 
 ## Aggiornamenti di agosto 2023
 
-+++**Aggiornamento di manutenzione del 31 agosto 2023**
++++**Aggiornamento di manutenzione del venerdì 31 agosto 2023**
 
 **i filtri non si applicano ai widget nella nuova esperienza [!UICONTROL Home]**
 
@@ -504,7 +504,7 @@ _[!UICONTROL Home]_
 
 Quando un utente applica un filtro a un widget nella nuova esperienza [!UICONTROL Home], il widget mostra gli elementi che devono essere esclusi dal filtro.
 
-Questo problema è stato segnalato nell’ambiente Sandbox personalizzata. Gli stessi widget negli ambienti di Anteprima e Produzione filtrano gli elementi nel modo previsto.
+Questo problema è stato segnalato nell’ambiente Sandbox personalizzata. Gli stessi widget negli ambienti di anteprima e di produzione filtrano gli elementi nel modo previsto.
 
 **Problemi durante il caricamento dei rapporti matrice**
 
@@ -589,7 +589,7 @@ _[!DNL Workfront Fusion]_
 
 +++
 
-+++**Aggiornamento di manutenzione del 3 agosto 2023**
++++**Aggiornamento di manutenzione del venerdì 3 agosto 2023**
 
 **Difficoltà a individuare gli elementi nella colonna acquisizione**
 
@@ -629,7 +629,7 @@ Questo problema è stato segnalato per gli utenti dell’area EMEA.
 
 ## Aggiornamenti di luglio 2023
 
-+++**Aggiornamento di manutenzione del 27 luglio 2023**
++++**Aggiornamento di manutenzione del venerdì 27 luglio 2023**
 
 **I tag e gli elementi di un elenco di controllo non funzionano correttamente nella vista bacheca del progetto**
 
@@ -645,13 +645,13 @@ Se un utente condivide un filtro e abilita la funzione &quot;[!UICONTROL Visuali
 
 +++
 
-+++**Aggiornamento di manutenzione del 20 luglio 2023**
++++**Aggiornamento di manutenzione del venerdì 20 luglio 2023**
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento include solo correzioni di bug minori o meno importanti. [!DNL Workfront] L’assistenza ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**Aggiornamento di manutenzione del 13 luglio 2023**
++++**Aggiornamento di manutenzione del venerdì 13 luglio 2023**
 
 **La timeline non viene ricalcolata**
 
@@ -683,13 +683,13 @@ Quando un utente cerca di modificare un altro utente, la pagina Modifica utente 
 
 ## Aggiornamenti di giugno 2023
 
-+++**Aggiornamento di manutenzione del 29 giugno 2023**
++++**Aggiornamento di manutenzione del venerdì 29 giugno 2023**
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento include solo correzioni di bug minori o meno importanti. [!DNL Workfront] L’assistenza ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**Aggiornamento di manutenzione del 22 giugno 2023**
++++**Aggiornamento di manutenzione del venerdì 22 giugno 2023**
 
 **Errore “[!UICONTROL Ops]” durante la visualizzazione di un rapporto matrice**
 
@@ -709,15 +709,15 @@ Quando un grafico o un rapporto matrice viene raggruppato per data, le date vici
 
 +++
 
-+++**Aggiornamento di manutenzione del 15 giugno 2023**
++++**Aggiornamento di manutenzione del venerdì 15 giugno 2023**
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento include solo correzioni di bug minori o meno importanti. [!DNL Workfront] L’assistenza ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**Aggiornamento di manutenzione dell’8 giugno 2023**
++++**Aggiornamento di manutenzione del venerdì 8 giugno 2023**
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento include solo correzioni di bug minori o meno importanti. [!DNL Workfront] L’assistenza ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
@@ -729,7 +729,7 @@ Gli amministratori del team di [!DNL Fusion] sono ancora in grado di rimuovere l
 
 +++
 
-+++**Aggiornamento di manutenzione del 1° giugno 2023**
++++**Aggiornamento di manutenzione del venerdì 1 giugno 2023**
 
 **Nessun messaggio di errore quando si cambia l’ordine di un’attività nello stato [!UICONTROL Approvazione in sospeso]**
 
@@ -747,7 +747,7 @@ Quando un utente tenta di riordinare, in un elenco di attività, un’attività 
 
 ## Aggiornamenti di maggio 2023
 
-+++**Aggiornamento di manutenzione del 25 maggio 2023**
++++**Aggiornamento di manutenzione dell’venerdì 25 maggio 2023**
 
 La bacheca **[!UICONTROL Kanban] rimane vuota durante la modifica delle schede**
 
@@ -763,7 +763,7 @@ Questo problema è stato segnalato nelle seguenti situazioni:
 
 +++
 
-+++**Aggiornamento di manutenzione del 22 maggio 2023**
++++**Aggiornamento di manutenzione dell’martedì 22 maggio 2023**
 
 **Impossibile regolare la dimensione di un testo descrittivo**
 
@@ -773,12 +773,12 @@ Quando il Designer dei moduli personalizzati è stato rilasciato in versione bet
 
 +++
 
-+++**Aggiornamento di manutenzione del 18 maggio 2023**
++++**Aggiornamento di manutenzione dell’venerdì 18 maggio 2023**
 
 **Se si ordina per un campo personalizzato, il rapporto non viene ordinato correttamente**
 
 _Rapporti_
-Quando un utente esegue un rapporto di attività, il rapporto sembra venire ordinato in modo corretto durante il caricamento, ma al termine dell’operazione l’utente visualizza che il rapporto non è ordinato correttamente.
+Quando un utente esegue un report attività, il report sembra essere ordinato correttamente durante il caricamento, ma al termine del caricamento l’utente vede che il report non è ordinato correttamente.
 
 Questo sembra accadere se sono soddisfatte tutte le seguenti circostanze:
 
@@ -788,7 +788,7 @@ Questo sembra accadere se sono soddisfatte tutte le seguenti circostanze:
 
 +++
 
-+++**Aggiornamento di manutenzione dell’11 maggio 2023**
++++**Aggiornamento di manutenzione dell’venerdì 11 maggio 2023**
 
 **Impossibile passare da una versione della bozza all’altra durante la visualizzazione della bozza**
 
@@ -824,7 +824,7 @@ Questo problema influisce anche sulla funzionalità del modulo [!DNL Workfront F
 
 +++
 
-+++**Aggiornamento di manutenzione del 9 maggio 2023**
++++**Aggiornamento di manutenzione dell’mercoledì 9 maggio 2023**
 
 **Filtri salvati disponibili nella colonna di acquisizione della bacheca**
 
@@ -834,7 +834,7 @@ Ora si può utilizzare l’attività Workfront esistente e distribuire filtri du
 
 +++
 
-+++**Aggiornamento di manutenzione del 4 maggio 2023**
++++**Aggiornamento di manutenzione dell’venerdì 4 maggio 2023**
 
 **Impossibile selezionare il modello da [!UICONTROL Modelli preferiti]**
 
@@ -846,7 +846,7 @@ Quando un utente tenta di selezionare un modello dal menu Azioni (tre punti), l�
 
 ## Aggiornamenti di aprile 2023
 
-+++**Aggiornamento di manutenzione del 27 aprile 2023**
++++**Aggiornamento di manutenzione del venerdì 27 aprile 2023**
 
 **Impossibile passare da una bozza all’altra nel [!UICONTROL Proofing Viewer]**
 
@@ -872,7 +872,7 @@ Quando un utente visualizza una bozza nel [!UICONTROL Proofing Viewer] e passa a
 
 +++
 
-+++**Aggiornamento di manutenzione del 20 aprile 2023**
++++**Aggiornamento di manutenzione del venerdì 20 aprile 2023**
 
 **Problemi nei campi a discesa personalizzati**
 
@@ -923,7 +923,7 @@ Il livello di accesso di un utente può essere modificato in modo imprevedibile 
 
 +++
 
-+++**Aggiornamento di manutenzione del 17 aprile 2023**
++++**Aggiornamento di manutenzione del martedì 17 aprile 2023**
 
 **Mostra nuovi commenti al di fuori dell’area visibile della schermata nella sezione [!UICONTROL Aggiornamenti] dei problemi (nuova esperienza beta dei commenti) e degli [!UICONTROL obiettivi]**
 
@@ -933,7 +933,7 @@ _Aggiornamenti_
 
 +++
 
-+++**Aggiornamento di manutenzione del 13 aprile 2023**
++++**Aggiornamento di manutenzione del venerdì 13 aprile 2023**
 
 **I filtri non vengono applicati all’elenco delle richieste**
 
@@ -949,7 +949,7 @@ Quando un amministratore sta modificando un utente e tenta di selezionare un [!U
 
 +++
 
-+++**Aggiornamento di manutenzione del 6 aprile 2023**
++++**Aggiornamento di manutenzione del venerdì 6 aprile 2023**
 
 **I menu a discesa non si aprono quando un utente viene aggiunto a una bozza**
 
@@ -961,7 +961,7 @@ Quando un utente aggiunge un altro utente a una bozza nel [!UICONTROL Proofing V
 
 ## Aggiornamenti di marzo 2023
 
-+++**Aggiornamento di manutenzione del 30 marzo 2023**
++++**Aggiornamento di manutenzione del venerdì 30 marzo 2023**
 
 **Impossibile passare da una versione della bozza all’altra durante la visualizzazione della bozza**
 
@@ -983,7 +983,7 @@ Quando un amministratore effettua l’accesso come utente e crea un commento, il
 
 +++
 
-+++**Aggiornamento di manutenzione del 23 marzo 2023**
++++**Aggiornamento di manutenzione del venerdì 23 marzo 2023**
 
 I contenuti del pannello **[!UICONTROL Riepilogo] sono troppo ampi per il pannello**
 
@@ -1006,7 +1006,7 @@ Gli utenti possono anche scaricare manualmente la versione più recente. Per ult
 
 +++
 
-+++**Aggiornamento di manutenzione del 16 marzo 2023**
++++**Aggiornamento di manutenzione del venerdì 16 marzo 2023**
 
 **Gli elementi di un elenco di controllo non vengono copiati quando si copia una scheda**
 
@@ -1028,7 +1028,7 @@ Quando un utente condivide una bozza e aggiunge un messaggio personalizzato, que
 
 +++
 
-+++**Aggiornamento di manutenzione del 9 marzo 2023**
++++**Aggiornamento di manutenzione del venerdì 9 marzo 2023**
 
 **Il livello di accesso non viene assegnato quando si riattiva l’utente**
 
@@ -1044,7 +1044,7 @@ Ora, se esci dalla pagina [!UICONTROL Aggiornamenti] di un obiettivo mentre stai
 
 +++
 
-+++**Aggiornamento di manutenzione del 2 marzo 2023**
++++**Aggiornamento di manutenzione del venerdì 2 marzo 2023**
 
 **Impossibile aggiungere schede quando viene applicato il raggruppamento**
 
@@ -1079,7 +1079,7 @@ Quando un utente cerca di caricare la pagina Stampa riepilogo, questa risulta se
 
 ## Aggiornamenti di febbraio 2023
 
-+++**Aggiornamento di manutenzione del 23 febbraio 2023**
++++**Aggiornamento di manutenzione del venerdì 23 febbraio 2023**
 
 **Il collegamento a un commento reindirizzerà alla pagina [!UICONTROL Dettagli]**
 
@@ -1097,7 +1097,7 @@ Quando un utente con licenza [!UICONTROL Lavoratore] tenta di modificare le prop
 
 +++
 
-+++**Aggiornamento di manutenzione del 16 febbraio 2023**
++++**Aggiornamento di manutenzione del venerdì 16 febbraio 2023**
 
 **Più assegnazioni di team sulle bacheche**
 
@@ -1119,7 +1119,7 @@ Quando è pianificata la disattivazione di un utente e vengono superate la data 
 
 +++
 
-+++**Aggiornamento di manutenzione del 9 febbraio 2023**
++++**Aggiornamento di manutenzione del venerdì 9 febbraio 2023**
 
 Campo **[!UICONTROL Punti storia] aggiunto a rapporti ed elenchi di attività e problemi**
 
@@ -1129,7 +1129,7 @@ Il campo [!UICONTROL Punti storia] è ora disponibile per essere aggiunto a rapp
 
 +++
 
-+++**Aggiornamento di manutenzione dell’8 febbraio 2023**
++++**Aggiornamento di manutenzione del giovedì 8 febbraio 2023**
 
 **Pulsante Filtro nella colonna di acquisizione**
 
@@ -1139,13 +1139,13 @@ La colonna di acquisizione su una bacheca ora include un pulsante **[!UICONTROL 
 
 +++
 
-+++**Aggiornamento di manutenzione del 2 febbraio 2023**
++++**Aggiornamento di manutenzione del venerdì 2 febbraio 2023**
 
 L’icona **[!UICONTROL Bacheche] viene visualizzata nel [!UICONTROL Menu principale] per impostazione predefinita**
 
 _Bacheche_
 
-L’icona [!UICONTROL Bacheche] ora appare nel [!UICONTROL Menu principale] per gli utenti che non dispongono di un modello layout. Per impostazione predefinita, le bacheche sono incluse anche nel menu principale per tutti i nuovi modelli di layout creati. I modelli di layout esistenti non sono stati modificati.
+L’icona [!UICONTROL Bacheche] ora appare nel [!UICONTROL Menu principale] per gli utenti che non dispongono di un modello layout. Per impostazione predefinita, le bacheche sono incluse anche nel menu principale per tutti i nuovi modelli layout creati. I modelli layout esistenti non sono stati modificati.
 
 **Impossibile salvare i modelli e-mail**
 
@@ -1157,7 +1157,7 @@ Quando un utente tenta di creare o modificare un modello e-mail, il pulsante [!U
 
 ## Aggiornamenti di gennaio 2023
 
-+++**Aggiornamento di manutenzione del 30 gennaio 2023**
++++**Aggiornamento di manutenzione del martedì 30 gennaio 2023**
 
 **Sono state aggiunte scelte rapide da tastiera per le azioni comuni della scheda orario**
 
@@ -1192,7 +1192,7 @@ La funzionalità di queste impostazioni non è stata modificata e sono state agg
 
 +++
 
-+++**Aggiornamento di manutenzione del 26 gennaio 2023**
++++**Aggiornamento di manutenzione del venerdì 26 gennaio 2023**
 
 **Errore durante l’invio della richiesta da [!DNL Outlook]**
 
@@ -1223,7 +1223,7 @@ Quando un utente con una licenza Lavoro, Revisione oppure Richiesta tenta di mod
 
 +++
 
-+++**Aggiornamento di manutenzione del 19 gennaio 2023**
++++**Aggiornamento di manutenzione del venerdì 19 gennaio 2023**
 
 **È ora possibile condividere i filtri della colonna di acquisizione**
 
@@ -1235,7 +1235,7 @@ Quando la funzione della colonna di acquisizione è stata rilasciata in Bacheche
 
 _Navigazione_
 
-Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin nell’ambiente Produzione:
+Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin nell’ambiente di produzione:
 
 * Ridenominazione dei pin
 * Riordinamento dei pin all’interno del menu [!UICONTROL Altro]
@@ -1243,7 +1243,7 @@ Le seguenti funzioni sono ora disponibili nel menu [!UICONTROL Altro] per i pin 
 
 +++
 
-+++**Aggiornamento di manutenzione del 18 gennaio 2023**
++++**Aggiornamento di manutenzione del giovedì 18 gennaio 2023**
 
 **Espressioni con caratteri jolly non sono valide nei campi personalizzati**
 
@@ -1293,7 +1293,7 @@ Quando un utente tenta di modificare il livello di accesso di un altro utente, i
 
 +++
 
-+++**Aggiornamento di manutenzione del 12 gennaio 2023**
++++**Aggiornamento di manutenzione del venerdì 12 gennaio 2023**
 
 **Ctrl+F o Comando+F non funziona come previsto nei campi a discesa**
 
@@ -1315,7 +1315,7 @@ Quando un utente visualizza un elenco di attività e fa rientrare un’attività
 
 +++
 
-+++**Aggiornamento di manutenzione del 5 gennaio 2023**
++++**Aggiornamento di manutenzione del venerdì 5 gennaio 2023**
 
 **Funzionalità pin disponibile nel menu [!UICONTROL Altro]**
 
