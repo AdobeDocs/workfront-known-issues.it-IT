@@ -1,12 +1,12 @@
 ---
 title: Aggiornamenti di manutenzione di Workfront nel 2024
-description: Aggiornamenti di manutenzione per  [!DNL Adobe Workfront]
+description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 feature: Get Started with Workfront
 exl-id: 8a8ade95-d940-4773-8032-724bc2d8301e
 source-git-commit: abb417f3b19f2c8a5ef27a2318f4fde55fadc99d
-workflow-type: ht
-source-wordcount: '7353'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '7587'
+ht-degree: 99%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Per informazioni sulle interruzioni di manutenzione per tutti i prodotti Adobe, incluso Workfront, consulta la [pagina di stato Adobe](https://status.adobe.com/it).
+>Per informazioni sulle interruzioni di manutenzione per tutti i prodotti Adobe, incluso Workfront, consulta la [pagina di stato Adobe](https://status.adobe.com/it/).
 
 Questa pagina descrive i problemi risolti negli aggiornamenti settimanali di Workfront.
 
-Tra gli aggiornamenti sono incluse anche altre correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questi aggiornamenti includono anche altre correzioni di bug minori o meno importanti. [!DNL Workfront] L’assistenza ti avvisa quando viene risolto un problema che hai segnalato.
 
 Per gli aggiornamenti di manutenzione precedenti al 2024, consulta [Aggiornamenti di manutenzione precedenti](#previous-maintenance-updates)
 
@@ -44,7 +44,7 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 Durante l’ordinamento di un report posizionato in una dashboard con una colonna, la colonna scompare e il contenuto non viene ordinato.
 
-#### Report
+#### Rapporti
 
 **L’opzione Raggruppa colonna sotto il grafico causa un errore**
 
@@ -64,7 +64,7 @@ Per correggere questo problema, i progetti in questo tipo di report non vengono 
 
 +++**Aggiornamento di manutenzione del venerdì 5 dicembre 2024**
 
-### Aggiornamento di manutenzione del 5 dicembre 2024
+### Aggiornamento di manutenzione del venerdì 5 dicembre 2024
 
 #### Moduli personalizzati
 
@@ -82,7 +82,7 @@ Quando un utente immette informazioni in un modulo personalizzato con logica di 
 
 Gli utenti collaboratori hanno accesso a un pulsante “Lavoraci” non funzionale nel widget Il mio lavoro nella Home.
 
-#### Report
+#### Rapporti
 
 **I trimestri personalizzati non vengono visualizzati nei prompt dei report**
 
@@ -102,7 +102,7 @@ Quando un utente esegue un rapporto con un prompt basato sulla data, i trimestri
 
 Quando tenta di condividere un progetto, l’utente riceve un avviso di errore: “livello di accesso insufficiente per eliminare questo progetto”. Ciò si verifica nonostante l’utente non stia tentando di eliminare il progetto, sia proprietario del progetto e disponga dell’accesso a Condivisione e gestione del progetto.
 
-#### Report
+#### Rapporti
 
 **Il campo Nome categoria non è collegato al modulo personalizzato**
 
@@ -148,7 +148,7 @@ Quando si tenta di fare clic o di passare il puntatore del mouse su una barra in
 
 Quando si passa a un progetto, a volte la pagina non riesce a caricare alcun contenuto.
 
-#### Report
+#### Rapporti
 
 **La modifica in blocco negli elenchi dei grafici non risponde**
 
@@ -184,7 +184,7 @@ Quando vengono importati nuovi utenti in Workfront, la casella di controllo “I
 
 +++**Aggiornamento di manutenzione del venerdì 7 novembre 2024**
 
-### Aggiornamento di manutenzione del 7 novembre 2024
+### Aggiornamento di manutenzione del venerdì 7 novembre 2024
 
 Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
 
@@ -192,17 +192,17 @@ Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L
 
 ## Aggiornamenti di ottobre 2024
 
-+++**Aggiornamento di manutenzione del 31 ottobre 2024**
++++**Aggiornamento di manutenzione del venerdì 31 ottobre 2024**
 
-### Aggiornamento di manutenzione del 31 ottobre 2024
+### Aggiornamento di manutenzione del venerdì 31 ottobre 2024
 
 Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. L’assistenza Workfront ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**Aggiornamento di manutenzione del 24 ottobre 2024**
++++**Aggiornamento di manutenzione del venerdì 24 ottobre 2024**
 
-### Aggiornamento di manutenzione del 24 ottobre 2024
+### Aggiornamento di manutenzione del venerdì 24 ottobre 2024
 
 #### Assegnazioni
 
@@ -230,9 +230,9 @@ Quando un utente visualizza il Grafico di Gantt e cambia vista, il Grafico di Ga
 
 +++
 
-+++**Aggiornamento di manutenzione del 17 ottobre 2024**
++++**Aggiornamento di manutenzione del venerdì 17 ottobre 2024**
 
-### Aggiornamento di manutenzione del 17 ottobre 2024
+### Aggiornamento di manutenzione del venerdì 17 ottobre 2024
 
 #### Bozze
 
@@ -250,15 +250,15 @@ In precedenza, gli utenti potevano registrare l’ora in schede orario inviate o
 
 +++
 
-+++**Aggiornamento di manutenzione del 10 ottobre 2024**
++++**Aggiornamento di manutenzione del venerdì 10 ottobre 2024**
 
-### Aggiornamento di manutenzione del 10 ottobre 2024
+### Aggiornamento di manutenzione del venerdì 10 ottobre 2024
 
 #### Bacheche
 
 **Errore durante lo spostamento di schede o l’assegnazione di utenti**
 
-A volte, durante lo spostamento delle schede o l’assegnazione degli utenti, l’azione non viene eseguita e genera l’errore “Risposta non riuscita: ricevuto il codice di stato 502” dopo un ritardo.
+A volte, durante lo spostamento delle schede o l’assegnazione degli utenti, l’azione non viene eseguita e dopo un ritardo viene generato l’errore “Risposta non riuscita: ricevuto il codice di stato 502”.
 
 **Errore durante il caricamento di una bacheca**
 
@@ -274,9 +274,9 @@ Quando un utente cerca di caricare una bacheca, questa non viene caricata e l’
 
 Quando si tenta di utilizzare il pulsante “Contrassegna come completato” nel riquadro di riepilogo di un problema aperto tramite il widget I miei problemi, il riquadro di riepilogo si chiude in modo imprevisto.
 
-**Impossibile aggiungere una colonna nelle impostazioni del widget Modello di layout**
+**Impossibile aggiungere una colonna nelle impostazioni del widget Modello layout**
 
-Quando si seleziona un campo da aggiungere a un widget tramite le impostazioni del widget Modello di layout, è possibile selezionare un campo ma la colonna corrispondente non viene visualizzata nel widget.
+Quando si seleziona un campo da aggiungere a un widget tramite le impostazioni del widget Modello layout, è possibile selezionare un campo ma la colonna corrispondente non viene visualizzata nel widget.
 
 #### Attività
 
@@ -293,15 +293,15 @@ Dopo aver aggiunto una spesa a un’attività, la spesa non viene visualizzata n
 
 +++
 
-+++**Aggiornamento di manutenzione del 3 ottobre 2024**
++++**Aggiornamento di manutenzione del venerdì 3 ottobre 2024**
 
-### Aggiornamento di manutenzione del 3 ottobre 2024
+### Aggiornamento di manutenzione del venerdì 3 ottobre 2024
 
 #### Bacheche
 
 **Schede connesse archiviate non sincronizzate**
 
-Per risolvere i problemi di prestazioni, le schede connesse archiviate non vengono più sincronizzate. Le modifiche apportate all’attività o al problema di Workfront non vengono riportate sulle schede archiviate. Se una scheda viene ripristinata, questa verrà nuovamente sincronizzata.
+Per risolvere problemi di prestazioni, le schede connesse archiviate non vengono più sincronizzate. Le modifiche apportate all’attività o al problema di Workfront non vengono riportate nelle schede archiviate. Se una scheda viene ripristinata, questa verrà nuovamente sincronizzata.
 
 #### Moduli personalizzati
 
@@ -334,9 +334,9 @@ Quando si utilizza l’SSO per accedere alla bozza, gli utenti non possono impos
 
 ## Aggiornamenti di settembre 2024
 
-+++**Aggiornamento di manutenzione del 26 settembre 2024**
++++**Aggiornamento di manutenzione del venerdì 26 settembre 2024**
 
-### Aggiornamento di manutenzione del 26 settembre 2024
+### Aggiornamento di manutenzione del venerdì 26 settembre 2024
 
 #### Agile
 
@@ -350,7 +350,7 @@ Quando si assegna un’attività o un problema a un team agile Scrum, l’opzion
 
 Nell’Editor di calcolo per i campi calcolati nei moduli personalizzati, l’elenco dei campi per un oggetto ora è limitato a 200 elementi per migliorare le prestazioni del sistema. Se conosci il nome del campo, puoi cercarlo utilizzando l’opzione Automatico invece di scorrere l’elenco.
 
-#### Report
+#### Rapporti
 
 **Consegne dei rapporti ritardate o mancanti**
 
@@ -358,9 +358,9 @@ I rapporti con consegne pianificate non vengono consegnati come previsto. Posson
 
 +++
 
-+++**Aggiornamento di manutenzione del 19 settembre 2024**
++++**Aggiornamento di manutenzione del venerdì 19 settembre 2024**
 
-### Aggiornamento di manutenzione del 19 settembre 2024
+### Aggiornamento di manutenzione del venerdì 19 settembre 2024
 
 #### Dashboard
 
@@ -370,9 +370,9 @@ Quando si fa clic sul pulsante Esporta per un report in un dashboard, la finestr
 
 +++
 
-+++**Aggiornamento di manutenzione del 12 settembre 2024**
++++**Aggiornamento di manutenzione del venerdì 12 settembre 2024**
 
-### Aggiornamento di manutenzione del 12 settembre 2024
+### Aggiornamento di manutenzione del venerdì 12 settembre 2024
 
 #### Integrazioni
 
@@ -384,9 +384,9 @@ La richiesta viene creata e contiene una cartella per gli allegati e-mail, ma la
 
 +++
 
-+++**Aggiornamento di manutenzione del 5 settembre 2024**
++++**Aggiornamento di manutenzione del venerdì 5 settembre 2024**
 
-### Aggiornamento di manutenzione del 5 settembre 2024
+### Aggiornamento di manutenzione del venerdì 5 settembre 2024
 
 #### Gruppi
 
@@ -408,9 +408,9 @@ Quando un utente tenta di riattivare un utente utilizzando l’opzione “Riatti
 
 ## Aggiornamenti di agosto 2024
 
-+++**Aggiornamento di manutenzione del 29 agosto 2024**
++++**Aggiornamento di manutenzione del venerdì 29 agosto 2024**
 
-### Aggiornamento di manutenzione dell’29 agosto 2024
+### Aggiornamento di manutenzione del venerdì 29 agosto 2024
 
 #### Moduli personalizzati
 
@@ -432,19 +432,19 @@ Quando un utente visualizza il widget Approvazioni in sospeso su Home, i documen
 
 #### Utenti
 
-**Il campo Impostazioni internazionali e-mail del profilo utente è stato disabilitato**
+**Il campo Lingua per e-mail del profilo utente è stato disabilitato**
 
-Per le organizzazioni su IMS, le preferenze di lingua sono memorizzate nel profilo Adobe Experience Cloud di ciascun utente. Il campo Impostazioni internazionali e-mail nel profilo utente di Workfront è stato disabilitato (solo per le organizzazioni IMS) e una descrizione su tale campo fornisce istruzioni su come accedere alle impostazioni della lingua nel profilo di Adobe.
+Per le organizzazioni su IMS, le preferenze di lingua sono memorizzate nel profilo Adobe Experience Cloud di ciascun utente. Il campo Lingua per e-mail nel profilo utente di Workfront è stato disabilitato (solo per le organizzazioni IMS) e una descrizione su tale campo fornisce istruzioni su come accedere alle impostazioni della lingua nel profilo Adobe.
 
-Questo risolvere il problema che si verifica quando un amministratore tenta di modificare le impostazioni internazionali dell’e-mail di un utente, viene ripristinata la lingua inglese.
+Questo risolvere il problema che si verifica quando un amministratore tenta di modificare l’impostazione Lingua per e-mail di un utente ma viene ripristinata la lingua inglese.
 
 +++
 
-+++**Aggiornamento di manutenzione del 22 agosto 2024**
++++**Aggiornamento di manutenzione del venerdì 22 agosto 2024**
 
-### Aggiornamento di manutenzione dell’22 agosto 2024
+### Aggiornamento di manutenzione del venerdì 22 agosto 2024
 
-#### Report
+#### Rapporti
 
 **Impossibile fare clic su un rapporto dall’area Campi personalizzati della configurazione**
 
@@ -452,15 +452,15 @@ Quando un utente visualizza l’area Moduli personalizzati > Campi della configu
 
 +++
 
-+++**Aggiornamento di manutenzione del 15 agosto 2024**
++++**Aggiornamento di manutenzione del venerdì 15 agosto 2024**
 
-### Aggiornamento di manutenzione dell’15 agosto 2024
+### Aggiornamento di manutenzione del venerdì 15 agosto 2024
 
 #### Bacheche
 
-**Problemi relativi alle schede duplicate**
+**Problemi relativi a schede duplicate**
 
-Sono stati segnalati i seguenti problemi relativi alle schede duplicate in Bacheche:
+Sono stati segnalati i seguenti problemi relativi a schede duplicate in Bacheche:
 
 * Una scheda viene visualizzata due volte. Per risolvere questo problema, aggiorna la pagina.
 * Se un utente elimina una delle schede duplicate, vengono eliminate tutte le relative istanze.
@@ -493,9 +493,9 @@ I markup della bozza non sono allineati sulle stampe PDF ricevute tramite e-mail
 
 +++
 
-+++**Aggiornamento di manutenzione del 8 agosto 2024**
++++**Aggiornamento di manutenzione del venerdì 8 agosto 2024**
 
-### Aggiornamento di manutenzione dell’8 agosto 2024
+### Aggiornamento di manutenzione del venerdì 8 agosto 2024
 
 #### Bacheche
 
@@ -503,7 +503,7 @@ I markup della bozza non sono allineati sulle stampe PDF ricevute tramite e-mail
 
 Quando un utente visualizza una scheda per un’attività che è un’attività principale, le attività secondarie di tale attività principale non vengono visualizzate sulla scheda. Invece, la scheda mostra che ci sono 0 attività secondarie.
 
-### Report
+### Rapporti
 
 **Consegne dei rapporti ritardate o mancanti**
 
@@ -517,9 +517,9 @@ Quando un amministratore effettua l’accesso come un altro utente, invece di vi
 
 +++
 
-+++**Aggiornamento di manutenzione del 1 agosto 2024**
++++**Aggiornamento di manutenzione del venerdì 1 agosto 2024**
 
-### Aggiornamento di manutenzione del 1° agosto 2024
+### Aggiornamento di manutenzione del venerdì 1 agosto 2024
 
 #### Documenti
 
@@ -544,9 +544,9 @@ Questi problemi sono dovuti a problemi con Dropbox, non con Workfront.
 
 ## Aggiornamenti di luglio 2024
 
-+++**Aggiornamento di manutenzione del 25 luglio 2024**
++++**Aggiornamento di manutenzione del venerdì 25 luglio 2024**
 
-### Aggiornamento di manutenzione del 25 luglio 2024
+### Aggiornamento di manutenzione del venerdì 25 luglio 2024
 
 #### Moduli personalizzati
 
@@ -566,9 +566,9 @@ Questo problema è stato segnalato in Gmail.
 
 +++
 
-+++**Aggiornamento di manutenzione del 18 luglio 2024**
++++**Aggiornamento di manutenzione del venerdì 18 luglio 2024**
 
-### Aggiornamento di manutenzione del 18 luglio 2024
+### Aggiornamento di manutenzione del venerdì 18 luglio 2024
 
 #### Agile
 
@@ -596,7 +596,7 @@ Quando un utente visualizza una bozza e la chiude, viene indirizzato alla pagina
 
 **La terminologia personalizzata non viene applicata**
 
-La terminologia personalizzata impostata nel modello di layout non viene visualizzata in alcune aree di Workfront. Viene invece visualizzata la terminologia non personalizzata predefinita.
+La terminologia personalizzata impostata nel modello layout non viene visualizzata in alcune aree di Workfront. Viene invece visualizzata la terminologia non personalizzata predefinita.
 
 Questo problema è stato segnalato nelle seguenti aree:
 
@@ -607,9 +607,9 @@ Questo problema è stato segnalato nelle seguenti aree:
 
 +++
 
-+++**Aggiornamento di manutenzione del 11 luglio 2024**
++++**Aggiornamento di manutenzione del venerdì 11 luglio 2024**
 
-### Aggiornamento di manutenzione dell’11 luglio 2024
+### Aggiornamento di manutenzione del venerdì 11 luglio 2024
 
 #### Problemi
 
@@ -619,7 +619,7 @@ Quando un utente cerca di effettuare un’assegnazione avanzata di un problema i
 
 “[!UICONTROL APIModel INTERNAL non supporta la durata del campo (OpTask)]”
 
-#### Report
+#### Rapporti
 
 **Errore Ops quando si configurano le impostazioni della matrice nel report delle ore**
 
@@ -630,9 +630,9 @@ Quando un utente tenta di configurare le impostazioni della matrice in un report
 
 +++
 
-+++**Aggiornamento di manutenzione del 4 luglio 2024**
++++**Aggiornamento di manutenzione del venerdì 4 luglio 2024**
 
-### Aggiornamento di manutenzione del 4 luglio 2024
+### Aggiornamento di manutenzione del venerdì 4 luglio 2024
 
 #### Pagina Home
 
@@ -640,7 +640,7 @@ Quando un utente tenta di configurare le impostazioni della matrice in un report
 
 Quando un utente fa clic sul menu a tre punti Altro nell’elenco lavori della Home precedente, non viene attivata alcuna azione.
 
-#### Report
+#### Rapporti
 
 **“Nessun dato da visualizzare” quando il nome del raggruppamento ha una barra dritta o rovesciata**
 
@@ -657,9 +657,9 @@ Quando una mansione viene assegnata a un’attività e tale attività assegnata 
 
 ## Aggiornamenti di giugno 2024
 
-+++**Aggiornamento di manutenzione il 27 giugno 2024**
++++**Aggiornamento di manutenzione del venerdì 27 giugno 2024**
 
-### Aggiornamento di manutenzione il 27 giugno 2024
+### Aggiornamento di manutenzione del venerdì 27 giugno 2024
 
 #### Bacheche
 
@@ -667,7 +667,7 @@ Quando una mansione viene assegnata a un’attività e tale attività assegnata 
 
 Per motivi di sicurezza, solo il proprietario di una bacheca può modificarne i filtri nel pannello Configura.
 
-#### Report
+#### Rapporti
 
 **Il rapporto non viene caricato quando la valuta predefinita è USD**
 
@@ -683,9 +683,9 @@ Copiare il collegamento utilizzando un metodo diverso da “[!UICONTROL Copia in
 
 +++
 
-+++**Aggiornamento di manutenzione il 20 giugno 2024**
++++**Aggiornamento di manutenzione del venerdì 20 giugno 2024**
 
-### Aggiornamento di manutenzione il 20 giugno 2024
+### Aggiornamento di manutenzione del venerdì 20 giugno 2024
 
 #### Navigazione
 
@@ -700,13 +700,13 @@ Quando un utente in Workfront fa clic sul pulsante Indietro del browser, può ve
 
 **Impossibile chiudere il visualizzatore bozza**
 
-Quando si visualizza una bozza nel visualizzatore di bozze e si tenta di chiuderla facendo clic sul pulsante X in alto a destra, la bozza non si chiude.
+Quando un utente visualizza una bozza nel visualizzatore di bozze e tenta di chiuderla facendo clic sul pulsante X in alto a destra, la bozza non viene chiusa.
 
 +++
 
-+++**Aggiornamento di manutenzione il 13 giugno 2024**
++++**Aggiornamento di manutenzione del venerdì 13 giugno 2024**
 
-### **Aggiornamento di manutenzione il 13 giugno 2024**
+### **Aggiornamento di manutenzione del venerdì 13 giugno 2024**
 
 #### Gruppi
 
@@ -716,9 +716,9 @@ Quando un utente tenta di aggiungere un sottogruppo esistente a un gruppo, il pu
 
 +++
 
-+++ **Aggiornamento di manutenzione il 6 giugno 2024**
++++ **Aggiornamento di manutenzione del venerdì 6 giugno 2024**
 
-### Aggiornamento di manutenzione il 6 giugno 2024
+### Aggiornamento di manutenzione del venerdì 6 giugno 2024
 
 #### Moduli personalizzati
 
@@ -730,9 +730,9 @@ Nei moduli personalizzati creati nel designer di moduli ora sono supportati più
 
 ## Aggiornamenti di maggio 2024
 
-+++ **Aggiornamento di manutenzione il 30 maggio 2024**
++++ **Aggiornamento di manutenzione dell’venerdì 30 maggio 2024**
 
-### Aggiornamento di manutenzione il 30 maggio 2024
+### Aggiornamento di manutenzione dell’venerdì 30 maggio 2024
 
 #### Moduli personalizzati
 
@@ -752,11 +752,11 @@ Quando un utente copia un commento che include una menzione in formato @ e lo in
 
 +++
 
-+++ **Aggiornamento di manutenzione il 23 maggio 2024**
++++ **Aggiornamento di manutenzione dell’venerdì 23 maggio 2024**
 
-### Aggiornamento di manutenzione il 23 maggio 2024
+### Aggiornamento di manutenzione dell’venerdì 23 maggio 2024
 
-#### Report
+#### Rapporti
 
 Quando un utente visualizza un rapporto e fa clic sul pulsante Indietro del browser, può verificarsi una delle seguenti situazioni:
 
@@ -770,7 +770,7 @@ Questo problema è stato segnalato con il browser Chrome.
 
 **L’utente taggato non può vedere chi ha messo il tag**
 
-Quando un utente viene taggato all’interno di un aggiornamento, non può vedere chi gli ha messo il tag. Ciò si verifica quando l’impostazione “Le persone in altre società dovranno solo visualizzare gli utenti da...” è impostata su “La loro società”.
+Quando un utente viene taggato all’interno di un aggiornamento, non può vedere chi gli ha messo il tag. Ciò si verifica quando l’impostazione &quot;Le persone in altre società devono visualizzare gli utenti solo da...&quot; è impostato su &quot;Their company&quot;.
 
 **L’assegnazione di tag a un utente con @ nel pannello Riepilogo non funziona**
 
@@ -778,9 +778,9 @@ Quando un utente tenta di assegnare un tag a un altro utente utilizzando @ nella
 
 +++
 
-+++**Aggiornamento di manutenzione il 16 maggio 2024**
++++**Aggiornamento di manutenzione dell’venerdì 16 maggio 2024**
 
-### Aggiornamento di manutenzione il 16 maggio 2024
+### Aggiornamento di manutenzione dell’venerdì 16 maggio 2024
 
 #### Configura
 
@@ -796,17 +796,17 @@ Quando un utente tenta di eliminare gli utenti, l’operazione non riesce. Quest
 
 +++
 
-+++**Aggiornamento di manutenzione il 9 maggio 2024**
++++**Aggiornamento di manutenzione dell’venerdì 9 maggio 2024**
 
-### Aggiornamento di manutenzione il 9 maggio 2024
+### Aggiornamento di manutenzione dell’venerdì 9 maggio 2024
 
-Questo aggiornamento contiene solo correzioni di bug minori o meno importanti. Il supporto di [!DNL Workfront] ti avvisa quando viene risolto un problema che hai segnalato.
+Questo aggiornamento include solo correzioni di bug minori o meno importanti. [!DNL Workfront] L’assistenza ti avvisa quando viene risolto un problema che hai segnalato.
 
 +++
 
-+++**Aggiornamento di manutenzione il 2 maggio 2024**
++++**Aggiornamento di manutenzione dell’venerdì 2 maggio 2024**
 
-### Aggiornamento di manutenzione il 2 maggio 2024
+### Aggiornamento di manutenzione dell’venerdì 2 maggio 2024
 
 #### Registrazione dell’ora
 
@@ -818,9 +818,9 @@ Quando un utente cerca di modificare le ore su un’attività o un problema, le 
 
 ## Aggiornamenti di aprile 2024
 
-+++**Aggiornamento di manutenzione il 25 aprile 2024**
++++**Aggiornamento di manutenzione del venerdì 25 aprile 2024**
 
-### Aggiornamento di manutenzione il 25 aprile 2024
+### Aggiornamento di manutenzione del venerdì 25 aprile 2024
 
 #### Aggiornamenti
 
@@ -838,9 +838,9 @@ Questo problema è stato segnalato nella nuova esperienza di commento.
 
 +++
 
-+++**Aggiornamento di manutenzione il 18 aprile 2024**
++++**Aggiornamento di manutenzione del venerdì 18 aprile 2024**
 
-### Aggiornamento di manutenzione il 18 aprile 2024
+### Aggiornamento di manutenzione del venerdì 18 aprile 2024
 
 #### Agile
 
@@ -872,35 +872,9 @@ Quando a un problema è allegata una bozza web (una bozza URL che utilizza un co
 
 +++
 
-+++**Aggiornamento di manutenzione il 11 aprile 2024**
++++**Aggiornamento di manutenzione del venerdì 11 aprile 2024**
 
-### Aggiornamento di manutenzione il 11 aprile 2024
-
-#### Ricerca
-
-**Impossibile modificare dalla ricerca**
-
-Quando un utente utilizza la Ricerca avanzata e tenta di modificare o modificare in blocco i risultati della ricerca, l’icona Modifica non risponde.
-
-#### Aggiornamenti
-
-**L’anteprima dell’immagine negli aggiornamenti è sfocata**
-
-Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre è estremamente sfocata e pixelata.
-
-Se l’utente scarica l’immagine, questa viene visualizzata alla risoluzione prevista.
-
-**Messaggio “[!UICONTROL Impossibile pubblicare il commento]” quando si risponde**
-
-Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
-
-“[!UICONTROL Impossibile pubblicare il commento in questo momento. Riprova tra qualche istante.]”
-
-+++
-
-+++**Aggiornamento di manutenzione il 4 aprile 2024**
-
-### Aggiornamento di manutenzione il 4 aprile 2024
+### Aggiornamento di manutenzione del venerdì 11 aprile 2024
 
 #### Ricerca
 
@@ -924,9 +898,35 @@ Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di co
 
 +++
 
-+++**Aggiornamento di manutenzione il 4 aprile 2024**
++++**Aggiornamento di manutenzione del venerdì 4 aprile 2024**
 
-### Aggiornamento di manutenzione il 4 aprile 2024
+### Aggiornamento di manutenzione del venerdì 4 aprile 2024
+
+#### Ricerca
+
+**Impossibile modificare dalla ricerca**
+
+Quando un utente utilizza la Ricerca avanzata e tenta di modificare o modificare in blocco i risultati della ricerca, l’icona Modifica non risponde.
+
+#### Aggiornamenti
+
+**L’anteprima dell’immagine negli aggiornamenti è sfocata**
+
+Quando un utente visualizza gli aggiornamenti e fa clic con la lente di ingrandimento su un’immagine per visualizzarla in anteprima, l’anteprima che si apre è estremamente sfocata e pixelata.
+
+Se l’utente scarica l’immagine, questa viene visualizzata alla risoluzione prevista.
+
+**Messaggio “[!UICONTROL Impossibile pubblicare il commento]” quando si risponde**
+
+Quando un utente tanta di rispondere a un messaggio nella nuova esperienza di commento, la risposta non viene salvata e l’utente visualizza il seguente messaggio:
+
+“[!UICONTROL Impossibile pubblicare il commento in questo momento. Riprova tra qualche istante.]”
+
++++
+
++++**Aggiornamento di manutenzione del venerdì 4 aprile 2024**
+
+### Aggiornamento di manutenzione del venerdì 4 aprile 2024
 
 #### Integrazioni
 
@@ -961,9 +961,9 @@ L’esperienza di commento precedente funziona come previsto.
 
 ## Aggiornamenti di marzo 2024
 
-+++**Aggiornamento di manutenzione il 28 marzo 2024**
++++**Aggiornamento di manutenzione del venerdì 28 marzo 2024**
 
-### Aggiornamento di manutenzione il 28 marzo 2024
+### Aggiornamento di manutenzione del venerdì 28 marzo 2024
 
 #### Integrazioni
 
@@ -989,7 +989,7 @@ Una bozza che dovrebbe scomparire dal widget Le mie approvazioni rimane sul widg
 Le ore preventivate visualizzate in una delle seguenti aree potrebbero non corrispondere a quelle visualizzate in un’altra area tra queste:
 
 * Caso di business
-* Report
+* Rapporti
 * Strumento Budget di risorse
 
 #### Attività
@@ -1026,9 +1026,9 @@ Ciò può verificarsi se la risposta è estremamente lunga. I dati vengono resti
 
 +++
 
-+++**Aggiornamento di manutenzione il 21 marzo 2024**
++++**Aggiornamento di manutenzione del venerdì 21 marzo 2024**
 
-### Aggiornamento di manutenzione il 21 marzo 2024
+### Aggiornamento di manutenzione del venerdì 21 marzo 2024
 
 #### Aggiornamenti
 
@@ -1046,9 +1046,9 @@ Questa correzione si applica solo alla nuova esperienza di commento.
 
 +++
 
-+++**Aggiornamento di manutenzione il 14 marzo 2024**
++++**Aggiornamento di manutenzione del venerdì 14 marzo 2024**
 
-### Aggiornamento di manutenzione il 14 marzo 2024
+### Aggiornamento di manutenzione del venerdì 14 marzo 2024
 
 #### Bozze
 
@@ -1066,9 +1066,9 @@ Quando un utente crea un altro utente, al nuovo utente è disponibile solo il li
 
 +++
 
-+++**Aggiornamento di manutenzione il 7 marzo 2024**
++++**Aggiornamento di manutenzione del venerdì 7 marzo 2024**
 
-### Aggiornamento di manutenzione il 7 marzo 2024
+### Aggiornamento di manutenzione del venerdì 7 marzo 2024
 
 #### Bacheche
 
@@ -1095,7 +1095,7 @@ Quando un utente cerca di modificare in linea un’attività nel widget Le mie a
 
 +++
 
-+++**Aggiornamento di manutenzione di Workfront Fusion il 7 marzo 2024
++++**Aggiornamento di manutenzione di Workfront Fusion del 7 marzo 2024
 
 **Workfront Proof > timeout del modulo Watch Proof**
 
@@ -1105,9 +1105,9 @@ Gli scenari che utilizzano Workfront Proof > modulo Watch Proof possono disattiv
 
 ## Aggiornamenti di febbraio 2024
 
-+++**Aggiornamento di manutenzione il 29 febbraio 2024**
++++**Aggiornamento di manutenzione del venerdì 29 febbraio 2024**
 
-### Aggiornamento di manutenzione il 29 febbraio 2024
+### Aggiornamento di manutenzione del venerdì 29 febbraio 2024
 
 #### Aggiornamenti
 
@@ -1119,9 +1119,9 @@ Questo avviene perché l’utente non dispone dell’autorizzazione per visualiz
 
 +++
 
-+++**Aggiornamento di manutenzione il 22 febbraio 2024**
++++**Aggiornamento di manutenzione del venerdì 22 febbraio 2024**
 
-### Aggiornamento di manutenzione il 22 febbraio 2024
+### Aggiornamento di manutenzione del venerdì 22 febbraio 2024
 
 #### Pagina Home
 
@@ -1151,9 +1151,9 @@ Il Bilanciatore dei carichi di lavoro e il calendario personale delle ferie ora 
 
 +++
 
-+++**Aggiornamento di manutenzione il 15 febbraio 2024**
++++**Aggiornamento di manutenzione del venerdì 15 febbraio 2024**
 
-### Aggiornamento di manutenzione il 15 febbraio 2024
+### Aggiornamento di manutenzione del venerdì 15 febbraio 2024
 
 #### Problemi
 
@@ -1175,9 +1175,9 @@ Dopo che un amministratore di [!DNL Workfront] ha disattivato l’opzione per ag
 
 +++
 
-+++**Aggiornamento di manutenzione il 8 febbraio 2024**
++++**Aggiornamento di manutenzione del venerdì 8 febbraio 2024**
 
-### Aggiornamento di manutenzione il 8 febbraio 2024
+### Aggiornamento di manutenzione del venerdì 8 febbraio 2024
 
 #### Bacheche
 
@@ -1187,9 +1187,9 @@ Quando un utente tenta di spostare una scheda in una colonna utilizzando le opzi
 
 **Le schede persistono quando si modifica l’iterazione**
 
-Quando un utente visualizza un’iterazione su una bacheca e successivamente la modifica, le schede visualizzate per la nuova iterazione sono quelle di una che l’utente stava visualizzando in precedenza.
+Quando un utente visualizza un’iterazione su una bacheca e successivamente la modifica, le schede visualizzate per la nuova iterazione sono quelle dell’interazione visualizzata in precedenza.
 
-#### Report
+#### Rapporti
 
 **La colonna “Nessun valore” non mostra alcun risultato**
 
@@ -1205,9 +1205,9 @@ Questo perché le mansioni creano automaticamente tariffe duplicate senza date d
 
 +++
 
-+++**Aggiornamento di manutenzione il 1 febbraio 2024**
++++**Aggiornamento di manutenzione del venerdì 1 febbraio 2024**
 
-### Aggiornamento di manutenzione il 1° febbraio 2024
+### Aggiornamento di manutenzione del venerdì 1 febbraio 2024
 
 #### Accedi
 
@@ -1231,7 +1231,7 @@ Quando un utente tenta di copiare un modello nuovo o esistente, l’operazione h
 
 ### Aggiornamento di manutenzione (Hot Fix) il 30 gennaio 2024
 
-#### Report
+#### Rapporti
 
 **Il campo API esterna non mostra tutti i valori disponibili negli elenchi e nei rapporti**
 
@@ -1241,9 +1241,9 @@ Ora, quando un campo personalizzato di ricerca esterna viene utilizzato in un el
 
 +++
 
-+++**Aggiornamento di manutenzione il 25 gennaio 2024**
++++**Aggiornamento di manutenzione del venerdì 25 gennaio 2024**
 
-### Aggiornamento di manutenzione il 25 gennaio 2024
+### Aggiornamento di manutenzione del venerdì 25 gennaio 2024
 
 #### Bacheche
 
@@ -1272,9 +1272,9 @@ l’utente riceve una notifica e-mail relativa al tag, come previsto.
 
 +++
 
-+++**Aggiornamento di manutenzione il 18 gennaio 2024**
++++**Aggiornamento di manutenzione del venerdì 18 gennaio 2024**
 
-### Aggiornamento di manutenzione il 18 gennaio 2024
+### Aggiornamento di manutenzione del venerdì 18 gennaio 2024
 
 #### Bacheche
 
@@ -1286,7 +1286,7 @@ Questo problema è stato segnalato nelle schede collegate a problemi.
 
 **La scheda appare su più sprint**
 
-Quando un utente sta visualizzando uno sprint su una bacheca, le schede che si trovano in sprint diversi appaiono sulla bacheca. Questo problema è intermittente.
+Quando un utente visualizza uno sprint su una bacheca, le schede che si trovano in sprint diversi appaiono sulla bacheca. Questo problema è intermittente.
 
 **La scheda non si chiude quando si utilizza la vista Bacheche in un progetto**
 
@@ -1296,7 +1296,7 @@ Per chiudere la scheda, l’utente deve modificare l’URL per rimuovere “sche
 
 **Le schede persistono quando si modifica l’iterazione**
 
-Quando un utente visualizza un’iterazione su una bacheca e successivamente la modifica, le schede visualizzate per la nuova iterazione sono quelle di una che l’utente stava visualizzando in precedenza.
+Quando un utente visualizza un’iterazione su una bacheca e successivamente la modifica, le schede visualizzate per la nuova iterazione sono quelle dell’interazione visualizzata in precedenza.
 
 **Errore nella sezione [!UICONTROL Commenti] delle schede**
 
@@ -1374,9 +1374,9 @@ Un commento creato nell’esperienza di commento precedente potrebbe non essere 
 
 +++
 
-+++**Aggiornamento di manutenzione il 11 gennaio 2024**
++++**Aggiornamento di manutenzione del venerdì 11 gennaio 2024**
 
-### Aggiornamento di manutenzione il 11 gennaio 2024
+### Aggiornamento di manutenzione del venerdì 11 gennaio 2024
 
 #### Bacheche
 
