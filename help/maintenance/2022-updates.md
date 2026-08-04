@@ -5,7 +5,7 @@ exl-id: 78ea4e31-143f-4a70-bb9a-060b5a8e097e
 feature: Get Started with Workfront
 source-git-commit: 003a38b5009e80e1b65c23354c8fb9b38d6a7819
 workflow-type: tm+mt
-source-wordcount: '17045'
+source-wordcount: '17047'
 ht-degree: 98%
 
 ---
@@ -980,7 +980,8 @@ Prima di questo aggiornamento, l’oggetto ignorava il processo di approvazione 
 
 *[!UICONTROL Menu principale]*
 
-Se la tua organizzazione dispone di un sito di assistenza interno dedicato, puoi configurare l’icona [!UICONTROL Aiuto] del [!UICONTROL menu principale] per passare a quel sito. Questa opzione è utile se il sito di assistenza contiene informazioni sull’utilizzo di [!DNL Workfront] da parte dell’organizzazione.Questo URL dedicato non influisce sul collegamento della Guida principale nell’area superiore di [!DNL Workfront], né sui collegamenti di assistenza sensibili al contesto presenti in [!DNL Workfront], che portano gli utenti al sito di assistenza di [!DNL Workfront].
+Se la tua organizzazione dispone di un sito di assistenza interno dedicato, puoi configurare l’icona [!UICONTROL Aiuto] del [!UICONTROL menu principale] per passare a quel sito. Questa opzione è utile se il sito di assistenza contiene informazioni sull’utilizzo di [!DNL Workfront] da parte dell’organizzazione.
+Questo URL dedicato non influisce sul collegamento della Guida principale nell’area superiore di [!DNL Workfront], né sui collegamenti di assistenza sensibili al contesto presenti in [!DNL Workfront], che portano gli utenti al sito di assistenza di [!DNL Workfront].
 
 **Impossibile selezionare il Tempo trascorso quando si modifica la [!UICONTROL Durata attività]** in linea
 
@@ -1083,7 +1084,7 @@ Adesso, gli indirizzi e-mail per le bozze non contengono più il sottodominio de
 Per questo, se non lo hai già fatto, ti consigliamo di effettuare le seguenti operazioni:
 
 * Aggiorna i filtri anti-spam per accettare le e-mail da `notification@my.workfront.com`
-* Aggiorna i tuoi di accettazione delle e-mail da 
+* Aggiorna i tuoi di accettazione delle e-mail da `notification@my.workfront.com`
   **Non è possibile modificare le opzioni utente al termine della configurazione iniziale in Modelli del flusso di lavoro**
 
 *[!DNL Workfront Proof]*
@@ -1377,7 +1378,8 @@ Quando un utente cerca di modificare un modulo personalizzato con un’interruzi
 *Dashboard*
 
 Sono stati segnalati i seguenti problemi durante la stampa di un dashboard in un PDF:
-PDF non stampa tutte le righe del report. Se mancano le righe, viene visualizzato solo uno spazio vuoto.Il PDF include spazi vuoti tra le intestazioni di colonna e la prima riga del report.
+PDF non stampa tutte le righe del report. Se mancano le righe, viene visualizzato solo uno spazio vuoto.
+Il PDF include spazi vuoti tra le intestazioni di colonna e la prima riga del report.
 
 **[!DNL Portfolio Optimizer] mostra un punteggio pari a 0 quando si utilizza una lingua diversa dall’inglese**
 
@@ -1861,7 +1863,8 @@ Quando il profilo di un utente è impostato su un fuso orario specifico in [!DNL
 
 *Progetti*
 
-Quando si allega un modello con campi personalizzati obbligatori a un progetto in cui il campo esiste già ed è compilato, gli utenti visualizzano il seguente errore: “[!UICONTROL Sono presenti campi incompleti. Immettere i valori per i campi obbligatori prima di continuare.]&quot;Facendo clic su &quot;[!UICONTROL Visualizza]&quot; è possibile vedere che i campi sono compilati ed è possibile allegare il modello.
+Quando si allega un modello con campi personalizzati obbligatori a un progetto in cui il campo esiste già ed è compilato, gli utenti visualizzano il seguente errore: “[!UICONTROL Sono presenti campi incompleti. Immettere i valori per i campi obbligatori prima di continuare.]&quot;
+Facendo clic su &quot;[!UICONTROL Visualizza]&quot; è possibile vedere che i campi sono compilati ed è possibile allegare il modello.
 
 **Il [!UICONTROL Bilanciatore dei carichi di lavoro] lampeggia quando si passa da una data all’altra**
 
@@ -2491,7 +2494,7 @@ Quando un utente visualizza una bozza nell’area [!UICONTROL Documenti], i comm
 
 **[!UICONTROL Bilanciatore dei carichi di lavoro]: &quot;[!UICONTROL ?[oggetto]?]&quot; viene visualizzato nelle informazioni sulla sovrassegnazione**
 
-*[!UICONTROL Bilanciatore dei carichi di lavoro]*
+*[!UICONTROL Bilanciamento del carico di lavoro]*
 
 Se un utente risulta sovrassegnato nel [!UICONTROL Bilanciatore dei carichi di lavoro] a causa di un&#39;attività che si sovrappone al tempo libero dell&#39;utente e un altro utente visualizza la sua sovrassegnazione, l&#39;area &quot;[!UICONTROL Capacità]&quot; delle informazioni sulla sovrassegnazione visualizza &quot;[!UICONTROL ?[Oggetto]?]&quot; invece della capacità effettiva dell’utente.
 
