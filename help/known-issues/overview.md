@@ -17,4 +17,4 @@ Per informazioni sui problemi attualmente identificati nel prodotto [!DNL Workfr
 * [Problemi noti in  [!DNL Workfront]  Proof](workfrontproof.md)
 * [Problemi noti in Workfront Fusion](workfrontfusion.md)
 * [Problemi noti nella funzione Pianificazione di Workfront](workfrontplanning.md)
-* [Problemi noti nell’app mobile di [!DNL Workfront] ](workfrontmobile.md)
+* [Problemi noti nell’app mobile di [!DNL Workfront] &#x200B;](workfrontmobile.md)
