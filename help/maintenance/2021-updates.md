@@ -3,13 +3,12 @@ title: Aggiornamenti di manutenzione di Workfront per il 2021
 description: Cronologia degli aggiornamenti di manutenzione del 2021 per [!DNL Adobe Workfront]
 exl-id: 57a3636e-fd01-4ee6-bc96-df535b62d4f7
 feature: Get Started with Workfront
-source-git-commit: 98d56729e44e7ab47e201bdfc00db8d40c5f15f6
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '10226'
 ht-degree: 98%
-
 ---
-
 # Aggiornamenti di manutenzione di [!DNL Workfront] per il 2021
 
 Nel 2021 sono stati effettuati gli aggiornamenti di manutenzione seguenti:
@@ -983,7 +982,8 @@ Nella nuova esperienza [!DNL Adobe Workfront], quando un utente aggiunge una col
 
 _[!DNL Adobe Workfront Fusion]_
 
-Il collegamento alle impostazioni di notifica è stato rimosso dalle e-mail di notifica di [!DNL Adobe Workfront Fusion].Per informazioni sulla modifica delle impostazioni di notifica, vedi la sezione Organizzazioni e team di [!DNL Adobe Workfront Fusion].
+Il collegamento alle impostazioni di notifica è stato rimosso dalle e-mail di notifica di [!DNL Adobe Workfront Fusion].
+Per informazioni sulla modifica delle impostazioni di notifica, vedi la sezione Organizzazioni e team di [!DNL Adobe Workfront Fusion].
 
 +++
 
@@ -1540,7 +1540,8 @@ Il numero di aggiornamenti utente mostrati nella scheda [!UICONTROL Aggiornament
 
 _[!DNL Workfront Proof]_
 
-NOTA: questo problema è stato risolto nella nuova esperienza [!DNL Workfront] il 26 febbraio 2021.È stato risolto in [!DNL Classic] il 1° marzo 2021.
+NOTA: questo problema è stato risolto nella nuova esperienza [!DNL Workfront] il 26 febbraio 2021.
+È stato risolto in [!DNL Classic] il 1° marzo 2021.
 
 Quando un utente crea una nuova bozza e abilita l’opzione [!UICONTROL Notifica i destinatari relativamente a questa bozza], non viene inviata alcuna e-mail di notifica al destinatario.
 
