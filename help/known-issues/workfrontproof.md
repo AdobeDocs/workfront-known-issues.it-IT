@@ -1,16 +1,15 @@
 ---
-title: Problemi noti in  [!DNL Adobe Workfront Proof]
-description: Problemi noti segnalati per  [!DNL Adobe Workfront Proof]
+title: Problemi noti in [!DNL Adobe Workfront Proof]
+description: Problemi noti segnalati per [!DNL Adobe Workfront Proof]
 keywords: nuovo file, aggiungi file
 exl-id: d2be5b10-efa2-4df9-9542-76e3868e0ba7
 feature: Workfront Proof
-source-git-commit: 1cb1156af6f75045d7a62ae671b2241839726eae
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 90%
-
+source-wordcount: '518'
+ht-degree: 88%
 ---
-
 # Problemi noti in [!DNL Adobe Workfront Proof]
 
 Questa pagina contiene i problemi attualmente identificati in [!DNL Adobe Workfront Proof].
@@ -25,8 +24,8 @@ Questi problemi segnalati di recente sono attualmente sotto esame.
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Approvazioni: il widget Approvazioni personali visualizza le bozze che non si trovano nella fase a cui l&#39;utente è assegnato](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | giovedì 18 febbraio 2026 |
-| [Approvazioni: le approvazioni vengono bloccate automaticamente](known-issues-workfront/wf-approvals-are-locked.md) | mercoledì 17 febbraio 2026 |
+| [Approvazioni: il widget Approvazioni personali visualizza le bozze che non si trovano nella fase a cui l&#39;utente è assegnato](known-issues-workfront/wf-approvals-widget-showing-stage-not-started.md) | 18 febbraio 2026 |
+| [Approvazioni: le approvazioni vengono bloccate automaticamente](known-issues-workfront/wf-approvals-are-locked.md) | 17 febbraio 2026 |
 | [Bozze: impossibile assegnare tag ad alcuni utenti](/help/known-issues/known-issues-workfront/wf-proofs-cannot-tag-users.md) | 20 febbraio 2025 |
 | [Integrazioni: il collegamento della cartella da [!DNL Google Drive] non collega le risorse nella cartella](known-issues-workfront/wf-integration-google-folder-not-link-assets.md) | 25 giugno 2024 |
 
@@ -38,8 +37,8 @@ Le correzioni per questi problemi sono attualmente in corso o sono previste per 
 
 | **Problema** | **Ultima modifica** |
 | ----------------------------------------------------------------- | ----------------- |
-| [Home: le citazioni dalle bozze non vengono visualizzate nel widget delle citazioni](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | mercoledì 17 febbraio 2026 |
-| [Approvazioni: impossibile approvare il documento dal widget Approvazioni personali nella Home](known-issues-workfront/wf-approval-not-work-from-widget.md) | mercoledì 17 febbraio 2026 |
+| [Home: le citazioni dalle bozze non vengono visualizzate nel widget delle citazioni](known-issues-workfront/wf-home-mentions-from-proofs-not-in-widget.md) | 17 febbraio 2026 |
+| [Approvazioni: impossibile approvare il documento dal widget Approvazioni personali nella Home](known-issues-workfront/wf-approval-not-work-from-widget.md) | 17 febbraio 2026 |
 | [Approvazioni: il widget Le mie approvazioni mostra le approvazioni completate](known-issues-workfront/wf-approvals-widget-shows-approved-documents.md) | venerdì 15 gennaio 2026 |
 | [Documenti: le miniature dei documenti non vengono visualizzate](known-issues-workfront/wf-documents-thumbnails-not-display.md) | 17 aprile 2025 |
 | [Notifiche: le miniature non sono visibili nelle notifiche e-mail](known-issues-workfront/wf-notifications-thumbnails-not-loading.md) | 8 luglio 2024 |

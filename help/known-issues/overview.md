@@ -3,13 +3,12 @@ title: Problemi noti di Workfront
 description: Elenco dei problemi noti per [!DNL Adobe Workfront]
 exl-id: 3825d425-06dc-409e-892c-300b389ddc73
 feature: Get Started with Workfront
-source-git-commit: 8063c450291e294889aaec3f6484963cba6508ce
-workflow-type: ht
-source-wordcount: '44'
-ht-degree: 100%
-
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
+workflow-type: tm+mt
+source-wordcount: '42'
+ht-degree: 88%
 ---
-
 # Problemi noti di Workfront
 
 Per informazioni sui problemi attualmente identificati nel prodotto [!DNL Workfront], vedi:
@@ -18,4 +17,4 @@ Per informazioni sui problemi attualmente identificati nel prodotto [!DNL Workfr
 * [Problemi noti in  [!DNL Workfront]  Proof](workfrontproof.md)
 * [Problemi noti in Workfront Fusion](workfrontfusion.md)
 * [Problemi noti nella funzione Pianificazione di Workfront](workfrontplanning.md)
-* [Problemi noti nell’app mobile di [!DNL Workfront] ](workfrontmobile.md)
+* [Problemi noti nell’app mobile di [!DNL Workfront] &#x200B;](workfrontmobile.md)

@@ -3,13 +3,12 @@ title: Aggiornamenti di manutenzione per Workfront
 description: Aggiornamenti di manutenzione per [!DNL Adobe Workfront]
 exl-id: 886db617-4120-4577-968a-052d2acf3454
 feature: Get Started with Workfront
-source-git-commit: eace4f6034ca11c6616e82b411c0dcfd936e5f9a
+recommendations: noDisplay, noCatalog
+source-git-commit: ef2b149f8c9f78947f34a679f461a8857607a65c
 workflow-type: tm+mt
 source-wordcount: '1270'
 ht-degree: 33%
-
 ---
-
 # Aggiornamenti di manutenzione per [!DNL Workfront]
 
 >[!NOTE]
